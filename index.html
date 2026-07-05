@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f4f3d">
+  <title>English Vocabulary Pro</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <p class="eyebrow">正式版 v1.0</p>
+      <h1>English Vocabulary Pro</h1>
+      <p class="subtitle">國中英文單字學習平台</p>
+    </div>
+    <div class="streak-pill">
+      <span>連續學習</span>
+      <strong id="headerStreak">0 天</strong>
+    </div>
+  </header>
+
+  <main>
+    <section class="dashboard-grid" aria-label="首頁儀表板">
+      <article class="metric-card">
+        <span>今日學習進度</span>
+        <strong id="todayProgress">0</strong>
+      </article>
+      <article class="metric-card">
+        <span>總單字數</span>
+        <strong id="totalWords">0</strong>
+      </article>
+      <article class="metric-card">
+        <span>收藏數</span>
+        <strong id="favoriteCount">0</strong>
+      </article>
+      <article class="metric-card">
+        <span>測驗答對率</span>
+        <strong id="quizAccuracy">0%</strong>
+      </article>
+      <article class="metric-card">
+        <span>連續學習天數</span>
+        <strong id="streakDays">0</strong>
+      </article>
+    </section>
+
+    <nav class="tabs" aria-label="主要功能頁籤">
+      <button class="tab active" data-tab="learn">學習</button>
+      <button class="tab" data-tab="quiz">測驗</button>
+      <button class="tab" data-tab="spelling">拼字</button>
+      <button class="tab" data-tab="listening">聽力</button>
+      <button class="tab" data-tab="reading">閱讀</button>
+      <button class="tab" data-tab="grammar">文法</button>
+      <button class="tab" data-tab="matching">配對</button>
+      <button class="tab" data-tab="analytics">分析</button>
+      <button class="tab" data-tab="student">學生中心</button>
+      <button class="tab" data-tab="teacher">教師後台</button>
+    </nav>
+
+    <section class="toolbar" aria-label="搜尋與篩選">
+      <label>
+        <span>搜尋</span>
+        <input id="searchInput" type="search" placeholder="搜尋英文、中文、例句">
+      </label>
+      <label>
+        <span>分類</span>
+        <select id="categoryFilter"></select>
+      </label>
+      <label>
+        <span>詞性</span>
+        <select id="posFilter"></select>
+      </label>
+      <label>
+        <span>熟悉度</span>
+        <select id="familiarityFilter">
+          <option value="all">全部</option>
+          <option value="unknown">不熟</option>
+          <option value="normal">普通</option>
+          <option value="familiar">熟悉</option>
+          <option value="favorite">已收藏</option>
+        </select>
+      </label>
+    </section>
+
+    <section id="learn" class="panel active-panel">
+      <div class="learning-layout">
+        <section class="study-area">
+          <div class="card-status">
+            <span id="cardCounter">1 / 1315</span>
+            <span id="currentFamiliarity">普通</span>
+          </div>
+          <button id="wordCard" class="word-card" type="button" aria-label="點擊翻面">
+            <span class="card-face card-front">
+              <span id="cardWord" class="word-title">ability</span>
+              <span id="cardPhonetic" class="phonetic">/əˈbɪləti/</span>
+              <span class="word-meta"><span id="cardPos">n.</span><span id="cardCategory">生活</span></span>
+              <small>點擊卡片查看中文與例句</small>
+            </span>
+            <span class="card-face card-back">
+              <span id="cardMeaning" class="meaning">能力</span>
+              <span id="cardExample" class="example">She has the ability to solve problems quickly.</span>
+              <span id="cardTranslation" class="translation">她有快速解決問題的能力。</span>
+            </span>
+          </button>
+          <div class="button-row">
+            <button id="prevWord">上一張</button>
+            <button id="speakWord" class="accent">朗讀</button>
+            <button id="randomWord">隨機練習</button>
+            <button id="nextWord">下一張</button>
+          </div>
+          <div class="button-row segmented">
+            <button data-familiarity="unknown">不熟</button>
+            <button data-familiarity="normal">普通</button>
+            <button data-familiarity="familiar">熟悉</button>
+            <button id="favoriteBtn" class="gold">收藏</button>
+          </div>
+        </section>
+        <aside class="word-list-panel">
+          <h2>單字清單</h2>
+          <div id="wordList" class="word-list"></div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="quiz" class="panel">
+      <div class="practice-box">
+        <p class="mode-label">快速測驗</p>
+        <h2 id="quizWord">word</h2>
+        <div id="quizOptions" class="option-grid"></div>
+        <p id="quizFeedback" class="feedback"></p>
+        <button id="nextQuiz" class="primary">下一題</button>
+      </div>
+    </section>
+
+    <section id="spelling" class="panel">
+      <div class="practice-box">
+        <p class="mode-label">拼字測驗</p>
+        <h2 id="spellingMeaning">中文意思</h2>
+        <input id="spellingInput" class="answer-input" type="text" placeholder="輸入英文拼字" autocomplete="off">
+        <div class="button-row">
+          <button id="checkSpelling" class="primary">檢查答案</button>
+          <button id="nextSpelling">下一題</button>
+        </div>
+        <p id="spellingFeedback" class="feedback"></p>
+      </div>
+    </section>
+
+    <section id="listening" class="panel">
+      <div class="practice-box">
+        <p class="mode-label">聽力測驗</p>
+        <h2>聽發音選中文意思</h2>
+        <button id="playListening" class="accent">播放 / 重播</button>
+        <div id="listeningOptions" class="option-grid"></div>
+        <p id="listeningFeedback" class="feedback"></p>
+        <button id="nextListening" class="primary">下一題</button>
+      </div>
+    </section>
+
+    <section id="reading" class="panel">
+      <div class="practice-box wide">
+        <div class="section-heading">
+          <div>
+            <p class="mode-label">閱讀練習</p>
+            <h2 id="readingTitle">短文閱讀</h2>
+          </div>
+          <button id="nextReading">下一篇</button>
+        </div>
+        <article class="reading-card">
+          <p id="readingLevel" class="reading-meta">Level B1</p>
+          <p id="readingPassage" class="reading-passage"></p>
+          <button id="toggleReadingTranslation" class="translation-toggle" type="button" aria-expanded="false">顯示中文翻譯</button>
+          <p id="readingTranslation" class="reading-translation"></p>
+        </article>
+        <div class="reading-question">
+          <h3 id="readingQuestion">閱讀理解題</h3>
+          <div id="readingOptions" class="option-grid"></div>
+          <p id="readingFeedback" class="feedback"></p>
+        </div>
+      </div>
+    </section>
+
+    <section id="grammar" class="panel">
+      <div class="practice-box wide">
+        <div class="section-heading">
+          <div>
+            <p class="mode-label">文法學習</p>
+            <h2 id="grammarTitle">國中英文文法</h2>
+          </div>
+          <button id="nextGrammar">下一個文法</button>
+        </div>
+        <article class="grammar-card">
+          <p id="grammarPattern" class="grammar-pattern"></p>
+          <button id="toggleGrammarChinese" class="translation-toggle" type="button" aria-expanded="false">顯示中文說明</button>
+          <p id="grammarExplanation"></p>
+          <div class="example-pair">
+            <strong id="grammarExample"></strong>
+            <span id="grammarTranslation"></span>
+          </div>
+        </article>
+        <div class="reading-question">
+          <h3 id="grammarQuestion">文法小測驗</h3>
+          <div id="grammarOptions" class="option-grid"></div>
+          <p id="grammarFeedback" class="feedback"></p>
+        </div>
+      </div>
+    </section>
+
+    <section id="matching" class="panel">
+      <div class="practice-box wide">
+        <div class="section-heading">
+          <div>
+            <p class="mode-label">單字配對</p>
+            <h2>英文與中文配對</h2>
+          </div>
+          <button id="resetMatching">重新出題</button>
+        </div>
+        <div class="matching-board">
+          <div id="englishMatches" class="match-column"></div>
+          <div id="meaningMatches" class="match-column"></div>
+        </div>
+        <p id="matchingFeedback" class="feedback"></p>
+      </div>
+    </section>
+
+    <section id="analytics" class="panel">
+      <div class="analysis-grid">
+        <article><span>今日已學單字數</span><strong id="analysisToday">0</strong></article>
+        <article><span>累積學習單字數</span><strong id="analysisTotalLearned">0</strong></article>
+        <article><span>收藏數</span><strong id="analysisFavorites">0</strong></article>
+        <article><span>熟悉單字數</span><strong id="analysisFamiliar">0</strong></article>
+        <article><span>不熟單字數</span><strong id="analysisUnknown">0</strong></article>
+        <article><span>測驗答對率</span><strong id="analysisAccuracy">0%</strong></article>
+        <article><span>連續學習天數</span><strong id="analysisStreak">0</strong></article>
+      </div>
+      <section class="achievement-area">
+        <h2>成就徽章</h2>
+        <div id="achievementBadges" class="badges"></div>
+      </section>
+    </section>
+
+    <section id="student" class="panel">
+      <div class="student-grid">
+        <article>
+          <h2>我的學習進度</h2>
+          <p id="studentProgress">今天已學 0 個單字。</p>
+        </article>
+        <article>
+          <h2>我的收藏</h2>
+          <div id="studentFavorites" class="mini-list"></div>
+        </article>
+        <article>
+          <h2>我的錯題</h2>
+          <div id="studentMistakes" class="mini-list"></div>
+        </article>
+        <article>
+          <h2>今日任務</h2>
+          <ul class="task-list">
+            <li>完成 10 張單字卡</li>
+            <li>完成 5 題快速測驗</li>
+            <li>收藏 1 個重要單字</li>
+          </ul>
+        </article>
+        <article class="span-two">
+          <h2>我的成就</h2>
+          <div id="studentAchievements" class="badges"></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="teacher" class="panel">
+      <div class="teacher-board">
+        <div class="section-heading">
+          <div>
+            <p class="mode-label">教師模式 Demo</p>
+            <h2>國二英文 A 班</h2>
+          </div>
+          <span class="demo-tag">免登入示範</span>
+        </div>
+        <div class="analysis-grid">
+          <article><span>學生人數</span><strong>36</strong></article>
+          <article><span>平均答對率</span><strong>78%</strong></article>
+          <article><span>本週完成率</span><strong>84%</strong></article>
+          <article><span>最常錯單字</span><strong>consequence</strong></article>
+        </div>
+        <div class="ranking">
+          <h2>學習排行榜</h2>
+          <ol>
+            <li><span>林品妤</span><strong>980 分</strong></li>
+            <li><span>陳柏安</span><strong>925 分</strong></li>
+            <li><span>黃子晴</span><strong>900 分</strong></li>
+            <li><span>王昱翔</span><strong>860 分</strong></li>
+            <li><span>李佳穎</span><strong>835 分</strong></li>
+          </ol>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="vocabulary.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

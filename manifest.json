@@ -1,0 +1,25 @@
+{
+  "name": "English Vocabulary Pro",
+  "short_name": "Vocabulary Pro",
+  "description": "國中英文單字學習平台",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f1df",
+  "theme_color": "#0f4f3d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%230f4f3d'/%3E%3Cpath d='M48 47h78c17 0 30 13 30 30v68H66c-10 0-18-8-18-18V47z' fill='%23f7f1df'/%3E%3Cpath d='M68 73h60M68 96h48M68 119h66' stroke='%23c69b39' stroke-width='10' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230f4f3d'/%3E%3Cpath d='M128 126h208c45 0 80 35 80 80v180H176c-27 0-48-21-48-48V126z' fill='%23f7f1df'/%3E%3Cpath d='M181 195h160M181 256h128M181 317h176' stroke='%23c69b39' stroke-width='27' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

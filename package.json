@@ -1,0 +1,18 @@
+{
+  "name": "english-vocabulary-pro",
+  "version": "1.0.0",
+  "description": "English Vocabulary Pro v1.0 - 國中英文單字學習平台",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "english",
+    "vocabulary",
+    "learning",
+    "pwa"
+  ],
+  "author": "",
+  "license": "MIT"
+}

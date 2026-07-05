@@ -62,7 +62,7 @@ const readingPassages = [
   }
 ];
 
-const grammarLessons = [
+const grammarLessons = window.GRAMMAR_LESSONS || [
   {
     title: "現在完成式",
     pattern: "S + have / has + p.p.",

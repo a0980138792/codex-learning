@@ -547,9 +547,10 @@ function renderGrammar() {
   $("toggleGrammarChinese").textContent = grammarChineseVisible ? "隱藏中文說明" : "顯示中文說明";
   $("toggleGrammarChinese").setAttribute("aria-expanded", String(grammarChineseVisible));
   $("grammarQuestion").textContent = item.question;
+  $("grammarQuestionTranslation").textContent = getGrammarQuestionTranslation(item.question);
   $("grammarFeedback").textContent = "";
   $("grammarOptions").innerHTML = item.options.map((option) => (
-    `<button type="button" data-answer="${escapeAttribute(option)}">${option}</button>`
+    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small>${escapeHTML(getGrammarOptionTranslation(option))}</small></button>`
   )).join("");
   $("grammarOptions").querySelectorAll("button").forEach((button) => {
     button.addEventListener("click", () => answerGrammar(button.dataset.answer, button));
@@ -564,7 +565,8 @@ function answerGrammar(answer, selectedButton) {
     button.classList.toggle("correct", button.dataset.answer === item.answer);
   });
   selectedButton.classList.toggle("wrong", !correct);
-  $("grammarFeedback").textContent = correct ? "文法答對了！" : `答錯了，正確答案是：${item.answer}`;
+  const resultMessage = correct ? "文法答對了！" : "答錯了。";
+  $("grammarFeedback").textContent = `${resultMessage}\n正確答案：${item.answer}\n中文解析：${getGrammarOptionTranslation(item.answer)}。${item.explanation}`;
 }
 
 function toggleGrammarChinese() {
@@ -592,6 +594,106 @@ function escapeHTML(value) {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#039;");
+}
+
+function getGrammarQuestionTranslation(question) {
+  const translations = {
+    "Choose the correct short answer: Are you busy?": "選出正確的簡答：Are you busy?（你忙嗎？）",
+    "Which is a yes/no question?": "哪一句是 Yes/No 問句？",
+    "Which sentence is grammatically correct?": "哪一句文法正確？",
+    "Which sentence tells a place?": "哪一句是在說明地點？"
+  };
+  return translations[question] || "請選出最符合文法規則的答案。";
+}
+
+function getGrammarOptionTranslation(option) {
+  const translations = {
+    "Are you can swim?": "錯誤句：不能同時用 are 和 can 形成這種問句。",
+    "Are you ready?": "你準備好了嗎？",
+    "Can you swim?": "你會游泳嗎？",
+    "Can you swims?": "錯誤句：can 後面要接原形動詞 swim。",
+    "Do you can swim?": "錯誤句：can 本身就是助動詞，不再加 do。",
+    "Friday is it?": "錯誤句：語序不自然。",
+    "Her is my friend.": "錯誤句：her 不能當主詞。",
+    "Hers is my friend.": "錯誤句：hers 是所有代名詞，不適合這裡。",
+    "How is teacher?": "錯誤句：缺少冠詞或所有格。",
+    "How is your telephone number?": "錯誤句：詢問電話號碼要用 what。",
+    "I am a student.": "我是一位學生。",
+    "I am ready.": "我準備好了。",
+    "I am thirteen years old.": "我十三歲。",
+    "I are a student.": "錯誤句：I 要搭配 am。",
+    "I be a student.": "錯誤句：主詞 I 不直接搭配 be。",
+    "I have thirteen years old.": "錯誤句：英文年齡不用 have 表達。",
+    "I is a student.": "錯誤句：I 要搭配 am。",
+    "I is thirteen years old.": "錯誤句：I 要搭配 am。",
+    "I thirteen old.": "錯誤句：缺少 be 動詞和 years。",
+    "It Friday.": "錯誤句：缺少 be 動詞 is。",
+    "It are Friday.": "錯誤句：it 要搭配 is。",
+    "It are seven thirty.": "錯誤句：it 要搭配 is。",
+    "It is Friday.": "今天是星期五。",
+    "It is at seven thirty yesterday.": "錯誤句：時間表達與 yesterday 不自然。",
+    "It is seven thirty.": "現在是七點三十分。",
+    "It seven thirty.": "錯誤句：缺少 be 動詞 is。",
+    "Please open the door.": "請打開門。",
+    "Please opened the door.": "錯誤句：祈使句要用原形動詞 open。",
+    "Please opening the door.": "錯誤句：祈使句要用原形動詞 open。",
+    "Please opens the door.": "錯誤句：祈使句要用原形動詞 open。",
+    "She amn't at home.": "錯誤句：amn't 不是標準用法。",
+    "She aren't at home.": "錯誤句：she 要搭配 isn't。",
+    "She be not at home.": "錯誤句：應使用 isn't 或 is not。",
+    "She is my friend.": "她是我的朋友。",
+    "She is read a book.": "錯誤句：現在進行式要用 reading。",
+    "She is reading a book.": "她正在讀一本書。",
+    "She isn't at home.": "她不在家。",
+    "She reading a book.": "錯誤句：缺少 be 動詞 is。",
+    "She reads a book now.": "句意可通，但不是現在進行式句型。",
+    "The cat can run.": "這隻貓會跑。",
+    "The cat eats fish.": "這隻貓吃魚。",
+    "The cat is cute.": "這隻貓很可愛。",
+    "The cat is under the table.": "貓在桌子下面。",
+    "The clean is room.": "錯誤句：形容詞位置錯誤。",
+    "The room clean is.": "錯誤句：語序錯誤。",
+    "The room is clean.": "這個房間很乾淨。",
+    "The room is cleans.": "錯誤句：形容詞 clean 不加 s。",
+    "There are three pencils.": "有三枝鉛筆。",
+    "There be three pencils.": "錯誤句：要用 is 或 are。",
+    "There have three pencils.": "錯誤句：there 句型不用 have。",
+    "There is three pencils.": "錯誤句：複數 pencils 要搭配 are。",
+    "These are my books.": "這些是我的書。",
+    "These is my books.": "錯誤句：these 要搭配 are。",
+    "They am students.": "錯誤句：they 要搭配 are。",
+    "They are students.": "他們是學生。",
+    "They be students.": "錯誤句：they 要搭配 are。",
+    "They is my friend.": "錯誤句：they 要搭配 are，且 friend 應配合複數。",
+    "They is students.": "錯誤句：they 要搭配 are。",
+    "This are my books.": "錯誤句：this 是單數，不能搭配 are 和複數 books。",
+    "Those is books.": "錯誤句：those 要搭配 are。",
+    "Tom bag's": "錯誤寫法：所有格位置錯誤。",
+    "Tom is bag": "錯誤寫法：這不是所有格。",
+    "Tom's bag": "Tom 的袋子。",
+    "Toms bag": "錯誤寫法：缺少所有格 's。",
+    "What is your name?": "你的名字是什麼？",
+    "What is your telephone number?": "你的電話號碼是什麼？",
+    "When is your teacher?": "錯誤句：when 問時間，不適合問老師身分。",
+    "Where is your teacher?": "你的老師在哪裡？",
+    "Where is your telephone number?": "錯誤句：where 問地點，不適合問電話號碼。",
+    "Who is your teacher?": "誰是你的老師？",
+    "Who is your telephone number?": "錯誤句：who 問人，不適合問電話號碼。",
+    "Yes, I am.": "是的，我是 / 我有。",
+    "Yes, I are.": "錯誤句：I 要搭配 am。",
+    "Yes, I is.": "錯誤句：I 要搭配 am。",
+    "Yes, me am.": "錯誤句：主詞要用 I。",
+    "You are ready.": "你準備好了。",
+    "a apples": "錯誤片語：複數 apples 前不用 a。",
+    "an books": "錯誤片語：複數 books 前不用 an。",
+    "twenties-one": "錯誤寫法。",
+    "twenty one years": "不完整或不適合此題的寫法。",
+    "twenty-one": "二十一。",
+    "two book": "錯誤片語：two 後面名詞要用複數 books。",
+    "two books": "兩本書。",
+    "two ten one": "錯誤數字說法。"
+  };
+  return translations[option] || "請比對句型、主詞與動詞是否一致。";
 }
 
 function startMatching() {

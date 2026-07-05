@@ -30,7 +30,9 @@ const readingPassages = [
     passage: "Many students study for a long time, but not all of them study effectively. A short review every day can be more useful than reading everything the night before a test. When students plan their time and take short breaks, they usually remember more.",
     translation: "許多學生花很長時間讀書，但不是每個人都讀得有效率。每天短時間複習，可能比考前一晚讀完全部內容更有用。當學生規劃時間並短暫休息時，通常能記得更多。",
     question: "What is the main idea of the passage?",
+    questionTranslation: "這篇文章的主旨是什麼？",
     options: ["Daily review and planning help students learn better.", "Students should never take breaks.", "Tests are not important for students.", "Reading at night is always the best way."],
+    optionTranslations: ["每天複習和規劃能幫助學生學得更好。", "學生絕對不應該休息。", "考試對學生不重要。", "晚上閱讀永遠是最好的方法。"],
     answer: "Daily review and planning help students learn better.",
     explanation: "中文解析：文章重點不是讀越久越好，而是每天短時間複習、安排時間並適度休息，能讓學習更有效。"
   },
@@ -40,7 +42,9 @@ const readingPassages = [
     passage: "Technology can make learning more interesting. Students can watch videos, practice listening, and search for information online. However, they also need to use digital tools wisely. A phone can help learning, but it can also take attention away from class.",
     translation: "科技可以讓學習更有趣。學生可以觀看影片、練習聽力，並在線上搜尋資訊。然而，他們也需要明智地使用數位工具。手機可以幫助學習，但也可能讓注意力離開課堂。",
     question: "According to the passage, what should students do?",
+    questionTranslation: "根據文章，學生應該怎麼做？",
     options: ["Use technology wisely.", "Stop using all digital tools.", "Only study with videos.", "Bring more phones to class."],
+    optionTranslations: ["明智地使用科技。", "停止使用所有數位工具。", "只用影片學習。", "帶更多手機到課堂上。"],
     answer: "Use technology wisely.",
     explanation: "中文解析：文章說科技可以幫助學習，但也可能分散注意力，所以學生應該聰明且適度地使用科技工具。"
   },
@@ -50,7 +54,9 @@ const readingPassages = [
     passage: "Last Saturday, a group of high school students cleaned a park near their school. They picked up trash, planted flowers, and painted old benches. The work was tiring, but the students felt proud because they made their community cleaner and friendlier.",
     translation: "上星期六，一群國中生清理學校附近的公園。他們撿垃圾、種花，並粉刷舊長椅。工作很累，但學生感到驕傲，因為他們讓社區更乾淨也更友善。",
     question: "Why did the students feel proud?",
+    questionTranslation: "為什麼學生們覺得驕傲？",
     options: ["They improved their community.", "They skipped school.", "They bought new benches.", "They won a sports game."],
+    optionTranslations: ["他們改善了自己的社區。", "他們翹課了。", "他們買了新的長椅。", "他們贏得了一場運動比賽。"],
     answer: "They improved their community.",
     explanation: "中文解析：學生覺得驕傲，是因為他們清理公園、種花、粉刷長椅，讓社區變得更乾淨友善。"
   },
@@ -60,7 +66,9 @@ const readingPassages = [
     passage: "Making mistakes is part of learning a language. If students only feel afraid of mistakes, they may stop trying. A better way is to check the mistake, understand the reason, and practice again. Each mistake can become useful feedback.",
     translation: "犯錯是語言學習的一部分。如果學生只害怕犯錯，他們可能會停止嘗試。更好的方法是檢查錯誤、理解原因，然後再次練習。每個錯誤都可以變成有用的回饋。",
     question: "What does the passage suggest?",
+    questionTranslation: "這篇文章建議什麼？",
     options: ["Students should learn from mistakes.", "Students should hide every mistake.", "Language learning must be perfect.", "Feedback is never useful."],
+    optionTranslations: ["學生應該從錯誤中學習。", "學生應該隱藏每一個錯誤。", "語言學習一定要完美。", "回饋從來沒有幫助。"],
     answer: "Students should learn from mistakes.",
     explanation: "中文解析：文章建議學生不要害怕錯誤，而是檢查錯誤、理解原因並再次練習，讓錯誤變成有用的回饋。"
   }
@@ -492,9 +500,10 @@ function renderReading() {
   $("toggleReadingTranslation").textContent = readingTranslationVisible ? "隱藏中文翻譯" : "顯示中文翻譯";
   $("toggleReadingTranslation").setAttribute("aria-expanded", String(readingTranslationVisible));
   $("readingQuestion").textContent = item.question;
+  $("readingQuestionTranslation").textContent = item.questionTranslation || "請閱讀文章後，選出最符合題意的答案。";
   $("readingFeedback").textContent = "";
-  $("readingOptions").innerHTML = item.options.map((option) => (
-    `<button type="button" data-answer="${escapeAttribute(option)}">${option}</button>`
+  $("readingOptions").innerHTML = item.options.map((option, index) => (
+    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small>${escapeHTML(item.optionTranslations?.[index] || "")}</small></button>`
   )).join("");
   $("readingOptions").querySelectorAll("button").forEach((button) => {
     button.addEventListener("click", () => answerReading(button.dataset.answer, button));
@@ -574,6 +583,15 @@ function nextGrammar() {
 
 function escapeAttribute(value) {
   return value.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+}
+
+function escapeHTML(value) {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
 }
 
 function startMatching() {

@@ -430,6 +430,21 @@ select {
   line-height: 1.5;
 }
 
+.option-grid button small {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.question-translation {
+  margin: -4px 0 12px;
+  color: var(--muted);
+  font-weight: 800;
+  line-height: 1.6;
+}
+
 .feedback {
   min-height: 30px;
   margin: 12px 0;

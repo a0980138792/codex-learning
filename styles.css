@@ -435,6 +435,8 @@ select {
   margin: 12px 0;
   color: var(--green);
   font-weight: 900;
+  line-height: 1.7;
+  white-space: pre-line;
 }
 
 .answer-input {

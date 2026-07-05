@@ -31,7 +31,8 @@ const readingPassages = [
     translation: "許多學生花很長時間讀書，但不是每個人都讀得有效率。每天短時間複習，可能比考前一晚讀完全部內容更有用。當學生規劃時間並短暫休息時，通常能記得更多。",
     question: "What is the main idea of the passage?",
     options: ["Daily review and planning help students learn better.", "Students should never take breaks.", "Tests are not important for students.", "Reading at night is always the best way."],
-    answer: "Daily review and planning help students learn better."
+    answer: "Daily review and planning help students learn better.",
+    explanation: "中文解析：文章重點不是讀越久越好，而是每天短時間複習、安排時間並適度休息，能讓學習更有效。"
   },
   {
     title: "Technology in Class",
@@ -40,7 +41,8 @@ const readingPassages = [
     translation: "科技可以讓學習更有趣。學生可以觀看影片、練習聽力，並在線上搜尋資訊。然而，他們也需要明智地使用數位工具。手機可以幫助學習，但也可能讓注意力離開課堂。",
     question: "According to the passage, what should students do?",
     options: ["Use technology wisely.", "Stop using all digital tools.", "Only study with videos.", "Bring more phones to class."],
-    answer: "Use technology wisely."
+    answer: "Use technology wisely.",
+    explanation: "中文解析：文章說科技可以幫助學習，但也可能分散注意力，所以學生應該聰明且適度地使用科技工具。"
   },
   {
     title: "Helping the Community",
@@ -49,7 +51,8 @@ const readingPassages = [
     translation: "上星期六，一群國中生清理學校附近的公園。他們撿垃圾、種花，並粉刷舊長椅。工作很累，但學生感到驕傲，因為他們讓社區更乾淨也更友善。",
     question: "Why did the students feel proud?",
     options: ["They improved their community.", "They skipped school.", "They bought new benches.", "They won a sports game."],
-    answer: "They improved their community."
+    answer: "They improved their community.",
+    explanation: "中文解析：學生覺得驕傲，是因為他們清理公園、種花、粉刷長椅，讓社區變得更乾淨友善。"
   },
   {
     title: "Learning from Mistakes",
@@ -58,7 +61,8 @@ const readingPassages = [
     translation: "犯錯是語言學習的一部分。如果學生只害怕犯錯，他們可能會停止嘗試。更好的方法是檢查錯誤、理解原因，然後再次練習。每個錯誤都可以變成有用的回饋。",
     question: "What does the passage suggest?",
     options: ["Students should learn from mistakes.", "Students should hide every mistake.", "Language learning must be perfect.", "Feedback is never useful."],
-    answer: "Students should learn from mistakes."
+    answer: "Students should learn from mistakes.",
+    explanation: "中文解析：文章建議學生不要害怕錯誤，而是檢查錯誤、理解原因並再次練習，讓錯誤變成有用的回饋。"
   }
 ];
 
@@ -505,7 +509,8 @@ function answerReading(answer, selectedButton) {
     button.classList.toggle("correct", button.dataset.answer === item.answer);
   });
   selectedButton.classList.toggle("wrong", !correct);
-  $("readingFeedback").textContent = correct ? "閱讀理解答對了！" : `答錯了，正確答案是：${item.answer}`;
+  const resultMessage = correct ? "閱讀理解答對了！" : "答錯了。";
+  $("readingFeedback").textContent = `${resultMessage}\n正確答案：${item.answer}\n${item.explanation || "中文解析：請回到文章找出與題目相關的關鍵句，再比對選項的意思。"}`;
 }
 
 function toggleReadingTranslation() {

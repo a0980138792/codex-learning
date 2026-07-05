@@ -505,6 +505,7 @@ function renderReading() {
   $("readingOptions").innerHTML = item.options.map((option, index) => (
     `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small>${escapeHTML(item.optionTranslations?.[index] || "")}</small></button>`
   )).join("");
+  setReadingQuestionChineseVisibility();
   $("readingOptions").querySelectorAll("button").forEach((button) => {
     button.addEventListener("click", () => answerReading(button.dataset.answer, button));
   });
@@ -525,6 +526,7 @@ function answerReading(answer, selectedButton) {
 function toggleReadingTranslation() {
   readingTranslationVisible = !readingTranslationVisible;
   $("readingTranslation").classList.toggle("is-hidden", !readingTranslationVisible);
+  setReadingQuestionChineseVisibility();
   $("toggleReadingTranslation").textContent = readingTranslationVisible ? "隱藏中文翻譯" : "顯示中文翻譯";
   $("toggleReadingTranslation").setAttribute("aria-expanded", String(readingTranslationVisible));
 }
@@ -552,6 +554,7 @@ function renderGrammar() {
   $("grammarOptions").innerHTML = item.options.map((option) => (
     `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small>${escapeHTML(getGrammarOptionTranslation(option))}</small></button>`
   )).join("");
+  setGrammarQuestionChineseVisibility();
   $("grammarOptions").querySelectorAll("button").forEach((button) => {
     button.addEventListener("click", () => answerGrammar(button.dataset.answer, button));
   });
@@ -573,6 +576,7 @@ function toggleGrammarChinese() {
   grammarChineseVisible = !grammarChineseVisible;
   $("grammarExplanation").classList.toggle("is-hidden", !grammarChineseVisible);
   $("grammarTranslation").classList.toggle("is-hidden", !grammarChineseVisible);
+  setGrammarQuestionChineseVisibility();
   $("toggleGrammarChinese").textContent = grammarChineseVisible ? "隱藏中文說明" : "顯示中文說明";
   $("toggleGrammarChinese").setAttribute("aria-expanded", String(grammarChineseVisible));
 }
@@ -585,6 +589,20 @@ function nextGrammar() {
 
 function escapeAttribute(value) {
   return value.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+}
+
+function setReadingQuestionChineseVisibility() {
+  $("readingQuestionTranslation").classList.toggle("is-hidden", !readingTranslationVisible);
+  $("readingOptions").querySelectorAll("small").forEach((item) => {
+    item.classList.toggle("is-hidden", !readingTranslationVisible);
+  });
+}
+
+function setGrammarQuestionChineseVisibility() {
+  $("grammarQuestionTranslation").classList.toggle("is-hidden", !grammarChineseVisible);
+  $("grammarOptions").querySelectorAll("small").forEach((item) => {
+    item.classList.toggle("is-hidden", !grammarChineseVisible);
+  });
 }
 
 function escapeHTML(value) {

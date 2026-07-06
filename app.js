@@ -546,7 +546,7 @@ function renderGrammar() {
   $("grammarTranslation").textContent = item.translation;
   $("grammarExplanation").classList.toggle("is-hidden", !grammarChineseVisible);
   $("grammarTranslation").classList.toggle("is-hidden", !grammarChineseVisible);
-  $("toggleGrammarChinese").textContent = grammarChineseVisible ? "隱藏中文說明" : "顯示中文說明";
+  $("toggleGrammarChinese").textContent = grammarChineseVisible ? "隱藏中文翻譯" : "顯示中文翻譯";
   $("toggleGrammarChinese").setAttribute("aria-expanded", String(grammarChineseVisible));
   $("grammarQuestion").textContent = item.question;
   $("grammarQuestionTranslation").textContent = getGrammarQuestionTranslation(item.question);
@@ -577,7 +577,7 @@ function toggleGrammarChinese() {
   $("grammarExplanation").classList.toggle("is-hidden", !grammarChineseVisible);
   $("grammarTranslation").classList.toggle("is-hidden", !grammarChineseVisible);
   setGrammarQuestionChineseVisibility();
-  $("toggleGrammarChinese").textContent = grammarChineseVisible ? "隱藏中文說明" : "顯示中文說明";
+  $("toggleGrammarChinese").textContent = grammarChineseVisible ? "隱藏中文翻譯" : "顯示中文翻譯";
   $("toggleGrammarChinese").setAttribute("aria-expanded", String(grammarChineseVisible));
 }
 
@@ -592,6 +592,7 @@ function escapeAttribute(value) {
 }
 
 function setReadingQuestionChineseVisibility() {
+  $("readingQuestion").closest(".reading-question").classList.toggle("show-chinese", readingTranslationVisible);
   $("readingQuestionTranslation").classList.toggle("is-hidden", !readingTranslationVisible);
   $("readingOptions").querySelectorAll("small").forEach((item) => {
     item.classList.toggle("is-hidden", !readingTranslationVisible);
@@ -599,6 +600,7 @@ function setReadingQuestionChineseVisibility() {
 }
 
 function setGrammarQuestionChineseVisibility() {
+  $("grammarQuestion").closest(".reading-question").classList.toggle("show-chinese", grammarChineseVisible);
   $("grammarQuestionTranslation").classList.toggle("is-hidden", !grammarChineseVisible);
   $("grammarOptions").querySelectorAll("small").forEach((item) => {
     item.classList.toggle("is-hidden", !grammarChineseVisible);

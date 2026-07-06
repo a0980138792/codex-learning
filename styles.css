@@ -445,6 +445,11 @@ select {
   line-height: 1.6;
 }
 
+.reading-question:not(.show-chinese) .question-translation,
+.reading-question:not(.show-chinese) .option-grid button small {
+  display: none;
+}
+
 .feedback {
   min-height: 30px;
   margin: 12px 0;

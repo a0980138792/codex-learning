@@ -352,6 +352,7 @@ function bindEvents() {
   $("playListening").addEventListener("click", () => speak(listeningWord.word));
   $("nextListening").addEventListener("click", startListening);
   $("toggleReadingTranslation").addEventListener("click", toggleReadingTranslation);
+  $("prevReading").addEventListener("click", previousReading);
   $("nextReading").addEventListener("click", nextReading);
   $("toggleGrammarChinese").addEventListener("click", toggleGrammarChinese);
   $("nextGrammar").addEventListener("click", nextGrammar);
@@ -597,6 +598,7 @@ function renderReading() {
   $("readingTranslation").classList.toggle("is-hidden", !readingTranslationVisible);
   $("toggleReadingTranslation").textContent = readingTranslationVisible ? "隱藏中文翻譯" : "顯示中文翻譯";
   $("toggleReadingTranslation").setAttribute("aria-expanded", String(readingTranslationVisible));
+  $("prevReading").textContent = readingQuestionIndex > 0 ? "上一題" : "上一篇";
   $("nextReading").textContent = item.questions && readingQuestionIndex < item.questions.length - 1 ? "下一題" : "下一篇";
   $("readingQuestion").textContent = questionItem.question;
   $("readingQuestionTranslation").textContent = questionItem.questionTranslation || "請閱讀文章後，選出最符合題意的答案。";
@@ -640,6 +642,19 @@ function nextReading() {
   }
   readingIndex = (readingIndex + 1) % readingPassages.length;
   readingQuestionIndex = 0;
+  readingTranslationVisible = false;
+  renderReading();
+}
+
+function previousReading() {
+  if (readingQuestionIndex > 0) {
+    readingQuestionIndex -= 1;
+    renderReading();
+    return;
+  }
+  readingIndex = (readingIndex - 1 + readingPassages.length) % readingPassages.length;
+  const item = readingPassages[readingIndex];
+  readingQuestionIndex = item.questions?.length ? item.questions.length - 1 : 0;
   readingTranslationVisible = false;
   renderReading();
 }

@@ -261,6 +261,13 @@ select {
   gap: 12px;
 }
 
+.heading-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
 .card-status {
   margin-bottom: 10px;
   color: var(--muted);

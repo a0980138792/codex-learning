@@ -503,7 +503,7 @@ function renderReading() {
   $("readingQuestionTranslation").textContent = item.questionTranslation || "請閱讀文章後，選出最符合題意的答案。";
   $("readingFeedback").textContent = "";
   $("readingOptions").innerHTML = item.options.map((option, index) => (
-    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small>${escapeHTML(item.optionTranslations?.[index] || "")}</small></button>`
+    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small hidden>${escapeHTML(item.optionTranslations?.[index] || "")}</small></button>`
   )).join("");
   setReadingQuestionChineseVisibility();
   $("readingOptions").querySelectorAll("button").forEach((button) => {
@@ -552,7 +552,7 @@ function renderGrammar() {
   $("grammarQuestionTranslation").textContent = getGrammarQuestionTranslation(item.question);
   $("grammarFeedback").textContent = "";
   $("grammarOptions").innerHTML = item.options.map((option) => (
-    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small>${escapeHTML(getGrammarOptionTranslation(option))}</small></button>`
+    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small hidden>${escapeHTML(getGrammarOptionTranslation(option))}</small></button>`
   )).join("");
   setGrammarQuestionChineseVisibility();
   $("grammarOptions").querySelectorAll("button").forEach((button) => {
@@ -593,16 +593,20 @@ function escapeAttribute(value) {
 
 function setReadingQuestionChineseVisibility() {
   $("readingQuestion").closest(".reading-question").classList.toggle("show-chinese", readingTranslationVisible);
+  $("readingQuestionTranslation").hidden = !readingTranslationVisible;
   $("readingQuestionTranslation").classList.toggle("is-hidden", !readingTranslationVisible);
   $("readingOptions").querySelectorAll("small").forEach((item) => {
+    item.hidden = !readingTranslationVisible;
     item.classList.toggle("is-hidden", !readingTranslationVisible);
   });
 }
 
 function setGrammarQuestionChineseVisibility() {
   $("grammarQuestion").closest(".reading-question").classList.toggle("show-chinese", grammarChineseVisible);
+  $("grammarQuestionTranslation").hidden = !grammarChineseVisible;
   $("grammarQuestionTranslation").classList.toggle("is-hidden", !grammarChineseVisible);
   $("grammarOptions").querySelectorAll("small").forEach((item) => {
+    item.hidden = !grammarChineseVisible;
     item.classList.toggle("is-hidden", !grammarChineseVisible);
   });
 }

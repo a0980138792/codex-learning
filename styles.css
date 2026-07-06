@@ -446,7 +446,8 @@ select {
 }
 
 .reading-question:not(.show-chinese) .question-translation,
-.reading-question:not(.show-chinese) .option-grid button small {
+.reading-question:not(.show-chinese) .option-grid button small,
+[hidden] {
   display: none;
 }
 

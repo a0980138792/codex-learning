@@ -71,6 +71,102 @@ const readingPassages = [
     optionTranslations: ["學生應該從錯誤中學習。", "學生應該隱藏每一個錯誤。", "語言學習一定要完美。", "回饋從來沒有幫助。"],
     answer: "Students should learn from mistakes.",
     explanation: "中文解析：文章建議學生不要害怕錯誤，而是檢查錯誤、理解原因並再次練習，讓錯誤變成有用的回饋。"
+  },
+  {
+    title: "A Helpful Neighbor",
+    level: "Level A2",
+    passage: "Kevin is a junior high school student. He lives in a small apartment with his parents. Every afternoon after school, he walks home. On the way, he always sees an old woman sitting alone on a bench near the park. One rainy day, Kevin found that the old woman did not have an umbrella. She looked cold and afraid. Kevin walked over and shared his umbrella with her. Then he helped her carry her heavy bag to her apartment. The old woman smiled and thanked Kevin. She said, \"You are a very kind boy. Many people walked by, but only you stopped to help me.\" After that day, Kevin visited her every Saturday. Sometimes he helped clean her house. Sometimes he bought food for her from the market. They often talked together and became good friends. Kevin learned that helping others does not always need a lot of money. A little kindness can make someone's day much happier.",
+    translation: "Kevin 是一位國中生。他和父母住在一間小公寓裡。每天下午放學後，他都走路回家。路上，他總是看到一位老婦人獨自坐在公園附近的長椅上。有一個下雨天，Kevin 發現老婦人沒有雨傘。她看起來又冷又害怕。Kevin 走過去和她共用雨傘，然後幫她把沉重的袋子提回公寓。老婦人微笑並感謝 Kevin。她說：「你是一個非常善良的男孩。很多人走過去，但只有你停下來幫助我。」那天之後，Kevin 每個星期六都去拜訪她。有時他幫忙打掃房子，有時他從市場買食物給她。他們常常一起聊天，成為好朋友。Kevin 學到，幫助別人不一定需要很多錢。一點點善意就能讓某人的一天快樂許多。",
+    questions: [
+      {
+        question: "Where did Kevin usually see the old woman?",
+        questionTranslation: "Kevin 通常在哪裡看到那位老婦人？",
+        options: ["At the library", "Near the park", "At school", "At the hospital"],
+        optionTranslations: ["在圖書館", "在公園附近", "在學校", "在醫院"],
+        answer: "Near the park",
+        explanation: "中文解析：文章第一段說 Kevin 在回家路上總是看到老婦人坐在公園附近的長椅上，所以答案是 Near the park。"
+      },
+      {
+        question: "Why did Kevin stop to help her?",
+        questionTranslation: "Kevin 為什麼停下來幫助她？",
+        options: ["She was selling food.", "She lost her dog.", "She had no umbrella on a rainy day.", "She wanted to visit the market."],
+        optionTranslations: ["她正在賣食物。", "她弄丟了她的狗。", "下雨天她沒有雨傘。", "她想去市場。"],
+        answer: "She had no umbrella on a rainy day.",
+        explanation: "中文解析：文章提到下雨天 Kevin 發現老婦人沒有雨傘，看起來又冷又害怕，因此他停下來幫忙。"
+      },
+      {
+        question: "What did Kevin do for the old woman?",
+        questionTranslation: "Kevin 為那位老婦人做了什麼？",
+        options: ["He gave her money.", "He drove her home.", "He shared his umbrella and carried her bag.", "He bought her a new house."],
+        optionTranslations: ["他給她錢。", "他開車送她回家。", "他和她共用雨傘並幫她提袋子。", "他買了一棟新房子給她。"],
+        answer: "He shared his umbrella and carried her bag.",
+        explanation: "中文解析：文章說 Kevin 和老婦人共用雨傘，並幫她把沉重的袋子提回公寓。"
+      },
+      {
+        question: "After that day, Kevin visited the old woman ________.",
+        questionTranslation: "那天之後，Kevin ________ 去拜訪那位老婦人。",
+        options: ["every day", "every Saturday", "every month", "every summer"],
+        optionTranslations: ["每天", "每個星期六", "每個月", "每年夏天"],
+        answer: "every Saturday",
+        explanation: "中文解析：文章明確說 After that day, Kevin visited her every Saturday。"
+      },
+      {
+        question: "What is the best title for this passage?",
+        questionTranslation: "這篇文章最好的標題是什麼？",
+        options: ["A Rainy School Day", "Kevin's New Apartment", "A Helpful Neighbor", "A Busy Market"],
+        optionTranslations: ["下雨的上學日", "Kevin 的新公寓", "樂於助人的鄰居", "忙碌的市場"],
+        answer: "A Helpful Neighbor",
+        explanation: "中文解析：文章主要在說 Kevin 幫助附近的老婦人，並持續關心她，所以最好的標題是 A Helpful Neighbor。"
+      }
+    ]
+  },
+  {
+    title: "A New Hobby",
+    level: "Level A2",
+    passage: "Amy was a quiet junior high school student. After school, she usually went home and watched TV. She thought her life was a little boring. One day, her teacher asked every student to try a new hobby. Amy decided to learn how to grow flowers. She bought a few small plants and put them on the balcony of her apartment. At first, it was not easy. Some plants became dry because Amy forgot to water them. She felt sad, but she did not give up. She read books, watched videos, and asked her grandmother for advice. A few months later, the flowers became beautiful. Many butterflies and bees came to her balcony. Amy enjoyed taking pictures of the flowers and sharing them with her classmates. Now Amy says that growing flowers has changed her life. She is more patient, happier, and enjoys spending time in nature.",
+    translation: "Amy 是一位安靜的國中生。放學後，她通常回家看電視。她覺得自己的生活有點無聊。有一天，老師要每位學生嘗試一個新的嗜好。Amy 決定學習如何種花。她買了幾株小植物，放在公寓的陽台上。一開始，這並不容易。有些植物變乾，因為 Amy 忘了替它們澆水。她覺得難過，但她沒有放棄。她讀書、看影片，並向祖母請教。幾個月後，花變得很漂亮。許多蝴蝶和蜜蜂來到她的陽台。Amy 喜歡拍花的照片，並和同學分享。現在 Amy 說種花改變了她的生活。她變得更有耐心、更快樂，也更喜歡花時間親近大自然。",
+    questions: [
+      {
+        question: "What did Amy usually do after school before she found her new hobby?",
+        questionTranslation: "在找到新嗜好以前，Amy 放學後通常做什麼？",
+        options: ["She played basketball.", "She watched TV.", "She visited her grandmother.", "She read books."],
+        optionTranslations: ["她打籃球。", "她看電視。", "她拜訪祖母。", "她讀書。"],
+        answer: "She watched TV.",
+        explanation: "中文解析：文章第一段說 Amy 放學後通常回家看電視。"
+      },
+      {
+        question: "Why did Amy begin to grow flowers?",
+        questionTranslation: "Amy 為什麼開始種花？",
+        options: ["Her parents wanted her to do it.", "She wanted to make money.", "Her teacher asked students to try a new hobby.", "She wanted to win a competition."],
+        optionTranslations: ["她的父母希望她這麼做。", "她想賺錢。", "她的老師要學生嘗試新的嗜好。", "她想贏得比賽。"],
+        answer: "Her teacher asked students to try a new hobby.",
+        explanation: "中文解析：文章說老師要每位學生嘗試新的嗜好，所以 Amy 決定學種花。"
+      },
+      {
+        question: "What problem did Amy have at first?",
+        questionTranslation: "Amy 一開始遇到什麼問題？",
+        options: ["She had no balcony.", "She forgot to water the plants.", "She bought too many flowers.", "She could not find any books."],
+        optionTranslations: ["她沒有陽台。", "她忘記替植物澆水。", "她買了太多花。", "她找不到任何書。"],
+        answer: "She forgot to water the plants.",
+        explanation: "中文解析：文章提到有些植物變乾，因為 Amy 忘了澆水。"
+      },
+      {
+        question: "Which is TRUE according to the passage?",
+        questionTranslation: "根據文章，哪一項是正確的？",
+        options: ["Amy gave up after one week.", "Birds ate all the flowers.", "Butterflies and bees came to her flowers.", "Amy sold the flowers to her classmates."],
+        optionTranslations: ["Amy 一週後放棄了。", "鳥吃掉了所有的花。", "蝴蝶和蜜蜂來到她的花旁。", "Amy 把花賣給同學。"],
+        answer: "Butterflies and bees came to her flowers.",
+        explanation: "中文解析：文章說幾個月後，許多蝴蝶和蜜蜂來到 Amy 的陽台。"
+      },
+      {
+        question: "What can we learn from Amy's story?",
+        questionTranslation: "我們可以從 Amy 的故事學到什麼？",
+        options: ["It is easy to grow flowers.", "Watching TV is the best hobby.", "We should never listen to teachers.", "Learning something new takes time and patience."],
+        optionTranslations: ["種花很容易。", "看電視是最好的嗜好。", "我們不應該聽老師的話。", "學習新事物需要時間和耐心。"],
+        answer: "Learning something new takes time and patience.",
+        explanation: "中文解析：Amy 一開始遇到困難，但她沒有放棄，持續學習後讓花變漂亮，表示學新事物需要時間和耐心。"
+      }
+    ]
   }
 ];
 
@@ -134,6 +230,7 @@ let quizWord = null;
 let spellingWord = null;
 let listeningWord = null;
 let readingIndex = 0;
+let readingQuestionIndex = 0;
 let readingTranslationVisible = false;
 let grammarIndex = 0;
 let grammarChineseVisible = false;
@@ -492,6 +589,7 @@ function answerListening(id, selectedButton) {
 
 function renderReading() {
   const item = readingPassages[readingIndex];
+  const questionItem = getCurrentReadingQuestion(item);
   $("readingTitle").textContent = item.title;
   $("readingLevel").textContent = item.level;
   $("readingPassage").textContent = item.passage;
@@ -499,11 +597,12 @@ function renderReading() {
   $("readingTranslation").classList.toggle("is-hidden", !readingTranslationVisible);
   $("toggleReadingTranslation").textContent = readingTranslationVisible ? "隱藏中文翻譯" : "顯示中文翻譯";
   $("toggleReadingTranslation").setAttribute("aria-expanded", String(readingTranslationVisible));
-  $("readingQuestion").textContent = item.question;
-  $("readingQuestionTranslation").textContent = item.questionTranslation || "請閱讀文章後，選出最符合題意的答案。";
+  $("nextReading").textContent = item.questions && readingQuestionIndex < item.questions.length - 1 ? "下一題" : "下一篇";
+  $("readingQuestion").textContent = questionItem.question;
+  $("readingQuestionTranslation").textContent = questionItem.questionTranslation || "請閱讀文章後，選出最符合題意的答案。";
   $("readingFeedback").textContent = "";
-  $("readingOptions").innerHTML = item.options.map((option, index) => (
-    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small hidden>${escapeHTML(item.optionTranslations?.[index] || "")}</small></button>`
+  $("readingOptions").innerHTML = questionItem.options.map((option, index) => (
+    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small hidden>${escapeHTML(questionItem.optionTranslations?.[index] || "")}</small></button>`
   )).join("");
   setReadingQuestionChineseVisibility();
   $("readingOptions").querySelectorAll("button").forEach((button) => {
@@ -513,14 +612,15 @@ function renderReading() {
 
 function answerReading(answer, selectedButton) {
   const item = readingPassages[readingIndex];
-  const correct = answer === item.answer;
+  const questionItem = getCurrentReadingQuestion(item);
+  const correct = answer === questionItem.answer;
   $("readingOptions").querySelectorAll("button").forEach((button) => {
     button.disabled = true;
-    button.classList.toggle("correct", button.dataset.answer === item.answer);
+    button.classList.toggle("correct", button.dataset.answer === questionItem.answer);
   });
   selectedButton.classList.toggle("wrong", !correct);
   const resultMessage = correct ? "閱讀理解答對了！" : "答錯了。";
-  $("readingFeedback").textContent = `${resultMessage}\n正確答案：${item.answer}\n${item.explanation || "中文解析：請回到文章找出與題目相關的關鍵句，再比對選項的意思。"}`;
+  $("readingFeedback").textContent = `${resultMessage}\n正確答案：${questionItem.answer}\n${questionItem.explanation || "中文解析：請回到文章找出與題目相關的關鍵句，再比對選項的意思。"}`;
 }
 
 function toggleReadingTranslation() {
@@ -532,9 +632,23 @@ function toggleReadingTranslation() {
 }
 
 function nextReading() {
+  const item = readingPassages[readingIndex];
+  if (item.questions && readingQuestionIndex < item.questions.length - 1) {
+    readingQuestionIndex += 1;
+    renderReading();
+    return;
+  }
   readingIndex = (readingIndex + 1) % readingPassages.length;
+  readingQuestionIndex = 0;
   readingTranslationVisible = false;
   renderReading();
+}
+
+function getCurrentReadingQuestion(item) {
+  if (item.questions?.length) {
+    return item.questions[readingQuestionIndex] || item.questions[0];
+  }
+  return item;
 }
 
 function renderGrammar() {

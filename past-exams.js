@@ -8,7 +8,7 @@ window.PAST_EXAMS = [
     "questionCount": 43,
     "source": "115P_English.pdf",
     "pdf": "past-exam-115P-English.pdf",
-    "note": "????????????????????????????????????",
+    "note": "?????????????????????????",
     "questions": [
       {
         "number": 1,
@@ -31,7 +31,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "pants"
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 2,
@@ -54,7 +55,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "washes"
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 3,
@@ -77,7 +79,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "power"
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 4,
@@ -100,7 +103,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "quickly"
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 5,
@@ -123,7 +127,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "makes"
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 6,
@@ -146,7 +151,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "with"
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 7,
@@ -169,7 +175,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "strong"
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 8,
@@ -192,7 +199,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "are they"
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 9,
@@ -215,7 +223,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "one"
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 10,
@@ -238,7 +247,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "why"
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 11,
@@ -261,7 +271,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "and answered the phone"
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 12,
@@ -284,7 +295,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "another"
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 13,
@@ -307,7 +319,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "bottom"
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 14,
@@ -330,7 +343,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "small"
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 15,
@@ -353,7 +367,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "smell"
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 16,
@@ -376,7 +391,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "has lost"
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 17,
@@ -399,7 +415,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "mopped"
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 18,
@@ -422,7 +439,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "that"
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 19,
@@ -445,7 +463,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "am watching 2 請翻頁繼續作答 第二部分：題組 (第20 - 43題，共24題)  stir 攪拌"
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 20,
@@ -468,7 +487,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Bananas, papayas and strawberries."
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 21,
@@ -491,7 +511,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Leaving the teabags in the pot of hot water for 2 to 3 minutes. In 6th grade, I tried to get the students I totally bombed it. to pick me as student leader. I’ll make class hours shorter. And we’ll have only three days of school a week… What' That’s not what a student leader can decide. He doesn’t know anything. I was the best choice, but why didn’t people know that' I became a salesperson when I was 23, I bombed it again. and I believed I could be Number 1. You said you would Hawkins, we don’t need sell 50 cars a month. your service anymore. Don’t worry. But you sold only 1 Go pack your things… I’ll sell 149 cars car in two months. next month. Why ' You said that a year ago."
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 22,
@@ -514,7 +535,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "He talks about things he can’t do."
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 23,
@@ -537,7 +559,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "They were careful about it. 4 請翻頁繼續作答 This is a brochure for the Marigolds’ Home. The Marigolds’ Home Opening times: March to October 10:00-17:00 November to February 10:00-16:00 Closed on Mondays To make sure you enjoy your visit to The Marigolds’ Home, we’d like to ask you to follow the rules below:"
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 24,
@@ -560,7 +583,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "When can I visit the Marigolds’ Home'"
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 25,
@@ -583,7 +607,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Taking pet dogs for a walk on the playground."
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 26,
@@ -606,7 +631,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Turn right and walk through the Butterfly Garden, then walk past the Rabbit’s Temple and the café. 6 請翻頁繼續作答 One summer evening when English cello player Beatrice Harrison was practicing in her garden, she was joined by a visitor she did not expect. The visitor was a nightingale. The small brown bird sang together with Harrison’s cello music, and the birdsong sounded like the piece she was playing. For the next few evenings, her visitor kept coming back, sometimes with several of its friends. Harrison decided that more people should hear the little singers. Photo: Ms. Harrison with the cello So, on May 19, 1924, Harrison worked with the BBC, the UK’s national TV and radio station, and played in her garden. At first, the artist was playing alone. Fifteen minutes before the end of her playing, the nightingales began to sing with the cello. The nightingale show was popular with radio listeners. It was repeated the next week, and for the next twelve years Harrison played on the radio with her garden friends. During this time, she got 50,000 fan letters. People called her “the Nightingale Lady.”"
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 27,
@@ -629,7 +655,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "She was famous for playing music with nightingales."
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 28,
@@ -652,7 +679,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Her garden friends. With heavy hearts, we are here to say goodbye to Rose Lacey, a wonderful writer who will be sadly missed. Rose and I first met in 2010. I was at a party to pick up my wife when I heard Rose explaining to her and her friends why Get Across was a great movie. Her ideas were so interesting that I invited her to write some articles about movies for Action! US. Rose was very excited and agreed right away. Over the next ten years, Rose wrote more than 150 articles. Rose could always bring out something new from movies that we thought we knew so well. People often told me that Rose never failed to surprise them. Her articles often made them think whether they actually saw the same movie, but if they went to see it again, they experienced the movie in a whole new way. In her short life of 40 years, Rose has made her mark on the world of movies with her articles for Action! US. We are lucky to have had her in our lives. She was a very special person. Alex Jackson Head of Action! US  article 文章"
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 29,
@@ -675,7 +703,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Because she is leaving for another job."
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 30,
@@ -698,7 +727,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "They took a course on movies together."
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 31,
@@ -721,7 +751,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "They are good examples of how to write stories. 8 請翻頁繼續作答 SEA GLASS: GLASS BOTTLES’ SECOND LIFE Sea glass is made from the magic of the sea. It usually comes from glass bottles that are thrown into the water. Each piece of sea glass looks different, and sea glass is often seen on art pieces. The pictures below explain how sea glass is born. Glass bottles are thrown as garbage 1 into the sea. When these bottles ride the waves of the sea, they hit each other or other 2 garbage in the sea and break into small pieces of glass. Pieces of glass are pushed by sea water and move along the sea floor. The 3 sharp pieces slowly become rounder and rounder. After tens or hundreds of years in the sea, the pieces of glass grow an ice-like 4 white color on the outside and become sea glass. Sea glass is finally pushed up to the 5 beach. Artists collect pieces of sea glass and 6 put them into their works. However, people now seldom use glass to make bottles and bowls—paper bowls and cups have become more popular these days. This means there are fewer glass items in the sea, so less and less sea glass will be found in the future."
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 32,
@@ -744,7 +775,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Glass bottles that are thrown into the sea become sea glass which is used in art pieces."
           }
-        ]
+        ],
+        "answer": "D"
       },
       {
         "number": 33,
@@ -767,7 +799,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Glass bottles break into pieces when they are dug out from the sea floor."
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 34,
@@ -790,7 +823,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Waves are not big enough to push sea glass up to the beach. 10 請翻頁繼續作答 The Future of Icelandic Scandinavian News by Anna Adams Icelandic is a language that is spoken only in Iceland. It has a long history. But many Icelanders are worried that they’re losing Icelandic. The reason for their worry is the prevalence of English in Iceland. “I use English when I talk to my housework robot, use my phone, and watch movies,” said Helgi Atlason, an engineer. There is a reason for that. Most of these products use English, and few companies care to change the language into Icelandic because there are only a small number of Icelandic speakers (314,000 people). Actually, you see English everywhere in Iceland. Icelanders also speak and hear more English than Icelandic these days because many foreigners who come to live and work in Iceland speak only English. “We can’t use Icelandic abroad, and we’re not using it much in Iceland, either. How do you expect our kids will want to learn it'” said Eirikur Wilson, a teacher. Will Iceland one day give up Icelandic for English' It may happen soon. Our Future with Icelandic Scandinavian News by Gunnar Eggertsson Many people think Icelandic is a language in its sickbed and that it needs to be saved. I understand their worries, but does the future of our language really look that bad' According to Dr. David Clingingsmith, a language needs at least 35,000 speakers to be “safe” from becoming a dying language. There are now 314,000 Icelandic speakers. Also, every year Iceland spends 51.3 million Icelandic crowns (3.7 million US dollars) teaching Icelandic to machines: phones, computers, and robots. Icelandic is appearing more often in products. Most importantly, schools still teach Icelandic to children. Clearly, we are not giving up our first language. However, I’m not saying that Iceland has done enough for Icelandic. Our country can do a better job at getting more people to speak this beautiful language. One way to do so is to give more language courses to foreigners. With much more work, I’m sure Icelandic can grow and even reach farther into the world.  Icelander 冰島人 product 商品"
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 35,
@@ -813,7 +847,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "That English is not a national language."
           }
-        ]
+        ],
+        "answer": "A"
       },
       {
         "number": 36,
@@ -836,7 +871,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Showing information from news reports."
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 37,
@@ -859,7 +895,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "This beautiful language."
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 38,
@@ -882,7 +919,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Adams is not, but Eggertsson is."
           }
-        ]
+        ],
+        "answer": "C"
       },
       {
         "number": 39,
@@ -905,7 +943,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "Whether Iceland should allow more foreigners to work in Iceland."
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 40,
@@ -928,7 +967,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "decide who will work in my garden"
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 41,
@@ -951,7 +991,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "The seed grew into a big tree in a short time"
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 42,
@@ -974,7 +1015,8 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "the only one to take good care of his plant"
           }
-        ]
+        ],
+        "answer": "B"
       },
       {
         "number": 43,
@@ -997,8 +1039,11 @@ window.PAST_EXAMS = [
             "label": "D",
             "text": "popular"
           }
-        ]
+        ],
+        "answer": "B"
       }
-    ]
+    ],
+    "answerSource": "115P_Answer.pdf",
+    "answerPdf": "past-exam-115P-Answer.pdf"
   }
 ];

@@ -872,6 +872,8 @@ function renderPastExam() {
   $("pastExamDuration").textContent = exam.duration;
   $("pastExamNote").textContent = exam.note;
   $("pastExamPdfLink").href = exam.pdf;
+  $("pastExamAnswerLink").href = exam.answerPdf || "#";
+  $("pastExamAnswerLink").hidden = !exam.answerPdf;
   $("pastExamType").textContent = question.type;
   $("pastExamQuestionTitle").textContent = `第 ${question.number} 題`;
   $("pastExamQuestion").textContent = question.question;
@@ -889,11 +891,20 @@ function renderPastExam() {
 function answerPastExam(label, selectedButton) {
   const exam = pastExams[pastExamIndex];
   const question = exam.questions[pastExamQuestionIndex];
+  const correct = question.answer && label === question.answer;
   $("pastExamOptions").querySelectorAll("button").forEach((button) => {
     button.disabled = true;
+    button.classList.toggle("correct", button.dataset.label === question.answer);
   });
+  selectedButton.classList.toggle("wrong", Boolean(question.answer) && !correct);
   selectedButton.classList.add("selected");
-  $("pastExamFeedback").textContent = `你選擇了 ${label}。本試題本未附答案，請對照官方答案核對；題目來源：${exam.title} 第 ${question.number} 題。`;
+  if (question.answer) {
+    const answerOption = question.options.find((option) => option.label === question.answer);
+    const resultMessage = correct ? "答對了！" : "答錯了。";
+    $("pastExamFeedback").textContent = `${resultMessage}\n正確答案：${question.answer}. ${answerOption?.text || ""}\n答案來源：${exam.answerSource || "官方參考答案"}`;
+  } else {
+    $("pastExamFeedback").textContent = `你選擇了 ${label}。本題尚未匯入答案，請對照官方答案核對；題目來源：${exam.title} 第 ${question.number} 題。`;
+  }
 }
 
 function previousPastExamQuestion() {

@@ -8,7 +8,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher wrote \"alive\" on the board before the reading test.",
-    "translation": "這個例句使用了「alive」，意思是「活的」。"
+    "translation": "老師在閱讀測驗前把「alive」寫在黑板上。"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"artist\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「artist」：它的中文意思是「藝術家」。"
+    "translation": "Amy 圈起「artist」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"bathe\" in his homework sentence.",
-    "translation": "在這句話裡，「bathe」表示「沐浴」。"
+    "translation": "Kevin 在他的作業句子中使用了「bathe」。"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"all\" in today's short story.",
-    "translation": "例句幫助你理解「all」，中文是「全部的」。"
+    "translation": "全班在今天的短篇故事中找到了「all」。"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I underlined \"as\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「as」的用法，意思是「像，如同」。"
+    "translation": "我在複習段落時把「as」畫線標記。"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"bathroom\".",
-    "translation": "記住「bathroom」這個字：它的意思是「浴室」。"
+    "translation": "我們小組做了一張有「bathroom」這個字的海報。"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"able\".",
-    "translation": "這個單字在例句中是「able」，中文意思為「有能力的」。"
+    "translation": "這個例句幫助我記住「able」。"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"allow\" appeared in the listening script.",
-    "translation": "從例句可以看出，「allow」的意思是「允許」。"
+    "translation": "「allow」這個字出現在聽力稿中。"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"ask\" in her vocabulary notebook.",
-    "translation": "當你看到「ask」時，可以想到「詢問」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「ask」。"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"beach\".",
-    "translation": "「beach」在這個例句中用來表達「沙灘」。"
+    "translation": "這個問題提供了關於「beach」的線索。"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The story used \"about\" to make the scene clearer.",
-    "translation": "這個例句使用了「about」，意思是「有關」。"
+    "translation": "故事使用「about」讓場景更清楚。"
   },
   {
     "id": 12,
@@ -129,7 +129,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"almost\" to my review list for Friday.",
-    "translation": "請看例句中的「almost」：它的中文意思是「幾乎」。"
+    "translation": "我把「almost」加入星期五的複習清單。"
   },
   {
     "id": 13,
@@ -140,7 +140,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"asleep\" twice.",
-    "translation": "在這句話裡，「asleep」表示「睡著的」。"
+    "translation": "這篇閱讀文章重複了兩次「asleep」。"
   },
   {
     "id": 14,
@@ -151,7 +151,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"bean\".",
-    "translation": "例句幫助你理解「bean」，中文是「豆子」。"
+    "translation": "Jason 問「bean」要怎麼發音。"
   },
   {
     "id": 15,
@@ -162,7 +162,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"above\" with its meaning.",
-    "translation": "這句英文示範了「above」的用法，意思是「在上方」。"
+    "translation": "這張學習單要求學生把「above」和它的意思配對。"
   },
   {
     "id": 16,
@@ -173,7 +173,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"alone\" on the first page of the lesson.",
-    "translation": "記住「alone」這個字：它的意思是「獨自地」。"
+    "translation": "我在課文第一頁看到了「alone」。"
   },
   {
     "id": 17,
@@ -184,7 +184,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"assistant\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「assistant」，中文意思為「助手」。"
+    "translation": "「assistant」前面的句子幫助我猜出答案。"
   },
   {
     "id": 18,
@@ -195,7 +195,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"bear\" into a quick quiz question.",
-    "translation": "從例句可以看出，「bear」的意思是「熊」。"
+    "translation": "我們的老師把「bear」變成一道快速測驗題。"
   },
   {
     "id": 19,
@@ -206,7 +206,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"abroad\" with a simple picture.",
-    "translation": "當你看到「abroad」時，可以想到「在國外」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「abroad」。"
   },
   {
     "id": 20,
@@ -217,7 +217,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I practiced spelling \"along\" after dinner.",
-    "translation": "「along」在這個例句中用來表達「沿著」。"
+    "translation": "我晚餐後練習拼寫「along」。"
   },
   {
     "id": 21,
@@ -228,7 +228,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"assume\" in a real-life situation.",
-    "translation": "這個例句使用了「assume」，意思是「假設」。"
+    "translation": "這道測驗題在真實生活情境中使用「assume」。"
   },
   {
     "id": 22,
@@ -239,7 +239,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"beard\" beside a small drawing.",
-    "translation": "請看例句中的「beard」：它的中文意思是「鬍鬚」。"
+    "translation": "Sara 在一張小圖旁寫下「beard」。"
   },
   {
     "id": 23,
@@ -250,7 +250,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"absent\" near the end.",
-    "translation": "在這句話裡，「absent」表示「缺席的」。"
+    "translation": "這段對話在接近結尾的地方包含「absent」。"
   },
   {
     "id": 24,
@@ -261,7 +261,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"aloud\" as my word of the day.",
-    "translation": "例句幫助你理解「aloud」，中文是「大聲地」。"
+    "translation": "我選「aloud」作為今天的每日單字。"
   },
   {
     "id": 25,
@@ -272,7 +272,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"attack\" with an easy sentence.",
-    "translation": "這句英文示範了「attack」的用法，意思是「攻擊」。"
+    "translation": "課本用一個簡單句子解釋「attack」。"
   },
   {
     "id": 26,
@@ -283,7 +283,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"beat\".",
-    "translation": "記住「beat」這個字：它的意思是「拍打」。"
+    "translation": "我和我的搭檔用「beat」造了一個問題。"
   },
   {
     "id": 27,
@@ -294,7 +294,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"accept\".",
-    "translation": "這個單字在例句中是「accept」，中文意思為「接受」。"
+    "translation": "這個答案選項包含「accept」。"
   },
   {
     "id": 28,
@@ -305,7 +305,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I remembered \"already\" because it was in a funny story.",
-    "translation": "從例句可以看出，「already」的意思是「已經」。"
+    "translation": "我記得「already」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 29,
@@ -316,7 +316,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"attention\" quickly.",
-    "translation": "當你看到「attention」時，可以想到「注意力」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「attention」。"
   },
   {
     "id": 30,
@@ -327,7 +327,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"beautiful\" helped the reader understand it.",
-    "translation": "「beautiful」在這個例句中用來表達「美麗的」。"
+    "translation": "「beautiful」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 31,
@@ -338,7 +338,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"accident\" in a school setting.",
-    "translation": "這個例句使用了「accident」，意思是「意外」。"
+    "translation": "這個句子在學校情境中使用「accident」。"
   },
   {
     "id": 32,
@@ -349,7 +349,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"also\" while checking the answer sheet.",
-    "translation": "請看例句中的「also」：它的中文意思是「也」。"
+    "translation": "我在檢查答案卷時找到了「also」。"
   },
   {
     "id": 33,
@@ -360,7 +360,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"August\".",
-    "translation": "在這句話裡，「August」表示「八月」。"
+    "translation": "故事中的角色學會了「August」這個字。"
   },
   {
     "id": 34,
@@ -371,7 +371,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"beauty\".",
-    "translation": "例句幫助你理解「beauty」，中文是「美貌」。"
+    "translation": "線上字典提供了「beauty」的例句。"
   },
   {
     "id": 35,
@@ -382,7 +382,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The class used \"across\" during pair practice.",
-    "translation": "這句英文示範了「across」的用法，意思是「在…對面」。"
+    "translation": "全班在雙人練習時使用了「across」。"
   },
   {
     "id": 36,
@@ -393,7 +393,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"altogether\" into a sentence about daily life.",
-    "translation": "記住「altogether」這個字：它的意思是「總共」。"
+    "translation": "我把「altogether」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 37,
@@ -404,7 +404,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"aunt\" aloud.",
-    "translation": "這個單字在例句中是「aunt」，中文意思為「姑媽」。"
+    "translation": "老師請每個人大聲讀出「aunt」。"
   },
   {
     "id": 38,
@@ -415,7 +415,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The word \"because\" was useful in the reading question.",
-    "translation": "從例句可以看出，「because」的意思是「因為」。"
+    "translation": "「because」這個字在閱讀題中很有用。"
   },
   {
     "id": 39,
@@ -426,7 +426,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"act\".",
-    "translation": "當你看到「act」時，可以想到「行為」這個意思。"
+    "translation": "我用彩色筆標記「act」。"
   },
   {
     "id": 40,
@@ -437,7 +437,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The practice sentence makes \"always\" easier to understand.",
-    "translation": "「always」在這個例句中用來表達「總是」。"
+    "translation": "這個練習句讓「always」更容易理解。"
   },
   {
     "id": 41,
@@ -448,7 +448,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"autumn\" in the audio clip.",
-    "translation": "這個例句使用了「autumn」，意思是「秋天」。"
+    "translation": "我們在音檔中聽「autumn」這個字。"
   },
   {
     "id": 42,
@@ -459,7 +459,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"become\" helped me understand the main idea.",
-    "translation": "請看例句中的「become」：它的中文意思是「成為」。"
+    "translation": "「become」這個字幫助我理解主旨。"
   },
   {
     "id": 43,
@@ -470,7 +470,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"action\" on a sticky note.",
-    "translation": "在這句話裡，「action」表示「活動」。"
+    "translation": "我把「action」寫在便利貼上。"
   },
   {
     "id": 44,
@@ -481,7 +481,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"ambulance\" after class.",
-    "translation": "例句幫助你理解「ambulance」，中文是「救護車」。"
+    "translation": "閱讀社在課後討論了「ambulance」。"
   },
   {
     "id": 45,
@@ -492,7 +492,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sample dialogue uses \"available\" naturally.",
-    "translation": "這句英文示範了「available」的用法，意思是「可獲得的」。"
+    "translation": "範例對話自然地使用了「available」。"
   },
   {
     "id": 46,
@@ -503,7 +503,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"bed\" was a new word for me.",
-    "translation": "記住「bed」這個字：它的意思是「床」。"
+    "translation": "我確認「bed」對我來說是不是新單字。"
   },
   {
     "id": 47,
@@ -514,7 +514,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"active\" memorable.",
-    "translation": "這個單字在例句中是「active」，中文意思為「積極的」。"
+    "translation": "老師的故事讓「active」變得令人印象深刻。"
   },
   {
     "id": 48,
@@ -525,7 +525,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The group activity included \"among\" as a challenge word.",
-    "translation": "從例句可以看出，「among」的意思是「在…之間」。"
+    "translation": "小組活動把「among」列為挑戰單字。"
   },
   {
     "id": 49,
@@ -536,7 +536,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"avoid\" on the board before the reading test.",
-    "translation": "當你看到「avoid」時，可以想到「避免」這個意思。"
+    "translation": "老師在閱讀測驗前把「avoid」寫在黑板上。"
   },
   {
     "id": 50,
@@ -547,7 +547,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"bedroom\" because it was the key word in the sentence.",
-    "translation": "「bedroom」在這個例句中用來表達「臥室」。"
+    "translation": "Amy 圈起「bedroom」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 51,
@@ -558,7 +558,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"activity\" in his homework sentence.",
-    "translation": "這個例句使用了「activity」，意思是「活動」。"
+    "translation": "Kevin 在他的作業句子中使用了「activity」。"
   },
   {
     "id": 52,
@@ -569,7 +569,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"ancient\" in today's short story.",
-    "translation": "請看例句中的「ancient」：它的中文意思是「古代的」。"
+    "translation": "全班在今天的短篇故事中找到了「ancient」。"
   },
   {
     "id": 53,
@@ -580,7 +580,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"away\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「away」表示「不在」。"
+    "translation": "我在複習段落時把「away」畫線標記。"
   },
   {
     "id": 54,
@@ -591,7 +591,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"bee\".",
-    "translation": "例句幫助你理解「bee」，中文是「蜜蜂」。"
+    "translation": "我們小組做了一張有「bee」這個字的海報。"
   },
   {
     "id": 55,
@@ -602,7 +602,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"actor\".",
-    "translation": "這句英文示範了「actor」的用法，意思是「男演員」。"
+    "translation": "這個例句幫助我記住「actor」。"
   },
   {
     "id": 56,
@@ -613,7 +613,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"angel\" appeared in the listening script.",
-    "translation": "記住「angel」這個字：它的意思是「天使」。"
+    "translation": "「angel」這個字出現在聽力稿中。"
   },
   {
     "id": 57,
@@ -624,7 +624,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"beef\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「beef」，中文意思為「牛肉」。"
+    "translation": "Mina 在她的單字筆記本裡查了「beef」。"
   },
   {
     "id": 58,
@@ -635,7 +635,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"actress\".",
-    "translation": "從例句可以看出，「actress」的意思是「女演員」。"
+    "translation": "這個問題提供了關於「actress」的線索。"
   },
   {
     "id": 59,
@@ -646,7 +646,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"baby\" to make the scene clearer.",
-    "translation": "當你看到「baby」時，可以想到「嬰兒」這個意思。"
+    "translation": "故事使用「baby」讓場景更清楚。"
   },
   {
     "id": 60,
@@ -657,7 +657,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"anger\" to my review list for Friday.",
-    "translation": "「anger」在這個例句中用來表達「憤怒」。"
+    "translation": "我把「anger」加入星期五的複習清單。"
   },
   {
     "id": 61,
@@ -668,7 +668,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"beer\" twice.",
-    "translation": "這個例句使用了「beer」，意思是「啤酒」。"
+    "translation": "這篇閱讀文章重複了兩次「beer」。"
   },
   {
     "id": 62,
@@ -679,7 +679,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"actually\".",
-    "translation": "請看例句中的「actually」：它的中文意思是「確實」。"
+    "translation": "Jason 問「actually」要怎麼發音。"
   },
   {
     "id": 63,
@@ -690,7 +690,7 @@ const VOCABULARY = [
     "category": "片語",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"baby sitter\" with its meaning.",
-    "translation": "在這句話裡，「baby sitter」表示「保母」。"
+    "translation": "這張學習單要求學生把「baby sitter」和它的意思配對。"
   },
   {
     "id": 64,
@@ -701,7 +701,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I saw \"angry\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「angry」，中文是「生氣的」。"
+    "translation": "我在課文第一頁看到了「angry」。"
   },
   {
     "id": 65,
@@ -712,7 +712,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The sentence before \"before\" helped me guess the answer.",
-    "translation": "這句英文示範了「before」的用法，意思是「在…之前」。"
+    "translation": "「before」前面的句子幫助我猜出答案。"
   },
   {
     "id": 66,
@@ -723,7 +723,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our teacher turned \"add\" into a quick quiz question.",
-    "translation": "記住「add」這個字：它的意思是「增加」。"
+    "translation": "我們的老師把「add」變成一道快速測驗題。"
   },
   {
     "id": 67,
@@ -734,7 +734,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"back\" with a simple picture.",
-    "translation": "這個單字在例句中是「back」，中文意思為「背部」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「back」。"
   },
   {
     "id": 68,
@@ -745,7 +745,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"ankle\" after dinner.",
-    "translation": "從例句可以看出，「ankle」的意思是「腳踝」。"
+    "translation": "我晚餐後練習拼寫「ankle」。"
   },
   {
     "id": 69,
@@ -756,7 +756,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"begin\" in a real-life situation.",
-    "translation": "當你看到「begin」時，可以想到「開始」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「begin」。"
   },
   {
     "id": 70,
@@ -767,7 +767,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"address\" beside a small drawing.",
-    "translation": "「address」在這個例句中用來表達「地址」。"
+    "translation": "Sara 在一張小圖旁寫下「address」。"
   },
   {
     "id": 71,
@@ -778,7 +778,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"backward(s)\" near the end.",
-    "translation": "這個例句使用了「backward(s)」，意思是「向後地」。"
+    "translation": "這段對話在接近結尾的地方包含「backward(s)」。"
   },
   {
     "id": 72,
@@ -789,7 +789,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"animal\" as my word of the day.",
-    "translation": "請看例句中的「animal」：它的中文意思是「動物」。"
+    "translation": "我選「animal」作為今天的每日單字。"
   },
   {
     "id": 73,
@@ -800,7 +800,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The textbook explains \"beginner\" with an easy sentence.",
-    "translation": "在這句話裡，「beginner」表示「初學者」。"
+    "translation": "課本用一個簡單句子解釋「beginner」。"
   },
   {
     "id": 74,
@@ -811,7 +811,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"admire\".",
-    "translation": "例句幫助你理解「admire」，中文是「欽佩」。"
+    "translation": "我和我的搭檔用「admire」造了一個問題。"
   },
   {
     "id": 75,
@@ -822,7 +822,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The answer choice contains \"bad\".",
-    "translation": "這句英文示範了「bad」的用法，意思是「壞的」。"
+    "translation": "這個答案選項包含「bad」。"
   },
   {
     "id": 76,
@@ -833,7 +833,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I remembered \"another\" because it was in a funny story.",
-    "translation": "記住「another」這個字：它的意思是「另外的」。"
+    "translation": "我記得「another」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 77,
@@ -844,7 +844,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"beginning\" quickly.",
-    "translation": "這個單字在例句中是「beginning」，中文意思為「開始」。"
+    "translation": "複習遊戲要求我們快速拼出「beginning」。"
   },
   {
     "id": 78,
@@ -855,7 +855,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"adult\" helped the reader understand it.",
-    "translation": "從例句可以看出，「adult」的意思是「成人」。"
+    "translation": "「adult」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 79,
@@ -866,7 +866,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"badminton\" in a school setting.",
-    "translation": "當你看到「badminton」時，可以想到「羽毛球」這個意思。"
+    "translation": "這個句子在學校情境中使用「badminton」。"
   },
   {
     "id": 80,
@@ -877,7 +877,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "I found \"answer\" while checking the answer sheet.",
-    "translation": "「answer」在這個例句中用來表達「答案」。"
+    "translation": "我在檢查答案卷時找到了「answer」。"
   },
   {
     "id": 81,
@@ -888,7 +888,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"behave\".",
-    "translation": "這個例句使用了「behave」，意思是「表現」。"
+    "translation": "故事中的角色學會了「behave」這個字。"
   },
   {
     "id": 82,
@@ -899,7 +899,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"advertisement\".",
-    "translation": "請看例句中的「advertisement」：它的中文意思是「廣告」。"
+    "translation": "線上字典提供了「advertisement」的例句。"
   },
   {
     "id": 83,
@@ -910,7 +910,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"bag\" during pair practice.",
-    "translation": "在這句話裡，「bag」表示「袋子」。"
+    "translation": "全班在雙人練習時使用了「bag」。"
   },
   {
     "id": 84,
@@ -921,7 +921,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"ant\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「ant」，中文是「螞蟻」。"
+    "translation": "我把「ant」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 85,
@@ -932,7 +932,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"behind\" aloud.",
-    "translation": "這句英文示範了「behind」的用法，意思是「在之後」。"
+    "translation": "老師請每個人大聲讀出「behind」。"
   },
   {
     "id": 86,
@@ -943,7 +943,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"advice\" was useful in the reading question.",
-    "translation": "記住「advice」這個字：它的意思是「勸告」。"
+    "translation": "「advice」這個字在閱讀題中很有用。"
   },
   {
     "id": 87,
@@ -954,7 +954,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"bake\".",
-    "translation": "這個單字在例句中是「bake」，中文意思為「烘烤」。"
+    "translation": "我用彩色筆標記「bake」。"
   },
   {
     "id": 88,
@@ -965,7 +965,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The practice sentence makes \"any\" easier to understand.",
-    "translation": "從例句可以看出，「any」的意思是「任何的」。"
+    "translation": "這個練習句讓「any」更容易理解。"
   },
   {
     "id": 89,
@@ -976,7 +976,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "We listened for \"believe\" in the audio clip.",
-    "translation": "當你看到「believe」時，可以想到「相信」這個意思。"
+    "translation": "我們在音檔中聽「believe」這個字。"
   },
   {
     "id": 90,
@@ -987,7 +987,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"advise\" helped me understand the main idea.",
-    "translation": "「advise」在這個例句中用來表達「勸告」。"
+    "translation": "「advise」這個字幫助我理解主旨。"
   },
   {
     "id": 91,
@@ -998,7 +998,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"bakery\" on a sticky note.",
-    "translation": "這個例句使用了「bakery」，意思是「麵包店」。"
+    "translation": "我把「bakery」寫在便利貼上。"
   },
   {
     "id": 92,
@@ -1009,7 +1009,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The reading club discussed \"anyone\" after class.",
-    "translation": "請看例句中的「anyone」：它的中文意思是「任何人」。"
+    "translation": "閱讀社在課後討論了「anyone」。"
   },
   {
     "id": 93,
@@ -1020,7 +1020,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"bell\" naturally.",
-    "translation": "在這句話裡，「bell」表示「鈴」。"
+    "translation": "範例對話自然地使用了「bell」。"
   },
   {
     "id": 94,
@@ -1031,7 +1031,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"affect\" was a new word for me.",
-    "translation": "例句幫助你理解「affect」，中文是「影響」。"
+    "translation": "我確認「affect」對我來說是不是新單字。"
   },
   {
     "id": 95,
@@ -1042,7 +1042,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"balcony\" memorable.",
-    "translation": "這句英文示範了「balcony」的用法，意思是「陽臺」。"
+    "translation": "老師的故事讓「balcony」變得令人印象深刻。"
   },
   {
     "id": 96,
@@ -1053,7 +1053,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"anything\" as a challenge word.",
-    "translation": "記住「anything」這個字：它的意思是「任何事物」。"
+    "translation": "小組活動把「anything」列為挑戰單字。"
   },
   {
     "id": 97,
@@ -1064,7 +1064,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"belong\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「belong」，中文意思為「屬於」。"
+    "translation": "老師在閱讀測驗前把「belong」寫在黑板上。"
   },
   {
     "id": 98,
@@ -1075,7 +1075,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Amy circled \"afraid\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「afraid」的意思是「害怕的」。"
+    "translation": "Amy 圈起「afraid」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 99,
@@ -1086,7 +1086,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"ball\" in his homework sentence.",
-    "translation": "當你看到「ball」時，可以想到「球」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「ball」。"
   },
   {
     "id": 100,
@@ -1097,7 +1097,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"anywhere\" in today's short story.",
-    "translation": "「anywhere」在這個例句中用來表達「任何地方」。"
+    "translation": "全班在今天的短篇故事中找到了「anywhere」。"
   },
   {
     "id": 101,
@@ -1108,7 +1108,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"below\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「below」，意思是「在下面」。"
+    "translation": "我在複習段落時把「below」畫線標記。"
   },
   {
     "id": 102,
@@ -1119,7 +1119,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"after\".",
-    "translation": "請看例句中的「after」：它的中文意思是「在…之後」。"
+    "translation": "我們小組做了一張有「after」這個字的海報。"
   },
   {
     "id": 103,
@@ -1130,7 +1130,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"balloon\".",
-    "translation": "在這句話裡，「balloon」表示「氣球」。"
+    "translation": "這個例句幫助我記住「balloon」。"
   },
   {
     "id": 104,
@@ -1141,7 +1141,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"apartment\" appeared in the listening script.",
-    "translation": "例句幫助你理解「apartment」，中文是「公寓」。"
+    "translation": "「apartment」這個字出現在聽力稿中。"
   },
   {
     "id": 105,
@@ -1152,7 +1152,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"belt\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「belt」的用法，意思是「皮帶」。"
+    "translation": "Mina 在她的單字筆記本裡查了「belt」。"
   },
   {
     "id": 106,
@@ -1163,7 +1163,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"afternoon\".",
-    "translation": "記住「afternoon」這個字：它的意思是「下午」。"
+    "translation": "這個問題提供了關於「afternoon」的線索。"
   },
   {
     "id": 107,
@@ -1174,7 +1174,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"banana\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「banana」，中文意思為「香蕉」。"
+    "translation": "故事使用「banana」讓場景更清楚。"
   },
   {
     "id": 108,
@@ -1185,7 +1185,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"apologize\" to my review list for Friday.",
-    "translation": "從例句可以看出，「apologize」的意思是「道歉」。"
+    "translation": "我把「apologize」加入星期五的複習清單。"
   },
   {
     "id": 109,
@@ -1196,7 +1196,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"bench\" twice.",
-    "translation": "當你看到「bench」時，可以想到「長凳」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「bench」。"
   },
   {
     "id": 110,
@@ -1207,7 +1207,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"again\".",
-    "translation": "「again」在這個例句中用來表達「再度」。"
+    "translation": "Jason 問「again」要怎麼發音。"
   },
   {
     "id": 111,
@@ -1218,7 +1218,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"band\" with its meaning.",
-    "translation": "這個例句使用了「band」，意思是「樂團」。"
+    "translation": "這張學習單要求學生把「band」和它的意思配對。"
   },
   {
     "id": 112,
@@ -1229,7 +1229,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"appear\" on the first page of the lesson.",
-    "translation": "請看例句中的「appear」：它的中文意思是「出現」。"
+    "translation": "我在課文第一頁看到了「appear」。"
   },
   {
     "id": 113,
@@ -1240,7 +1240,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"besides\" helped me guess the answer.",
-    "translation": "在這句話裡，「besides」表示「此外」。"
+    "translation": "「besides」前面的句子幫助我猜出答案。"
   },
   {
     "id": 114,
@@ -1251,7 +1251,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Our teacher turned \"against\" into a quick quiz question.",
-    "translation": "例句幫助你理解「against」，中文是「靠著」。"
+    "translation": "我們的老師把「against」變成一道快速測驗題。"
   },
   {
     "id": 115,
@@ -1262,7 +1262,7 @@ const VOCABULARY = [
     "category": "社會",
     "level": "國中2000",
     "example": "The flashcard shows \"bank\" with a simple picture.",
-    "translation": "這句英文示範了「bank」的用法，意思是「銀行」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「bank」。"
   },
   {
     "id": 116,
@@ -1273,7 +1273,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"apple\" after dinner.",
-    "translation": "記住「apple」這個字：它的意思是「蘋果」。"
+    "translation": "我晚餐後練習拼寫「apple」。"
   },
   {
     "id": 117,
@@ -1284,7 +1284,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The test item uses \"between\" in a real-life situation.",
-    "translation": "這個單字在例句中是「between」，中文意思為「在…之間」。"
+    "translation": "這道測驗題在真實生活情境中使用「between」。"
   },
   {
     "id": 118,
@@ -1295,7 +1295,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"age\" beside a small drawing.",
-    "translation": "從例句可以看出，「age」的意思是「年齡」。"
+    "translation": "Sara 在一張小圖旁寫下「age」。"
   },
   {
     "id": 119,
@@ -1306,7 +1306,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"barbecue\" near the end.",
-    "translation": "當你看到「barbecue」時，可以想到「火烤」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「barbecue」。"
   },
   {
     "id": 120,
@@ -1317,7 +1317,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"appreciate\" as my word of the day.",
-    "translation": "「appreciate」在這個例句中用來表達「欣賞」。"
+    "translation": "我選「appreciate」作為今天的每日單字。"
   },
   {
     "id": 121,
@@ -1328,7 +1328,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The textbook explains \"beyond\" with an easy sentence.",
-    "translation": "這個例句使用了「beyond」，意思是「超出」。"
+    "translation": "課本用一個簡單句子解釋「beyond」。"
   },
   {
     "id": 122,
@@ -1339,7 +1339,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"ago\".",
-    "translation": "請看例句中的「ago」：它的中文意思是「…之前」。"
+    "translation": "我和我的搭檔用「ago」造了一個問題。"
   },
   {
     "id": 123,
@@ -1350,7 +1350,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"barber\".",
-    "translation": "在這句話裡，「barber」表示「理髮師」。"
+    "translation": "這個答案選項包含「barber」。"
   },
   {
     "id": 124,
@@ -1361,7 +1361,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"April\" because it was in a funny story.",
-    "translation": "例句幫助你理解「April」，中文是「四月」。"
+    "translation": "我記得「April」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 125,
@@ -1372,7 +1372,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"bicycle\" quickly.",
-    "translation": "這句英文示範了「bicycle」的用法，意思是「腳踏車」。"
+    "translation": "複習遊戲要求我們快速拼出「bicycle」。"
   },
   {
     "id": 126,
@@ -1383,7 +1383,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"agree\" helped the reader understand it.",
-    "translation": "記住「agree」這個字：它的意思是「同意」。"
+    "translation": "「agree」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 127,
@@ -1394,7 +1394,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence uses \"bark\" in a school setting.",
-    "translation": "這個單字在例句中是「bark」，中文意思為「吠叫」。"
+    "translation": "這個句子在學校情境中使用「bark」。"
   },
   {
     "id": 128,
@@ -1405,7 +1405,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"area\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「area」的意思是「地區」。"
+    "translation": "我在檢查答案卷時找到了「area」。"
   },
   {
     "id": 129,
@@ -1416,7 +1416,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"big\".",
-    "translation": "當你看到「big」時，可以想到「大的」這個意思。"
+    "translation": "故事中的角色學會了「big」這個字。"
   },
   {
     "id": 130,
@@ -1427,7 +1427,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"ahead\".",
-    "translation": "「ahead」在這個例句中用來表達「向前」。"
+    "translation": "線上字典提供了「ahead」的例句。"
   },
   {
     "id": 131,
@@ -1438,7 +1438,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"base\" during pair practice.",
-    "translation": "這個例句使用了「base」，意思是「基礎」。"
+    "translation": "全班在雙人練習時使用了「base」。"
   },
   {
     "id": 132,
@@ -1449,7 +1449,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"argue\" into a sentence about daily life.",
-    "translation": "請看例句中的「argue」：它的中文意思是「爭論」。"
+    "translation": "我把「argue」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 133,
@@ -1460,7 +1460,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"bill\" aloud.",
-    "translation": "在這句話裡，「bill」表示「帳單；鈔票」。"
+    "translation": "老師請每個人大聲讀出「bill」。"
   },
   {
     "id": 134,
@@ -1471,7 +1471,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"aim\" was useful in the reading question.",
-    "translation": "例句幫助你理解「aim」，中文是「目標」。"
+    "translation": "「aim」這個字在閱讀題中很有用。"
   },
   {
     "id": 135,
@@ -1482,7 +1482,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"baseball\".",
-    "translation": "這句英文示範了「baseball」的用法，意思是「棒球」。"
+    "translation": "我用彩色筆標記「baseball」。"
   },
   {
     "id": 136,
@@ -1493,7 +1493,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"arm\" easier to understand.",
-    "translation": "記住「arm」這個字：它的意思是「手臂」。"
+    "translation": "這個練習句讓「arm」更容易理解。"
   },
   {
     "id": 137,
@@ -1504,7 +1504,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "We listened for \"biology\" in the audio clip.",
-    "translation": "這個單字在例句中是「biology」，中文意思為「生物學」。"
+    "translation": "我們在音檔中聽「biology」這個字。"
   },
   {
     "id": 138,
@@ -1515,7 +1515,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"air\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「air」的意思是「空氣」。"
+    "translation": "「air」這個字幫助我理解主旨。"
   },
   {
     "id": 139,
@@ -1526,7 +1526,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"basement\" on a sticky note.",
-    "translation": "當你看到「basement」時，可以想到「地下室」這個意思。"
+    "translation": "我把「basement」寫在便利貼上。"
   },
   {
     "id": 140,
@@ -1537,7 +1537,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"armchair\" after class.",
-    "translation": "「armchair」在這個例句中用來表達「扶手椅」。"
+    "translation": "閱讀社在課後討論了「armchair」。"
   },
   {
     "id": 141,
@@ -1548,7 +1548,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"bird\" naturally.",
-    "translation": "這個例句使用了「bird」，意思是「鳥」。"
+    "translation": "範例對話自然地使用了「bird」。"
   },
   {
     "id": 142,
@@ -1559,7 +1559,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"airplane\" was a new word for me.",
-    "translation": "請看例句中的「airplane」：它的中文意思是「飛機」。"
+    "translation": "我確認「airplane」對我來說是不是新單字。"
   },
   {
     "id": 143,
@@ -1570,7 +1570,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"basic\" memorable.",
-    "translation": "在這句話裡，「basic」表示「基礎的」。"
+    "translation": "老師的故事讓「basic」變得令人印象深刻。"
   },
   {
     "id": 144,
@@ -1581,7 +1581,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"army\" as a challenge word.",
-    "translation": "例句幫助你理解「army」，中文是「軍隊」。"
+    "translation": "小組活動把「army」列為挑戰單字。"
   },
   {
     "id": 145,
@@ -1592,7 +1592,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"birthday\" on the board before the reading test.",
-    "translation": "這句英文示範了「birthday」的用法，意思是「生日」。"
+    "translation": "老師在閱讀測驗前把「birthday」寫在黑板上。"
   },
   {
     "id": 146,
@@ -1603,7 +1603,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"airport\" because it was the key word in the sentence.",
-    "translation": "記住「airport」這個字：它的意思是「機場」。"
+    "translation": "Amy 圈起「airport」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 147,
@@ -1614,7 +1614,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"basket\" in his homework sentence.",
-    "translation": "這個單字在例句中是「basket」，中文意思為「籃子」。"
+    "translation": "Kevin 在他的作業句子中使用了「basket」。"
   },
   {
     "id": 148,
@@ -1625,7 +1625,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"around\" in today's short story.",
-    "translation": "從例句可以看出，「around」的意思是「在附近」。"
+    "translation": "全班在今天的短篇故事中找到了「around」。"
   },
   {
     "id": 149,
@@ -1636,7 +1636,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"bite\" while reviewing the paragraph.",
-    "translation": "當你看到「bite」時，可以想到「咬」這個意思。"
+    "translation": "我在複習段落時把「bite」畫線標記。"
   },
   {
     "id": 150,
@@ -1647,7 +1647,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"alarm\".",
-    "translation": "「alarm」在這個例句中用來表達「警報器」。"
+    "translation": "我們小組做了一張有「alarm」這個字的海報。"
   },
   {
     "id": 151,
@@ -1658,7 +1658,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"basketball\".",
-    "translation": "這個例句使用了「basketball」，意思是「籃球」。"
+    "translation": "這個例句幫助我記住「basketball」。"
   },
   {
     "id": 152,
@@ -1669,7 +1669,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"arrange\" appeared in the listening script.",
-    "translation": "請看例句中的「arrange」：它的中文意思是「安排」。"
+    "translation": "「arrange」這個字出現在聽力稿中。"
   },
   {
     "id": 153,
@@ -1680,7 +1680,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"bitter\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「bitter」表示「痛苦的」。"
+    "translation": "Mina 在她的單字筆記本裡查了「bitter」。"
   },
   {
     "id": 154,
@@ -1691,7 +1691,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"album\".",
-    "translation": "例句幫助你理解「album」，中文是「相簿」。"
+    "translation": "這個問題提供了關於「album」的線索。"
   },
   {
     "id": 155,
@@ -1702,7 +1702,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"bat\" to make the scene clearer.",
-    "translation": "這句英文示範了「bat」的用法，意思是「蝙蝠」。"
+    "translation": "故事使用「bat」讓場景更清楚。"
   },
   {
     "id": 156,
@@ -1713,7 +1713,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"arrive\" to my review list for Friday.",
-    "translation": "記住「arrive」這個字：它的意思是「到達」。"
+    "translation": "我把「arrive」加入星期五的複習清單。"
   },
   {
     "id": 157,
@@ -1724,7 +1724,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"black\" twice.",
-    "translation": "這個單字在例句中是「black」，中文意思為「黑的」。"
+    "translation": "這篇閱讀文章重複了兩次「black」。"
   },
   {
     "id": 158,
@@ -1735,7 +1735,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"alike\".",
-    "translation": "從例句可以看出，「alike」的意思是「相同地」。"
+    "translation": "Jason 問「alike」要怎麼發音。"
   },
   {
     "id": 159,
@@ -1746,7 +1746,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"bath\" with its meaning.",
-    "translation": "當你看到「bath」時，可以想到「沐浴」這個意思。"
+    "translation": "這張學習單要求學生把「bath」和它的意思配對。"
   },
   {
     "id": 160,
@@ -1757,7 +1757,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"art\" on the first page of the lesson.",
-    "translation": "「art」在這個例句中用來表達「藝術」。"
+    "translation": "我在課文第一頁看到了「art」。"
   },
   {
     "id": 161,
@@ -1768,7 +1768,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"blackboard\" helped me guess the answer.",
-    "translation": "這個例句使用了「blackboard」，意思是「黑板」。"
+    "translation": "「blackboard」前面的句子幫助我猜出答案。"
   },
   {
     "id": 162,
@@ -1779,7 +1779,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our teacher turned \"blame\" into a quick quiz question.",
-    "translation": "請看例句中的「blame」：它的中文意思是「責怪」。"
+    "translation": "我們的老師把「blame」變成一道快速測驗題。"
   },
   {
     "id": 163,
@@ -1790,7 +1790,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The flashcard shows \"broad\" with a simple picture.",
-    "translation": "在這句話裡，「broad」表示「寬闊的」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「broad」。"
   },
   {
     "id": 164,
@@ -1801,7 +1801,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"candy\" after dinner.",
-    "translation": "例句幫助你理解「candy」，中文是「糖果」。"
+    "translation": "我晚餐後練習拼寫「candy」。"
   },
   {
     "id": 165,
@@ -1812,7 +1812,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"cheer\" in a real-life situation.",
-    "translation": "這句英文示範了「cheer」的用法，意思是「歡呼」。"
+    "translation": "這道測驗題在真實生活情境中使用「cheer」。"
   },
   {
     "id": 166,
@@ -1823,7 +1823,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Sara wrote \"blank\" beside a small drawing.",
-    "translation": "記住「blank」這個字：它的意思是「空白的」。"
+    "translation": "Sara 在一張小圖旁寫下「blank」。"
   },
   {
     "id": 167,
@@ -1834,7 +1834,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"broadcast\" near the end.",
-    "translation": "這個單字在例句中是「broadcast」，中文意思為「廣播」。"
+    "translation": "這段對話在接近結尾的地方包含「broadcast」。"
   },
   {
     "id": 168,
@@ -1845,7 +1845,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"cap\" as my word of the day.",
-    "translation": "從例句可以看出，「cap」的意思是「帽子」。"
+    "translation": "我選「cap」作為今天的每日單字。"
   },
   {
     "id": 169,
@@ -1856,7 +1856,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"cheese\" with an easy sentence.",
-    "translation": "當你看到「cheese」時，可以想到「起司」這個意思。"
+    "translation": "課本用一個簡單句子解釋「cheese」。"
   },
   {
     "id": 170,
@@ -1867,7 +1867,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"blanket\".",
-    "translation": "「blanket」在這個例句中用來表達「毯子」。"
+    "translation": "我和我的搭檔用「blanket」造了一個問題。"
   },
   {
     "id": 171,
@@ -1878,7 +1878,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"brother\".",
-    "translation": "這個例句使用了「brother」，意思是「兄弟」。"
+    "translation": "這個答案選項包含「brother」。"
   },
   {
     "id": 172,
@@ -1889,7 +1889,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"captain\" because it was in a funny story.",
-    "translation": "請看例句中的「captain」：它的中文意思是「隊長」。"
+    "translation": "我記得「captain」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 173,
@@ -1900,7 +1900,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The review game asked us to spell \"chemical\" quickly.",
-    "translation": "在這句話裡，「chemical」表示「化學的」。"
+    "translation": "複習遊戲要求我們快速拼出「chemical」。"
   },
   {
     "id": 174,
@@ -1911,7 +1911,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"blind\" helped the reader understand it.",
-    "translation": "例句幫助你理解「blind」，中文是「失明的」。"
+    "translation": "「blind」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 175,
@@ -1922,7 +1922,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence uses \"brown\" in a school setting.",
-    "translation": "這句英文示範了「brown」的用法，意思是「棕色的」。"
+    "translation": "這個句子在學校情境中使用「brown」。"
   },
   {
     "id": 176,
@@ -1933,7 +1933,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"car\" while checking the answer sheet.",
-    "translation": "記住「car」這個字：它的意思是「車子」。"
+    "translation": "我在檢查答案卷時找到了「car」。"
   },
   {
     "id": 177,
@@ -1944,7 +1944,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"chess\".",
-    "translation": "這個單字在例句中是「chess」，中文意思為「西洋棋」。"
+    "translation": "故事中的角色學會了「chess」這個字。"
   },
   {
     "id": 178,
@@ -1955,7 +1955,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"block\".",
-    "translation": "從例句可以看出，「block」的意思是「街區」。"
+    "translation": "線上字典提供了「block」的例句。"
   },
   {
     "id": 179,
@@ -1966,7 +1966,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"brunch\" during pair practice.",
-    "translation": "當你看到「brunch」時，可以想到「早午餐」這個意思。"
+    "translation": "全班在雙人練習時使用了「brunch」。"
   },
   {
     "id": 180,
@@ -1977,7 +1977,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"card\" into a sentence about daily life.",
-    "translation": "「card」在這個例句中用來表達「卡片」。"
+    "translation": "我把「card」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 181,
@@ -1988,7 +1988,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"chicken\" aloud.",
-    "translation": "這個例句使用了「chicken」，意思是「雞」。"
+    "translation": "老師請每個人大聲讀出「chicken」。"
   },
   {
     "id": 182,
@@ -1999,7 +1999,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"blood\" was useful in the reading question.",
-    "translation": "請看例句中的「blood」：它的中文意思是「血」。"
+    "translation": "「blood」這個字在閱讀題中很有用。"
   },
   {
     "id": 183,
@@ -2010,7 +2010,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"brush\".",
-    "translation": "在這句話裡，「brush」表示「刷子」。"
+    "translation": "我用彩色筆標記「brush」。"
   },
   {
     "id": 184,
@@ -2021,7 +2021,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The practice sentence makes \"care\" easier to understand.",
-    "translation": "例句幫助你理解「care」，中文是「關心」。"
+    "translation": "這個練習句讓「care」更容易理解。"
   },
   {
     "id": 185,
@@ -2032,7 +2032,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"chief\" in the audio clip.",
-    "translation": "這句英文示範了「chief」的用法，意思是「首領」。"
+    "translation": "我們在音檔中聽「chief」這個字。"
   },
   {
     "id": 186,
@@ -2043,7 +2043,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"bloody\" helped me understand the main idea.",
-    "translation": "記住「bloody」這個字：它的意思是「血腥的」。"
+    "translation": "「bloody」這個字幫助我理解主旨。"
   },
   {
     "id": 187,
@@ -2054,7 +2054,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"bucket\" on a sticky note.",
-    "translation": "這個單字在例句中是「bucket」，中文意思為「桶子」。"
+    "translation": "我把「bucket」寫在便利貼上。"
   },
   {
     "id": 188,
@@ -2065,7 +2065,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading club discussed \"careful\" after class.",
-    "translation": "從例句可以看出，「careful」的意思是「小心的」。"
+    "translation": "閱讀社在課後討論了「careful」。"
   },
   {
     "id": 189,
@@ -2076,7 +2076,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"child\" naturally.",
-    "translation": "當你看到「child」時，可以想到「小孩」這個意思。"
+    "translation": "範例對話自然地使用了「child」。"
   },
   {
     "id": 190,
@@ -2087,7 +2087,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"blow\" was a new word for me.",
-    "translation": "「blow」在這個例句中用來表達「吹」。"
+    "translation": "我確認「blow」對我來說是不是新單字。"
   },
   {
     "id": 191,
@@ -2098,7 +2098,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"buffet\" memorable.",
-    "translation": "這個例句使用了「buffet」，意思是「自助餐」。"
+    "translation": "老師的故事讓「buffet」變得令人印象深刻。"
   },
   {
     "id": 192,
@@ -2109,7 +2109,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The group activity included \"careless\" as a challenge word.",
-    "translation": "請看例句中的「careless」：它的中文意思是「粗心的」。"
+    "translation": "小組活動把「careless」列為挑戰單字。"
   },
   {
     "id": 193,
@@ -2120,7 +2120,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher wrote \"childish\" on the board before the reading test.",
-    "translation": "在這句話裡，「childish」表示「幼稚的」。"
+    "translation": "老師在閱讀測驗前把「childish」寫在黑板上。"
   },
   {
     "id": 194,
@@ -2131,7 +2131,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Amy circled \"blue\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「blue」，中文是「藍的」。"
+    "translation": "Amy 圈起「blue」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 195,
@@ -2142,7 +2142,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"bug\" in his homework sentence.",
-    "translation": "這句英文示範了「bug」的用法，意思是「昆蟲」。"
+    "translation": "Kevin 在他的作業句子中使用了「bug」。"
   },
   {
     "id": 196,
@@ -2153,7 +2153,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"carpet\" in today's short story.",
-    "translation": "記住「carpet」這個字：它的意思是「地毯」。"
+    "translation": "全班在今天的短篇故事中找到了「carpet」。"
   },
   {
     "id": 197,
@@ -2164,7 +2164,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I underlined \"childlike\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「childlike」，中文意思為「天真的」。"
+    "translation": "我在複習段落時把「childlike」畫線標記。"
   },
   {
     "id": 198,
@@ -2175,7 +2175,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"boat\".",
-    "translation": "從例句可以看出，「boat」的意思是「船」。"
+    "translation": "我們小組做了一張有「boat」這個字的海報。"
   },
   {
     "id": 199,
@@ -2186,7 +2186,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"build\".",
-    "translation": "當你看到「build」時，可以想到「建造」這個意思。"
+    "translation": "這個例句幫助我記住「build」。"
   },
   {
     "id": 200,
@@ -2197,7 +2197,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"carrot\" appeared in the listening script.",
-    "translation": "「carrot」在這個例句中用來表達「胡蘿蔔」。"
+    "translation": "「carrot」這個字出現在聽力稿中。"
   },
   {
     "id": 201,
@@ -2208,7 +2208,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"chin\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「chin」，意思是「下巴」。"
+    "translation": "Mina 在她的單字筆記本裡查了「chin」。"
   },
   {
     "id": 202,
@@ -2219,7 +2219,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"body\".",
-    "translation": "請看例句中的「body」：它的中文意思是「身體」。"
+    "translation": "這個問題提供了關於「body」的線索。"
   },
   {
     "id": 203,
@@ -2230,7 +2230,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"building\" to make the scene clearer.",
-    "translation": "在這句話裡，「building」表示「建築物」。"
+    "translation": "故事使用「building」讓場景更清楚。"
   },
   {
     "id": 204,
@@ -2241,7 +2241,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"carry\" to my review list for Friday.",
-    "translation": "例句幫助你理解「carry」，中文是「拿，運送」。"
+    "translation": "我把「carry」加入星期五的複習清單。"
   },
   {
     "id": 205,
@@ -2252,7 +2252,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"chocolate\" twice.",
-    "translation": "這句英文示範了「chocolate」的用法，意思是「巧克力」。"
+    "translation": "這篇閱讀文章重複了兩次「chocolate」。"
   },
   {
     "id": 206,
@@ -2263,7 +2263,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"boil\".",
-    "translation": "記住「boil」這個字：它的意思是「燒開」。"
+    "translation": "Jason 問「boil」要怎麼發音。"
   },
   {
     "id": 207,
@@ -2274,7 +2274,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"bun\" with its meaning.",
-    "translation": "這個單字在例句中是「bun」，中文意思為「圓麵包」。"
+    "translation": "這張學習單要求學生把「bun」和它的意思配對。"
   },
   {
     "id": 208,
@@ -2285,7 +2285,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"cartoon\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「cartoon」的意思是「卡通」。"
+    "translation": "我在課文第一頁看到了「cartoon」。"
   },
   {
     "id": 209,
@@ -2296,7 +2296,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"choice\" helped me guess the answer.",
-    "translation": "當你看到「choice」時，可以想到「選擇」這個意思。"
+    "translation": "「choice」前面的句子幫助我猜出答案。"
   },
   {
     "id": 210,
@@ -2307,7 +2307,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"bomb\" into a quick quiz question.",
-    "translation": "「bomb」在這個例句中用來表達「炸彈」。"
+    "translation": "我們的老師把「bomb」變成一道快速測驗題。"
   },
   {
     "id": 211,
@@ -2318,7 +2318,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"bundle\" with a simple picture.",
-    "translation": "這個例句使用了「bundle」，意思是「(一)包，束」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「bundle」。"
   },
   {
     "id": 212,
@@ -2329,7 +2329,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"case\" after dinner.",
-    "translation": "請看例句中的「case」：它的中文意思是「例子」。"
+    "translation": "我晚餐後練習拼寫「case」。"
   },
   {
     "id": 213,
@@ -2340,7 +2340,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"choose\" in a real-life situation.",
-    "translation": "在這句話裡，「choose」表示「選擇」。"
+    "translation": "這道測驗題在真實生活情境中使用「choose」。"
   },
   {
     "id": 214,
@@ -2351,7 +2351,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"bone\" beside a small drawing.",
-    "translation": "例句幫助你理解「bone」，中文是「骨頭」。"
+    "translation": "Sara 在一張小圖旁寫下「bone」。"
   },
   {
     "id": 215,
@@ -2362,7 +2362,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"burn\" near the end.",
-    "translation": "這句英文示範了「burn」的用法，意思是「燒」。"
+    "translation": "這段對話在接近結尾的地方包含「burn」。"
   },
   {
     "id": 216,
@@ -2373,7 +2373,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"cash\" as my word of the day.",
-    "translation": "記住「cash」這個字：它的意思是「現金」。"
+    "translation": "我選「cash」作為今天的每日單字。"
   },
   {
     "id": 217,
@@ -2384,7 +2384,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"chopstick\" with an easy sentence.",
-    "translation": "這個單字在例句中是「chopstick」，中文意思為「筷子」。"
+    "translation": "課本用一個簡單句子解釋「chopstick」。"
   },
   {
     "id": 218,
@@ -2395,7 +2395,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "My partner and I made a question with \"book\".",
-    "translation": "從例句可以看出，「book」的意思是「書」。"
+    "translation": "我和我的搭檔用「book」造了一個問題。"
   },
   {
     "id": 219,
@@ -2406,7 +2406,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"burst\".",
-    "translation": "當你看到「burst」時，可以想到「爆裂」這個意思。"
+    "translation": "這個答案選項包含「burst」。"
   },
   {
     "id": 220,
@@ -2417,7 +2417,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"cassette\" because it was in a funny story.",
-    "translation": "「cassette」在這個例句中用來表達「卡帶」。"
+    "translation": "我記得「cassette」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 221,
@@ -2428,7 +2428,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"Christmas\" quickly.",
-    "translation": "這個例句使用了「Christmas」，意思是「耶誕節」。"
+    "translation": "複習遊戲要求我們快速拼出「Christmas」。"
   },
   {
     "id": 222,
@@ -2439,7 +2439,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The note beside \"bookcase\" helped the reader understand it.",
-    "translation": "請看例句中的「bookcase」：它的中文意思是「書櫥」。"
+    "translation": "「bookcase」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 223,
@@ -2450,7 +2450,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"bus\" in a school setting.",
-    "translation": "在這句話裡，「bus」表示「公車」。"
+    "translation": "這個句子在學校情境中使用「bus」。"
   },
   {
     "id": 224,
@@ -2461,7 +2461,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"castle\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「castle」，中文是「城堡」。"
+    "translation": "我在檢查答案卷時找到了「castle」。"
   },
   {
     "id": 225,
@@ -2472,7 +2472,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"chubby\".",
-    "translation": "這句英文示範了「chubby」的用法，意思是「豐滿的」。"
+    "translation": "故事中的角色學會了「chubby」這個字。"
   },
   {
     "id": 226,
@@ -2483,7 +2483,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"bored\".",
-    "translation": "記住「bored」這個字：它的意思是「厭倦的」。"
+    "translation": "線上字典提供了「bored」的例句。"
   },
   {
     "id": 227,
@@ -2494,7 +2494,7 @@ const VOCABULARY = [
     "category": "社會",
     "level": "國中2000",
     "example": "The class used \"business\" during pair practice.",
-    "translation": "這個單字在例句中是「business」，中文意思為「商業」。"
+    "translation": "全班在雙人練習時使用了「business」。"
   },
   {
     "id": 228,
@@ -2505,7 +2505,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"cat\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「cat」的意思是「貓」。"
+    "translation": "我把「cat」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 229,
@@ -2516,7 +2516,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"church\" aloud.",
-    "translation": "當你看到「church」時，可以想到「教堂」這個意思。"
+    "translation": "老師請每個人大聲讀出「church」。"
   },
   {
     "id": 230,
@@ -2527,7 +2527,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"born\" was useful in the reading question.",
-    "translation": "「born」在這個例句中用來表達「天生的」。"
+    "translation": "「born」這個字在閱讀題中很有用。"
   },
   {
     "id": 231,
@@ -2538,7 +2538,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"businessman\".",
-    "translation": "這個例句使用了「businessman」，意思是「商人」。"
+    "translation": "我用彩色筆標記「businessman」。"
   },
   {
     "id": 232,
@@ -2549,7 +2549,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The practice sentence makes \"catch\" easier to understand.",
-    "translation": "請看例句中的「catch」：它的中文意思是「追捕」。"
+    "translation": "這個練習句讓「catch」更容易理解。"
   },
   {
     "id": 233,
@@ -2560,7 +2560,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "We listened for \"claim\" in the audio clip.",
-    "translation": "在這句話裡，「claim」表示「主張」。"
+    "translation": "我們在音檔中聽「claim」這個字。"
   },
   {
     "id": 234,
@@ -2571,7 +2571,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"borrow\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「borrow」，中文是「借」。"
+    "translation": "「borrow」這個字幫助我理解主旨。"
   },
   {
     "id": 235,
@@ -2582,7 +2582,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"busy\" on a sticky note.",
-    "translation": "這句英文示範了「busy」的用法，意思是「忙碌的」。"
+    "translation": "我把「busy」寫在便利貼上。"
   },
   {
     "id": 236,
@@ -2593,7 +2593,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"cause\" after class.",
-    "translation": "記住「cause」這個字：它的意思是「導致」。"
+    "translation": "閱讀社在課後討論了「cause」。"
   },
   {
     "id": 237,
@@ -2604,7 +2604,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"circle\" naturally.",
-    "translation": "這個單字在例句中是「circle」，中文意思為「圓圈」。"
+    "translation": "範例對話自然地使用了「circle」。"
   },
   {
     "id": 238,
@@ -2615,7 +2615,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"boss\" was a new word for me.",
-    "translation": "從例句可以看出，「boss」的意思是「老闆」。"
+    "translation": "我確認「boss」對我來說是不是新單字。"
   },
   {
     "id": 239,
@@ -2626,7 +2626,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The teacher's story made \"but\" memorable.",
-    "translation": "當你看到「but」時，可以想到「但是」這個意思。"
+    "translation": "老師的故事讓「but」變得令人印象深刻。"
   },
   {
     "id": 240,
@@ -2637,7 +2637,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"ceiling\" as a challenge word.",
-    "translation": "「ceiling」在這個例句中用來表達「天花板」。"
+    "translation": "小組活動把「ceiling」列為挑戰單字。"
   },
   {
     "id": 241,
@@ -2648,7 +2648,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"city\" on the board before the reading test.",
-    "translation": "這個例句使用了「city」，意思是「城市」。"
+    "translation": "老師在閱讀測驗前把「city」寫在黑板上。"
   },
   {
     "id": 242,
@@ -2659,7 +2659,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Amy circled \"both\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「both」：它的中文意思是「兩者」。"
+    "translation": "Amy 圈起「both」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 243,
@@ -2670,7 +2670,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"butter\" in his homework sentence.",
-    "translation": "在這句話裡，「butter」表示「奶油」。"
+    "translation": "Kevin 在他的作業句子中使用了「butter」。"
   },
   {
     "id": 244,
@@ -2681,7 +2681,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"celebrate\" in today's short story.",
-    "translation": "例句幫助你理解「celebrate」，中文是「慶祝」。"
+    "translation": "全班在今天的短篇故事中找到了「celebrate」。"
   },
   {
     "id": 245,
@@ -2692,7 +2692,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"clap\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「clap」的用法，意思是「拍(手)」。"
+    "translation": "我在複習段落時把「clap」畫線標記。"
   },
   {
     "id": 246,
@@ -2703,7 +2703,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"bother\".",
-    "translation": "記住「bother」這個字：它的意思是「使煩惱」。"
+    "translation": "我們小組做了一張有「bother」這個字的海報。"
   },
   {
     "id": 247,
@@ -2714,7 +2714,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"butterfly\".",
-    "translation": "這個單字在例句中是「butterfly」，中文意思為「蝴蝶」。"
+    "translation": "這個例句幫助我記住「butterfly」。"
   },
   {
     "id": 248,
@@ -2725,7 +2725,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"cell\" appeared in the listening script.",
-    "translation": "從例句可以看出，「cell」的意思是「細胞」。"
+    "translation": "「cell」這個字出現在聽力稿中。"
   },
   {
     "id": 249,
@@ -2736,7 +2736,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "Mina checked \"class\" in her vocabulary notebook.",
-    "translation": "當你看到「class」時，可以想到「班級」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「class」。"
   },
   {
     "id": 250,
@@ -2747,7 +2747,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"bottle\".",
-    "translation": "「bottle」在這個例句中用來表達「瓶子」。"
+    "translation": "這個問題提供了關於「bottle」的線索。"
   },
   {
     "id": 251,
@@ -2758,7 +2758,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"button\" to make the scene clearer.",
-    "translation": "這個例句使用了「button」，意思是「鈕扣」。"
+    "translation": "故事使用「button」讓場景更清楚。"
   },
   {
     "id": 252,
@@ -2769,7 +2769,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"cent\" to my review list for Friday.",
-    "translation": "請看例句中的「cent」：它的中文意思是「分」。"
+    "translation": "我把「cent」加入星期五的複習清單。"
   },
   {
     "id": 253,
@@ -2780,7 +2780,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"classic\" twice.",
-    "translation": "在這句話裡，「classic」表示「古典的」。"
+    "translation": "這篇閱讀文章重複了兩次「classic」。"
   },
   {
     "id": 254,
@@ -2791,7 +2791,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"bottom\".",
-    "translation": "例句幫助你理解「bottom」，中文是「底部」。"
+    "translation": "Jason 問「bottom」要怎麼發音。"
   },
   {
     "id": 255,
@@ -2802,7 +2802,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"buy\" with its meaning.",
-    "translation": "這句英文示範了「buy」的用法，意思是「買」。"
+    "translation": "這張學習單要求學生把「buy」和它的意思配對。"
   },
   {
     "id": 256,
@@ -2813,7 +2813,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"center\" on the first page of the lesson.",
-    "translation": "記住「center」這個字：它的意思是「中央」。"
+    "translation": "我在課文第一頁看到了「center」。"
   },
   {
     "id": 257,
@@ -2824,7 +2824,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The sentence before \"classmate\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「classmate」，中文意思為「同學」。"
+    "translation": "「classmate」前面的句子幫助我猜出答案。"
   },
   {
     "id": 258,
@@ -2835,7 +2835,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"bow\" into a quick quiz question.",
-    "translation": "從例句可以看出，「bow」的意思是「弓」。"
+    "translation": "我們的老師把「bow」變成一道快速測驗題。"
   },
   {
     "id": 259,
@@ -2846,7 +2846,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The flashcard shows \"by\" with a simple picture.",
-    "translation": "當你看到「by」時，可以想到「沿；用…方法」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「by」。"
   },
   {
     "id": 260,
@@ -2857,7 +2857,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"centimeter\" after dinner.",
-    "translation": "「centimeter」在這個例句中用來表達「公分」。"
+    "translation": "我晚餐後練習拼寫「centimeter」。"
   },
   {
     "id": 261,
@@ -2868,7 +2868,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The test item uses \"classroom\" in a real-life situation.",
-    "translation": "這個例句使用了「classroom」，意思是「班級」。"
+    "translation": "這道測驗題在真實生活情境中使用「classroom」。"
   },
   {
     "id": 262,
@@ -2879,7 +2879,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"bowl\" beside a small drawing.",
-    "translation": "請看例句中的「bowl」：它的中文意思是「碗」。"
+    "translation": "Sara 在一張小圖旁寫下「bowl」。"
   },
   {
     "id": 263,
@@ -2890,7 +2890,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"central\" near the end.",
-    "translation": "在這句話裡，「central」表示「中央的」。"
+    "translation": "這段對話在接近結尾的地方包含「central」。"
   },
   {
     "id": 264,
@@ -2901,7 +2901,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"clay\" as my word of the day.",
-    "translation": "例句幫助你理解「clay」，中文是「黏土」。"
+    "translation": "我選「clay」作為今天的每日單字。"
   },
   {
     "id": 265,
@@ -2912,7 +2912,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"cabbage\" with an easy sentence.",
-    "translation": "這句英文示範了「cabbage」的用法，意思是「甘藍菜」。"
+    "translation": "課本用一個簡單句子解釋「cabbage」。"
   },
   {
     "id": 266,
@@ -2923,7 +2923,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"bowling\".",
-    "translation": "記住「bowling」這個字：它的意思是「保齡球」。"
+    "translation": "我和我的搭檔用「bowling」造了一個問題。"
   },
   {
     "id": 267,
@@ -2934,7 +2934,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"century\".",
-    "translation": "這個單字在例句中是「century」，中文意思為「世紀」。"
+    "translation": "這個答案選項包含「century」。"
   },
   {
     "id": 268,
@@ -2945,7 +2945,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I remembered \"clean\" because it was in a funny story.",
-    "translation": "從例句可以看出，「clean」的意思是「乾淨的」。"
+    "translation": "我記得「clean」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 269,
@@ -2956,7 +2956,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The review game asked us to spell \"cable\" quickly.",
-    "translation": "當你看到「cable」時，可以想到「電纜」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「cable」。"
   },
   {
     "id": 270,
@@ -2967,7 +2967,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"box\" helped the reader understand it.",
-    "translation": "「box」在這個例句中用來表達「箱子」。"
+    "translation": "「box」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 271,
@@ -2978,7 +2978,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"cereal\" in a school setting.",
-    "translation": "這個例句使用了「cereal」，意思是「穀類食物」。"
+    "translation": "這個句子在學校情境中使用「cereal」。"
   },
   {
     "id": 272,
@@ -2989,7 +2989,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"clear\" while checking the answer sheet.",
-    "translation": "請看例句中的「clear」：它的中文意思是「清楚的」。"
+    "translation": "我在檢查答案卷時找到了「clear」。"
   },
   {
     "id": 273,
@@ -3000,7 +3000,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"cafeteria\".",
-    "translation": "在這句話裡，「cafeteria」表示「自助餐廳」。"
+    "translation": "故事中的角色學會了「cafeteria」這個字。"
   },
   {
     "id": 274,
@@ -3011,7 +3011,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"boy\".",
-    "translation": "例句幫助你理解「boy」，中文是「男孩」。"
+    "translation": "線上字典提供了「boy」的例句。"
   },
   {
     "id": 275,
@@ -3022,7 +3022,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class used \"certain\" during pair practice.",
-    "translation": "這句英文示範了「certain」的用法，意思是「確實的」。"
+    "translation": "全班在雙人練習時使用了「certain」。"
   },
   {
     "id": 276,
@@ -3033,7 +3033,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"clerk\" into a sentence about daily life.",
-    "translation": "記住「clerk」這個字：它的意思是「店員」。"
+    "translation": "我把「clerk」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 277,
@@ -3044,7 +3044,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"cage\" aloud.",
-    "translation": "這個單字在例句中是「cage」，中文意思為「鳥籠」。"
+    "translation": "老師請每個人大聲讀出「cage」。"
   },
   {
     "id": 278,
@@ -3055,7 +3055,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"brain\" was useful in the reading question.",
-    "translation": "從例句可以看出，「brain」的意思是「腦」。"
+    "translation": "「brain」這個字在閱讀題中很有用。"
   },
   {
     "id": 279,
@@ -3066,7 +3066,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"chair\".",
-    "translation": "當你看到「chair」時，可以想到「椅子」這個意思。"
+    "translation": "我用彩色筆標記「chair」。"
   },
   {
     "id": 280,
@@ -3077,7 +3077,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The practice sentence makes \"clever\" easier to understand.",
-    "translation": "「clever」在這個例句中用來表達「聰明的」。"
+    "translation": "這個練習句讓「clever」更容易理解。"
   },
   {
     "id": 281,
@@ -3088,7 +3088,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"cake\" in the audio clip.",
-    "translation": "這個例句使用了「cake」，意思是「蛋糕」。"
+    "translation": "我們在音檔中聽「cake」這個字。"
   },
   {
     "id": 282,
@@ -3099,7 +3099,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"branch\" helped me understand the main idea.",
-    "translation": "請看例句中的「branch」：它的中文意思是「分店」。"
+    "translation": "「branch」這個字幫助我理解主旨。"
   },
   {
     "id": 283,
@@ -3110,7 +3110,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"chalk\" on a sticky note.",
-    "translation": "在這句話裡，「chalk」表示「粉筆」。"
+    "translation": "我把「chalk」寫在便利貼上。"
   },
   {
     "id": 284,
@@ -3121,7 +3121,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"climate\" after class.",
-    "translation": "例句幫助你理解「climate」，中文是「氣候」。"
+    "translation": "閱讀社在課後討論了「climate」。"
   },
   {
     "id": 285,
@@ -3132,7 +3132,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"calendar\" naturally.",
-    "translation": "這句英文示範了「calendar」的用法，意思是「日曆」。"
+    "translation": "範例對話自然地使用了「calendar」。"
   },
   {
     "id": 286,
@@ -3143,7 +3143,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"brand\" was a new word for me.",
-    "translation": "記住「brand」這個字：它的意思是「品牌」。"
+    "translation": "我確認「brand」對我來說是不是新單字。"
   },
   {
     "id": 287,
@@ -3154,7 +3154,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"chance\" memorable.",
-    "translation": "這個單字在例句中是「chance」，中文意思為「機會」。"
+    "translation": "老師的故事讓「chance」變得令人印象深刻。"
   },
   {
     "id": 288,
@@ -3165,7 +3165,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"climb\" as a challenge word.",
-    "translation": "從例句可以看出，「climb」的意思是「攀爬」。"
+    "translation": "小組活動把「climb」列為挑戰單字。"
   },
   {
     "id": 289,
@@ -3176,7 +3176,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"call\" on the board before the reading test.",
-    "translation": "當你看到「call」時，可以想到「呼叫」這個意思。"
+    "translation": "老師在閱讀測驗前把「call」寫在黑板上。"
   },
   {
     "id": 290,
@@ -3187,7 +3187,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Amy circled \"brave\" because it was the key word in the sentence.",
-    "translation": "「brave」在這個例句中用來表達「勇敢的」。"
+    "translation": "Amy 圈起「brave」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 291,
@@ -3198,7 +3198,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"change\" in his homework sentence.",
-    "translation": "這個例句使用了「change」，意思是「改變」。"
+    "translation": "Kevin 在他的作業句子中使用了「change」。"
   },
   {
     "id": 292,
@@ -3209,7 +3209,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"clock\" in today's short story.",
-    "translation": "請看例句中的「clock」：它的中文意思是「時鐘」。"
+    "translation": "全班在今天的短篇故事中找到了「clock」。"
   },
   {
     "id": 293,
@@ -3220,7 +3220,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I underlined \"calm\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「calm」表示「平靜的」。"
+    "translation": "我在複習段落時把「calm」畫線標記。"
   },
   {
     "id": 294,
@@ -3231,7 +3231,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"bread\".",
-    "translation": "例句幫助你理解「bread」，中文是「麵包」。"
+    "translation": "我們小組做了一張有「bread」這個字的海報。"
   },
   {
     "id": 295,
@@ -3242,7 +3242,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"channel\".",
-    "translation": "這句英文示範了「channel」的用法，意思是「電視臺」。"
+    "translation": "這個例句幫助我記住「channel」。"
   },
   {
     "id": 296,
@@ -3253,7 +3253,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"close\" appeared in the listening script.",
-    "translation": "記住「close」這個字：它的意思是「關」。"
+    "translation": "「close」這個字出現在聽力稿中。"
   },
   {
     "id": 297,
@@ -3264,7 +3264,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"camera\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「camera」，中文意思為「照相機」。"
+    "translation": "Mina 在她的單字筆記本裡查了「camera」。"
   },
   {
     "id": 298,
@@ -3275,7 +3275,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"break\".",
-    "translation": "從例句可以看出，「break」的意思是「弄壞」。"
+    "translation": "這個問題提供了關於「break」的線索。"
   },
   {
     "id": 299,
@@ -3286,7 +3286,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"character\" to make the scene clearer.",
-    "translation": "當你看到「character」時，可以想到「性格」這個意思。"
+    "translation": "故事使用「character」讓場景更清楚。"
   },
   {
     "id": 300,
@@ -3297,7 +3297,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"closet\" to my review list for Friday.",
-    "translation": "「closet」在這個例句中用來表達「櫥櫃」。"
+    "translation": "我把「closet」加入星期五的複習清單。"
   },
   {
     "id": 301,
@@ -3308,7 +3308,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"camp\" twice.",
-    "translation": "這個例句使用了「camp」，意思是「紮營」。"
+    "translation": "這篇閱讀文章重複了兩次「camp」。"
   },
   {
     "id": 302,
@@ -3319,7 +3319,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"breakfast\".",
-    "translation": "請看例句中的「breakfast」：它的中文意思是「早餐」。"
+    "translation": "Jason 問「breakfast」要怎麼發音。"
   },
   {
     "id": 303,
@@ -3330,7 +3330,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"charge\" with its meaning.",
-    "translation": "在這句話裡，「charge」表示「收費」。"
+    "translation": "這張學習單要求學生把「charge」和它的意思配對。"
   },
   {
     "id": 304,
@@ -3341,7 +3341,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"clothes\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「clothes」，中文是「衣服」。"
+    "translation": "我在課文第一頁看到了「clothes」。"
   },
   {
     "id": 305,
@@ -3352,7 +3352,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"campus\" helped me guess the answer.",
-    "translation": "這句英文示範了「campus」的用法，意思是「校園」。"
+    "translation": "「campus」前面的句子幫助我猜出答案。"
   },
   {
     "id": 306,
@@ -3363,7 +3363,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"brick\" into a quick quiz question.",
-    "translation": "記住「brick」這個字：它的意思是「磚塊」。"
+    "translation": "我們的老師把「brick」變成一道快速測驗題。"
   },
   {
     "id": 307,
@@ -3374,7 +3374,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"chart\" with a simple picture.",
-    "translation": "這個單字在例句中是「chart」，中文意思為「圖表」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「chart」。"
   },
   {
     "id": 308,
@@ -3385,7 +3385,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"cloud\" after dinner.",
-    "translation": "從例句可以看出，「cloud」的意思是「雲」。"
+    "translation": "我晚餐後練習拼寫「cloud」。"
   },
   {
     "id": 309,
@@ -3396,7 +3396,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The test item uses \"can\" in a real-life situation.",
-    "translation": "當你看到「can」時，可以想到「能夠」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「can」。"
   },
   {
     "id": 310,
@@ -3407,7 +3407,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"bridge\" beside a small drawing.",
-    "translation": "「bridge」在這個例句中用來表達「橋」。"
+    "translation": "Sara 在一張小圖旁寫下「bridge」。"
   },
   {
     "id": 311,
@@ -3418,7 +3418,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"chase\" near the end.",
-    "translation": "這個例句使用了「chase」，意思是「追趕」。"
+    "translation": "這段對話在接近結尾的地方包含「chase」。"
   },
   {
     "id": 312,
@@ -3429,7 +3429,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"club\" as my word of the day.",
-    "translation": "請看例句中的「club」：它的中文意思是「俱樂部」。"
+    "translation": "我選「club」作為今天的每日單字。"
   },
   {
     "id": 313,
@@ -3440,7 +3440,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The textbook explains \"cancel\" with an easy sentence.",
-    "translation": "在這句話裡，「cancel」表示「取消」。"
+    "translation": "課本用一個簡單句子解釋「cancel」。"
   },
   {
     "id": 314,
@@ -3451,7 +3451,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"brief\".",
-    "translation": "例句幫助你理解「brief」，中文是「短暫的」。"
+    "translation": "我和我的搭檔用「brief」造了一個問題。"
   },
   {
     "id": 315,
@@ -3462,7 +3462,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The answer choice contains \"cheap\".",
-    "translation": "這句英文示範了「cheap」的用法，意思是「便宜的」。"
+    "translation": "這個答案選項包含「cheap」。"
   },
   {
     "id": 316,
@@ -3473,7 +3473,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"coach\" because it was in a funny story.",
-    "translation": "記住「coach」這個字：它的意思是「教練」。"
+    "translation": "我記得「coach」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 317,
@@ -3484,7 +3484,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"cancer\" quickly.",
-    "translation": "這個單字在例句中是「cancer」，中文意思為「癌症」。"
+    "translation": "複習遊戲要求我們快速拼出「cancer」。"
   },
   {
     "id": 318,
@@ -3495,7 +3495,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"bright\" helped the reader understand it.",
-    "translation": "從例句可以看出，「bright」的意思是「明亮的」。"
+    "translation": "「bright」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 319,
@@ -3506,7 +3506,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence uses \"cheat\" in a school setting.",
-    "translation": "當你看到「cheat」時，可以想到「欺騙」這個意思。"
+    "translation": "這個句子在學校情境中使用「cheat」。"
   },
   {
     "id": 320,
@@ -3517,7 +3517,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"coast\" while checking the answer sheet.",
-    "translation": "「coast」在這個例句中用來表達「海岸」。"
+    "translation": "我在檢查答案卷時找到了「coast」。"
   },
   {
     "id": 321,
@@ -3528,7 +3528,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"candle\".",
-    "translation": "這個例句使用了「candle」，意思是「蠟燭」。"
+    "translation": "故事中的角色學會了「candle」這個字。"
   },
   {
     "id": 322,
@@ -3539,7 +3539,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"bring\".",
-    "translation": "請看例句中的「bring」：它的中文意思是「帶來」。"
+    "translation": "線上字典提供了「bring」的例句。"
   },
   {
     "id": 323,
@@ -3550,7 +3550,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"check\" during pair practice.",
-    "translation": "在這句話裡，「check」表示「檢查」。"
+    "translation": "全班在雙人練習時使用了「check」。"
   },
   {
     "id": 324,
@@ -3561,7 +3561,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"coat\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「coat」，中文是「大衣」。"
+    "translation": "我把「coat」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 325,
@@ -3572,7 +3572,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"cockroach\" aloud.",
-    "translation": "這句英文示範了「cockroach」的用法，意思是「蟑螂」。"
+    "translation": "老師請每個人大聲讀出「cockroach」。"
   },
   {
     "id": 326,
@@ -3583,7 +3583,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"correct\" was useful in the reading question.",
-    "translation": "記住「correct」這個字：它的意思是「正確的」。"
+    "translation": "「correct」這個字在閱讀題中很有用。"
   },
   {
     "id": 327,
@@ -3594,7 +3594,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I used a color pen to mark \"dangerous\".",
-    "translation": "這個單字在例句中是「dangerous」，中文意思為「危險的」。"
+    "translation": "我用彩色筆標記「dangerous」。"
   },
   {
     "id": 328,
@@ -3605,7 +3605,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"difference\" easier to understand.",
-    "translation": "從例句可以看出，「difference」的意思是「差異」。"
+    "translation": "這個練習句讓「difference」更容易理解。"
   },
   {
     "id": 329,
@@ -3616,7 +3616,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"coffee\" in the audio clip.",
-    "translation": "當你看到「coffee」時，可以想到「咖啡」這個意思。"
+    "translation": "我們在音檔中聽「coffee」這個字。"
   },
   {
     "id": 330,
@@ -3627,7 +3627,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"cost\" helped me understand the main idea.",
-    "translation": "「cost」在這個例句中用來表達「花費」。"
+    "translation": "「cost」這個字幫助我理解主旨。"
   },
   {
     "id": 331,
@@ -3638,7 +3638,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"dark\" on a sticky note.",
-    "translation": "這個例句使用了「dark」，意思是「黑的」。"
+    "translation": "我把「dark」寫在便利貼上。"
   },
   {
     "id": 332,
@@ -3649,7 +3649,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading club discussed \"different\" after class.",
-    "translation": "請看例句中的「different」：它的中文意思是「不同的」。"
+    "translation": "閱讀社在課後討論了「different」。"
   },
   {
     "id": 333,
@@ -3660,7 +3660,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"coin\" naturally.",
-    "translation": "在這句話裡，「coin」表示「硬幣」。"
+    "translation": "範例對話自然地使用了「coin」。"
   },
   {
     "id": 334,
@@ -3671,7 +3671,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"cotton\" was a new word for me.",
-    "translation": "例句幫助你理解「cotton」，中文是「棉花」。"
+    "translation": "我確認「cotton」對我來說是不是新單字。"
   },
   {
     "id": 335,
@@ -3682,7 +3682,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"data\" memorable.",
-    "translation": "這句英文示範了「data」的用法，意思是「資料」。"
+    "translation": "老師的故事讓「data」變得令人印象深刻。"
   },
   {
     "id": 336,
@@ -3693,7 +3693,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The group activity included \"difficult\" as a challenge word.",
-    "translation": "記住「difficult」這個字：它的意思是「困難的」。"
+    "translation": "小組活動把「difficult」列為挑戰單字。"
   },
   {
     "id": 337,
@@ -3704,7 +3704,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"coke\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「coke」，中文意思為「可樂」。"
+    "translation": "老師在閱讀測驗前把「coke」寫在黑板上。"
   },
   {
     "id": 338,
@@ -3715,7 +3715,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"couch\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「couch」的意思是「長沙發」。"
+    "translation": "Amy 圈起「couch」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 339,
@@ -3726,7 +3726,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"date\" in his homework sentence.",
-    "translation": "當你看到「date」時，可以想到「日期」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「date」。"
   },
   {
     "id": 340,
@@ -3737,7 +3737,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"difficulty\" in today's short story.",
-    "translation": "「difficulty」在這個例句中用來表達「困難」。"
+    "translation": "全班在今天的短篇故事中找到了「difficulty」。"
   },
   {
     "id": 341,
@@ -3748,7 +3748,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I underlined \"cold\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「cold」，意思是「冷的」。"
+    "translation": "我在複習段落時把「cold」畫線標記。"
   },
   {
     "id": 342,
@@ -3759,7 +3759,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"cough\".",
-    "translation": "請看例句中的「cough」：它的中文意思是「咳嗽」。"
+    "translation": "我們小組做了一張有「cough」這個字的海報。"
   },
   {
     "id": 343,
@@ -3770,7 +3770,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"daughter\".",
-    "translation": "在這句話裡，「daughter」表示「女兒」。"
+    "translation": "這個例句幫助我記住「daughter」。"
   },
   {
     "id": 344,
@@ -3781,7 +3781,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"dig\" appeared in the listening script.",
-    "translation": "例句幫助你理解「dig」，中文是「挖掘」。"
+    "translation": "「dig」這個字出現在聽力稿中。"
   },
   {
     "id": 345,
@@ -3792,7 +3792,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"collect\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「collect」的用法，意思是「收集」。"
+    "translation": "Mina 在她的單字筆記本裡查了「collect」。"
   },
   {
     "id": 346,
@@ -3803,7 +3803,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"count\".",
-    "translation": "記住「count」這個字：它的意思是「計數」。"
+    "translation": "這個問題提供了關於「count」的線索。"
   },
   {
     "id": 347,
@@ -3814,7 +3814,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"dawn\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「dawn」，中文意思為「黎明」。"
+    "translation": "故事使用「dawn」讓場景更清楚。"
   },
   {
     "id": 348,
@@ -3825,7 +3825,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I added \"diligent\" to my review list for Friday.",
-    "translation": "從例句可以看出，「diligent」的意思是「勤勉的」。"
+    "translation": "我把「diligent」加入星期五的複習清單。"
   },
   {
     "id": 349,
@@ -3836,7 +3836,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The reading passage repeated \"college\" twice.",
-    "translation": "當你看到「college」時，可以想到「大學」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「college」。"
   },
   {
     "id": 350,
@@ -3847,7 +3847,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"country\".",
-    "translation": "「country」在這個例句中用來表達「國家」。"
+    "translation": "Jason 問「country」要怎麼發音。"
   },
   {
     "id": 351,
@@ -3858,7 +3858,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"day\" with its meaning.",
-    "translation": "這個例句使用了「day」，意思是「一天」。"
+    "translation": "這張學習單要求學生把「day」和它的意思配對。"
   },
   {
     "id": 352,
@@ -3869,7 +3869,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"diplomat\" on the first page of the lesson.",
-    "translation": "請看例句中的「diplomat」：它的中文意思是「外交官」。"
+    "translation": "我在課文第一頁看到了「diplomat」。"
   },
   {
     "id": 353,
@@ -3880,7 +3880,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"color\" helped me guess the answer.",
-    "translation": "在這句話裡，「color」表示「顏色」。"
+    "translation": "「color」前面的句子幫助我猜出答案。"
   },
   {
     "id": 354,
@@ -3891,7 +3891,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"couple\" into a quick quiz question.",
-    "translation": "例句幫助你理解「couple」，中文是「一對」。"
+    "translation": "我們的老師把「couple」變成一道快速測驗題。"
   },
   {
     "id": 355,
@@ -3902,7 +3902,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The flashcard shows \"dead\" with a simple picture.",
-    "translation": "這句英文示範了「dead」的用法，意思是「死的」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「dead」。"
   },
   {
     "id": 356,
@@ -3913,7 +3913,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"dinner\" after dinner.",
-    "translation": "記住「dinner」這個字：它的意思是「晚餐」。"
+    "translation": "我晚餐後練習拼寫「dinner」。"
   },
   {
     "id": 357,
@@ -3924,7 +3924,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The test item uses \"colorful\" in a real-life situation.",
-    "translation": "這個單字在例句中是「colorful」，中文意思為「多采多姿的」。"
+    "translation": "這道測驗題在真實生活情境中使用「colorful」。"
   },
   {
     "id": 358,
@@ -3935,7 +3935,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"courage\" beside a small drawing.",
-    "translation": "從例句可以看出，「courage」的意思是「勇氣」。"
+    "translation": "Sara 在一張小圖旁寫下「courage」。"
   },
   {
     "id": 359,
@@ -3946,7 +3946,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"deaf\" near the end.",
-    "translation": "當你看到「deaf」時，可以想到「聾的」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「deaf」。"
   },
   {
     "id": 360,
@@ -3957,7 +3957,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"dinosaur\" as my word of the day.",
-    "translation": "「dinosaur」在這個例句中用來表達「恐龍」。"
+    "translation": "我選「dinosaur」作為今天的每日單字。"
   },
   {
     "id": 361,
@@ -3968,7 +3968,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"comb\" with an easy sentence.",
-    "translation": "這個例句使用了「comb」，意思是「梳子」。"
+    "translation": "課本用一個簡單句子解釋「comb」。"
   },
   {
     "id": 362,
@@ -3979,7 +3979,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"course\".",
-    "translation": "請看例句中的「course」：它的中文意思是「課程」。"
+    "translation": "我和我的搭檔用「course」造了一個問題。"
   },
   {
     "id": 363,
@@ -3990,7 +3990,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"deal\".",
-    "translation": "在這句話裡，「deal」表示「交易」。"
+    "translation": "這個答案選項包含「deal」。"
   },
   {
     "id": 364,
@@ -4001,7 +4001,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I remembered \"direct\" because it was in a funny story.",
-    "translation": "例句幫助你理解「direct」，中文是「直的」。"
+    "translation": "我記得「direct」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 365,
@@ -4012,7 +4012,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"come\" quickly.",
-    "translation": "這句英文示範了「come」的用法，意思是「來」。"
+    "translation": "複習遊戲要求我們快速拼出「come」。"
   },
   {
     "id": 366,
@@ -4023,7 +4023,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"court\" helped the reader understand it.",
-    "translation": "記住「court」這個字：它的意思是「法院；球場」。"
+    "translation": "「court」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 367,
@@ -4034,7 +4034,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence uses \"dear\" in a school setting.",
-    "translation": "這個單字在例句中是「dear」，中文意思為「親愛的」。"
+    "translation": "這個句子在學校情境中使用「dear」。"
   },
   {
     "id": 368,
@@ -4045,7 +4045,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"direction\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「direction」的意思是「方向」。"
+    "translation": "我在檢查答案卷時找到了「direction」。"
   },
   {
     "id": 369,
@@ -4056,7 +4056,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"comfortable\".",
-    "translation": "當你看到「comfortable」時，可以想到「舒服的」這個意思。"
+    "translation": "故事中的角色學會了「comfortable」這個字。"
   },
   {
     "id": 370,
@@ -4067,7 +4067,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"cousin\".",
-    "translation": "「cousin」在這個例句中用來表達「表(堂)兄弟姊」。"
+    "translation": "線上字典提供了「cousin」的例句。"
   },
   {
     "id": 371,
@@ -4078,7 +4078,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"death\" during pair practice.",
-    "translation": "這個例句使用了「death」，意思是「死亡」。"
+    "translation": "全班在雙人練習時使用了「death」。"
   },
   {
     "id": 372,
@@ -4089,7 +4089,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I put \"dirty\" into a sentence about daily life.",
-    "translation": "請看例句中的「dirty」：它的中文意思是「骯髒的」。"
+    "translation": "我把「dirty」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 373,
@@ -4100,7 +4100,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"command\" aloud.",
-    "translation": "在這句話裡，「command」表示「命令 妹」。"
+    "translation": "老師請每個人大聲讀出「command」。"
   },
   {
     "id": 374,
@@ -4111,7 +4111,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"debate\" was useful in the reading question.",
-    "translation": "例句幫助你理解「debate」，中文是「辯論」。"
+    "translation": "「debate」這個字在閱讀題中很有用。"
   },
   {
     "id": 375,
@@ -4122,7 +4122,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"disagree\".",
-    "translation": "這句英文示範了「disagree」的用法，意思是「不同意」。"
+    "translation": "我用彩色筆標記「disagree」。"
   },
   {
     "id": 376,
@@ -4133,7 +4133,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"comment\" easier to understand.",
-    "translation": "記住「comment」這個字：它的意思是「意見」。"
+    "translation": "這個練習句讓「comment」更容易理解。"
   },
   {
     "id": 377,
@@ -4144,7 +4144,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "We listened for \"cover\" in the audio clip.",
-    "translation": "這個單字在例句中是「cover」，中文意思為「覆蓋」。"
+    "translation": "我們在音檔中聽「cover」這個字。"
   },
   {
     "id": 378,
@@ -4155,7 +4155,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"December\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「December」的意思是「十二月」。"
+    "translation": "「December」這個字幫助我理解主旨。"
   },
   {
     "id": 379,
@@ -4166,7 +4166,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I wrote \"disappear\" on a sticky note.",
-    "translation": "當你看到「disappear」時，可以想到「消失」這個意思。"
+    "translation": "我把「disappear」寫在便利貼上。"
   },
   {
     "id": 380,
@@ -4177,7 +4177,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading club discussed \"common\" after class.",
-    "translation": "「common」在這個例句中用來表達「共同的」。"
+    "translation": "閱讀社在課後討論了「common」。"
   },
   {
     "id": 381,
@@ -4188,7 +4188,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"cow\" naturally.",
-    "translation": "這個例句使用了「cow」，意思是「母牛」。"
+    "translation": "範例對話自然地使用了「cow」。"
   },
   {
     "id": 382,
@@ -4199,7 +4199,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"decide\" was a new word for me.",
-    "translation": "請看例句中的「decide」：它的中文意思是「決定」。"
+    "translation": "我確認「decide」對我來說是不是新單字。"
   },
   {
     "id": 383,
@@ -4210,7 +4210,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher's story made \"discover\" memorable.",
-    "translation": "在這句話裡，「discover」表示「發現」。"
+    "translation": "老師的故事讓「discover」變得令人印象深刻。"
   },
   {
     "id": 384,
@@ -4221,7 +4221,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"company\" as a challenge word.",
-    "translation": "例句幫助你理解「company」，中文是「公司」。"
+    "translation": "小組活動把「company」列為挑戰單字。"
   },
   {
     "id": 385,
@@ -4232,7 +4232,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"cowboy\" on the board before the reading test.",
-    "translation": "這句英文示範了「cowboy」的用法，意思是「牛仔」。"
+    "translation": "老師在閱讀測驗前把「cowboy」寫在黑板上。"
   },
   {
     "id": 386,
@@ -4243,7 +4243,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"decision\" because it was the key word in the sentence.",
-    "translation": "記住「decision」這個字：它的意思是「決定」。"
+    "translation": "Amy 圈起「decision」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 387,
@@ -4254,7 +4254,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"discuss\" in his homework sentence.",
-    "translation": "這個單字在例句中是「discuss」，中文意思為「討論」。"
+    "translation": "Kevin 在他的作業句子中使用了「discuss」。"
   },
   {
     "id": 388,
@@ -4265,7 +4265,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"compare\" in today's short story.",
-    "translation": "從例句可以看出，「compare」的意思是「比較」。"
+    "translation": "全班在今天的短篇故事中找到了「compare」。"
   },
   {
     "id": 389,
@@ -4276,7 +4276,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"crab\" while reviewing the paragraph.",
-    "translation": "當你看到「crab」時，可以想到「螃蟹」這個意思。"
+    "translation": "我在複習段落時把「crab」畫線標記。"
   },
   {
     "id": 390,
@@ -4287,7 +4287,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"decorate\".",
-    "translation": "「decorate」在這個例句中用來表達「裝飾」。"
+    "translation": "我們小組做了一張有「decorate」這個字的海報。"
   },
   {
     "id": 391,
@@ -4298,7 +4298,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"discussion\".",
-    "translation": "這個例句使用了「discussion」，意思是「討論」。"
+    "translation": "這個例句幫助我記住「discussion」。"
   },
   {
     "id": 392,
@@ -4309,7 +4309,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"complain\" appeared in the listening script.",
-    "translation": "請看例句中的「complain」：它的中文意思是「抱怨」。"
+    "translation": "「complain」這個字出現在聽力稿中。"
   },
   {
     "id": 393,
@@ -4320,7 +4320,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"crayon\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「crayon」表示「蠟筆」。"
+    "translation": "Mina 在她的單字筆記本裡查了「crayon」。"
   },
   {
     "id": 394,
@@ -4331,7 +4331,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"decrease\".",
-    "translation": "例句幫助你理解「decrease」，中文是「減少」。"
+    "translation": "這個問題提供了關於「decrease」的線索。"
   },
   {
     "id": 395,
@@ -4342,7 +4342,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"dish\" to make the scene clearer.",
-    "translation": "這句英文示範了「dish」的用法，意思是「盤子」。"
+    "translation": "故事使用「dish」讓場景更清楚。"
   },
   {
     "id": 396,
@@ -4353,7 +4353,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"complaint\" to my review list for Friday.",
-    "translation": "記住「complaint」這個字：它的意思是「抱怨」。"
+    "translation": "我把「complaint」加入星期五的複習清單。"
   },
   {
     "id": 397,
@@ -4364,7 +4364,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"crazy\" twice.",
-    "translation": "這個單字在例句中是「crazy」，中文意思為「瘋狂的」。"
+    "translation": "這篇閱讀文章重複了兩次「crazy」。"
   },
   {
     "id": 398,
@@ -4375,7 +4375,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"deep\".",
-    "translation": "從例句可以看出，「deep」的意思是「深的」。"
+    "translation": "Jason 問「deep」要怎麼發音。"
   },
   {
     "id": 399,
@@ -4386,7 +4386,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"dishonest\" with its meaning.",
-    "translation": "當你看到「dishonest」時，可以想到「不誠實的」這個意思。"
+    "translation": "這張學習單要求學生把「dishonest」和它的意思配對。"
   },
   {
     "id": 400,
@@ -4397,7 +4397,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I saw \"complete\" on the first page of the lesson.",
-    "translation": "「complete」在這個例句中用來表達「完整的」。"
+    "translation": "我在課文第一頁看到了「complete」。"
   },
   {
     "id": 401,
@@ -4408,7 +4408,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"cream\" helped me guess the answer.",
-    "translation": "這個例句使用了「cream」，意思是「乳液」。"
+    "translation": "「cream」前面的句子幫助我猜出答案。"
   },
   {
     "id": 402,
@@ -4419,7 +4419,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"deer\" into a quick quiz question.",
-    "translation": "請看例句中的「deer」：它的中文意思是「鹿」。"
+    "translation": "我們的老師把「deer」變成一道快速測驗題。"
   },
   {
     "id": 403,
@@ -4430,7 +4430,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"distance\" with a simple picture.",
-    "translation": "在這句話裡，「distance」表示「距離」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「distance」。"
   },
   {
     "id": 404,
@@ -4441,7 +4441,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "I practiced spelling \"computer\" after dinner.",
-    "translation": "例句幫助你理解「computer」，中文是「電腦」。"
+    "translation": "我晚餐後練習拼寫「computer」。"
   },
   {
     "id": 405,
@@ -4452,7 +4452,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"create\" in a real-life situation.",
-    "translation": "這句英文示範了「create」的用法，意思是「創造」。"
+    "translation": "這道測驗題在真實生活情境中使用「create」。"
   },
   {
     "id": 406,
@@ -4463,7 +4463,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"degree\" beside a small drawing.",
-    "translation": "記住「degree」這個字：它的意思是「程度」。"
+    "translation": "Sara 在一張小圖旁寫下「degree」。"
   },
   {
     "id": 407,
@@ -4474,7 +4474,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"distant\" near the end.",
-    "translation": "這個單字在例句中是「distant」，中文意思為「遠的」。"
+    "translation": "這段對話在接近結尾的地方包含「distant」。"
   },
   {
     "id": 408,
@@ -4485,7 +4485,7 @@ const VOCABULARY = [
     "category": "情緒",
     "level": "國中2000",
     "example": "I chose \"concern\" as my word of the day.",
-    "translation": "從例句可以看出，「concern」的意思是「擔心」。"
+    "translation": "我選「concern」作為今天的每日單字。"
   },
   {
     "id": 409,
@@ -4496,7 +4496,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"crime\" with an easy sentence.",
-    "translation": "當你看到「crime」時，可以想到「罪」這個意思。"
+    "translation": "課本用一個簡單句子解釋「crime」。"
   },
   {
     "id": 410,
@@ -4507,7 +4507,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"delicious\".",
-    "translation": "「delicious」在這個例句中用來表達「美味的」。"
+    "translation": "我和我的搭檔用「delicious」造了一個問題。"
   },
   {
     "id": 411,
@@ -4518,7 +4518,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"divide\".",
-    "translation": "這個例句使用了「divide」，意思是「分割」。"
+    "translation": "這個答案選項包含「divide」。"
   },
   {
     "id": 412,
@@ -4529,7 +4529,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I remembered \"confident\" because it was in a funny story.",
-    "translation": "請看例句中的「confident」：它的中文意思是「有自信的」。"
+    "translation": "我記得「confident」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 413,
@@ -4540,7 +4540,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"cross\" quickly.",
-    "translation": "在這句話裡，「cross」表示「穿過」。"
+    "translation": "複習遊戲要求我們快速拼出「cross」。"
   },
   {
     "id": 414,
@@ -4551,7 +4551,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"deliver\" helped the reader understand it.",
-    "translation": "例句幫助你理解「deliver」，中文是「投遞」。"
+    "translation": "「deliver」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 415,
@@ -4562,7 +4562,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence uses \"dizzy\" in a school setting.",
-    "translation": "這句英文示範了「dizzy」的用法，意思是「頭暈的」。"
+    "translation": "這個句子在學校情境中使用「dizzy」。"
   },
   {
     "id": 416,
@@ -4573,7 +4573,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"conflict\" while checking the answer sheet.",
-    "translation": "記住「conflict」這個字：它的意思是「衝突」。"
+    "translation": "我在檢查答案卷時找到了「conflict」。"
   },
   {
     "id": 417,
@@ -4584,7 +4584,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"crowd\".",
-    "translation": "這個單字在例句中是「crowd」，中文意思為「人群」。"
+    "translation": "故事中的角色學會了「crowd」這個字。"
   },
   {
     "id": 418,
@@ -4595,7 +4595,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"dentist\".",
-    "translation": "從例句可以看出，「dentist」的意思是「牙醫」。"
+    "translation": "線上字典提供了「dentist」的例句。"
   },
   {
     "id": 419,
@@ -4606,7 +4606,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"doctor\" during pair practice.",
-    "translation": "當你看到「doctor」時，可以想到「醫生」這個意思。"
+    "translation": "全班在雙人練習時使用了「doctor」。"
   },
   {
     "id": 420,
@@ -4617,7 +4617,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"confuse\" into a sentence about daily life.",
-    "translation": "「confuse」在這個例句中用來表達「使迷惑」。"
+    "translation": "我把「confuse」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 421,
@@ -4628,7 +4628,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"cruel\" aloud.",
-    "translation": "這個例句使用了「cruel」，意思是「殘忍的」。"
+    "translation": "老師請每個人大聲讀出「cruel」。"
   },
   {
     "id": 422,
@@ -4639,7 +4639,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"deny\" was useful in the reading question.",
-    "translation": "請看例句中的「deny」：它的中文意思是「否認」。"
+    "translation": "「deny」這個字在閱讀題中很有用。"
   },
   {
     "id": 423,
@@ -4650,7 +4650,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"dog\".",
-    "translation": "在這句話裡，「dog」表示「狗」。"
+    "translation": "我用彩色筆標記「dog」。"
   },
   {
     "id": 424,
@@ -4661,7 +4661,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"congratulation\" easier to understand.",
-    "translation": "例句幫助你理解「congratulation」，中文是「道賀」。"
+    "translation": "這個練習句讓「congratulation」更容易理解。"
   },
   {
     "id": 425,
@@ -4672,7 +4672,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "We listened for \"cry\" in the audio clip.",
-    "translation": "這句英文示範了「cry」的用法，意思是「哭」。"
+    "translation": "我們在音檔中聽「cry」這個字。"
   },
   {
     "id": 426,
@@ -4683,7 +4683,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"department\" helped me understand the main idea.",
-    "translation": "記住「department」這個字：它的意思是「部門」。"
+    "translation": "「department」這個字幫助我理解主旨。"
   },
   {
     "id": 427,
@@ -4694,7 +4694,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"doll\" on a sticky note.",
-    "translation": "這個單字在例句中是「doll」，中文意思為「洋娃娃」。"
+    "translation": "我把「doll」寫在便利貼上。"
   },
   {
     "id": 428,
@@ -4705,7 +4705,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"connect\" after class.",
-    "translation": "從例句可以看出，「connect」的意思是「連接」。"
+    "translation": "閱讀社在課後討論了「connect」。"
   },
   {
     "id": 429,
@@ -4716,7 +4716,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"culture\" naturally.",
-    "translation": "當你看到「culture」時，可以想到「文化」這個意思。"
+    "translation": "範例對話自然地使用了「culture」。"
   },
   {
     "id": 430,
@@ -4727,7 +4727,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"depend\" was a new word for me.",
-    "translation": "「depend」在這個例句中用來表達「依賴」。"
+    "translation": "我確認「depend」對我來說是不是新單字。"
   },
   {
     "id": 431,
@@ -4738,7 +4738,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"dollar\" memorable.",
-    "translation": "這個例句使用了「dollar」，意思是「元」。"
+    "translation": "老師的故事讓「dollar」變得令人印象深刻。"
   },
   {
     "id": 432,
@@ -4749,7 +4749,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"consider\" as a challenge word.",
-    "translation": "請看例句中的「consider」：它的中文意思是「考慮」。"
+    "translation": "小組活動把「consider」列為挑戰單字。"
   },
   {
     "id": 433,
@@ -4760,7 +4760,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"cup\" on the board before the reading test.",
-    "translation": "在這句話裡，「cup」表示「杯子」。"
+    "translation": "老師在閱讀測驗前把「cup」寫在黑板上。"
   },
   {
     "id": 434,
@@ -4771,7 +4771,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"describe\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「describe」，中文是「描述」。"
+    "translation": "Amy 圈起「describe」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 435,
@@ -4782,7 +4782,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"dolphin\" in his homework sentence.",
-    "translation": "這句英文示範了「dolphin」的用法，意思是「海豚」。"
+    "translation": "Kevin 在他的作業句子中使用了「dolphin」。"
   },
   {
     "id": 436,
@@ -4793,7 +4793,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"considerate\" in today's short story.",
-    "translation": "記住「considerate」這個字：它的意思是「體貼的」。"
+    "translation": "全班在今天的短篇故事中找到了「considerate」。"
   },
   {
     "id": 437,
@@ -4804,7 +4804,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"cure\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「cure」，中文意思為「治療」。"
+    "translation": "我在複習段落時把「cure」畫線標記。"
   },
   {
     "id": 438,
@@ -4815,7 +4815,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"desert\".",
-    "translation": "從例句可以看出，「desert」的意思是「沙漠」。"
+    "translation": "我們小組做了一張有「desert」這個字的海報。"
   },
   {
     "id": 439,
@@ -4826,7 +4826,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"donkey\".",
-    "translation": "當你看到「donkey」時，可以想到「驢」這個意思。"
+    "translation": "這個例句幫助我記住「donkey」。"
   },
   {
     "id": 440,
@@ -4837,7 +4837,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"contact\" appeared in the listening script.",
-    "translation": "「contact」在這個例句中用來表達「聯絡」。"
+    "translation": "「contact」這個字出現在聽力稿中。"
   },
   {
     "id": 441,
@@ -4848,7 +4848,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"curious\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「curious」，意思是「好奇的」。"
+    "translation": "Mina 在她的單字筆記本裡查了「curious」。"
   },
   {
     "id": 442,
@@ -4859,7 +4859,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"design\".",
-    "translation": "請看例句中的「design」：它的中文意思是「設計」。"
+    "translation": "這個問題提供了關於「design」的線索。"
   },
   {
     "id": 443,
@@ -4870,7 +4870,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"door\" to make the scene clearer.",
-    "translation": "在這句話裡，「door」表示「門」。"
+    "translation": "故事使用「door」讓場景更清楚。"
   },
   {
     "id": 444,
@@ -4881,7 +4881,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"continue\" to my review list for Friday.",
-    "translation": "例句幫助你理解「continue」，中文是「使繼續」。"
+    "translation": "我把「continue」加入星期五的複習清單。"
   },
   {
     "id": 445,
@@ -4892,7 +4892,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"current\" twice.",
-    "translation": "這句英文示範了「current」的用法，意思是「現在的」。"
+    "translation": "這篇閱讀文章重複了兩次「current」。"
   },
   {
     "id": 446,
@@ -4903,7 +4903,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"desire\".",
-    "translation": "記住「desire」這個字：它的意思是「慾望」。"
+    "translation": "Jason 問「desire」要怎麼發音。"
   },
   {
     "id": 447,
@@ -4914,7 +4914,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"dot\" with its meaning.",
-    "translation": "這個單字在例句中是「dot」，中文意思為「點」。"
+    "translation": "這張學習單要求學生把「dot」和它的意思配對。"
   },
   {
     "id": 448,
@@ -4925,7 +4925,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"contract\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「contract」的意思是「合約」。"
+    "translation": "我在課文第一頁看到了「contract」。"
   },
   {
     "id": 449,
@@ -4936,7 +4936,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"curtain\" helped me guess the answer.",
-    "translation": "當你看到「curtain」時，可以想到「窗簾」這個意思。"
+    "translation": "「curtain」前面的句子幫助我猜出答案。"
   },
   {
     "id": 450,
@@ -4947,7 +4947,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "Our teacher turned \"desk\" into a quick quiz question.",
-    "translation": "「desk」在這個例句中用來表達「書桌」。"
+    "translation": "我們的老師把「desk」變成一道快速測驗題。"
   },
   {
     "id": 451,
@@ -4958,7 +4958,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"double\" with a simple picture.",
-    "translation": "這個例句使用了「double」，意思是「加倍」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「double」。"
   },
   {
     "id": 452,
@@ -4969,7 +4969,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"control\" after dinner.",
-    "translation": "請看例句中的「control」：它的中文意思是「控制」。"
+    "translation": "我晚餐後練習拼寫「control」。"
   },
   {
     "id": 453,
@@ -4980,7 +4980,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"curve\" in a real-life situation.",
-    "translation": "在這句話裡，「curve」表示「曲線」。"
+    "translation": "這道測驗題在真實生活情境中使用「curve」。"
   },
   {
     "id": 454,
@@ -4991,7 +4991,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"dessert\" beside a small drawing.",
-    "translation": "例句幫助你理解「dessert」，中文是「甜點」。"
+    "translation": "Sara 在一張小圖旁寫下「dessert」。"
   },
   {
     "id": 455,
@@ -5002,7 +5002,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"doubt\" near the end.",
-    "translation": "這句英文示範了「doubt」的用法，意思是「懷疑」。"
+    "translation": "這段對話在接近結尾的地方包含「doubt」。"
   },
   {
     "id": 456,
@@ -5013,7 +5013,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I chose \"convenient\" as my word of the day.",
-    "translation": "記住「convenient」這個字：它的意思是「方便的」。"
+    "translation": "我選「convenient」作為今天的每日單字。"
   },
   {
     "id": 457,
@@ -5024,7 +5024,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"custom\" with an easy sentence.",
-    "translation": "這個單字在例句中是「custom」，中文意思為「習慣」。"
+    "translation": "課本用一個簡單句子解釋「custom」。"
   },
   {
     "id": 458,
@@ -5035,7 +5035,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"detect\".",
-    "translation": "從例句可以看出，「detect」的意思是「查出」。"
+    "translation": "我和我的搭檔用「detect」造了一個問題。"
   },
   {
     "id": 459,
@@ -5046,7 +5046,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"doughnut\".",
-    "translation": "當你看到「doughnut」時，可以想到「甜甜圈」這個意思。"
+    "translation": "這個答案選項包含「doughnut」。"
   },
   {
     "id": 460,
@@ -5057,7 +5057,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"conversation\" because it was in a funny story.",
-    "translation": "「conversation」在這個例句中用來表達「對話」。"
+    "translation": "我記得「conversation」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 461,
@@ -5068,7 +5068,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"customer\" quickly.",
-    "translation": "這個例句使用了「customer」，意思是「顧客」。"
+    "translation": "複習遊戲要求我們快速拼出「customer」。"
   },
   {
     "id": 462,
@@ -5079,7 +5079,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"develop\" helped the reader understand it.",
-    "translation": "請看例句中的「develop」：它的中文意思是「發展」。"
+    "translation": "「develop」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 463,
@@ -5090,7 +5090,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"dove\" in a school setting.",
-    "translation": "在這句話裡，「dove」表示「鴿子」。"
+    "translation": "這個句子在學校情境中使用「dove」。"
   },
   {
     "id": 464,
@@ -5101,7 +5101,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"cook\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「cook」，中文是「煮」。"
+    "translation": "我在檢查答案卷時找到了「cook」。"
   },
   {
     "id": 465,
@@ -5112,7 +5112,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"cut\".",
-    "translation": "這句英文示範了「cut」的用法，意思是「切割」。"
+    "translation": "故事中的角色學會了「cut」這個字。"
   },
   {
     "id": 466,
@@ -5123,7 +5123,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"dial\".",
-    "translation": "記住「dial」這個字：它的意思是「撥電話」。"
+    "translation": "線上字典提供了「dial」的例句。"
   },
   {
     "id": 467,
@@ -5134,7 +5134,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"down\" during pair practice.",
-    "translation": "這個單字在例句中是「down」，中文意思為「向下」。"
+    "translation": "全班在雙人練習時使用了「down」。"
   },
   {
     "id": 468,
@@ -5145,7 +5145,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"cookie\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「cookie」的意思是「點心」。"
+    "translation": "我把「cookie」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 469,
@@ -5156,7 +5156,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"cute\" aloud.",
-    "translation": "當你看到「cute」時，可以想到「可愛的」這個意思。"
+    "translation": "老師請每個人大聲讀出「cute」。"
   },
   {
     "id": 470,
@@ -5167,7 +5167,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"diamond\" was useful in the reading question.",
-    "translation": "「diamond」在這個例句中用來表達「鑽石」。"
+    "translation": "「diamond」這個字在閱讀題中很有用。"
   },
   {
     "id": 471,
@@ -5178,7 +5178,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"downstairs\".",
-    "translation": "這個例句使用了「downstairs」，意思是「在樓下」。"
+    "translation": "我用彩色筆標記「downstairs」。"
   },
   {
     "id": 472,
@@ -5189,7 +5189,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The practice sentence makes \"cool\" easier to understand.",
-    "translation": "請看例句中的「cool」：它的中文意思是「涼的」。"
+    "translation": "這個練習句讓「cool」更容易理解。"
   },
   {
     "id": 473,
@@ -5200,7 +5200,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"diary\" in the audio clip.",
-    "translation": "在這句話裡，「diary」表示「日記」。"
+    "translation": "我們在音檔中聽「diary」這個字。"
   },
   {
     "id": 474,
@@ -5211,7 +5211,7 @@ const VOCABULARY = [
     "category": "社會",
     "level": "國中2000",
     "example": "The word \"downtown\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「downtown」，中文是「商業區」。"
+    "translation": "「downtown」這個字幫助我理解主旨。"
   },
   {
     "id": 475,
@@ -5222,7 +5222,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I wrote \"damage\" on a sticky note.",
-    "translation": "這句英文示範了「damage」的用法，意思是「損害」。"
+    "translation": "我把「damage」寫在便利貼上。"
   },
   {
     "id": 476,
@@ -5233,7 +5233,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"copy\" after class.",
-    "translation": "記住「copy」這個字：它的意思是「複製」。"
+    "translation": "閱讀社在課後討論了「copy」。"
   },
   {
     "id": 477,
@@ -5244,7 +5244,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"dictionary\" naturally.",
-    "translation": "這個單字在例句中是「dictionary」，中文意思為「字典」。"
+    "translation": "範例對話自然地使用了「dictionary」。"
   },
   {
     "id": 478,
@@ -5255,7 +5255,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"dozen\" was a new word for me.",
-    "translation": "從例句可以看出，「dozen」的意思是「(一)打」。"
+    "translation": "我確認「dozen」對我來說是不是新單字。"
   },
   {
     "id": 479,
@@ -5266,7 +5266,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher's story made \"dance\" memorable.",
-    "translation": "當你看到「dance」時，可以想到「跳舞」這個意思。"
+    "translation": "老師的故事讓「dance」變得令人印象深刻。"
   },
   {
     "id": 480,
@@ -5277,7 +5277,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"corn\" as a challenge word.",
-    "translation": "「corn」在這個例句中用來表達「玉米」。"
+    "translation": "小組活動把「corn」列為挑戰單字。"
   },
   {
     "id": 481,
@@ -5288,7 +5288,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"die\" on the board before the reading test.",
-    "translation": "這個例句使用了「die」，意思是「死」。"
+    "translation": "老師在閱讀測驗前把「die」寫在黑板上。"
   },
   {
     "id": 482,
@@ -5299,7 +5299,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"drag\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「drag」：它的中文意思是「拖」。"
+    "translation": "Amy 圈起「drag」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 483,
@@ -5310,7 +5310,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"danger\" in his homework sentence.",
-    "translation": "在這句話裡，「danger」表示「危險」。"
+    "translation": "Kevin 在他的作業句子中使用了「danger」。"
   },
   {
     "id": 484,
@@ -5321,7 +5321,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"corner\" in today's short story.",
-    "translation": "例句幫助你理解「corner」，中文是「角落」。"
+    "translation": "全班在今天的短篇故事中找到了「corner」。"
   },
   {
     "id": 485,
@@ -5332,7 +5332,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"diet\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「diet」的用法，意思是「飲食」。"
+    "translation": "我在複習段落時把「diet」畫線標記。"
   },
   {
     "id": 486,
@@ -5343,7 +5343,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"dragon\".",
-    "translation": "記住「dragon」這個字：它的意思是「龍」。"
+    "translation": "我們小組做了一張有「dragon」這個字的海報。"
   },
   {
     "id": 487,
@@ -5354,7 +5354,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"drama\".",
-    "translation": "這個單字在例句中是「drama」，中文意思為「戲劇」。"
+    "translation": "這個例句幫助我記住「drama」。"
   },
   {
     "id": 488,
@@ -5365,7 +5365,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"elder\" appeared in the listening script.",
-    "translation": "從例句可以看出，「elder」的意思是「年長的」。"
+    "translation": "「elder」這個字出現在聽力稿中。"
   },
   {
     "id": 489,
@@ -5376,7 +5376,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"excite\" in her vocabulary notebook.",
-    "translation": "當你看到「excite」時，可以想到「使…興奮」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「excite」。"
   },
   {
     "id": 490,
@@ -5387,7 +5387,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"feeling\".",
-    "translation": "「feeling」在這個例句中用來表達「感覺」。"
+    "translation": "這個問題提供了關於「feeling」的線索。"
   },
   {
     "id": 491,
@@ -5398,7 +5398,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story used \"draw\" to make the scene clearer.",
-    "translation": "這個例句使用了「draw」，意思是「拉」。"
+    "translation": "故事使用「draw」讓場景更清楚。"
   },
   {
     "id": 492,
@@ -5409,7 +5409,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"elect\" to my review list for Friday.",
-    "translation": "請看例句中的「elect」：它的中文意思是「選出」。"
+    "translation": "我把「elect」加入星期五的複習清單。"
   },
   {
     "id": 493,
@@ -5420,7 +5420,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"excuse\" twice.",
-    "translation": "在這句話裡，「excuse」表示「原諒」。"
+    "translation": "這篇閱讀文章重複了兩次「excuse」。"
   },
   {
     "id": 494,
@@ -5431,7 +5431,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"female\".",
-    "translation": "例句幫助你理解「female」，中文是「女性」。"
+    "translation": "Jason 問「female」要怎麼發音。"
   },
   {
     "id": 495,
@@ -5442,7 +5442,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"drawer\" with its meaning.",
-    "translation": "這句英文示範了「drawer」的用法，意思是「抽屜」。"
+    "translation": "這張學習單要求學生把「drawer」和它的意思配對。"
   },
   {
     "id": 496,
@@ -5453,7 +5453,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"elephant\" on the first page of the lesson.",
-    "translation": "記住「elephant」這個字：它的意思是「大象」。"
+    "translation": "我在課文第一頁看到了「elephant」。"
   },
   {
     "id": 497,
@@ -5464,7 +5464,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"exercise\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「exercise」，中文意思為「運動」。"
+    "translation": "「exercise」前面的句子幫助我猜出答案。"
   },
   {
     "id": 498,
@@ -5475,7 +5475,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"fence\" into a quick quiz question.",
-    "translation": "從例句可以看出，「fence」的意思是「柵欄」。"
+    "translation": "我們的老師把「fence」變成一道快速測驗題。"
   },
   {
     "id": 499,
@@ -5486,7 +5486,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"dream\" with a simple picture.",
-    "translation": "當你看到「dream」時，可以想到「夢」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「dream」。"
   },
   {
     "id": 500,
@@ -5497,7 +5497,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"eleven\" after dinner.",
-    "translation": "「eleven」在這個例句中用來表達「十一」。"
+    "translation": "我晚餐後練習拼寫「eleven」。"
   },
   {
     "id": 501,
@@ -5508,7 +5508,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"exist\" in a real-life situation.",
-    "translation": "這個例句使用了「exist」，意思是「存在」。"
+    "translation": "這道測驗題在真實生活情境中使用「exist」。"
   },
   {
     "id": 502,
@@ -5519,7 +5519,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"festival\" beside a small drawing.",
-    "translation": "請看例句中的「festival」：它的中文意思是「節慶」。"
+    "translation": "Sara 在一張小圖旁寫下「festival」。"
   },
   {
     "id": 503,
@@ -5530,7 +5530,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"dress\" near the end.",
-    "translation": "在這句話裡，「dress」表示「洋裝」。"
+    "translation": "這段對話在接近結尾的地方包含「dress」。"
   },
   {
     "id": 504,
@@ -5541,7 +5541,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I chose \"electric\" as my word of the day.",
-    "translation": "例句幫助你理解「electric」，中文是「電的」。"
+    "translation": "我選「electric」作為今天的每日單字。"
   },
   {
     "id": 505,
@@ -5552,7 +5552,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"exit\" with an easy sentence.",
-    "translation": "這句英文示範了「exit」的用法，意思是「出口」。"
+    "translation": "課本用一個簡單句子解釋「exit」。"
   },
   {
     "id": 506,
@@ -5563,7 +5563,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"fever\".",
-    "translation": "記住「fever」這個字：它的意思是「發燒」。"
+    "translation": "我和我的搭檔用「fever」造了一個問題。"
   },
   {
     "id": 507,
@@ -5574,7 +5574,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"drink\".",
-    "translation": "這個單字在例句中是「drink」，中文意思為「喝」。"
+    "translation": "這個答案選項包含「drink」。"
   },
   {
     "id": 508,
@@ -5585,7 +5585,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I remembered \"else\" because it was in a funny story.",
-    "translation": "從例句可以看出，「else」的意思是「其他」。"
+    "translation": "我記得「else」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 509,
@@ -5596,7 +5596,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"expect\" quickly.",
-    "translation": "當你看到「expect」時，可以想到「期望」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「expect」。"
   },
   {
     "id": 510,
@@ -5607,7 +5607,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"few\" helped the reader understand it.",
-    "translation": "「few」在這個例句中用來表達「少數的」。"
+    "translation": "「few」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 511,
@@ -5618,7 +5618,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence uses \"drive\" in a school setting.",
-    "translation": "這個例句使用了「drive」，意思是「開車」。"
+    "translation": "這個句子在學校情境中使用「drive」。"
   },
   {
     "id": 512,
@@ -5629,7 +5629,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"embarrass\" while checking the answer sheet.",
-    "translation": "請看例句中的「embarrass」：它的中文意思是「使尷尬」。"
+    "translation": "我在檢查答案卷時找到了「embarrass」。"
   },
   {
     "id": 513,
@@ -5640,7 +5640,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"expensive\".",
-    "translation": "在這句話裡，「expensive」表示「昂貴的」。"
+    "translation": "故事中的角色學會了「expensive」這個字。"
   },
   {
     "id": 514,
@@ -5651,7 +5651,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"fifteen\".",
-    "translation": "例句幫助你理解「fifteen」，中文是「十五」。"
+    "translation": "線上字典提供了「fifteen」的例句。"
   },
   {
     "id": 515,
@@ -5662,7 +5662,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"driver\" during pair practice.",
-    "translation": "這句英文示範了「driver」的用法，意思是「駕駛人」。"
+    "translation": "全班在雙人練習時使用了「driver」。"
   },
   {
     "id": 516,
@@ -5673,7 +5673,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"emotion\" into a sentence about daily life.",
-    "translation": "記住「emotion」這個字：它的意思是「情緒」。"
+    "translation": "我把「emotion」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 517,
@@ -5684,7 +5684,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"experience\" aloud.",
-    "translation": "這個單字在例句中是「experience」，中文意思為「經驗」。"
+    "translation": "老師請每個人大聲讀出「experience」。"
   },
   {
     "id": 518,
@@ -5695,7 +5695,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"fifty\" was useful in the reading question.",
-    "translation": "從例句可以看出，「fifty」的意思是「五十」。"
+    "translation": "「fifty」這個字在閱讀題中很有用。"
   },
   {
     "id": 519,
@@ -5706,7 +5706,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"drop\".",
-    "translation": "當你看到「drop」時，可以想到「落下」這個意思。"
+    "translation": "我用彩色筆標記「drop」。"
   },
   {
     "id": 520,
@@ -5717,7 +5717,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The practice sentence makes \"emphasize\" easier to understand.",
-    "translation": "「emphasize」在這個例句中用來表達「強調」。"
+    "translation": "這個練習句讓「emphasize」更容易理解。"
   },
   {
     "id": 521,
@@ -5728,7 +5728,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "We listened for \"explain\" in the audio clip.",
-    "translation": "這個例句使用了「explain」，意思是「說明」。"
+    "translation": "我們在音檔中聽「explain」這個字。"
   },
   {
     "id": 522,
@@ -5739,7 +5739,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"fight\" helped me understand the main idea.",
-    "translation": "請看例句中的「fight」：它的中文意思是「戰鬥」。"
+    "translation": "「fight」這個字幫助我理解主旨。"
   },
   {
     "id": 523,
@@ -5750,7 +5750,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"drug\" on a sticky note.",
-    "translation": "在這句話裡，「drug」表示「藥；毒品」。"
+    "translation": "我把「drug」寫在便利貼上。"
   },
   {
     "id": 524,
@@ -5761,7 +5761,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"employ\" after class.",
-    "translation": "例句幫助你理解「employ」，中文是「雇用」。"
+    "translation": "閱讀社在課後討論了「employ」。"
   },
   {
     "id": 525,
@@ -5772,7 +5772,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sample dialogue uses \"express\" naturally.",
-    "translation": "這句英文示範了「express」的用法，意思是「表達」。"
+    "translation": "範例對話自然地使用了「express」。"
   },
   {
     "id": 526,
@@ -5783,7 +5783,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"fill\" was a new word for me.",
-    "translation": "記住「fill」這個字：它的意思是「裝滿」。"
+    "translation": "我確認「fill」對我來說是不是新單字。"
   },
   {
     "id": 527,
@@ -5794,7 +5794,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"drum\" memorable.",
-    "translation": "這個單字在例句中是「drum」，中文意思為「鼓」。"
+    "translation": "老師的故事讓「drum」變得令人印象深刻。"
   },
   {
     "id": 528,
@@ -5805,7 +5805,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The group activity included \"empty\" as a challenge word.",
-    "translation": "從例句可以看出，「empty」的意思是「空的」。"
+    "translation": "小組活動把「empty」列為挑戰單字。"
   },
   {
     "id": 529,
@@ -5816,7 +5816,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher wrote \"extra\" on the board before the reading test.",
-    "translation": "當你看到「extra」時，可以想到「額外的」這個意思。"
+    "translation": "老師在閱讀測驗前把「extra」寫在黑板上。"
   },
   {
     "id": 530,
@@ -5827,7 +5827,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "Amy circled \"film\" because it was the key word in the sentence.",
-    "translation": "「film」在這個例句中用來表達「電影」。"
+    "translation": "Amy 圈起「film」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 531,
@@ -5838,7 +5838,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Kevin used \"dry\" in his homework sentence.",
-    "translation": "這個例句使用了「dry」，意思是「乾的」。"
+    "translation": "Kevin 在他的作業句子中使用了「dry」。"
   },
   {
     "id": 532,
@@ -5849,7 +5849,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"end\" in today's short story.",
-    "translation": "請看例句中的「end」：它的中文意思是「結束」。"
+    "translation": "全班在今天的短篇故事中找到了「end」。"
   },
   {
     "id": 533,
@@ -5860,7 +5860,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"eye\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「eye」表示「眼睛」。"
+    "translation": "我在複習段落時把「eye」畫線標記。"
   },
   {
     "id": 534,
@@ -5871,7 +5871,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"final\".",
-    "translation": "例句幫助你理解「final」，中文是「最後的」。"
+    "translation": "我們小組做了一張有「final」這個字的海報。"
   },
   {
     "id": 535,
@@ -5882,7 +5882,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"dryer\".",
-    "translation": "這句英文示範了「dryer」的用法，意思是「烘乾機」。"
+    "translation": "這個例句幫助我記住「dryer」。"
   },
   {
     "id": 536,
@@ -5893,7 +5893,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"enemy\" appeared in the listening script.",
-    "translation": "記住「enemy」這個字：它的意思是「敵人」。"
+    "translation": "「enemy」這個字出現在聽力稿中。"
   },
   {
     "id": 537,
@@ -5904,7 +5904,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"eyebrow\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「eyebrow」，中文意思為「眉毛」。"
+    "translation": "Mina 在她的單字筆記本裡查了「eyebrow」。"
   },
   {
     "id": 538,
@@ -5915,7 +5915,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"finally\".",
-    "translation": "從例句可以看出，「finally」的意思是「最後」。"
+    "translation": "這個問題提供了關於「finally」的線索。"
   },
   {
     "id": 539,
@@ -5926,7 +5926,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"duck\" to make the scene clearer.",
-    "translation": "當你看到「duck」時，可以想到「鴨子」這個意思。"
+    "translation": "故事使用「duck」讓場景更清楚。"
   },
   {
     "id": 540,
@@ -5937,7 +5937,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I added \"energetic\" to my review list for Friday.",
-    "translation": "「energetic」在這個例句中用來表達「精力充沛」。"
+    "translation": "我把「energetic」加入星期五的複習清單。"
   },
   {
     "id": 541,
@@ -5948,7 +5948,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"find\" twice.",
-    "translation": "這個例句使用了「find」，意思是「找到」。"
+    "translation": "這篇閱讀文章重複了兩次「find」。"
   },
   {
     "id": 542,
@@ -5959,7 +5959,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"face\".",
-    "translation": "請看例句中的「face」：它的中文意思是「臉」。"
+    "translation": "Jason 問「face」要怎麼發音。"
   },
   {
     "id": 543,
@@ -5970,7 +5970,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"dumb\" with its meaning.",
-    "translation": "在這句話裡，「dumb」表示「笨的；啞的 的」。"
+    "translation": "這張學習單要求學生把「dumb」和它的意思配對。"
   },
   {
     "id": 544,
@@ -5981,7 +5981,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I saw \"fine\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「fine」，中文是「精巧的」。"
+    "translation": "我在課文第一頁看到了「fine」。"
   },
   {
     "id": 545,
@@ -5992,7 +5992,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"fact\" helped me guess the answer.",
-    "translation": "這句英文示範了「fact」的用法，意思是「事實」。"
+    "translation": "「fact」前面的句子幫助我猜出答案。"
   },
   {
     "id": 546,
@@ -6003,7 +6003,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"dumpling\" into a quick quiz question.",
-    "translation": "記住「dumpling」這個字：它的意思是「餃子」。"
+    "translation": "我們的老師把「dumpling」變成一道快速測驗題。"
   },
   {
     "id": 547,
@@ -6014,7 +6014,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"energy\" with a simple picture.",
-    "translation": "這個單字在例句中是「energy」，中文意思為「精力」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「energy」。"
   },
   {
     "id": 548,
@@ -6025,7 +6025,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"finger\" after dinner.",
-    "translation": "從例句可以看出，「finger」的意思是「指頭」。"
+    "translation": "我晚餐後練習拼寫「finger」。"
   },
   {
     "id": 549,
@@ -6036,7 +6036,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"factory\" in a real-life situation.",
-    "translation": "當你看到「factory」時，可以想到「工廠」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「factory」。"
   },
   {
     "id": 550,
@@ -6047,7 +6047,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Sara wrote \"during\" beside a small drawing.",
-    "translation": "「during」在這個例句中用來表達「在…期間」。"
+    "translation": "Sara 在一張小圖旁寫下「during」。"
   },
   {
     "id": 551,
@@ -6058,7 +6058,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"engine\" near the end.",
-    "translation": "這個例句使用了「engine」，意思是「引擎」。"
+    "translation": "這段對話在接近結尾的地方包含「engine」。"
   },
   {
     "id": 552,
@@ -6069,7 +6069,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"finish\" as my word of the day.",
-    "translation": "請看例句中的「finish」：它的中文意思是「結束」。"
+    "translation": "我選「finish」作為今天的每日單字。"
   },
   {
     "id": 553,
@@ -6080,7 +6080,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The textbook explains \"fail\" with an easy sentence.",
-    "translation": "在這句話裡，「fail」表示「失敗」。"
+    "translation": "課本用一個簡單句子解釋「fail」。"
   },
   {
     "id": 554,
@@ -6091,7 +6091,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"duty\".",
-    "translation": "例句幫助你理解「duty」，中文是「義務」。"
+    "translation": "我和我的搭檔用「duty」造了一個問題。"
   },
   {
     "id": 555,
@@ -6102,7 +6102,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"engineer\".",
-    "translation": "這句英文示範了「engineer」的用法，意思是「工程師」。"
+    "translation": "這個答案選項包含「engineer」。"
   },
   {
     "id": 556,
@@ -6113,7 +6113,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"fire\" because it was in a funny story.",
-    "translation": "記住「fire」這個字：它的意思是「火」。"
+    "translation": "我記得「fire」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 557,
@@ -6124,7 +6124,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The review game asked us to spell \"fair\" quickly.",
-    "translation": "這個單字在例句中是「fair」，中文意思為「公平的」。"
+    "translation": "複習遊戲要求我們快速拼出「fair」。"
   },
   {
     "id": 558,
@@ -6135,7 +6135,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"enjoy\" helped the reader understand it.",
-    "translation": "從例句可以看出，「enjoy」的意思是「享受」。"
+    "translation": "「enjoy」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 559,
@@ -6146,7 +6146,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence uses \"first\" in a school setting.",
-    "translation": "當你看到「first」時，可以想到「第一的」這個意思。"
+    "translation": "這個句子在學校情境中使用「first」。"
   },
   {
     "id": 560,
@@ -6157,7 +6157,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"each\" while checking the answer sheet.",
-    "translation": "「each」在這個例句中用來表達「每個」。"
+    "translation": "我在檢查答案卷時找到了「each」。"
   },
   {
     "id": 561,
@@ -6168,7 +6168,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"fall\".",
-    "translation": "這個例句使用了「fall」，意思是「倒下」。"
+    "translation": "故事中的角色學會了「fall」這個字。"
   },
   {
     "id": 562,
@@ -6179,7 +6179,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"enough\".",
-    "translation": "請看例句中的「enough」：它的中文意思是「足夠的」。"
+    "translation": "線上字典提供了「enough」的例句。"
   },
   {
     "id": 563,
@@ -6190,7 +6190,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"fish\" during pair practice.",
-    "translation": "在這句話裡，「fish」表示「魚」。"
+    "translation": "全班在雙人練習時使用了「fish」。"
   },
   {
     "id": 564,
@@ -6201,7 +6201,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"eagle\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「eagle」，中文是「老鷹」。"
+    "translation": "我把「eagle」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 565,
@@ -6212,7 +6212,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"false\" aloud.",
-    "translation": "這句英文示範了「false」的用法，意思是「錯的」。"
+    "translation": "老師請每個人大聲讀出「false」。"
   },
   {
     "id": 566,
@@ -6223,7 +6223,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"enter\" was useful in the reading question.",
-    "translation": "記住「enter」這個字：它的意思是「進入」。"
+    "translation": "「enter」這個字在閱讀題中很有用。"
   },
   {
     "id": 567,
@@ -6234,7 +6234,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"fisherman\".",
-    "translation": "這個單字在例句中是「fisherman」，中文意思為「漁夫」。"
+    "translation": "我用彩色筆標記「fisherman」。"
   },
   {
     "id": 568,
@@ -6245,7 +6245,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"ear\" easier to understand.",
-    "translation": "從例句可以看出，「ear」的意思是「耳朵」。"
+    "translation": "這個練習句讓「ear」更容易理解。"
   },
   {
     "id": 569,
@@ -6256,7 +6256,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"family\" in the audio clip.",
-    "translation": "當你看到「family」時，可以想到「家」這個意思。"
+    "translation": "我們在音檔中聽「family」這個字。"
   },
   {
     "id": 570,
@@ -6267,7 +6267,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"entrance\" helped me understand the main idea.",
-    "translation": "「entrance」在這個例句中用來表達「入口」。"
+    "translation": "「entrance」這個字幫助我理解主旨。"
   },
   {
     "id": 571,
@@ -6278,7 +6278,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I wrote \"fit\" on a sticky note.",
-    "translation": "這個例句使用了「fit」，意思是「適合」。"
+    "translation": "我把「fit」寫在便利貼上。"
   },
   {
     "id": 572,
@@ -6289,7 +6289,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading club discussed \"early\" after class.",
-    "translation": "請看例句中的「early」：它的中文意思是「早的」。"
+    "translation": "閱讀社在課後討論了「early」。"
   },
   {
     "id": 573,
@@ -6300,7 +6300,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sample dialogue uses \"famous\" naturally.",
-    "translation": "在這句話裡，「famous」表示「著名的」。"
+    "translation": "範例對話自然地使用了「famous」。"
   },
   {
     "id": 574,
@@ -6311,7 +6311,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"envelope\" was a new word for me.",
-    "translation": "例句幫助你理解「envelope」，中文是「信封」。"
+    "translation": "我確認「envelope」對我來說是不是新單字。"
   },
   {
     "id": 575,
@@ -6322,7 +6322,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"five\" memorable.",
-    "translation": "這句英文示範了「five」的用法，意思是「五」。"
+    "translation": "老師的故事讓「five」變得令人印象深刻。"
   },
   {
     "id": 576,
@@ -6333,7 +6333,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"earn\" as a challenge word.",
-    "translation": "記住「earn」這個字：它的意思是「獲得」。"
+    "translation": "小組活動把「earn」列為挑戰單字。"
   },
   {
     "id": 577,
@@ -6344,7 +6344,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The teacher wrote \"fan\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「fan」，中文意思為「電扇」。"
+    "translation": "老師在閱讀測驗前把「fan」寫在黑板上。"
   },
   {
     "id": 578,
@@ -6355,7 +6355,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"environment\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「environment」的意思是「自然環境」。"
+    "translation": "Amy 圈起「environment」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 579,
@@ -6366,7 +6366,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"fix\" in his homework sentence.",
-    "translation": "當你看到「fix」時，可以想到「固定」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「fix」。"
   },
   {
     "id": 580,
@@ -6377,7 +6377,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"earring\" in today's short story.",
-    "translation": "「earring」在這個例句中用來表達「耳環」。"
+    "translation": "全班在今天的短篇故事中找到了「earring」。"
   },
   {
     "id": 581,
@@ -6388,7 +6388,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"fancy\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「fancy」，意思是「想像力」。"
+    "translation": "我在複習段落時把「fancy」畫線標記。"
   },
   {
     "id": 582,
@@ -6399,7 +6399,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"envy\".",
-    "translation": "請看例句中的「envy」：它的中文意思是「忌妒」。"
+    "translation": "我們小組做了一張有「envy」這個字的海報。"
   },
   {
     "id": 583,
@@ -6410,7 +6410,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"flag\".",
-    "translation": "在這句話裡，「flag」表示「旗幟」。"
+    "translation": "這個例句幫助我記住「flag」。"
   },
   {
     "id": 584,
@@ -6421,7 +6421,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"earth\" appeared in the listening script.",
-    "translation": "例句幫助你理解「earth」，中文是「地球」。"
+    "translation": "「earth」這個字出現在聽力稿中。"
   },
   {
     "id": 585,
@@ -6432,7 +6432,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"fantastic\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「fantastic」的用法，意思是「極好的」。"
+    "translation": "Mina 在她的單字筆記本裡查了「fantastic」。"
   },
   {
     "id": 586,
@@ -6443,7 +6443,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The question gave a clue about \"equal\".",
-    "translation": "記住「equal」這個字：它的意思是「相等的」。"
+    "translation": "這個問題提供了關於「equal」的線索。"
   },
   {
     "id": 587,
@@ -6454,7 +6454,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"flash\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「flash」，中文意思為「閃光」。"
+    "translation": "故事使用「flash」讓場景更清楚。"
   },
   {
     "id": 588,
@@ -6465,7 +6465,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"ease\" to my review list for Friday.",
-    "translation": "從例句可以看出，「ease」的意思是「放鬆」。"
+    "translation": "我把「ease」加入星期五的複習清單。"
   },
   {
     "id": 589,
@@ -6476,7 +6476,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"far\" twice.",
-    "translation": "當你看到「far」時，可以想到「遠方的」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「far」。"
   },
   {
     "id": 590,
@@ -6487,7 +6487,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"eraser\".",
-    "translation": "「eraser」在這個例句中用來表達「橡皮擦」。"
+    "translation": "Jason 問「eraser」要怎麼發音。"
   },
   {
     "id": 591,
@@ -6498,7 +6498,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"flashlight\" with its meaning.",
-    "translation": "這個例句使用了「flashlight」，意思是「手電筒」。"
+    "translation": "這張學習單要求學生把「flashlight」和它的意思配對。"
   },
   {
     "id": 592,
@@ -6509,7 +6509,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"east\" on the first page of the lesson.",
-    "translation": "請看例句中的「east」：它的中文意思是「東方」。"
+    "translation": "我在課文第一頁看到了「east」。"
   },
   {
     "id": 593,
@@ -6520,7 +6520,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"farm\" helped me guess the answer.",
-    "translation": "在這句話裡，「farm」表示「農場」。"
+    "translation": "「farm」前面的句子幫助我猜出答案。"
   },
   {
     "id": 594,
@@ -6531,7 +6531,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"error\" into a quick quiz question.",
-    "translation": "例句幫助你理解「error」，中文是「錯誤」。"
+    "translation": "我們的老師把「error」變成一道快速測驗題。"
   },
   {
     "id": 595,
@@ -6542,7 +6542,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"flight\" with a simple picture.",
-    "translation": "這句英文示範了「flight」的用法，意思是「飛機航次」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「flight」。"
   },
   {
     "id": 596,
@@ -6553,7 +6553,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I practiced spelling \"eastern\" after dinner.",
-    "translation": "記住「eastern」這個字：它的意思是「東方的」。"
+    "translation": "我晚餐後練習拼寫「eastern」。"
   },
   {
     "id": 597,
@@ -6564,7 +6564,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"farmer\" in a real-life situation.",
-    "translation": "這個單字在例句中是「farmer」，中文意思為「農夫」。"
+    "translation": "這道測驗題在真實生活情境中使用「farmer」。"
   },
   {
     "id": 598,
@@ -6575,7 +6575,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Sara wrote \"especially\" beside a small drawing.",
-    "translation": "從例句可以看出，「especially」的意思是「特別地」。"
+    "translation": "Sara 在一張小圖旁寫下「especially」。"
   },
   {
     "id": 599,
@@ -6586,7 +6586,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"flood\" near the end.",
-    "translation": "當你看到「flood」時，可以想到「洪水」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「flood」。"
   },
   {
     "id": 600,
@@ -6597,7 +6597,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I chose \"easy\" as my word of the day.",
-    "translation": "「easy」在這個例句中用來表達「容易的」。"
+    "translation": "我選「easy」作為今天的每日單字。"
   },
   {
     "id": 601,
@@ -6608,7 +6608,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"fashion\" with an easy sentence.",
-    "translation": "這個例句使用了「fashion」，意思是「流行」。"
+    "translation": "課本用一個簡單句子解釋「fashion」。"
   },
   {
     "id": 602,
@@ -6619,7 +6619,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"eve\".",
-    "translation": "請看例句中的「eve」：它的中文意思是「前夕」。"
+    "translation": "我和我的搭檔用「eve」造了一個問題。"
   },
   {
     "id": 603,
@@ -6630,7 +6630,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"floor\".",
-    "translation": "在這句話裡，「floor」表示「地板」。"
+    "translation": "這個答案選項包含「floor」。"
   },
   {
     "id": 604,
@@ -6641,7 +6641,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I remembered \"eat\" because it was in a funny story.",
-    "translation": "例句幫助你理解「eat」，中文是「吃」。"
+    "translation": "我記得「eat」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 605,
@@ -6652,7 +6652,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The review game asked us to spell \"fast\" quickly.",
-    "translation": "這句英文示範了「fast」的用法，意思是「快的」。"
+    "translation": "複習遊戲要求我們快速拼出「fast」。"
   },
   {
     "id": 606,
@@ -6663,7 +6663,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"even\" helped the reader understand it.",
-    "translation": "記住「even」這個字：它的意思是「甚至」。"
+    "translation": "「even」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 607,
@@ -6674,7 +6674,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"flour\" in a school setting.",
-    "translation": "這個單字在例句中是「flour」，中文意思為「麵粉」。"
+    "translation": "這個句子在學校情境中使用「flour」。"
   },
   {
     "id": 608,
@@ -6685,7 +6685,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"edge\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「edge」的意思是「邊緣」。"
+    "translation": "我在檢查答案卷時找到了「edge」。"
   },
   {
     "id": 609,
@@ -6696,7 +6696,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"fat\".",
-    "translation": "當你看到「fat」時，可以想到「肥胖的」這個意思。"
+    "translation": "故事中的角色學會了「fat」這個字。"
   },
   {
     "id": 610,
@@ -6707,7 +6707,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"evening\".",
-    "translation": "「evening」在這個例句中用來表達「傍晚」。"
+    "translation": "線上字典提供了「evening」的例句。"
   },
   {
     "id": 611,
@@ -6718,7 +6718,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"flower\" during pair practice.",
-    "translation": "這個例句使用了「flower」，意思是「花」。"
+    "translation": "全班在雙人練習時使用了「flower」。"
   },
   {
     "id": 612,
@@ -6729,7 +6729,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"education\" into a sentence about daily life.",
-    "translation": "請看例句中的「education」：它的中文意思是「教育」。"
+    "translation": "我把「education」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 613,
@@ -6740,7 +6740,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"father\" aloud.",
-    "translation": "在這句話裡，「father」表示「父親」。"
+    "translation": "老師請每個人大聲讀出「father」。"
   },
   {
     "id": 614,
@@ -6751,7 +6751,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"event\" was useful in the reading question.",
-    "translation": "例句幫助你理解「event」，中文是「事件」。"
+    "translation": "「event」這個字在閱讀題中很有用。"
   },
   {
     "id": 615,
@@ -6762,7 +6762,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"flu\".",
-    "translation": "這句英文示範了「flu」的用法，意思是「流行性感冒」。"
+    "translation": "我用彩色筆標記「flu」。"
   },
   {
     "id": 616,
@@ -6773,7 +6773,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"effect\" easier to understand.",
-    "translation": "記住「effect」這個字：它的意思是「影響」。"
+    "translation": "這個練習句讓「effect」更容易理解。"
   },
   {
     "id": 617,
@@ -6784,7 +6784,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"faucet\" in the audio clip.",
-    "translation": "這個單字在例句中是「faucet」，中文意思為「水龍頭」。"
+    "translation": "我們在音檔中聽「faucet」這個字。"
   },
   {
     "id": 618,
@@ -6795,7 +6795,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"ever\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「ever」的意思是「從來」。"
+    "translation": "「ever」這個字幫助我理解主旨。"
   },
   {
     "id": 619,
@@ -6806,7 +6806,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"flute\" on a sticky note.",
-    "translation": "當你看到「flute」時，可以想到「長笛」這個意思。"
+    "translation": "我把「flute」寫在便利貼上。"
   },
   {
     "id": 620,
@@ -6817,7 +6817,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"effort\" after class.",
-    "translation": "「effort」在這個例句中用來表達「努力」。"
+    "translation": "閱讀社在課後討論了「effort」。"
   },
   {
     "id": 621,
@@ -6828,7 +6828,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"fault\" naturally.",
-    "translation": "這個例句使用了「fault」，意思是「缺點」。"
+    "translation": "範例對話自然地使用了「fault」。"
   },
   {
     "id": 622,
@@ -6839,7 +6839,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"every\" was a new word for me.",
-    "translation": "請看例句中的「every」：它的中文意思是「每個」。"
+    "translation": "我確認「every」對我來說是不是新單字。"
   },
   {
     "id": 623,
@@ -6850,7 +6850,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher's story made \"fly\" memorable.",
-    "translation": "在這句話裡，「fly」表示「飛」。"
+    "translation": "老師的故事讓「fly」變得令人印象深刻。"
   },
   {
     "id": 624,
@@ -6861,7 +6861,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"egg\" as a challenge word.",
-    "translation": "例句幫助你理解「egg」，中文是「蛋」。"
+    "translation": "小組活動把「egg」列為挑戰單字。"
   },
   {
     "id": 625,
@@ -6872,7 +6872,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher wrote \"favorite\" on the board before the reading test.",
-    "translation": "這句英文示範了「favorite」的用法，意思是「最喜歡的」。"
+    "translation": "老師在閱讀測驗前把「favorite」寫在黑板上。"
   },
   {
     "id": 626,
@@ -6883,7 +6883,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"evil\" because it was the key word in the sentence.",
-    "translation": "記住「evil」這個字：它的意思是「惡魔」。"
+    "translation": "Amy 圈起「evil」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 627,
@@ -6894,7 +6894,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"focus\" in his homework sentence.",
-    "translation": "這個單字在例句中是「focus」，中文意思為「焦點」。"
+    "translation": "Kevin 在他的作業句子中使用了「focus」。"
   },
   {
     "id": 628,
@@ -6905,7 +6905,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"eight\" in today's short story.",
-    "translation": "從例句可以看出，「eight」的意思是「八」。"
+    "translation": "全班在今天的短篇故事中找到了「eight」。"
   },
   {
     "id": 629,
@@ -6916,7 +6916,7 @@ const VOCABULARY = [
     "category": "情緒",
     "level": "國中2000",
     "example": "I underlined \"fear\" while reviewing the paragraph.",
-    "translation": "當你看到「fear」時，可以想到「害怕」這個意思。"
+    "translation": "我在複習段落時把「fear」畫線標記。"
   },
   {
     "id": 630,
@@ -6927,7 +6927,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"exact\".",
-    "translation": "「exact」在這個例句中用來表達「正確的」。"
+    "translation": "我們小組做了一張有「exact」這個字的海報。"
   },
   {
     "id": 631,
@@ -6938,7 +6938,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"fog\".",
-    "translation": "這個例句使用了「fog」，意思是「霧」。"
+    "translation": "這個例句幫助我記住「fog」。"
   },
   {
     "id": 632,
@@ -6949,7 +6949,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"eighteen\" appeared in the listening script.",
-    "translation": "請看例句中的「eighteen」：它的中文意思是「十八」。"
+    "translation": "「eighteen」這個字出現在聽力稿中。"
   },
   {
     "id": 633,
@@ -6960,7 +6960,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"February\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「February」表示「二月」。"
+    "translation": "Mina 在她的單字筆記本裡查了「February」。"
   },
   {
     "id": 634,
@@ -6971,7 +6971,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The question gave a clue about \"exam\".",
-    "translation": "例句幫助你理解「exam」，中文是「考試 foggy 濃霧的」。"
+    "translation": "這個問題提供了關於「exam」的線索。"
   },
   {
     "id": 635,
@@ -6982,7 +6982,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"eighty\" to make the scene clearer.",
-    "translation": "這句英文示範了「eighty」的用法，意思是「八十」。"
+    "translation": "故事使用「eighty」讓場景更清楚。"
   },
   {
     "id": 636,
@@ -6993,7 +6993,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"fee\" to my review list for Friday.",
-    "translation": "記住「fee」這個字：它的意思是「費用」。"
+    "translation": "我把「fee」加入星期五的複習清單。"
   },
   {
     "id": 637,
@@ -7004,7 +7004,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"example\" twice.",
-    "translation": "這個單字在例句中是「example」，中文意思為「例子」。"
+    "translation": "這篇閱讀文章重複了兩次「example」。"
   },
   {
     "id": 638,
@@ -7015,7 +7015,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"follow\".",
-    "translation": "從例句可以看出，「follow」的意思是「跟隨」。"
+    "translation": "Jason 問「follow」要怎麼發音。"
   },
   {
     "id": 639,
@@ -7026,7 +7026,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"either\" with its meaning.",
-    "translation": "當你看到「either」時，可以想到「(兩者中)任」這個意思。"
+    "translation": "這張學習單要求學生把「either」和它的意思配對。"
   },
   {
     "id": 640,
@@ -7037,7 +7037,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"feed\" on the first page of the lesson.",
-    "translation": "「feed」在這個例句中用來表達「餵養」。"
+    "translation": "我在課文第一頁看到了「feed」。"
   },
   {
     "id": 641,
@@ -7048,7 +7048,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence before \"excellent\" helped me guess the answer.",
-    "translation": "這個例句使用了「excellent」，意思是「優秀的」。"
+    "translation": "「excellent」前面的句子幫助我猜出答案。"
   },
   {
     "id": 642,
@@ -7059,7 +7059,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"food\" into a quick quiz question.",
-    "translation": "請看例句中的「food」：它的中文意思是「食物」。"
+    "translation": "我們的老師把「food」變成一道快速測驗題。"
   },
   {
     "id": 643,
@@ -7070,7 +7070,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"feel\" with a simple picture.",
-    "translation": "在這句話裡，「feel」表示「感覺」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「feel」。"
   },
   {
     "id": 644,
@@ -7081,7 +7081,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I practiced spelling \"except\" after dinner.",
-    "translation": "例句幫助你理解「except」，中文是「除…之外」。"
+    "translation": "我晚餐後練習拼寫「except」。"
   },
   {
     "id": 645,
@@ -7092,7 +7092,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"fool\" in a real-life situation.",
-    "translation": "這句英文示範了「fool」的用法，意思是「傻子」。"
+    "translation": "這道測驗題在真實生活情境中使用「fool」。"
   },
   {
     "id": 646,
@@ -7103,7 +7103,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Sara wrote \"foolish\" beside a small drawing.",
-    "translation": "記住「foolish」這個字：它的意思是「愚笨的」。"
+    "translation": "Sara 在一張小圖旁寫下「foolish」。"
   },
   {
     "id": 647,
@@ -7114,7 +7114,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"garage\" near the end.",
-    "translation": "這個單字在例句中是「garage」，中文意思為「車庫」。"
+    "translation": "這段對話在接近結尾的地方包含「garage」。"
   },
   {
     "id": 648,
@@ -7125,7 +7125,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"grass\" as my word of the day.",
-    "translation": "從例句可以看出，「grass」的意思是「草」。"
+    "translation": "我選「grass」作為今天的每日單字。"
   },
   {
     "id": 649,
@@ -7136,7 +7136,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"headache\" with an easy sentence.",
-    "translation": "當你看到「headache」時，可以想到「頭痛」這個意思。"
+    "translation": "課本用一個簡單句子解釋「headache」。"
   },
   {
     "id": 650,
@@ -7147,7 +7147,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"foot\".",
-    "translation": "「foot」在這個例句中用來表達「腳」。"
+    "translation": "我和我的搭檔用「foot」造了一個問題。"
   },
   {
     "id": 651,
@@ -7158,7 +7158,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"garden\".",
-    "translation": "這個例句使用了「garden」，意思是「花園」。"
+    "translation": "這個答案選項包含「garden」。"
   },
   {
     "id": 652,
@@ -7169,7 +7169,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I remembered \"gray\" because it was in a funny story.",
-    "translation": "請看例句中的「gray」：它的中文意思是「灰色的」。"
+    "translation": "我記得「gray」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 653,
@@ -7180,7 +7180,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"health\" quickly.",
-    "translation": "在這句話裡，「health」表示「健康」。"
+    "translation": "複習遊戲要求我們快速拼出「health」。"
   },
   {
     "id": 654,
@@ -7191,7 +7191,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"football\" helped the reader understand it.",
-    "translation": "例句幫助你理解「football」，中文是「足球」。"
+    "translation": "「football」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 655,
@@ -7202,7 +7202,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"garbage\" in a school setting.",
-    "translation": "這句英文示範了「garbage」的用法，意思是「垃圾」。"
+    "translation": "這個句子在學校情境中使用「garbage」。"
   },
   {
     "id": 656,
@@ -7213,7 +7213,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"great\" while checking the answer sheet.",
-    "translation": "記住「great」這個字：它的意思是「傑出的」。"
+    "translation": "我在檢查答案卷時找到了「great」。"
   },
   {
     "id": 657,
@@ -7224,7 +7224,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"healthy\".",
-    "translation": "這個單字在例句中是「healthy」，中文意思為「健康的」。"
+    "translation": "故事中的角色學會了「healthy」這個字。"
   },
   {
     "id": 658,
@@ -7235,7 +7235,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"for\".",
-    "translation": "從例句可以看出，「for」的意思是「為了」。"
+    "translation": "線上字典提供了「for」的例句。"
   },
   {
     "id": 659,
@@ -7246,7 +7246,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"gas\" during pair practice.",
-    "translation": "當你看到「gas」時，可以想到「瓦斯」這個意思。"
+    "translation": "全班在雙人練習時使用了「gas」。"
   },
   {
     "id": 660,
@@ -7257,7 +7257,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I put \"greedy\" into a sentence about daily life.",
-    "translation": "「greedy」在這個例句中用來表達「貪心的」。"
+    "translation": "我把「greedy」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 661,
@@ -7268,7 +7268,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"hear\" aloud.",
-    "translation": "這個例句使用了「hear」，意思是「聽」。"
+    "translation": "老師請每個人大聲讀出「hear」。"
   },
   {
     "id": 662,
@@ -7279,7 +7279,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"force\" was useful in the reading question.",
-    "translation": "請看例句中的「force」：它的中文意思是「強迫」。"
+    "translation": "「force」這個字在閱讀題中很有用。"
   },
   {
     "id": 663,
@@ -7290,7 +7290,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"gate\".",
-    "translation": "在這句話裡，「gate」表示「大門」。"
+    "translation": "我用彩色筆標記「gate」。"
   },
   {
     "id": 664,
@@ -7301,7 +7301,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The practice sentence makes \"green\" easier to understand.",
-    "translation": "例句幫助你理解「green」，中文是「綠色的」。"
+    "translation": "這個練習句讓「green」更容易理解。"
   },
   {
     "id": 665,
@@ -7312,7 +7312,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"heart\" in the audio clip.",
-    "translation": "這句英文示範了「heart」的用法，意思是「心臟」。"
+    "translation": "我們在音檔中聽「heart」這個字。"
   },
   {
     "id": 666,
@@ -7323,7 +7323,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"foreign\" helped me understand the main idea.",
-    "translation": "記住「foreign」這個字：它的意思是「外國的」。"
+    "translation": "「foreign」這個字幫助我理解主旨。"
   },
   {
     "id": 667,
@@ -7334,7 +7334,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I wrote \"gather\" on a sticky note.",
-    "translation": "這個單字在例句中是「gather」，中文意思為「集合」。"
+    "translation": "我把「gather」寫在便利貼上。"
   },
   {
     "id": 668,
@@ -7345,7 +7345,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"greet\" after class.",
-    "translation": "從例句可以看出，「greet」的意思是「問候」。"
+    "translation": "閱讀社在課後討論了「greet」。"
   },
   {
     "id": 669,
@@ -7356,7 +7356,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"heat\" naturally.",
-    "translation": "當你看到「heat」時，可以想到「熱」這個意思。"
+    "translation": "範例對話自然地使用了「heat」。"
   },
   {
     "id": 670,
@@ -7367,7 +7367,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"foreigner\" was a new word for me.",
-    "translation": "「foreigner」在這個例句中用來表達「外國人」。"
+    "translation": "我確認「foreigner」對我來說是不是新單字。"
   },
   {
     "id": 671,
@@ -7378,7 +7378,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"general\" memorable.",
-    "translation": "這個例句使用了「general」，意思是「一般的」。"
+    "translation": "老師的故事讓「general」變得令人印象深刻。"
   },
   {
     "id": 672,
@@ -7389,7 +7389,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"ground\" as a challenge word.",
-    "translation": "請看例句中的「ground」：它的中文意思是「土地」。"
+    "translation": "小組活動把「ground」列為挑戰單字。"
   },
   {
     "id": 673,
@@ -7400,7 +7400,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"heater\" on the board before the reading test.",
-    "translation": "在這句話裡，「heater」表示「熱水器」。"
+    "translation": "老師在閱讀測驗前把「heater」寫在黑板上。"
   },
   {
     "id": 674,
@@ -7411,7 +7411,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"forest\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「forest」，中文是「森林」。"
+    "translation": "Amy 圈起「forest」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 675,
@@ -7422,7 +7422,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Kevin used \"generous\" in his homework sentence.",
-    "translation": "這句英文示範了「generous」的用法，意思是「慷慨的」。"
+    "translation": "Kevin 在他的作業句子中使用了「generous」。"
   },
   {
     "id": 676,
@@ -7433,7 +7433,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"group\" in today's short story.",
-    "translation": "記住「group」這個字：它的意思是「群，組」。"
+    "translation": "全班在今天的短篇故事中找到了「group」。"
   },
   {
     "id": 677,
@@ -7444,7 +7444,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I underlined \"heavy\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「heavy」，中文意思為「重的」。"
+    "translation": "我在複習段落時把「heavy」畫線標記。"
   },
   {
     "id": 678,
@@ -7455,7 +7455,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"forget\".",
-    "translation": "從例句可以看出，「forget」的意思是「忘記」。"
+    "translation": "我們小組做了一張有「forget」這個字的海報。"
   },
   {
     "id": 679,
@@ -7466,7 +7466,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"genius\".",
-    "translation": "當你看到「genius」時，可以想到「天才」這個意思。"
+    "translation": "這個例句幫助我記住「genius」。"
   },
   {
     "id": 680,
@@ -7477,7 +7477,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"grow\" appeared in the listening script.",
-    "translation": "「grow」在這個例句中用來表達「生長」。"
+    "translation": "「grow」這個字出現在聽力稿中。"
   },
   {
     "id": 681,
@@ -7488,7 +7488,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"height\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「height」，意思是「高度」。"
+    "translation": "Mina 在她的單字筆記本裡查了「height」。"
   },
   {
     "id": 682,
@@ -7499,7 +7499,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"forgive\".",
-    "translation": "請看例句中的「forgive」：它的中文意思是「原諒」。"
+    "translation": "這個問題提供了關於「forgive」的線索。"
   },
   {
     "id": 683,
@@ -7510,7 +7510,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story used \"gentle\" to make the scene clearer.",
-    "translation": "在這句話裡，「gentle」表示「溫和的」。"
+    "translation": "故事使用「gentle」讓場景更清楚。"
   },
   {
     "id": 684,
@@ -7521,7 +7521,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"guard\" to my review list for Friday.",
-    "translation": "例句幫助你理解「guard」，中文是「警衛」。"
+    "translation": "我把「guard」加入星期五的複習清單。"
   },
   {
     "id": 685,
@@ -7532,7 +7532,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"helicopter\" twice.",
-    "translation": "這句英文示範了「helicopter」的用法，意思是「直升機」。"
+    "translation": "這篇閱讀文章重複了兩次「helicopter」。"
   },
   {
     "id": 686,
@@ -7543,7 +7543,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"fork\".",
-    "translation": "記住「fork」這個字：它的意思是「叉子」。"
+    "translation": "Jason 問「fork」要怎麼發音。"
   },
   {
     "id": 687,
@@ -7554,7 +7554,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"gentleman\" with its meaning.",
-    "translation": "這個單字在例句中是「gentleman」，中文意思為「紳士」。"
+    "translation": "這張學習單要求學生把「gentleman」和它的意思配對。"
   },
   {
     "id": 688,
@@ -7565,7 +7565,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"guava\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「guava」的意思是「番石榴」。"
+    "translation": "我在課文第一頁看到了「guava」。"
   },
   {
     "id": 689,
@@ -7576,7 +7576,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"help\" helped me guess the answer.",
-    "translation": "當你看到「help」時，可以想到「幫忙」這個意思。"
+    "translation": "「help」前面的句子幫助我猜出答案。"
   },
   {
     "id": 690,
@@ -7587,7 +7587,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our teacher turned \"form\" into a quick quiz question.",
-    "translation": "「form」在這個例句中用來表達「形成」。"
+    "translation": "我們的老師把「form」變成一道快速測驗題。"
   },
   {
     "id": 691,
@@ -7598,7 +7598,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"geography\" with a simple picture.",
-    "translation": "這個例句使用了「geography」，意思是「地理」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「geography」。"
   },
   {
     "id": 692,
@@ -7609,7 +7609,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"guess\" after dinner.",
-    "translation": "請看例句中的「guess」：它的中文意思是「猜測」。"
+    "translation": "我晚餐後練習拼寫「guess」。"
   },
   {
     "id": 693,
@@ -7620,7 +7620,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The test item uses \"helpful\" in a real-life situation.",
-    "translation": "在這句話裡，「helpful」表示「有助益的」。"
+    "translation": "這道測驗題在真實生活情境中使用「helpful」。"
   },
   {
     "id": 694,
@@ -7631,7 +7631,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Sara wrote \"formal\" beside a small drawing.",
-    "translation": "例句幫助你理解「formal」，中文是「正式的」。"
+    "translation": "Sara 在一張小圖旁寫下「formal」。"
   },
   {
     "id": 695,
@@ -7642,7 +7642,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"gesture\" near the end.",
-    "translation": "這句英文示範了「gesture」的用法，意思是「姿勢，手勢」。"
+    "translation": "這段對話在接近結尾的地方包含「gesture」。"
   },
   {
     "id": 696,
@@ -7653,7 +7653,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"guest\" as my word of the day.",
-    "translation": "記住「guest」這個字：它的意思是「客人」。"
+    "translation": "我選「guest」作為今天的每日單字。"
   },
   {
     "id": 697,
@@ -7664,7 +7664,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"hen\" with an easy sentence.",
-    "translation": "這個單字在例句中是「hen」，中文意思為「母雞」。"
+    "translation": "課本用一個簡單句子解釋「hen」。"
   },
   {
     "id": 698,
@@ -7675,7 +7675,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"former\".",
-    "translation": "從例句可以看出，「former」的意思是「前者的」。"
+    "translation": "我和我的搭檔用「former」造了一個問題。"
   },
   {
     "id": 699,
@@ -7686,7 +7686,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"get\".",
-    "translation": "當你看到「get」時，可以想到「得到」這個意思。"
+    "translation": "這個答案選項包含「get」。"
   },
   {
     "id": 700,
@@ -7697,7 +7697,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I remembered \"guide\" because it was in a funny story.",
-    "translation": "「guide」在這個例句中用來表達「引導」。"
+    "translation": "我記得「guide」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 701,
@@ -7708,7 +7708,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"here\" quickly.",
-    "translation": "這個例句使用了「here」，意思是「在這裡」。"
+    "translation": "複習遊戲要求我們快速拼出「here」。"
   },
   {
     "id": 702,
@@ -7719,7 +7719,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"forty\" helped the reader understand it.",
-    "translation": "請看例句中的「forty」：它的中文意思是「四十」。"
+    "translation": "「forty」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 703,
@@ -7730,7 +7730,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"ghost\" in a school setting.",
-    "translation": "在這句話裡，「ghost」表示「鬼」。"
+    "translation": "這個句子在學校情境中使用「ghost」。"
   },
   {
     "id": 704,
@@ -7741,7 +7741,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"guitar\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「guitar」，中文是「吉他」。"
+    "translation": "我在檢查答案卷時找到了「guitar」。"
   },
   {
     "id": 705,
@@ -7752,7 +7752,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"hero\".",
-    "translation": "這句英文示範了「hero」的用法，意思是「英雄」。"
+    "translation": "故事中的角色學會了「hero」這個字。"
   },
   {
     "id": 706,
@@ -7763,7 +7763,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"forward(s)\".",
-    "translation": "記住「forward(s)」這個字：它的意思是「向前」。"
+    "translation": "線上字典提供了「forward(s)」的例句。"
   },
   {
     "id": 707,
@@ -7774,7 +7774,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class used \"giant\" during pair practice.",
-    "translation": "這個單字在例句中是「giant」，中文意思為「巨大的」。"
+    "translation": "全班在雙人練習時使用了「giant」。"
   },
   {
     "id": 708,
@@ -7785,7 +7785,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"gun\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「gun」的意思是「槍」。"
+    "translation": "我把「gun」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 709,
@@ -7796,7 +7796,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"hide\" aloud.",
-    "translation": "當你看到「hide」時，可以想到「藏」這個意思。"
+    "translation": "老師請每個人大聲讀出「hide」。"
   },
   {
     "id": 710,
@@ -7807,7 +7807,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"four\" was useful in the reading question.",
-    "translation": "「four」在這個例句中用來表達「四」。"
+    "translation": "「four」這個字在閱讀題中很有用。"
   },
   {
     "id": 711,
@@ -7818,7 +7818,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"gift\".",
-    "translation": "這個例句使用了「gift」，意思是「禮物」。"
+    "translation": "我用彩色筆標記「gift」。"
   },
   {
     "id": 712,
@@ -7829,7 +7829,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"guy\" easier to understand.",
-    "translation": "請看例句中的「guy」：它的中文意思是「小伙子」。"
+    "translation": "這個練習句讓「guy」更容易理解。"
   },
   {
     "id": 713,
@@ -7840,7 +7840,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "We listened for \"high\" in the audio clip.",
-    "translation": "在這句話裡，「high」表示「高的」。"
+    "translation": "我們在音檔中聽「high」這個字。"
   },
   {
     "id": 714,
@@ -7851,7 +7851,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"fourteen\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「fourteen」，中文是「十四」。"
+    "translation": "「fourteen」這個字幫助我理解主旨。"
   },
   {
     "id": 715,
@@ -7862,7 +7862,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"girl\" on a sticky note.",
-    "translation": "這句英文示範了「girl」的用法，意思是「女孩」。"
+    "translation": "我把「girl」寫在便利貼上。"
   },
   {
     "id": 716,
@@ -7873,7 +7873,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"gym\" after class.",
-    "translation": "記住「gym」這個字：它的意思是「體育館」。"
+    "translation": "閱讀社在課後討論了「gym」。"
   },
   {
     "id": 717,
@@ -7884,7 +7884,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"highway\" naturally.",
-    "translation": "這個單字在例句中是「highway」，中文意思為「公路」。"
+    "translation": "範例對話自然地使用了「highway」。"
   },
   {
     "id": 718,
@@ -7895,7 +7895,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"fox\" was a new word for me.",
-    "translation": "從例句可以看出，「fox」的意思是「狐狸」。"
+    "translation": "我確認「fox」對我來說是不是新單字。"
   },
   {
     "id": 719,
@@ -7906,7 +7906,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher's story made \"give\" memorable.",
-    "translation": "當你看到「give」時，可以想到「給予」這個意思。"
+    "translation": "老師的故事讓「give」變得令人印象深刻。"
   },
   {
     "id": 720,
@@ -7917,7 +7917,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"hike\" as a challenge word.",
-    "translation": "「hike」在這個例句中用來表達「遠足」。"
+    "translation": "小組活動把「hike」列為挑戰單字。"
   },
   {
     "id": 721,
@@ -7928,7 +7928,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"habit\" on the board before the reading test.",
-    "translation": "這個例句使用了「habit」，意思是「習慣」。"
+    "translation": "老師在閱讀測驗前把「habit」寫在黑板上。"
   },
   {
     "id": 722,
@@ -7939,7 +7939,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Amy circled \"frank\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「frank」：它的中文意思是「直率的」。"
+    "translation": "Amy 圈起「frank」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 723,
@@ -7950,7 +7950,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Kevin used \"glad\" in his homework sentence.",
-    "translation": "在這句話裡，「glad」表示「高興的」。"
+    "translation": "Kevin 在他的作業句子中使用了「glad」。"
   },
   {
     "id": 724,
@@ -7961,7 +7961,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"hill\" in today's short story.",
-    "translation": "例句幫助你理解「hill」，中文是「小山丘」。"
+    "translation": "全班在今天的短篇故事中找到了「hill」。"
   },
   {
     "id": 725,
@@ -7972,7 +7972,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"hair\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「hair」的用法，意思是「頭髮」。"
+    "translation": "我在複習段落時把「hair」畫線標記。"
   },
   {
     "id": 726,
@@ -7983,7 +7983,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"free\".",
-    "translation": "記住「free」這個字：它的意思是「自由的」。"
+    "translation": "我們小組做了一張有「free」這個字的海報。"
   },
   {
     "id": 727,
@@ -7994,7 +7994,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"glass\".",
-    "translation": "這個單字在例句中是「glass」，中文意思為「玻璃」。"
+    "translation": "這個例句幫助我記住「glass」。"
   },
   {
     "id": 728,
@@ -8005,7 +8005,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"hip\" appeared in the listening script.",
-    "translation": "從例句可以看出，「hip」的意思是「臀部」。"
+    "translation": "「hip」這個字出現在聽力稿中。"
   },
   {
     "id": 729,
@@ -8016,7 +8016,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"half\" in her vocabulary notebook.",
-    "translation": "當你看到「half」時，可以想到「一半的」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「half」。"
   },
   {
     "id": 730,
@@ -8027,7 +8027,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"freedom\".",
-    "translation": "「freedom」在這個例句中用來表達「自由」。"
+    "translation": "這個問題提供了關於「freedom」的線索。"
   },
   {
     "id": 731,
@@ -8038,7 +8038,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"glasses\" to make the scene clearer.",
-    "translation": "這個例句使用了「glasses」，意思是「眼鏡」。"
+    "translation": "故事使用「glasses」讓場景更清楚。"
   },
   {
     "id": 732,
@@ -8049,7 +8049,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"hippo\" to my review list for Friday.",
-    "translation": "請看例句中的「hippo」：它的中文意思是「河馬」。"
+    "translation": "我把「hippo」加入星期五的複習清單。"
   },
   {
     "id": 733,
@@ -8060,7 +8060,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"hall\" twice.",
-    "translation": "在這句話裡，「hall」表示「大廳」。"
+    "translation": "這篇閱讀文章重複了兩次「hall」。"
   },
   {
     "id": 734,
@@ -8071,7 +8071,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"fresh\".",
-    "translation": "例句幫助你理解「fresh」，中文是「新鮮的」。"
+    "translation": "Jason 問「fresh」要怎麼發音。"
   },
   {
     "id": 735,
@@ -8082,7 +8082,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"glove\" with its meaning.",
-    "translation": "這句英文示範了「glove」的用法，意思是「手套」。"
+    "translation": "這張學習單要求學生把「glove」和它的意思配對。"
   },
   {
     "id": 736,
@@ -8093,7 +8093,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"hire\" on the first page of the lesson.",
-    "translation": "記住「hire」這個字：它的意思是「雇用」。"
+    "translation": "我在課文第一頁看到了「hire」。"
   },
   {
     "id": 737,
@@ -8104,7 +8104,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"Halloween\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「Halloween」，中文意思為「萬聖節」。"
+    "translation": "「Halloween」前面的句子幫助我猜出答案。"
   },
   {
     "id": 738,
@@ -8115,7 +8115,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"Friday\" into a quick quiz question.",
-    "translation": "從例句可以看出，「Friday」的意思是「星期五」。"
+    "translation": "我們的老師把「Friday」變成一道快速測驗題。"
   },
   {
     "id": 739,
@@ -8126,7 +8126,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"glue\" with a simple picture.",
-    "translation": "當你看到「glue」時，可以想到「膠水」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「glue」。"
   },
   {
     "id": 740,
@@ -8137,7 +8137,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"history\" after dinner.",
-    "translation": "「history」在這個例句中用來表達「歷史」。"
+    "translation": "我晚餐後練習拼寫「history」。"
   },
   {
     "id": 741,
@@ -8148,7 +8148,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"ham\" in a real-life situation.",
-    "translation": "這個例句使用了「ham」，意思是「火腿」。"
+    "translation": "這道測驗題在真實生活情境中使用「ham」。"
   },
   {
     "id": 742,
@@ -8159,7 +8159,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"friend\" beside a small drawing.",
-    "translation": "請看例句中的「friend」：它的中文意思是「朋友」。"
+    "translation": "Sara 在一張小圖旁寫下「friend」。"
   },
   {
     "id": 743,
@@ -8170,7 +8170,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"go\" near the end.",
-    "translation": "在這句話裡，「go」表示「去」。"
+    "translation": "這段對話在接近結尾的地方包含「go」。"
   },
   {
     "id": 744,
@@ -8181,7 +8181,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"hit\" as my word of the day.",
-    "translation": "例句幫助你理解「hit」，中文是「打」。"
+    "translation": "我選「hit」作為今天的每日單字。"
   },
   {
     "id": 745,
@@ -8192,7 +8192,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"hamburger\" with an easy sentence.",
-    "translation": "這句英文示範了「hamburger」的用法，意思是「漢堡」。"
+    "translation": "課本用一個簡單句子解釋「hamburger」。"
   },
   {
     "id": 746,
@@ -8203,7 +8203,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"friendly\".",
-    "translation": "記住「friendly」這個字：它的意思是「友好的」。"
+    "translation": "我和我的搭檔用「friendly」造了一個問題。"
   },
   {
     "id": 747,
@@ -8214,7 +8214,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"goal\".",
-    "translation": "這個單字在例句中是「goal」，中文意思為「目標」。"
+    "translation": "這個答案選項包含「goal」。"
   },
   {
     "id": 748,
@@ -8225,7 +8225,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"hobby\" because it was in a funny story.",
-    "translation": "從例句可以看出，「hobby」的意思是「嗜好」。"
+    "translation": "我記得「hobby」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 749,
@@ -8236,7 +8236,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"hammer\" quickly.",
-    "translation": "當你看到「hammer」時，可以想到「槌子」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「hammer」。"
   },
   {
     "id": 750,
@@ -8247,7 +8247,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"frighten\" helped the reader understand it.",
-    "translation": "「frighten」在這個例句中用來表達「使害怕」。"
+    "translation": "「frighten」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 751,
@@ -8258,7 +8258,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"goat\" in a school setting.",
-    "translation": "這個例句使用了「goat」，意思是「山羊」。"
+    "translation": "這個句子在學校情境中使用「goat」。"
   },
   {
     "id": 752,
@@ -8269,7 +8269,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"hold\" while checking the answer sheet.",
-    "translation": "請看例句中的「hold」：它的中文意思是「抓住」。"
+    "translation": "我在檢查答案卷時找到了「hold」。"
   },
   {
     "id": 753,
@@ -8280,7 +8280,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"hand\".",
-    "translation": "在這句話裡，「hand」表示「手」。"
+    "translation": "故事中的角色學會了「hand」這個字。"
   },
   {
     "id": 754,
@@ -8291,7 +8291,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"frog\".",
-    "translation": "例句幫助你理解「frog」，中文是「青蛙」。"
+    "translation": "線上字典提供了「frog」的例句。"
   },
   {
     "id": 755,
@@ -8302,7 +8302,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"god\" during pair practice.",
-    "translation": "這句英文示範了「god」的用法，意思是「上帝」。"
+    "translation": "全班在雙人練習時使用了「god」。"
   },
   {
     "id": 756,
@@ -8313,7 +8313,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"hole\" into a sentence about daily life.",
-    "translation": "記住「hole」這個字：它的意思是「洞」。"
+    "translation": "我把「hole」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 757,
@@ -8324,7 +8324,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"handkerchief\" aloud.",
-    "translation": "這個單字在例句中是「handkerchief」，中文意思為「手帕」。"
+    "translation": "老師請每個人大聲讀出「handkerchief」。"
   },
   {
     "id": 758,
@@ -8335,7 +8335,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The word \"from\" was useful in the reading question.",
-    "translation": "從例句可以看出，「from」的意思是「從…」。"
+    "translation": "「from」這個字在閱讀題中很有用。"
   },
   {
     "id": 759,
@@ -8346,7 +8346,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"gold\".",
-    "translation": "當你看到「gold」時，可以想到「黃金」這個意思。"
+    "translation": "我用彩色筆標記「gold」。"
   },
   {
     "id": 760,
@@ -8357,7 +8357,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"holiday\" easier to understand.",
-    "translation": "「holiday」在這個例句中用來表達「假日」。"
+    "translation": "這個練習句讓「holiday」更容易理解。"
   },
   {
     "id": 761,
@@ -8368,7 +8368,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "We listened for \"handle\" in the audio clip.",
-    "translation": "這個例句使用了「handle」，意思是「處理」。"
+    "translation": "我們在音檔中聽「handle」這個字。"
   },
   {
     "id": 762,
@@ -8379,7 +8379,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"front\" helped me understand the main idea.",
-    "translation": "請看例句中的「front」：它的中文意思是「前面的」。"
+    "translation": "「front」這個字幫助我理解主旨。"
   },
   {
     "id": 763,
@@ -8390,7 +8390,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"golden\" on a sticky note.",
-    "translation": "在這句話裡，「golden」表示「金色的」。"
+    "translation": "我把「golden」寫在便利貼上。"
   },
   {
     "id": 764,
@@ -8401,7 +8401,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"home\" after class.",
-    "translation": "例句幫助你理解「home」，中文是「家」。"
+    "translation": "閱讀社在課後討論了「home」。"
   },
   {
     "id": 765,
@@ -8412,7 +8412,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sample dialogue uses \"handsome\" naturally.",
-    "translation": "這句英文示範了「handsome」的用法，意思是「英俊的」。"
+    "translation": "範例對話自然地使用了「handsome」。"
   },
   {
     "id": 766,
@@ -8423,7 +8423,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"fruit\" was a new word for me.",
-    "translation": "記住「fruit」這個字：它的意思是「水果」。"
+    "translation": "我確認「fruit」對我來說是不是新單字。"
   },
   {
     "id": 767,
@@ -8434,7 +8434,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"golf\" memorable.",
-    "translation": "這個單字在例句中是「golf」，中文意思為「高爾夫球」。"
+    "translation": "老師的故事讓「golf」變得令人印象深刻。"
   },
   {
     "id": 768,
@@ -8445,7 +8445,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"homework\" as a challenge word.",
-    "translation": "從例句可以看出，「homework」的意思是「作業」。"
+    "translation": "小組活動把「homework」列為挑戰單字。"
   },
   {
     "id": 769,
@@ -8456,7 +8456,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"hang\" on the board before the reading test.",
-    "translation": "當你看到「hang」時，可以想到「掛」這個意思。"
+    "translation": "老師在閱讀測驗前把「hang」寫在黑板上。"
   },
   {
     "id": 770,
@@ -8467,7 +8467,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"fry\" because it was the key word in the sentence.",
-    "translation": "「fry」在這個例句中用來表達「油炸」。"
+    "translation": "Amy 圈起「fry」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 771,
@@ -8478,7 +8478,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Kevin used \"good\" in his homework sentence.",
-    "translation": "這個例句使用了「good」，意思是「好的」。"
+    "translation": "Kevin 在他的作業句子中使用了「good」。"
   },
   {
     "id": 772,
@@ -8489,7 +8489,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"honest\" in today's short story.",
-    "translation": "請看例句中的「honest」：它的中文意思是「誠實的」。"
+    "translation": "全班在今天的短篇故事中找到了「honest」。"
   },
   {
     "id": 773,
@@ -8500,7 +8500,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"hanger\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「hanger」表示「衣架」。"
+    "translation": "我在複習段落時把「hanger」畫線標記。"
   },
   {
     "id": 774,
@@ -8511,7 +8511,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"full\".",
-    "translation": "例句幫助你理解「full」，中文是「滿的」。"
+    "translation": "我們小組做了一張有「full」這個字的海報。"
   },
   {
     "id": 775,
@@ -8522,7 +8522,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"goodness\".",
-    "translation": "這句英文示範了「goodness」的用法，意思是「善良」。"
+    "translation": "這個例句幫助我記住「goodness」。"
   },
   {
     "id": 776,
@@ -8533,7 +8533,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"honesty\" appeared in the listening script.",
-    "translation": "記住「honesty」這個字：它的意思是「誠實」。"
+    "translation": "「honesty」這個字出現在聽力稿中。"
   },
   {
     "id": 777,
@@ -8544,7 +8544,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"happen\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「happen」，中文意思為「發生」。"
+    "translation": "Mina 在她的單字筆記本裡查了「happen」。"
   },
   {
     "id": 778,
@@ -8555,7 +8555,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"fun\".",
-    "translation": "從例句可以看出，「fun」的意思是「趣味」。"
+    "translation": "這個問題提供了關於「fun」的線索。"
   },
   {
     "id": 779,
@@ -8566,7 +8566,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"goose\" to make the scene clearer.",
-    "translation": "當你看到「goose」時，可以想到「鵝」這個意思。"
+    "translation": "故事使用「goose」讓場景更清楚。"
   },
   {
     "id": 780,
@@ -8577,7 +8577,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"honey\" to my review list for Friday.",
-    "translation": "「honey」在這個例句中用來表達「蜂蜜」。"
+    "translation": "我把「honey」加入星期五的複習清單。"
   },
   {
     "id": 781,
@@ -8588,7 +8588,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"happy\" twice.",
-    "translation": "這個例句使用了「happy」，意思是「快樂的」。"
+    "translation": "這篇閱讀文章重複了兩次「happy」。"
   },
   {
     "id": 782,
@@ -8599,7 +8599,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"function\".",
-    "translation": "請看例句中的「function」：它的中文意思是「功能」。"
+    "translation": "Jason 問「function」要怎麼發音。"
   },
   {
     "id": 783,
@@ -8610,7 +8610,7 @@ const VOCABULARY = [
     "category": "社會",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"government\" with its meaning.",
-    "translation": "在這句話裡，「government」表示「政府」。"
+    "translation": "這張學習單要求學生把「government」和它的意思配對。"
   },
   {
     "id": 784,
@@ -8621,7 +8621,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"hop\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「hop」，中文是「跳躍」。"
+    "translation": "我在課文第一頁看到了「hop」。"
   },
   {
     "id": 785,
@@ -8632,7 +8632,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence before \"hard\" helped me guess the answer.",
-    "translation": "這句英文示範了「hard」的用法，意思是「難的」。"
+    "translation": "「hard」前面的句子幫助我猜出答案。"
   },
   {
     "id": 786,
@@ -8643,7 +8643,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"funny\" into a quick quiz question.",
-    "translation": "記住「funny」這個字：它的意思是「好笑的」。"
+    "translation": "我們的老師把「funny」變成一道快速測驗題。"
   },
   {
     "id": 787,
@@ -8654,7 +8654,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"grade\" with a simple picture.",
-    "translation": "這個單字在例句中是「grade」，中文意思為「分數」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「grade」。"
   },
   {
     "id": 788,
@@ -8665,7 +8665,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"hope\" after dinner.",
-    "translation": "從例句可以看出，「hope」的意思是「希望」。"
+    "translation": "我晚餐後練習拼寫「hope」。"
   },
   {
     "id": 789,
@@ -8676,7 +8676,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"hardly\" in a real-life situation.",
-    "translation": "當你看到「hardly」時，可以想到「幾乎不」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「hardly」。"
   },
   {
     "id": 790,
@@ -8687,7 +8687,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"furniture\" beside a small drawing.",
-    "translation": "「furniture」在這個例句中用來表達「傢俱」。"
+    "translation": "Sara 在一張小圖旁寫下「furniture」。"
   },
   {
     "id": 791,
@@ -8698,7 +8698,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"gram\" near the end.",
-    "translation": "這個例句使用了「gram」，意思是「克」。"
+    "translation": "這段對話在接近結尾的地方包含「gram」。"
   },
   {
     "id": 792,
@@ -8709,7 +8709,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I chose \"horrible\" as my word of the day.",
-    "translation": "請看例句中的「horrible」：它的中文意思是「恐怖的」。"
+    "translation": "我選「horrible」作為今天的每日單字。"
   },
   {
     "id": 793,
@@ -8720,7 +8720,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"hat\" with an easy sentence.",
-    "translation": "在這句話裡，「hat」表示「帽子」。"
+    "translation": "課本用一個簡單句子解釋「hat」。"
   },
   {
     "id": 794,
@@ -8731,7 +8731,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"future\".",
-    "translation": "例句幫助你理解「future」，中文是「未來」。"
+    "translation": "我和我的搭檔用「future」造了一個問題。"
   },
   {
     "id": 795,
@@ -8742,7 +8742,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"grandfather\".",
-    "translation": "這句英文示範了「grandfather」的用法，意思是「祖父」。"
+    "translation": "這個答案選項包含「grandfather」。"
   },
   {
     "id": 796,
@@ -8753,7 +8753,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"horse\" because it was in a funny story.",
-    "translation": "記住「horse」這個字：它的意思是「馬」。"
+    "translation": "我記得「horse」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 797,
@@ -8764,7 +8764,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"hate\" quickly.",
-    "translation": "這個單字在例句中是「hate」，中文意思為「憎恨」。"
+    "translation": "複習遊戲要求我們快速拼出「hate」。"
   },
   {
     "id": 798,
@@ -8775,7 +8775,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"grandmother\" helped the reader understand it.",
-    "translation": "從例句可以看出，「grandmother」的意思是「祖母」。"
+    "translation": "「grandmother」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 799,
@@ -8786,7 +8786,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"hospital\" in a school setting.",
-    "translation": "當你看到「hospital」時，可以想到「醫院」這個意思。"
+    "translation": "這個句子在學校情境中使用「hospital」。"
   },
   {
     "id": 800,
@@ -8797,7 +8797,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"gain\" while checking the answer sheet.",
-    "translation": "「gain」在這個例句中用來表達「獲得」。"
+    "translation": "我在檢查答案卷時找到了「gain」。"
   },
   {
     "id": 801,
@@ -8808,7 +8808,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"have\".",
-    "translation": "這個例句使用了「have」，意思是「有」。"
+    "translation": "故事中的角色學會了「have」這個字。"
   },
   {
     "id": 802,
@@ -8819,7 +8819,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"grandson\".",
-    "translation": "請看例句中的「grandson」：它的中文意思是「孫子」。"
+    "translation": "線上字典提供了「grandson」的例句。"
   },
   {
     "id": 803,
@@ -8830,7 +8830,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"host\" during pair practice.",
-    "translation": "在這句話裡，「host」表示「主人」。"
+    "translation": "全班在雙人練習時使用了「host」。"
   },
   {
     "id": 804,
@@ -8841,7 +8841,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"game\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「game」，中文是「遊戲」。"
+    "translation": "我把「game」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 805,
@@ -8852,7 +8852,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"head\" aloud.",
-    "translation": "這句英文示範了「head」的用法，意思是「頭」。"
+    "translation": "老師請每個人大聲讀出「head」。"
   },
   {
     "id": 806,
@@ -8863,7 +8863,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"grape\" was useful in the reading question.",
-    "translation": "記住「grape」這個字：它的意思是「葡萄」。"
+    "translation": "「grape」這個字在閱讀題中很有用。"
   },
   {
     "id": 807,
@@ -8874,7 +8874,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I used a color pen to mark \"hot\".",
-    "translation": "這個單字在例句中是「hot」，中文意思為「熱的」。"
+    "translation": "我用彩色筆標記「hot」。"
   },
   {
     "id": 808,
@@ -8885,7 +8885,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"hotel\" easier to understand.",
-    "translation": "從例句可以看出，「hotel」的意思是「旅館」。"
+    "translation": "這個練習句讓「hotel」更容易理解。"
   },
   {
     "id": 809,
@@ -8896,7 +8896,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"influence\" in the audio clip.",
-    "translation": "當你看到「influence」時，可以想到「影響」這個意思。"
+    "translation": "我們在音檔中聽「influence」這個字。"
   },
   {
     "id": 810,
@@ -8907,7 +8907,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"juice\" helped me understand the main idea.",
-    "translation": "「juice」在這個例句中用來表達「果汁」。"
+    "translation": "「juice」這個字幫助我理解主旨。"
   },
   {
     "id": 811,
@@ -8918,7 +8918,7 @@ const VOCABULARY = [
     "category": "社會",
     "level": "國中2000",
     "example": "I wrote \"law\" on a sticky note.",
-    "translation": "這個例句使用了「law」，意思是「法律」。"
+    "translation": "我把「law」寫在便利貼上。"
   },
   {
     "id": 812,
@@ -8929,7 +8929,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"hour\" after class.",
-    "translation": "請看例句中的「hour」：它的中文意思是「小時」。"
+    "translation": "閱讀社在課後討論了「hour」。"
   },
   {
     "id": 813,
@@ -8940,7 +8940,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"information\" naturally.",
-    "translation": "在這句話裡，「information」表示「資訊」。"
+    "translation": "範例對話自然地使用了「information」。"
   },
   {
     "id": 814,
@@ -8951,7 +8951,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"July\" was a new word for me.",
-    "translation": "例句幫助你理解「July」，中文是「七月」。"
+    "translation": "我確認「July」對我來說是不是新單字。"
   },
   {
     "id": 815,
@@ -8962,7 +8962,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"lawyer\" memorable.",
-    "translation": "這句英文示範了「lawyer」的用法，意思是「律師」。"
+    "translation": "老師的故事讓「lawyer」變得令人印象深刻。"
   },
   {
     "id": 816,
@@ -8973,7 +8973,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"house\" as a challenge word.",
-    "translation": "記住「house」這個字：它的意思是「房子」。"
+    "translation": "小組活動把「house」列為挑戰單字。"
   },
   {
     "id": 817,
@@ -8984,7 +8984,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"ink\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「ink」，中文意思為「墨水」。"
+    "translation": "老師在閱讀測驗前把「ink」寫在黑板上。"
   },
   {
     "id": 818,
@@ -8995,7 +8995,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"jump\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「jump」的意思是「跳」。"
+    "translation": "Amy 圈起「jump」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 819,
@@ -9006,7 +9006,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"lay\" in his homework sentence.",
-    "translation": "當你看到「lay」時，可以想到「放置」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「lay」。"
   },
   {
     "id": 820,
@@ -9017,7 +9017,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"housewife\" in today's short story.",
-    "translation": "「housewife」在這個例句中用來表達「家庭主婦」。"
+    "translation": "全班在今天的短篇故事中找到了「housewife」。"
   },
   {
     "id": 821,
@@ -9028,7 +9028,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"insect\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「insect」，意思是「昆蟲」。"
+    "translation": "我在複習段落時把「insect」畫線標記。"
   },
   {
     "id": 822,
@@ -9039,7 +9039,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"June\".",
-    "translation": "請看例句中的「June」：它的中文意思是「六月」。"
+    "translation": "我們小組做了一張有「June」這個字的海報。"
   },
   {
     "id": 823,
@@ -9050,7 +9050,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"lazy\".",
-    "translation": "在這句話裡，「lazy」表示「懶惰的」。"
+    "translation": "這個例句幫助我記住「lazy」。"
   },
   {
     "id": 824,
@@ -9061,7 +9061,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"housework\" appeared in the listening script.",
-    "translation": "例句幫助你理解「housework」，中文是「家事」。"
+    "translation": "「housework」這個字出現在聽力稿中。"
   },
   {
     "id": 825,
@@ -9072,7 +9072,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"inside\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「inside」的用法，意思是「在內部地」。"
+    "translation": "Mina 在她的單字筆記本裡查了「inside」。"
   },
   {
     "id": 826,
@@ -9083,7 +9083,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"just\".",
-    "translation": "記住「just」這個字：它的意思是「剛才」。"
+    "translation": "這個問題提供了關於「just」的線索。"
   },
   {
     "id": 827,
@@ -9094,7 +9094,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story used \"lead\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「lead」，中文意思為「領導」。"
+    "translation": "故事使用「lead」讓場景更清楚。"
   },
   {
     "id": 828,
@@ -9105,7 +9105,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"how\" to my review list for Friday.",
-    "translation": "從例句可以看出，「how」的意思是「如何」。"
+    "translation": "我把「how」加入星期五的複習清單。"
   },
   {
     "id": 829,
@@ -9116,7 +9116,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"insist\" twice.",
-    "translation": "當你看到「insist」時，可以想到「堅持」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「insist」。"
   },
   {
     "id": 830,
@@ -9127,7 +9127,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"leader\".",
-    "translation": "「leader」在這個例句中用來表達「領袖」。"
+    "translation": "Jason 問「leader」要怎麼發音。"
   },
   {
     "id": 831,
@@ -9138,7 +9138,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"keep\" with its meaning.",
-    "translation": "這個例句使用了「keep」，意思是「(使)保持」。"
+    "translation": "這張學習單要求學生把「keep」和它的意思配對。"
   },
   {
     "id": 832,
@@ -9149,7 +9149,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"however\" on the first page of the lesson.",
-    "translation": "請看例句中的「however」：它的中文意思是「然而」。"
+    "translation": "我在課文第一頁看到了「however」。"
   },
   {
     "id": 833,
@@ -9160,7 +9160,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"inspire\" helped me guess the answer.",
-    "translation": "在這句話裡，「inspire」表示「激勵」。"
+    "translation": "「inspire」前面的句子幫助我猜出答案。"
   },
   {
     "id": 834,
@@ -9171,7 +9171,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"leaf\" into a quick quiz question.",
-    "translation": "例句幫助你理解「leaf」，中文是「葉子」。"
+    "translation": "我們的老師把「leaf」變成一道快速測驗題。"
   },
   {
     "id": 835,
@@ -9182,7 +9182,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"ketchup\" with a simple picture.",
-    "translation": "這句英文示範了「ketchup」的用法，意思是「番茄醬」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「ketchup」。"
   },
   {
     "id": 836,
@@ -9193,7 +9193,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I practiced spelling \"huge\" after dinner.",
-    "translation": "記住「huge」這個字：它的意思是「巨大的」。"
+    "translation": "我晚餐後練習拼寫「huge」。"
   },
   {
     "id": 837,
@@ -9204,7 +9204,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"instance\" in a real-life situation.",
-    "translation": "這個單字在例句中是「instance」，中文意思為「例子」。"
+    "translation": "這道測驗題在真實生活情境中使用「instance」。"
   },
   {
     "id": 838,
@@ -9215,7 +9215,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Sara wrote \"learn\" beside a small drawing.",
-    "translation": "從例句可以看出，「learn」的意思是「學習」。"
+    "translation": "Sara 在一張小圖旁寫下「learn」。"
   },
   {
     "id": 839,
@@ -9226,7 +9226,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"key\" near the end.",
-    "translation": "當你看到「key」時，可以想到「鑰匙」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「key」。"
   },
   {
     "id": 840,
@@ -9237,7 +9237,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"human\" as my word of the day.",
-    "translation": "「human」在這個例句中用來表達「人」。"
+    "translation": "我選「human」作為今天的每日單字。"
   },
   {
     "id": 841,
@@ -9248,7 +9248,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The textbook explains \"instant\" with an easy sentence.",
-    "translation": "這個例句使用了「instant」，意思是「立即的」。"
+    "translation": "課本用一個簡單句子解釋「instant」。"
   },
   {
     "id": 842,
@@ -9259,7 +9259,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"least\".",
-    "translation": "請看例句中的「least」：它的中文意思是「最少」。"
+    "translation": "我和我的搭檔用「least」造了一個問題。"
   },
   {
     "id": 843,
@@ -9270,7 +9270,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"kick\".",
-    "translation": "在這句話裡，「kick」表示「踢」。"
+    "translation": "這個答案選項包含「kick」。"
   },
   {
     "id": 844,
@@ -9281,7 +9281,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I remembered \"humble\" because it was in a funny story.",
-    "translation": "例句幫助你理解「humble」，中文是「謙虛的」。"
+    "translation": "我記得「humble」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 845,
@@ -9292,7 +9292,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"instrument\" quickly.",
-    "translation": "這句英文示範了「instrument」的用法，意思是「樂器」。"
+    "translation": "複習遊戲要求我們快速拼出「instrument」。"
   },
   {
     "id": 846,
@@ -9303,7 +9303,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"leave\" helped the reader understand it.",
-    "translation": "記住「leave」這個字：它的意思是「離開」。"
+    "translation": "「leave」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 847,
@@ -9314,7 +9314,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"kid\" in a school setting.",
-    "translation": "這個單字在例句中是「kid」，中文意思為「小孩」。"
+    "translation": "這個句子在學校情境中使用「kid」。"
   },
   {
     "id": 848,
@@ -9325,7 +9325,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"humid\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「humid」的意思是「潮溼的」。"
+    "translation": "我在檢查答案卷時找到了「humid」。"
   },
   {
     "id": 849,
@@ -9336,7 +9336,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"intelligent\".",
-    "translation": "當你看到「intelligent」時，可以想到「聰明的」這個意思。"
+    "translation": "故事中的角色學會了「intelligent」這個字。"
   },
   {
     "id": 850,
@@ -9347,7 +9347,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"left\".",
-    "translation": "「left」在這個例句中用來表達「左邊的」。"
+    "translation": "線上字典提供了「left」的例句。"
   },
   {
     "id": 851,
@@ -9358,7 +9358,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"kill\" during pair practice.",
-    "translation": "這個例句使用了「kill」，意思是「殺死」。"
+    "translation": "全班在雙人練習時使用了「kill」。"
   },
   {
     "id": 852,
@@ -9369,7 +9369,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"humor\" into a sentence about daily life.",
-    "translation": "請看例句中的「humor」：它的中文意思是「幽默」。"
+    "translation": "我把「humor」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 853,
@@ -9380,7 +9380,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"interest\" aloud.",
-    "translation": "在這句話裡，「interest」表示「興趣」。"
+    "translation": "老師請每個人大聲讀出「interest」。"
   },
   {
     "id": 854,
@@ -9391,7 +9391,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"leg\" was useful in the reading question.",
-    "translation": "例句幫助你理解「leg」，中文是「腿」。"
+    "translation": "「leg」這個字在閱讀題中很有用。"
   },
   {
     "id": 855,
@@ -9402,7 +9402,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"kilogram\".",
-    "translation": "這句英文示範了「kilogram」的用法，意思是「公斤」。"
+    "translation": "我用彩色筆標記「kilogram」。"
   },
   {
     "id": 856,
@@ -9413,7 +9413,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The practice sentence makes \"humorous\" easier to understand.",
-    "translation": "記住「humorous」這個字：它的意思是「幽默的」。"
+    "translation": "這個練習句讓「humorous」更容易理解。"
   },
   {
     "id": 857,
@@ -9424,7 +9424,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "We listened for \"interested\" in the audio clip.",
-    "translation": "這個單字在例句中是「interested」，中文意思為「感興趣的」。"
+    "translation": "我們在音檔中聽「interested」這個字。"
   },
   {
     "id": 858,
@@ -9435,7 +9435,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"legal\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「legal」的意思是「合法的」。"
+    "translation": "「legal」這個字幫助我理解主旨。"
   },
   {
     "id": 859,
@@ -9446,7 +9446,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"kilometer\" on a sticky note.",
-    "translation": "當你看到「kilometer」時，可以想到「公里」這個意思。"
+    "translation": "我把「kilometer」寫在便利貼上。"
   },
   {
     "id": 860,
@@ -9457,7 +9457,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"hundred\" after class.",
-    "translation": "「hundred」在這個例句中用來表達「一百」。"
+    "translation": "閱讀社在課後討論了「hundred」。"
   },
   {
     "id": 861,
@@ -9468,7 +9468,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sample dialogue uses \"interesting\" naturally.",
-    "translation": "這個例句使用了「interesting」，意思是「有趣的」。"
+    "translation": "範例對話自然地使用了「interesting」。"
   },
   {
     "id": 862,
@@ -9479,7 +9479,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"lemon\" was a new word for me.",
-    "translation": "請看例句中的「lemon」：它的中文意思是「檸檬」。"
+    "translation": "我確認「lemon」對我來說是不是新單字。"
   },
   {
     "id": 863,
@@ -9490,7 +9490,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"kind\" memorable.",
-    "translation": "在這句話裡，「kind」表示「仁慈的」。"
+    "translation": "老師的故事讓「kind」變得令人印象深刻。"
   },
   {
     "id": 864,
@@ -9501,7 +9501,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"hunger\" as a challenge word.",
-    "translation": "例句幫助你理解「hunger」，中文是「飢餓」。"
+    "translation": "小組活動把「hunger」列為挑戰單字。"
   },
   {
     "id": 865,
@@ -9512,7 +9512,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher wrote \"international\" on the board before the reading test.",
-    "translation": "這句英文示範了「international」的用法，意思是「國際的」。"
+    "translation": "老師在閱讀測驗前把「international」寫在黑板上。"
   },
   {
     "id": 866,
@@ -9523,7 +9523,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"lend\" because it was the key word in the sentence.",
-    "translation": "記住「lend」這個字：它的意思是「借」。"
+    "translation": "Amy 圈起「lend」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 867,
@@ -9534,7 +9534,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"kindergarten\" in his homework sentence.",
-    "translation": "這個單字在例句中是「kindergarten」，中文意思為「幼稚園」。"
+    "translation": "Kevin 在他的作業句子中使用了「kindergarten」。"
   },
   {
     "id": 868,
@@ -9545,7 +9545,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"hungry\" in today's short story.",
-    "translation": "從例句可以看出，「hungry」的意思是「飢餓的」。"
+    "translation": "全班在今天的短篇故事中找到了「hungry」。"
   },
   {
     "id": 869,
@@ -9556,7 +9556,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "I underlined \"Internet\" while reviewing the paragraph.",
-    "translation": "當你看到「Internet」時，可以想到「網路」這個意思。"
+    "translation": "我在複習段落時把「Internet」畫線標記。"
   },
   {
     "id": 870,
@@ -9567,7 +9567,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"less\".",
-    "translation": "「less」在這個例句中用來表達「較少的」。"
+    "translation": "我們小組做了一張有「less」這個字的海報。"
   },
   {
     "id": 871,
@@ -9578,7 +9578,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"king\".",
-    "translation": "這個例句使用了「king」，意思是「國王」。"
+    "translation": "這個例句幫助我記住「king」。"
   },
   {
     "id": 872,
@@ -9589,7 +9589,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"hunt\" appeared in the listening script.",
-    "translation": "請看例句中的「hunt」：它的中文意思是「狩獵」。"
+    "translation": "「hunt」這個字出現在聽力稿中。"
   },
   {
     "id": 873,
@@ -9600,7 +9600,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"Interrupt\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「Interrupt」表示「打擾」。"
+    "translation": "Mina 在她的單字筆記本裡查了「Interrupt」。"
   },
   {
     "id": 874,
@@ -9611,7 +9611,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"lesson\".",
-    "translation": "例句幫助你理解「lesson」，中文是「課」。"
+    "translation": "這個問題提供了關於「lesson」的線索。"
   },
   {
     "id": 875,
@@ -9622,7 +9622,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"kingdom\" to make the scene clearer.",
-    "translation": "這句英文示範了「kingdom」的用法，意思是「王國」。"
+    "translation": "故事使用「kingdom」讓場景更清楚。"
   },
   {
     "id": 876,
@@ -9633,7 +9633,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"hunter\" to my review list for Friday.",
-    "translation": "記住「hunter」這個字：它的意思是「獵人」。"
+    "translation": "我把「hunter」加入星期五的複習清單。"
   },
   {
     "id": 877,
@@ -9644,7 +9644,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"interview\" twice.",
-    "translation": "這個單字在例句中是「interview」，中文意思為「訪問」。"
+    "translation": "這篇閱讀文章重複了兩次「interview」。"
   },
   {
     "id": 878,
@@ -9655,7 +9655,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"let\".",
-    "translation": "從例句可以看出，「let」的意思是「讓」。"
+    "translation": "Jason 問「let」要怎麼發音。"
   },
   {
     "id": 879,
@@ -9666,7 +9666,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"kiss\" with its meaning.",
-    "translation": "當你看到「kiss」時，可以想到「吻」這個意思。"
+    "translation": "這張學習單要求學生把「kiss」和它的意思配對。"
   },
   {
     "id": 880,
@@ -9677,7 +9677,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"hurry\" on the first page of the lesson.",
-    "translation": "「hurry」在這個例句中用來表達「匆忙」。"
+    "translation": "我在課文第一頁看到了「hurry」。"
   },
   {
     "id": 881,
@@ -9688,7 +9688,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The sentence before \"into\" helped me guess the answer.",
-    "translation": "這個例句使用了「into」，意思是「進入…之內」。"
+    "translation": "「into」前面的句子幫助我猜出答案。"
   },
   {
     "id": 882,
@@ -9699,7 +9699,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"letter\" into a quick quiz question.",
-    "translation": "請看例句中的「letter」：它的中文意思是「信」。"
+    "translation": "我們的老師把「letter」變成一道快速測驗題。"
   },
   {
     "id": 883,
@@ -9710,7 +9710,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"kitchen\" with a simple picture.",
-    "translation": "在這句話裡，「kitchen」表示「廚房」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「kitchen」。"
   },
   {
     "id": 884,
@@ -9721,7 +9721,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"hurt\" after dinner.",
-    "translation": "例句幫助你理解「hurt」，中文是「受傷」。"
+    "translation": "我晚餐後練習拼寫「hurt」。"
   },
   {
     "id": 885,
@@ -9732,7 +9732,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"introduce\" in a real-life situation.",
-    "translation": "這句英文示範了「introduce」的用法，意思是「介紹」。"
+    "translation": "這道測驗題在真實生活情境中使用「introduce」。"
   },
   {
     "id": 886,
@@ -9743,7 +9743,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"lettuce\" beside a small drawing.",
-    "translation": "記住「lettuce」這個字：它的意思是「生菜」。"
+    "translation": "Sara 在一張小圖旁寫下「lettuce」。"
   },
   {
     "id": 887,
@@ -9754,7 +9754,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"kite\" near the end.",
-    "translation": "這個單字在例句中是「kite」，中文意思為「風箏」。"
+    "translation": "這段對話在接近結尾的地方包含「kite」。"
   },
   {
     "id": 888,
@@ -9765,7 +9765,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"husband\" as my word of the day.",
-    "translation": "從例句可以看出，「husband」的意思是「丈夫」。"
+    "translation": "我選「husband」作為今天的每日單字。"
   },
   {
     "id": 889,
@@ -9776,7 +9776,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The textbook explains \"invent\" with an easy sentence.",
-    "translation": "當你看到「invent」時，可以想到「發明」這個意思。"
+    "translation": "課本用一個簡單句子解釋「invent」。"
   },
   {
     "id": 890,
@@ -9787,7 +9787,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"level\".",
-    "translation": "「level」在這個例句中用來表達「水準」。"
+    "translation": "我和我的搭檔用「level」造了一個問題。"
   },
   {
     "id": 891,
@@ -9798,7 +9798,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"kitten\".",
-    "translation": "這個例句使用了「kitten」，意思是「小貓」。"
+    "translation": "這個答案選項包含「kitten」。"
   },
   {
     "id": 892,
@@ -9809,7 +9809,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"invitation\" because it was in a funny story.",
-    "translation": "請看例句中的「invitation」：它的中文意思是「邀請」。"
+    "translation": "我記得「invitation」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 893,
@@ -9820,7 +9820,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The review game asked us to spell \"library\" quickly.",
-    "translation": "在這句話裡，「library」表示「圖書館」。"
+    "translation": "複習遊戲要求我們快速拼出「library」。"
   },
   {
     "id": 894,
@@ -9831,7 +9831,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"ice\" helped the reader understand it.",
-    "translation": "例句幫助你理解「ice」，中文是「冰」。"
+    "translation": "「ice」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 895,
@@ -9842,7 +9842,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"knee\" in a school setting.",
-    "translation": "這句英文示範了「knee」的用法，意思是「膝蓋」。"
+    "translation": "這個句子在學校情境中使用「knee」。"
   },
   {
     "id": 896,
@@ -9853,7 +9853,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"invite\" while checking the answer sheet.",
-    "translation": "記住「invite」這個字：它的意思是「邀請」。"
+    "translation": "我在檢查答案卷時找到了「invite」。"
   },
   {
     "id": 897,
@@ -9864,7 +9864,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"lick\".",
-    "translation": "這個單字在例句中是「lick」，中文意思為「舔」。"
+    "translation": "故事中的角色學會了「lick」這個字。"
   },
   {
     "id": 898,
@@ -9875,7 +9875,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"idea\".",
-    "translation": "從例句可以看出，「idea」的意思是「想法」。"
+    "translation": "線上字典提供了「idea」的例句。"
   },
   {
     "id": 899,
@@ -9886,7 +9886,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"knife\" during pair practice.",
-    "translation": "當你看到「knife」時，可以想到「刀」這個意思。"
+    "translation": "全班在雙人練習時使用了「knife」。"
   },
   {
     "id": 900,
@@ -9897,7 +9897,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"iron\" into a sentence about daily life.",
-    "translation": "「iron」在這個例句中用來表達「熨斗」。"
+    "translation": "我把「iron」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 901,
@@ -9908,7 +9908,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"lid\" aloud.",
-    "translation": "這個例句使用了「lid」，意思是「蓋子」。"
+    "translation": "老師請每個人大聲讀出「lid」。"
   },
   {
     "id": 902,
@@ -9919,7 +9919,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The word \"if\" was useful in the reading question.",
-    "translation": "請看例句中的「if」：它的中文意思是「假如」。"
+    "translation": "「if」這個字在閱讀題中很有用。"
   },
   {
     "id": 903,
@@ -9930,7 +9930,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"knock\".",
-    "translation": "在這句話裡，「knock」表示「敲」。"
+    "translation": "我用彩色筆標記「knock」。"
   },
   {
     "id": 904,
@@ -9941,7 +9941,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"island\" easier to understand.",
-    "translation": "例句幫助你理解「island」，中文是「島」。"
+    "translation": "這個練習句讓「island」更容易理解。"
   },
   {
     "id": 905,
@@ -9952,7 +9952,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"lie\" in the audio clip.",
-    "translation": "這句英文示範了「lie」的用法，意思是「謊言」。"
+    "translation": "我們在音檔中聽「lie」這個字。"
   },
   {
     "id": 906,
@@ -9963,7 +9963,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"ignore\" helped me understand the main idea.",
-    "translation": "記住「ignore」這個字：它的意思是「忽視」。"
+    "translation": "「ignore」這個字幫助我理解主旨。"
   },
   {
     "id": 907,
@@ -9974,7 +9974,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I wrote \"know\" on a sticky note.",
-    "translation": "這個單字在例句中是「know」，中文意思為「知道」。"
+    "translation": "我把「know」寫在便利貼上。"
   },
   {
     "id": 908,
@@ -9985,7 +9985,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"item\" after class.",
-    "translation": "從例句可以看出，「item」的意思是「項目」。"
+    "translation": "閱讀社在課後討論了「item」。"
   },
   {
     "id": 909,
@@ -9996,7 +9996,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"life\" naturally.",
-    "translation": "當你看到「life」時，可以想到「生命」這個意思。"
+    "translation": "範例對話自然地使用了「life」。"
   },
   {
     "id": 910,
@@ -10007,7 +10007,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"ill\" was a new word for me.",
-    "translation": "「ill」在這個例句中用來表達「生病的」。"
+    "translation": "我確認「ill」對我來說是不是新單字。"
   },
   {
     "id": 911,
@@ -10018,7 +10018,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"knowledge\" memorable.",
-    "translation": "這個例句使用了「knowledge」，意思是「知識」。"
+    "translation": "老師的故事讓「knowledge」變得令人印象深刻。"
   },
   {
     "id": 912,
@@ -10029,7 +10029,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"lift\" as a challenge word.",
-    "translation": "請看例句中的「lift」：它的中文意思是「抬起」。"
+    "translation": "小組活動把「lift」列為挑戰單字。"
   },
   {
     "id": 913,
@@ -10040,7 +10040,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"imagine\" on the board before the reading test.",
-    "translation": "在這句話裡，「imagine」表示「想像」。"
+    "translation": "老師在閱讀測驗前把「imagine」寫在黑板上。"
   },
   {
     "id": 914,
@@ -10051,7 +10051,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"jacket\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「jacket」，中文是「外套」。"
+    "translation": "Amy 圈起「jacket」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 915,
@@ -10062,7 +10062,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"light\" in his homework sentence.",
-    "translation": "這句英文示範了「light」的用法，意思是「燈」。"
+    "translation": "Kevin 在他的作業句子中使用了「light」。"
   },
   {
     "id": 916,
@@ -10073,7 +10073,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"lack\" in today's short story.",
-    "translation": "記住「lack」這個字：它的意思是「缺乏」。"
+    "translation": "全班在今天的短篇故事中找到了「lack」。"
   },
   {
     "id": 917,
@@ -10084,7 +10084,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I underlined \"impolite\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「impolite」，中文意思為「不禮貌的」。"
+    "translation": "我在複習段落時把「impolite」畫線標記。"
   },
   {
     "id": 918,
@@ -10095,7 +10095,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"jam\".",
-    "translation": "從例句可以看出，「jam」的意思是「果醬」。"
+    "translation": "我們小組做了一張有「jam」這個字的海報。"
   },
   {
     "id": 919,
@@ -10106,7 +10106,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"lightning\".",
-    "translation": "當你看到「lightning」時，可以想到「閃電」這個意思。"
+    "translation": "這個例句幫助我記住「lightning」。"
   },
   {
     "id": 920,
@@ -10117,7 +10117,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"lady\" appeared in the listening script.",
-    "translation": "「lady」在這個例句中用來表達「女士」。"
+    "translation": "「lady」這個字出現在聽力稿中。"
   },
   {
     "id": 921,
@@ -10128,7 +10128,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"importance\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「importance」，意思是「重要性」。"
+    "translation": "Mina 在她的單字筆記本裡查了「importance」。"
   },
   {
     "id": 922,
@@ -10139,7 +10139,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"January\".",
-    "translation": "請看例句中的「January」：它的中文意思是「一月」。"
+    "translation": "這個問題提供了關於「January」的線索。"
   },
   {
     "id": 923,
@@ -10150,7 +10150,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story used \"like\" to make the scene clearer.",
-    "translation": "在這句話裡，「like」表示「喜歡」。"
+    "translation": "故事使用「like」讓場景更清楚。"
   },
   {
     "id": 924,
@@ -10161,7 +10161,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"lake\" to my review list for Friday.",
-    "translation": "例句幫助你理解「lake」，中文是「湖泊」。"
+    "translation": "我把「lake」加入星期五的複習清單。"
   },
   {
     "id": 925,
@@ -10172,7 +10172,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"important\" twice.",
-    "translation": "這句英文示範了「important」的用法，意思是「重要的」。"
+    "translation": "這篇閱讀文章重複了兩次「important」。"
   },
   {
     "id": 926,
@@ -10183,7 +10183,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"jazz\".",
-    "translation": "記住「jazz」這個字：它的意思是「爵士樂」。"
+    "translation": "Jason 問「jazz」要怎麼發音。"
   },
   {
     "id": 927,
@@ -10194,7 +10194,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"likely\" with its meaning.",
-    "translation": "這個單字在例句中是「likely」，中文意思為「可能」。"
+    "translation": "這張學習單要求學生把「likely」和它的意思配對。"
   },
   {
     "id": 928,
@@ -10205,7 +10205,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"lamb\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「lamb」的意思是「小羊」。"
+    "translation": "我在課文第一頁看到了「lamb」。"
   },
   {
     "id": 929,
@@ -10216,7 +10216,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence before \"impossible\" helped me guess the answer.",
-    "translation": "當你看到「impossible」時，可以想到「不可能」這個意思。"
+    "translation": "「impossible」前面的句子幫助我猜出答案。"
   },
   {
     "id": 930,
@@ -10227,7 +10227,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"jealous\" into a quick quiz question.",
-    "translation": "「jealous」在這個例句中用來表達「妒忌的」。"
+    "translation": "我們的老師把「jealous」變成一道快速測驗題。"
   },
   {
     "id": 931,
@@ -10238,7 +10238,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"lily\" with a simple picture.",
-    "translation": "這個例句使用了「lily」，意思是「百合花」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「lily」。"
   },
   {
     "id": 932,
@@ -10249,7 +10249,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"lamp\" after dinner.",
-    "translation": "請看例句中的「lamp」：它的中文意思是「燈」。"
+    "translation": "我晚餐後練習拼寫「lamp」。"
   },
   {
     "id": 933,
@@ -10260,7 +10260,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"jeans\" in a real-life situation.",
-    "translation": "在這句話裡，「jeans」表示「牛仔褲」。"
+    "translation": "這道測驗題在真實生活情境中使用「jeans」。"
   },
   {
     "id": 934,
@@ -10271,7 +10271,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"limit\" beside a small drawing.",
-    "translation": "例句幫助你理解「limit」，中文是「限度」。"
+    "translation": "Sara 在一張小圖旁寫下「limit」。"
   },
   {
     "id": 935,
@@ -10282,7 +10282,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"land\" near the end.",
-    "translation": "這句英文示範了「land」的用法，意思是「土地」。"
+    "translation": "這段對話在接近結尾的地方包含「land」。"
   },
   {
     "id": 936,
@@ -10293,7 +10293,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"improve\" as my word of the day.",
-    "translation": "記住「improve」這個字：它的意思是「改進」。"
+    "translation": "我選「improve」作為今天的每日單字。"
   },
   {
     "id": 937,
@@ -10304,7 +10304,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"jeep\" with an easy sentence.",
-    "translation": "這個單字在例句中是「jeep」，中文意思為「吉普車」。"
+    "translation": "課本用一個簡單句子解釋「jeep」。"
   },
   {
     "id": 938,
@@ -10315,7 +10315,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"line\".",
-    "translation": "從例句可以看出，「line」的意思是「線」。"
+    "translation": "我和我的搭檔用「line」造了一個問題。"
   },
   {
     "id": 939,
@@ -10326,7 +10326,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"language\".",
-    "translation": "當你看到「language」時，可以想到「語言」這個意思。"
+    "translation": "這個答案選項包含「language」。"
   },
   {
     "id": 940,
@@ -10337,7 +10337,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I remembered \"in\" because it was in a funny story.",
-    "translation": "「in」在這個例句中用來表達「在…之中」。"
+    "translation": "我記得「in」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 941,
@@ -10348,7 +10348,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"job\" quickly.",
-    "translation": "這個例句使用了「job」，意思是「工作」。"
+    "translation": "複習遊戲要求我們快速拼出「job」。"
   },
   {
     "id": 942,
@@ -10359,7 +10359,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"link\" helped the reader understand it.",
-    "translation": "請看例句中的「link」：它的中文意思是「關聯」。"
+    "translation": "「link」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 943,
@@ -10370,7 +10370,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"lantern\" in a school setting.",
-    "translation": "在這句話裡，「lantern」表示「燈籠」。"
+    "translation": "這個句子在學校情境中使用「lantern」。"
   },
   {
     "id": 944,
@@ -10381,7 +10381,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"inch\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「inch」，中文是「英吋」。"
+    "translation": "我在檢查答案卷時找到了「inch」。"
   },
   {
     "id": 945,
@@ -10392,7 +10392,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"jog\".",
-    "translation": "這句英文示範了「jog」的用法，意思是「慢跑」。"
+    "translation": "故事中的角色學會了「jog」這個字。"
   },
   {
     "id": 946,
@@ -10403,7 +10403,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"lion\".",
-    "translation": "記住「lion」這個字：它的意思是「獅子」。"
+    "translation": "線上字典提供了「lion」的例句。"
   },
   {
     "id": 947,
@@ -10414,7 +10414,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class used \"large\" during pair practice.",
-    "translation": "這個單字在例句中是「large」，中文意思為「大的」。"
+    "translation": "全班在雙人練習時使用了「large」。"
   },
   {
     "id": 948,
@@ -10425,7 +10425,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"include\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「include」的意思是「包括」。"
+    "translation": "我把「include」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 949,
@@ -10436,7 +10436,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"join\" aloud.",
-    "translation": "當你看到「join」時，可以想到「參加」這個意思。"
+    "translation": "老師請每個人大聲讀出「join」。"
   },
   {
     "id": 950,
@@ -10447,7 +10447,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"lip\" was useful in the reading question.",
-    "translation": "「lip」在這個例句中用來表達「嘴唇」。"
+    "translation": "「lip」這個字在閱讀題中很有用。"
   },
   {
     "id": 951,
@@ -10458,7 +10458,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I used a color pen to mark \"last\".",
-    "translation": "這個例句使用了「last」，意思是「最後的」。"
+    "translation": "我用彩色筆標記「last」。"
   },
   {
     "id": 952,
@@ -10469,7 +10469,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"income\" easier to understand.",
-    "translation": "請看例句中的「income」：它的中文意思是「收入」。"
+    "translation": "這個練習句讓「income」更容易理解。"
   },
   {
     "id": 953,
@@ -10480,7 +10480,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"joke\" in the audio clip.",
-    "translation": "在這句話裡，「joke」表示「笑話」。"
+    "translation": "我們在音檔中聽「joke」這個字。"
   },
   {
     "id": 954,
@@ -10491,7 +10491,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"liquid\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「liquid」，中文是「液體」。"
+    "translation": "「liquid」這個字幫助我理解主旨。"
   },
   {
     "id": 955,
@@ -10502,7 +10502,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"late\" on a sticky note.",
-    "translation": "這句英文示範了「late」的用法，意思是「晚的」。"
+    "translation": "我把「late」寫在便利貼上。"
   },
   {
     "id": 956,
@@ -10513,7 +10513,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"increase\" after class.",
-    "translation": "記住「increase」這個字：它的意思是「增加」。"
+    "translation": "閱讀社在課後討論了「increase」。"
   },
   {
     "id": 957,
@@ -10524,7 +10524,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"journalist\" naturally.",
-    "translation": "這個單字在例句中是「journalist」，中文意思為「新聞記者」。"
+    "translation": "範例對話自然地使用了「journalist」。"
   },
   {
     "id": 958,
@@ -10535,7 +10535,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"list\" was a new word for me.",
-    "translation": "從例句可以看出，「list」的意思是「把…列表」。"
+    "translation": "我確認「list」對我來說是不是新單字。"
   },
   {
     "id": 959,
@@ -10546,7 +10546,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"later\" memorable.",
-    "translation": "當你看到「later」時，可以想到「稍晚的」這個意思。"
+    "translation": "老師的故事讓「later」變得令人印象深刻。"
   },
   {
     "id": 960,
@@ -10557,7 +10557,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The group activity included \"independent\" as a challenge word.",
-    "translation": "「independent」在這個例句中用來表達「獨立的」。"
+    "translation": "小組活動把「independent」列為挑戰單字。"
   },
   {
     "id": 961,
@@ -10568,7 +10568,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"joy\" on the board before the reading test.",
-    "translation": "這個例句使用了「joy」，意思是「喜悅」。"
+    "translation": "老師在閱讀測驗前把「joy」寫在黑板上。"
   },
   {
     "id": 962,
@@ -10579,7 +10579,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"listen\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「listen」：它的中文意思是「聽」。"
+    "translation": "Amy 圈起「listen」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 963,
@@ -10590,7 +10590,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Kevin used \"latest\" in his homework sentence.",
-    "translation": "在這句話裡，「latest」表示「最新的」。"
+    "translation": "Kevin 在他的作業句子中使用了「latest」。"
   },
   {
     "id": 964,
@@ -10601,7 +10601,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"indicate\" in today's short story.",
-    "translation": "例句幫助你理解「indicate」，中文是「指示」。"
+    "translation": "全班在今天的短篇故事中找到了「indicate」。"
   },
   {
     "id": 965,
@@ -10612,7 +10612,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"judge\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「judge」的用法，意思是「判斷」。"
+    "translation": "我在複習段落時把「judge」畫線標記。"
   },
   {
     "id": 966,
@@ -10623,7 +10623,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"liter\".",
-    "translation": "記住「liter」這個字：它的意思是「升(容量單位)」。"
+    "translation": "我們小組做了一張有「liter」這個字的海報。"
   },
   {
     "id": 967,
@@ -10634,7 +10634,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"laugh\".",
-    "translation": "這個單字在例句中是「laugh」，中文意思為「笑聲」。"
+    "translation": "這個例句幫助我記住「laugh」。"
   },
   {
     "id": 968,
@@ -10645,7 +10645,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"little\" appeared in the listening script.",
-    "translation": "從例句可以看出，「little」的意思是「少的」。"
+    "translation": "「little」這個字出現在聽力稿中。"
   },
   {
     "id": 969,
@@ -10656,7 +10656,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"market\" in her vocabulary notebook.",
-    "translation": "當你看到「market」時，可以想到「市場」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「market」。"
   },
   {
     "id": 970,
@@ -10667,7 +10667,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"mind\".",
-    "translation": "「mind」在這個例句中用來表達「介意」。"
+    "translation": "這個問題提供了關於「mind」的線索。"
   },
   {
     "id": 971,
@@ -10678,7 +10678,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"nail\" to make the scene clearer.",
-    "translation": "這個例句使用了「nail」，意思是「釘子」。"
+    "translation": "故事使用「nail」讓場景更清楚。"
   },
   {
     "id": 972,
@@ -10689,7 +10689,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"live\" to my review list for Friday.",
-    "translation": "請看例句中的「live」：它的中文意思是「居住」。"
+    "translation": "我把「live」加入星期五的複習清單。"
   },
   {
     "id": 973,
@@ -10700,7 +10700,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"marriage\" twice.",
-    "translation": "在這句話裡，「marriage」表示「結婚」。"
+    "translation": "這篇閱讀文章重複了兩次「marriage」。"
   },
   {
     "id": 974,
@@ -10711,7 +10711,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"mine\".",
-    "translation": "例句幫助你理解「mine」，中文是「礦」。"
+    "translation": "Jason 問「mine」要怎麼發音。"
   },
   {
     "id": 975,
@@ -10722,7 +10722,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"name\" with its meaning.",
-    "translation": "這句英文示範了「name」的用法，意思是「名字」。"
+    "translation": "這張學習單要求學生把「name」和它的意思配對。"
   },
   {
     "id": 976,
@@ -10733,7 +10733,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"loaf\" on the first page of the lesson.",
-    "translation": "記住「loaf」這個字：它的意思是「一條(麵包)」。"
+    "translation": "我在課文第一頁看到了「loaf」。"
   },
   {
     "id": 977,
@@ -10744,7 +10744,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence before \"married\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「married」，中文意思為「已婚的」。"
+    "translation": "「married」前面的句子幫助我猜出答案。"
   },
   {
     "id": 978,
@@ -10755,7 +10755,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"minor\" into a quick quiz question.",
-    "translation": "從例句可以看出，「minor」的意思是「次要的」。"
+    "translation": "我們的老師把「minor」變成一道快速測驗題。"
   },
   {
     "id": 979,
@@ -10766,7 +10766,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"napkin\" with a simple picture.",
-    "translation": "當你看到「napkin」時，可以想到「餐巾」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「napkin」。"
   },
   {
     "id": 980,
@@ -10777,7 +10777,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I practiced spelling \"local\" after dinner.",
-    "translation": "「local」在這個例句中用來表達「本地的」。"
+    "translation": "我晚餐後練習拼寫「local」。"
   },
   {
     "id": 981,
@@ -10788,7 +10788,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"marry\" in a real-life situation.",
-    "translation": "這個例句使用了「marry」，意思是「結婚」。"
+    "translation": "這道測驗題在真實生活情境中使用「marry」。"
   },
   {
     "id": 982,
@@ -10799,7 +10799,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Sara wrote \"minus\" beside a small drawing.",
-    "translation": "請看例句中的「minus」：它的中文意思是「減」。"
+    "translation": "Sara 在一張小圖旁寫下「minus」。"
   },
   {
     "id": 983,
@@ -10810,7 +10810,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"narrow\" near the end.",
-    "translation": "在這句話裡，「narrow」表示「狹窄的」。"
+    "translation": "這段對話在接近結尾的地方包含「narrow」。"
   },
   {
     "id": 984,
@@ -10821,7 +10821,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"lock\" as my word of the day.",
-    "translation": "例句幫助你理解「lock」，中文是「鎖」。"
+    "translation": "我選「lock」作為今天的每日單字。"
   },
   {
     "id": 985,
@@ -10832,7 +10832,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The textbook explains \"marvelous\" with an easy sentence.",
-    "translation": "這句英文示範了「marvelous」的用法，意思是「非凡的」。"
+    "translation": "課本用一個簡單句子解釋「marvelous」。"
   },
   {
     "id": 986,
@@ -10843,7 +10843,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"minute\".",
-    "translation": "記住「minute」這個字：它的意思是「分」。"
+    "translation": "我和我的搭檔用「minute」造了一個問題。"
   },
   {
     "id": 987,
@@ -10854,7 +10854,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"nation\".",
-    "translation": "這個單字在例句中是「nation」，中文意思為「國家」。"
+    "translation": "這個答案選項包含「nation」。"
   },
   {
     "id": 988,
@@ -10865,7 +10865,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"locker\" because it was in a funny story.",
-    "translation": "從例句可以看出，「locker」的意思是「寄物櫃」。"
+    "translation": "我記得「locker」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 989,
@@ -10876,7 +10876,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"mask\" quickly.",
-    "translation": "當你看到「mask」時，可以想到「面具」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「mask」。"
   },
   {
     "id": 990,
@@ -10887,7 +10887,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"mirror\" helped the reader understand it.",
-    "translation": "「mirror」在這個例句中用來表達「鏡子」。"
+    "translation": "「mirror」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 991,
@@ -10898,7 +10898,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence uses \"national\" in a school setting.",
-    "translation": "這個例句使用了「national」，意思是「國家的」。"
+    "translation": "這個句子在學校情境中使用「national」。"
   },
   {
     "id": 992,
@@ -10909,7 +10909,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"lonely\" while checking the answer sheet.",
-    "translation": "請看例句中的「lonely」：它的中文意思是「寂寞的」。"
+    "translation": "我在檢查答案卷時找到了「lonely」。"
   },
   {
     "id": 993,
@@ -10920,7 +10920,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"mass\".",
-    "translation": "在這句話裡，「mass」表示「塊」。"
+    "translation": "故事中的角色學會了「mass」這個字。"
   },
   {
     "id": 994,
@@ -10931,7 +10931,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"Miss\".",
-    "translation": "例句幫助你理解「Miss」，中文是「小姐」。"
+    "translation": "線上字典提供了「Miss」的例句。"
   },
   {
     "id": 995,
@@ -10942,7 +10942,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class used \"natural\" during pair practice.",
-    "translation": "這句英文示範了「natural」的用法，意思是「自然的」。"
+    "translation": "全班在雙人練習時使用了「natural」。"
   },
   {
     "id": 996,
@@ -10953,7 +10953,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"long\" into a sentence about daily life.",
-    "translation": "記住「long」這個字：它的意思是「渴望」。"
+    "translation": "我把「long」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 997,
@@ -10964,7 +10964,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"master\" aloud.",
-    "translation": "這個單字在例句中是「master」，中文意思為「大師」。"
+    "translation": "老師請每個人大聲讀出「master」。"
   },
   {
     "id": 998,
@@ -10975,7 +10975,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"miss\" was useful in the reading question.",
-    "translation": "從例句可以看出，「miss」的意思是「想念」。"
+    "translation": "「miss」這個字在閱讀題中很有用。"
   },
   {
     "id": 999,
@@ -10986,7 +10986,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"nature\".",
-    "translation": "當你看到「nature」時，可以想到「自然」這個意思。"
+    "translation": "我用彩色筆標記「nature」。"
   },
   {
     "id": 1000,
@@ -10997,7 +10997,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The practice sentence makes \"look\" easier to understand.",
-    "translation": "「look」在這個例句中用來表達「看」。"
+    "translation": "這個練習句讓「look」更容易理解。"
   },
   {
     "id": 1001,
@@ -11008,7 +11008,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"mat\" in the audio clip.",
-    "translation": "這個例句使用了「mat」，意思是「墊子」。"
+    "translation": "我們在音檔中聽「mat」這個字。"
   },
   {
     "id": 1002,
@@ -11019,7 +11019,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"mistake\" helped me understand the main idea.",
-    "translation": "請看例句中的「mistake」：它的中文意思是「錯誤」。"
+    "translation": "「mistake」這個字幫助我理解主旨。"
   },
   {
     "id": 1003,
@@ -11030,7 +11030,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"naughty\" on a sticky note.",
-    "translation": "在這句話裡，「naughty」表示「頑皮的」。"
+    "translation": "我把「naughty」寫在便利貼上。"
   },
   {
     "id": 1004,
@@ -11041,7 +11041,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"lose\" after class.",
-    "translation": "例句幫助你理解「lose」，中文是「失去」。"
+    "translation": "閱讀社在課後討論了「lose」。"
   },
   {
     "id": 1005,
@@ -11052,7 +11052,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"match\" naturally.",
-    "translation": "這句英文示範了「match」的用法，意思是「比賽」。"
+    "translation": "範例對話自然地使用了「match」。"
   },
   {
     "id": 1006,
@@ -11063,7 +11063,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"mix\" was a new word for me.",
-    "translation": "記住「mix」這個字：它的意思是「混合」。"
+    "translation": "我確認「mix」對我來說是不是新單字。"
   },
   {
     "id": 1007,
@@ -11074,7 +11074,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"near\" memorable.",
-    "translation": "這個單字在例句中是「near」，中文意思為「接近的」。"
+    "translation": "老師的故事讓「near」變得令人印象深刻。"
   },
   {
     "id": 1008,
@@ -11085,7 +11085,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"loser\" as a challenge word.",
-    "translation": "從例句可以看出，「loser」的意思是「失敗者」。"
+    "translation": "小組活動把「loser」列為挑戰單字。"
   },
   {
     "id": 1009,
@@ -11096,7 +11096,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"mate\" on the board before the reading test.",
-    "translation": "當你看到「mate」時，可以想到「配偶」這個意思。"
+    "translation": "老師在閱讀測驗前把「mate」寫在黑板上。"
   },
   {
     "id": 1010,
@@ -11107,7 +11107,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"model\" because it was the key word in the sentence.",
-    "translation": "「model」在這個例句中用來表達「模特兒」。"
+    "translation": "Amy 圈起「model」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1011,
@@ -11118,7 +11118,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"nearly\" in his homework sentence.",
-    "translation": "這個例句使用了「nearly」，意思是「幾乎」。"
+    "translation": "Kevin 在他的作業句子中使用了「nearly」。"
   },
   {
     "id": 1012,
@@ -11129,7 +11129,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"lot\" in today's short story.",
-    "translation": "請看例句中的「lot」：它的中文意思是「許多」。"
+    "translation": "全班在今天的短篇故事中找到了「lot」。"
   },
   {
     "id": 1013,
@@ -11140,7 +11140,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"material\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「material」表示「材料」。"
+    "translation": "我在複習段落時把「material」畫線標記。"
   },
   {
     "id": 1014,
@@ -11151,7 +11151,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"modern\".",
-    "translation": "例句幫助你理解「modern」，中文是「現代的」。"
+    "translation": "我們小組做了一張有「modern」這個字的海報。"
   },
   {
     "id": 1015,
@@ -11162,7 +11162,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"necessary\".",
-    "translation": "這句英文示範了「necessary」的用法，意思是「必要的」。"
+    "translation": "這個例句幫助我記住「necessary」。"
   },
   {
     "id": 1016,
@@ -11173,7 +11173,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"loud\" appeared in the listening script.",
-    "translation": "記住「loud」這個字：它的意思是「大聲的」。"
+    "translation": "「loud」這個字出現在聽力稿中。"
   },
   {
     "id": 1017,
@@ -11184,7 +11184,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"matter\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「matter」，中文意思為「事情」。"
+    "translation": "Mina 在她的單字筆記本裡查了「matter」。"
   },
   {
     "id": 1018,
@@ -11195,7 +11195,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"moment\".",
-    "translation": "從例句可以看出，「moment」的意思是「片刻」。"
+    "translation": "這個問題提供了關於「moment」的線索。"
   },
   {
     "id": 1019,
@@ -11206,7 +11206,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"neck\" to make the scene clearer.",
-    "translation": "當你看到「neck」時，可以想到「脖子」這個意思。"
+    "translation": "故事使用「neck」讓場景更清楚。"
   },
   {
     "id": 1020,
@@ -11217,7 +11217,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"love\" to my review list for Friday.",
-    "translation": "「love」在這個例句中用來表達「愛」。"
+    "translation": "我把「love」加入星期五的複習清單。"
   },
   {
     "id": 1021,
@@ -11228,7 +11228,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"maximum\" twice.",
-    "translation": "這個例句使用了「maximum」，意思是「最多的」。"
+    "translation": "這篇閱讀文章重複了兩次「maximum」。"
   },
   {
     "id": 1022,
@@ -11239,7 +11239,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"Monday\".",
-    "translation": "請看例句中的「Monday」：它的中文意思是「星期一」。"
+    "translation": "Jason 問「Monday」要怎麼發音。"
   },
   {
     "id": 1023,
@@ -11250,7 +11250,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"necklace\" with its meaning.",
-    "translation": "在這句話裡，「necklace」表示「項鍊」。"
+    "translation": "這張學習單要求學生把「necklace」和它的意思配對。"
   },
   {
     "id": 1024,
@@ -11261,7 +11261,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I saw \"lovely\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「lovely」，中文是「可愛的」。"
+    "translation": "我在課文第一頁看到了「lovely」。"
   },
   {
     "id": 1025,
@@ -11272,7 +11272,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The sentence before \"may\" helped me guess the answer.",
-    "translation": "這句英文示範了「may」的用法，意思是「可能」。"
+    "translation": "「may」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1026,
@@ -11283,7 +11283,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"money\" into a quick quiz question.",
-    "translation": "記住「money」這個字：它的意思是「錢」。"
+    "translation": "我們的老師把「money」變成一道快速測驗題。"
   },
   {
     "id": 1027,
@@ -11294,7 +11294,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"need\" with a simple picture.",
-    "translation": "這個單字在例句中是「need」，中文意思為「需要」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「need」。"
   },
   {
     "id": 1028,
@@ -11305,7 +11305,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"lover\" after dinner.",
-    "translation": "從例句可以看出，「lover」的意思是「情人」。"
+    "translation": "我晚餐後練習拼寫「lover」。"
   },
   {
     "id": 1029,
@@ -11316,7 +11316,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"May\" in a real-life situation.",
-    "translation": "當你看到「May」時，可以想到「五月」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「May」。"
   },
   {
     "id": 1030,
@@ -11327,7 +11327,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"monkey\" beside a small drawing.",
-    "translation": "「monkey」在這個例句中用來表達「猴子」。"
+    "translation": "Sara 在一張小圖旁寫下「monkey」。"
   },
   {
     "id": 1031,
@@ -11338,7 +11338,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"needle\" near the end.",
-    "translation": "這個例句使用了「needle」，意思是「針」。"
+    "translation": "這段對話在接近結尾的地方包含「needle」。"
   },
   {
     "id": 1032,
@@ -11349,7 +11349,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I chose \"low\" as my word of the day.",
-    "translation": "請看例句中的「low」：它的中文意思是「低的」。"
+    "translation": "我選「low」作為今天的每日單字。"
   },
   {
     "id": 1033,
@@ -11360,7 +11360,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The textbook explains \"maybe\" with an easy sentence.",
-    "translation": "在這句話裡，「maybe」表示「也許」。"
+    "translation": "課本用一個簡單句子解釋「maybe」。"
   },
   {
     "id": 1034,
@@ -11371,7 +11371,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"monster\".",
-    "translation": "例句幫助你理解「monster」，中文是「妖怪」。"
+    "translation": "我和我的搭檔用「monster」造了一個問題。"
   },
   {
     "id": 1035,
@@ -11382,7 +11382,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The answer choice contains \"negative\".",
-    "translation": "這句英文示範了「negative」的用法，意思是「負面的」。"
+    "translation": "這個答案選項包含「negative」。"
   },
   {
     "id": 1036,
@@ -11393,7 +11393,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"luck\" because it was in a funny story.",
-    "translation": "記住「luck」這個字：它的意思是「運氣」。"
+    "translation": "我記得「luck」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1037,
@@ -11404,7 +11404,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"meal\" quickly.",
-    "translation": "這個單字在例句中是「meal」，中文意思為「餐」。"
+    "translation": "複習遊戲要求我們快速拼出「meal」。"
   },
   {
     "id": 1038,
@@ -11415,7 +11415,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"month\" helped the reader understand it.",
-    "translation": "從例句可以看出，「month」的意思是「月份」。"
+    "translation": "「month」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1039,
@@ -11426,7 +11426,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"neighbor\" in a school setting.",
-    "translation": "當你看到「neighbor」時，可以想到「鄰居」這個意思。"
+    "translation": "這個句子在學校情境中使用「neighbor」。"
   },
   {
     "id": 1040,
@@ -11437,7 +11437,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"lucky\" while checking the answer sheet.",
-    "translation": "「lucky」在這個例句中用來表達「幸運的」。"
+    "translation": "我在檢查答案卷時找到了「lucky」。"
   },
   {
     "id": 1041,
@@ -11448,7 +11448,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"mean\".",
-    "translation": "這個例句使用了「mean」，意思是「意指」。"
+    "translation": "故事中的角色學會了「mean」這個字。"
   },
   {
     "id": 1042,
@@ -11459,7 +11459,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"moon\".",
-    "translation": "請看例句中的「moon」：它的中文意思是「月亮」。"
+    "translation": "線上字典提供了「moon」的例句。"
   },
   {
     "id": 1043,
@@ -11470,7 +11470,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"neither\" during pair practice.",
-    "translation": "在這句話裡，「neither」表示「既不…也不」。"
+    "translation": "全班在雙人練習時使用了「neither」。"
   },
   {
     "id": 1044,
@@ -11481,7 +11481,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"lunch\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「lunch」，中文是「午餐」。"
+    "translation": "我把「lunch」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1045,
@@ -11492,7 +11492,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"meaning\" aloud.",
-    "translation": "這句英文示範了「meaning」的用法，意思是「意思」。"
+    "translation": "老師請每個人大聲讀出「meaning」。"
   },
   {
     "id": 1046,
@@ -11503,7 +11503,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"more\" was useful in the reading question.",
-    "translation": "記住「more」這個字：它的意思是「更多的」。"
+    "translation": "「more」這個字在閱讀題中很有用。"
   },
   {
     "id": 1047,
@@ -11514,7 +11514,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"nephew\".",
-    "translation": "這個單字在例句中是「nephew」，中文意思為「姪子，外甥」。"
+    "translation": "我用彩色筆標記「nephew」。"
   },
   {
     "id": 1048,
@@ -11525,7 +11525,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The practice sentence makes \"measure\" easier to understand.",
-    "translation": "從例句可以看出，「measure」的意思是「測量」。"
+    "translation": "這個練習句讓「measure」更容易理解。"
   },
   {
     "id": 1049,
@@ -11536,7 +11536,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"morning\" in the audio clip.",
-    "translation": "當你看到「morning」時，可以想到「早上」這個意思。"
+    "translation": "我們在音檔中聽「morning」這個字。"
   },
   {
     "id": 1050,
@@ -11547,7 +11547,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The word \"machine\" helped me understand the main idea.",
-    "translation": "「machine」在這個例句中用來表達「機器」。"
+    "translation": "「machine」這個字幫助我理解主旨。"
   },
   {
     "id": 1051,
@@ -11558,7 +11558,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"nervous\" on a sticky note.",
-    "translation": "這個例句使用了「nervous」，意思是「緊張的」。"
+    "translation": "我把「nervous」寫在便利貼上。"
   },
   {
     "id": 1052,
@@ -11569,7 +11569,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"meat\" after class.",
-    "translation": "請看例句中的「meat」：它的中文意思是「肉類」。"
+    "translation": "閱讀社在課後討論了「meat」。"
   },
   {
     "id": 1053,
@@ -11580,7 +11580,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"mop\" naturally.",
-    "translation": "在這句話裡，「mop」表示「拖把」。"
+    "translation": "範例對話自然地使用了「mop」。"
   },
   {
     "id": 1054,
@@ -11591,7 +11591,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"mad\" was a new word for me.",
-    "translation": "例句幫助你理解「mad」，中文是「生氣的」。"
+    "translation": "我確認「mad」對我來說是不是新單字。"
   },
   {
     "id": 1055,
@@ -11602,7 +11602,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"nest\" memorable.",
-    "translation": "這句英文示範了「nest」的用法，意思是「鳥巢」。"
+    "translation": "老師的故事讓「nest」變得令人印象深刻。"
   },
   {
     "id": 1056,
@@ -11613,7 +11613,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"mechanic\" as a challenge word.",
-    "translation": "記住「mechanic」這個字：它的意思是「技工」。"
+    "translation": "小組活動把「mechanic」列為挑戰單字。"
   },
   {
     "id": 1057,
@@ -11624,7 +11624,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"mosquito\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「mosquito」，中文意思為「蚊子」。"
+    "translation": "老師在閱讀測驗前把「mosquito」寫在黑板上。"
   },
   {
     "id": 1058,
@@ -11635,7 +11635,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"magazine\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「magazine」的意思是「雜誌」。"
+    "translation": "Amy 圈起「magazine」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1059,
@@ -11646,7 +11646,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"never\" in his homework sentence.",
-    "translation": "當你看到「never」時，可以想到「從未」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「never」。"
   },
   {
     "id": 1060,
@@ -11657,7 +11657,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"media\" in today's short story.",
-    "translation": "「media」在這個例句中用來表達「大眾傳媒」。"
+    "translation": "全班在今天的短篇故事中找到了「media」。"
   },
   {
     "id": 1061,
@@ -11668,7 +11668,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I underlined \"most\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「most」，意思是「最多的」。"
+    "translation": "我在複習段落時把「most」畫線標記。"
   },
   {
     "id": 1062,
@@ -11679,7 +11679,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"magic\".",
-    "translation": "請看例句中的「magic」：它的中文意思是「魔術」。"
+    "translation": "我們小組做了一張有「magic」這個字的海報。"
   },
   {
     "id": 1063,
@@ -11690,7 +11690,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"new\".",
-    "translation": "在這句話裡，「new」表示「新的」。"
+    "translation": "這個例句幫助我記住「new」。"
   },
   {
     "id": 1064,
@@ -11701,7 +11701,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"medicine\" appeared in the listening script.",
-    "translation": "例句幫助你理解「medicine」，中文是「藥」。"
+    "translation": "「medicine」這個字出現在聽力稿中。"
   },
   {
     "id": 1065,
@@ -11712,7 +11712,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"mother\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「mother」的用法，意思是「母親」。"
+    "translation": "Mina 在她的單字筆記本裡查了「mother」。"
   },
   {
     "id": 1066,
@@ -11723,7 +11723,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"magician\".",
-    "translation": "記住「magician」這個字：它的意思是「魔術師」。"
+    "translation": "這個問題提供了關於「magician」的線索。"
   },
   {
     "id": 1067,
@@ -11734,7 +11734,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"news\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「news」，中文意思為「新聞」。"
+    "translation": "故事使用「news」讓場景更清楚。"
   },
   {
     "id": 1068,
@@ -11745,7 +11745,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I added \"medium\" to my review list for Friday.",
-    "translation": "從例句可以看出，「medium」的意思是「中等的」。"
+    "translation": "我把「medium」加入星期五的複習清單。"
   },
   {
     "id": 1069,
@@ -11756,7 +11756,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"motion\" twice.",
-    "translation": "當你看到「motion」時，可以想到「動作」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「motion」。"
   },
   {
     "id": 1070,
@@ -11767,7 +11767,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"mail\".",
-    "translation": "「mail」在這個例句中用來表達「郵件」。"
+    "translation": "Jason 問「mail」要怎麼發音。"
   },
   {
     "id": 1071,
@@ -11778,7 +11778,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"newspaper\" with its meaning.",
-    "translation": "這個例句使用了「newspaper」，意思是「報紙」。"
+    "translation": "這張學習單要求學生把「newspaper」和它的意思配對。"
   },
   {
     "id": 1072,
@@ -11789,7 +11789,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"meet\" on the first page of the lesson.",
-    "translation": "請看例句中的「meet」：它的中文意思是「見面」。"
+    "translation": "我在課文第一頁看到了「meet」。"
   },
   {
     "id": 1073,
@@ -11800,7 +11800,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"motorcycle\" helped me guess the answer.",
-    "translation": "在這句話裡，「motorcycle」表示「摩托車」。"
+    "translation": "「motorcycle」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1074,
@@ -11811,7 +11811,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"main\" into a quick quiz question.",
-    "translation": "例句幫助你理解「main」，中文是「主要的」。"
+    "translation": "我們的老師把「main」變成一道快速測驗題。"
   },
   {
     "id": 1075,
@@ -11822,7 +11822,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The flashcard shows \"next\" with a simple picture.",
-    "translation": "這句英文示範了「next」的用法，意思是「下一個的」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「next」。"
   },
   {
     "id": 1076,
@@ -11833,7 +11833,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"meeting\" after dinner.",
-    "translation": "記住「meeting」這個字：它的意思是「會議」。"
+    "translation": "我晚餐後練習拼寫「meeting」。"
   },
   {
     "id": 1077,
@@ -11844,7 +11844,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"mountain\" in a real-life situation.",
-    "translation": "這個單字在例句中是「mountain」，中文意思為「山」。"
+    "translation": "這道測驗題在真實生活情境中使用「mountain」。"
   },
   {
     "id": 1078,
@@ -11855,7 +11855,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Sara wrote \"maintain\" beside a small drawing.",
-    "translation": "從例句可以看出，「maintain」的意思是「維持」。"
+    "translation": "Sara 在一張小圖旁寫下「maintain」。"
   },
   {
     "id": 1079,
@@ -11866,7 +11866,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"nice\" near the end.",
-    "translation": "當你看到「nice」時，可以想到「友善的」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「nice」。"
   },
   {
     "id": 1080,
@@ -11877,7 +11877,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"member\" as my word of the day.",
-    "translation": "「member」在這個例句中用來表達「會員」。"
+    "translation": "我選「member」作為今天的每日單字。"
   },
   {
     "id": 1081,
@@ -11888,7 +11888,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"mouse\" with an easy sentence.",
-    "translation": "這個例句使用了「mouse」，意思是「老鼠」。"
+    "translation": "課本用一個簡單句子解釋「mouse」。"
   },
   {
     "id": 1082,
@@ -11899,7 +11899,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"major\".",
-    "translation": "請看例句中的「major」：它的中文意思是「主要的」。"
+    "translation": "我和我的搭檔用「major」造了一個問題。"
   },
   {
     "id": 1083,
@@ -11910,7 +11910,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"niece\".",
-    "translation": "在這句話裡，「niece」表示「姪女，甥女」。"
+    "translation": "這個答案選項包含「niece」。"
   },
   {
     "id": 1084,
@@ -11921,7 +11921,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"memory\" because it was in a funny story.",
-    "translation": "例句幫助你理解「memory」，中文是「記憶」。"
+    "translation": "我記得「memory」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1085,
@@ -11932,7 +11932,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"mouth\" quickly.",
-    "translation": "這句英文示範了「mouth」的用法，意思是「嘴巴」。"
+    "translation": "複習遊戲要求我們快速拼出「mouth」。"
   },
   {
     "id": 1086,
@@ -11943,7 +11943,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"make\" helped the reader understand it.",
-    "translation": "記住「make」這個字：它的意思是「做」。"
+    "translation": "「make」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1087,
@@ -11954,7 +11954,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"night\" in a school setting.",
-    "translation": "這個單字在例句中是「night」，中文意思為「夜晚」。"
+    "translation": "這個句子在學校情境中使用「night」。"
   },
   {
     "id": 1088,
@@ -11965,7 +11965,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"menu\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「menu」的意思是「菜單」。"
+    "translation": "我在檢查答案卷時找到了「menu」。"
   },
   {
     "id": 1089,
@@ -11976,7 +11976,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"move\".",
-    "translation": "當你看到「move」時，可以想到「移動」這個意思。"
+    "translation": "故事中的角色學會了「move」這個字。"
   },
   {
     "id": 1090,
@@ -11987,7 +11987,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"male\".",
-    "translation": "「male」在這個例句中用來表達「男性」。"
+    "translation": "線上字典提供了「male」的例句。"
   },
   {
     "id": 1091,
@@ -11998,7 +11998,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"nine\" during pair practice.",
-    "translation": "這個例句使用了「nine」，意思是「九」。"
+    "translation": "全班在雙人練習時使用了「nine」。"
   },
   {
     "id": 1092,
@@ -12009,7 +12009,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"message\" into a sentence about daily life.",
-    "translation": "請看例句中的「message」：它的中文意思是「信息」。"
+    "translation": "我把「message」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1093,
@@ -12020,7 +12020,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"movement\" aloud.",
-    "translation": "在這句話裡，「movement」表示「動作」。"
+    "translation": "老師請每個人大聲讀出「movement」。"
   },
   {
     "id": 1094,
@@ -12031,7 +12031,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"mall\" was useful in the reading question.",
-    "translation": "例句幫助你理解「mall」，中文是「商場」。"
+    "translation": "「mall」這個字在閱讀題中很有用。"
   },
   {
     "id": 1095,
@@ -12042,7 +12042,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"nineteen\".",
-    "translation": "這句英文示範了「nineteen」的用法，意思是「十九」。"
+    "translation": "我用彩色筆標記「nineteen」。"
   },
   {
     "id": 1096,
@@ -12053,7 +12053,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"metal\" easier to understand.",
-    "translation": "記住「metal」這個字：它的意思是「金屬」。"
+    "translation": "這個練習句讓「metal」更容易理解。"
   },
   {
     "id": 1097,
@@ -12064,7 +12064,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "We listened for \"movie\" in the audio clip.",
-    "translation": "這個單字在例句中是「movie」，中文意思為「電影」。"
+    "translation": "我們在音檔中聽「movie」這個字。"
   },
   {
     "id": 1098,
@@ -12075,7 +12075,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"man\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「man」的意思是「男人」。"
+    "translation": "「man」這個字幫助我理解主旨。"
   },
   {
     "id": 1099,
@@ -12086,7 +12086,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"ninety\" on a sticky note.",
-    "translation": "當你看到「ninety」時，可以想到「九十」這個意思。"
+    "translation": "我把「ninety」寫在便利貼上。"
   },
   {
     "id": 1100,
@@ -12097,7 +12097,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"meter\" after class.",
-    "translation": "「meter」在這個例句中用來表達「公尺 Mr. n. 先生」。"
+    "translation": "閱讀社在課後討論了「meter」。"
   },
   {
     "id": 1101,
@@ -12108,7 +12108,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"manager\" naturally.",
-    "translation": "這個例句使用了「manager」，意思是「經理」。"
+    "translation": "範例對話自然地使用了「manager」。"
   },
   {
     "id": 1102,
@@ -12119,7 +12119,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"no\" was a new word for me.",
-    "translation": "請看例句中的「no」：它的中文意思是「不」。"
+    "translation": "我確認「no」對我來說是不是新單字。"
   },
   {
     "id": 1103,
@@ -12130,7 +12130,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"method\" memorable.",
-    "translation": "在這句話裡，「method」表示「方法」。"
+    "translation": "老師的故事讓「method」變得令人印象深刻。"
   },
   {
     "id": 1104,
@@ -12141,7 +12141,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"MRT\" as a challenge word.",
-    "translation": "例句幫助你理解「MRT」，中文是「捷運」。"
+    "translation": "小組活動把「MRT」列為挑戰單字。"
   },
   {
     "id": 1105,
@@ -12152,7 +12152,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"mango\" on the board before the reading test.",
-    "translation": "這句英文示範了「mango」的用法，意思是「芒果」。"
+    "translation": "老師在閱讀測驗前把「mango」寫在黑板上。"
   },
   {
     "id": 1106,
@@ -12163,7 +12163,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"nod\" because it was the key word in the sentence.",
-    "translation": "記住「nod」這個字：它的意思是「點頭」。"
+    "translation": "Amy 圈起「nod」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1107,
@@ -12174,7 +12174,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"microwave\" in his homework sentence.",
-    "translation": "這個單字在例句中是「microwave」，中文意思為「微波爐」。"
+    "translation": "Kevin 在他的作業句子中使用了「microwave」。"
   },
   {
     "id": 1108,
@@ -12185,7 +12185,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"mud\" in today's short story.",
-    "translation": "從例句可以看出，「mud」的意思是「泥濘」。"
+    "translation": "全班在今天的短篇故事中找到了「mud」。"
   },
   {
     "id": 1109,
@@ -12196,7 +12196,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"manner\" while reviewing the paragraph.",
-    "translation": "當你看到「manner」時，可以想到「態度」這個意思。"
+    "translation": "我在複習段落時把「manner」畫線標記。"
   },
   {
     "id": 1110,
@@ -12207,7 +12207,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"noise\".",
-    "translation": "「noise」在這個例句中用來表達「噪音」。"
+    "translation": "我們小組做了一張有「noise」這個字的海報。"
   },
   {
     "id": 1111,
@@ -12218,7 +12218,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"middle\".",
-    "translation": "這個例句使用了「middle」，意思是「中間的」。"
+    "translation": "這個例句幫助我記住「middle」。"
   },
   {
     "id": 1112,
@@ -12229,7 +12229,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"mug\" appeared in the listening script.",
-    "translation": "請看例句中的「mug」：它的中文意思是「馬克杯」。"
+    "translation": "「mug」這個字出現在聽力稿中。"
   },
   {
     "id": 1113,
@@ -12240,7 +12240,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"many\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「many」表示「許多的」。"
+    "translation": "Mina 在她的單字筆記本裡查了「many」。"
   },
   {
     "id": 1114,
@@ -12251,7 +12251,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The question gave a clue about \"noisy\".",
-    "translation": "例句幫助你理解「noisy」，中文是「吵雜的」。"
+    "translation": "這個問題提供了關於「noisy」的線索。"
   },
   {
     "id": 1115,
@@ -12262,7 +12262,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"midnight\" to make the scene clearer.",
-    "translation": "這句英文示範了「midnight」的用法，意思是「午夜」。"
+    "translation": "故事使用「midnight」讓場景更清楚。"
   },
   {
     "id": 1116,
@@ -12273,7 +12273,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"museum\" to my review list for Friday.",
-    "translation": "記住「museum」這個字：它的意思是「博物館」。"
+    "translation": "我把「museum」加入星期五的複習清單。"
   },
   {
     "id": 1117,
@@ -12284,7 +12284,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"map\" twice.",
-    "translation": "這個單字在例句中是「map」，中文意思為「地圖」。"
+    "translation": "這篇閱讀文章重複了兩次「map」。"
   },
   {
     "id": 1118,
@@ -12295,7 +12295,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"none\".",
-    "translation": "從例句可以看出，「none」的意思是「沒有人」。"
+    "translation": "Jason 問「none」要怎麼發音。"
   },
   {
     "id": 1119,
@@ -12306,7 +12306,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"mile\" with its meaning.",
-    "translation": "當你看到「mile」時，可以想到「英里」這個意思。"
+    "translation": "這張學習單要求學生把「mile」和它的意思配對。"
   },
   {
     "id": 1120,
@@ -12317,7 +12317,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"music\" on the first page of the lesson.",
-    "translation": "「music」在這個例句中用來表達「音樂」。"
+    "translation": "我在課文第一頁看到了「music」。"
   },
   {
     "id": 1121,
@@ -12328,7 +12328,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"March\" helped me guess the answer.",
-    "translation": "這個例句使用了「March」，意思是「三月」。"
+    "translation": "「March」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1122,
@@ -12339,7 +12339,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"noodle\" into a quick quiz question.",
-    "translation": "請看例句中的「noodle」：它的中文意思是「麵條」。"
+    "translation": "我們的老師把「noodle」變成一道快速測驗題。"
   },
   {
     "id": 1123,
@@ -12350,7 +12350,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"milk\" with a simple picture.",
-    "translation": "在這句話裡，「milk」表示「牛奶」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「milk」。"
   },
   {
     "id": 1124,
@@ -12361,7 +12361,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"musician\" after dinner.",
-    "translation": "例句幫助你理解「musician」，中文是「音樂家」。"
+    "translation": "我晚餐後練習拼寫「musician」。"
   },
   {
     "id": 1125,
@@ -12372,7 +12372,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"mark\" in a real-life situation.",
-    "translation": "這句英文示範了「mark」的用法，意思是「標記」。"
+    "translation": "這道測驗題在真實生活情境中使用「mark」。"
   },
   {
     "id": 1126,
@@ -12383,7 +12383,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"noon\" beside a small drawing.",
-    "translation": "記住「noon」這個字：它的意思是「中午」。"
+    "translation": "Sara 在一張小圖旁寫下「noon」。"
   },
   {
     "id": 1127,
@@ -12394,7 +12394,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"million\" near the end.",
-    "translation": "這個單字在例句中是「million」，中文意思為「百萬」。"
+    "translation": "這段對話在接近結尾的地方包含「million」。"
   },
   {
     "id": 1128,
@@ -12405,7 +12405,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I chose \"must\" as my word of the day.",
-    "translation": "從例句可以看出，「must」的意思是「必須」。"
+    "translation": "我選「must」作為今天的每日單字。"
   },
   {
     "id": 1129,
@@ -12416,7 +12416,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The textbook explains \"nor\" with an easy sentence.",
-    "translation": "當你看到「nor」時，可以想到「也不」這個意思。"
+    "translation": "課本用一個簡單句子解釋「nor」。"
   },
   {
     "id": 1130,
@@ -12427,7 +12427,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"ordinary\".",
-    "translation": "「ordinary」在這個例句中用來表達「普通的」。"
+    "translation": "我和我的搭檔用「ordinary」造了一個問題。"
   },
   {
     "id": 1131,
@@ -12438,7 +12438,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"patient\".",
-    "translation": "這個例句使用了「patient」，意思是「病人」。"
+    "translation": "這個答案選項包含「patient」。"
   },
   {
     "id": 1132,
@@ -12449,7 +12449,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"platform\" because it was in a funny story.",
-    "translation": "請看例句中的「platform」：它的中文意思是「月臺」。"
+    "translation": "我記得「platform」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1133,
@@ -12460,7 +12460,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"north\" quickly.",
-    "translation": "在這句話裡，「north」表示「北方」。"
+    "translation": "複習遊戲要求我們快速拼出「north」。"
   },
   {
     "id": 1134,
@@ -12471,7 +12471,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"organ\" helped the reader understand it.",
-    "translation": "例句幫助你理解「organ」，中文是「器官」。"
+    "translation": "「organ」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1135,
@@ -12482,7 +12482,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"pattern\" in a school setting.",
-    "translation": "這句英文示範了「pattern」的用法，意思是「模式」。"
+    "translation": "這個句子在學校情境中使用「pattern」。"
   },
   {
     "id": 1136,
@@ -12493,7 +12493,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"play\" while checking the answer sheet.",
-    "translation": "記住「play」這個字：它的意思是「玩」。"
+    "translation": "我在檢查答案卷時找到了「play」。"
   },
   {
     "id": 1137,
@@ -12504,7 +12504,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"nose\".",
-    "translation": "這個單字在例句中是「nose」，中文意思為「鼻子」。"
+    "translation": "故事中的角色學會了「nose」這個字。"
   },
   {
     "id": 1138,
@@ -12515,7 +12515,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"organization\".",
-    "translation": "從例句可以看出，「organization」的意思是「機構」。"
+    "translation": "線上字典提供了「organization」的例句。"
   },
   {
     "id": 1139,
@@ -12526,7 +12526,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"pause\" during pair practice.",
-    "translation": "當你看到「pause」時，可以想到「停頓」這個意思。"
+    "translation": "全班在雙人練習時使用了「pause」。"
   },
   {
     "id": 1140,
@@ -12537,7 +12537,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"player\" into a sentence about daily life.",
-    "translation": "「player」在這個例句中用來表達「運動員」。"
+    "translation": "我把「player」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1141,
@@ -12548,7 +12548,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"not\" aloud.",
-    "translation": "這個例句使用了「not」，意思是「不是」。"
+    "translation": "老師請每個人大聲讀出「not」。"
   },
   {
     "id": 1142,
@@ -12559,7 +12559,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"other\" was useful in the reading question.",
-    "translation": "請看例句中的「other」：它的中文意思是「其他的」。"
+    "translation": "「other」這個字在閱讀題中很有用。"
   },
   {
     "id": 1143,
@@ -12570,7 +12570,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"pay\".",
-    "translation": "在這句話裡，「pay」表示「付款」。"
+    "translation": "我用彩色筆標記「pay」。"
   },
   {
     "id": 1144,
@@ -12581,7 +12581,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"playground\" easier to understand.",
-    "translation": "例句幫助你理解「playground」，中文是「操場」。"
+    "translation": "這個練習句讓「playground」更容易理解。"
   },
   {
     "id": 1145,
@@ -12592,7 +12592,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"note\" in the audio clip.",
-    "translation": "這句英文示範了「note」的用法，意思是「便條」。"
+    "translation": "我們在音檔中聽「note」這個字。"
   },
   {
     "id": 1146,
@@ -12603,7 +12603,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"out\" helped me understand the main idea.",
-    "translation": "記住「out」這個字：它的意思是「向外」。"
+    "translation": "「out」這個字幫助我理解主旨。"
   },
   {
     "id": 1147,
@@ -12614,7 +12614,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"peace\" on a sticky note.",
-    "translation": "這個單字在例句中是「peace」，中文意思為「和平」。"
+    "translation": "我把「peace」寫在便利貼上。"
   },
   {
     "id": 1148,
@@ -12625,7 +12625,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading club discussed \"pleasant\" after class.",
-    "translation": "從例句可以看出，「pleasant」的意思是「舒適的」。"
+    "translation": "閱讀社在課後討論了「pleasant」。"
   },
   {
     "id": 1149,
@@ -12636,7 +12636,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"notebook\" naturally.",
-    "translation": "當你看到「notebook」時，可以想到「筆記本」這個意思。"
+    "translation": "範例對話自然地使用了「notebook」。"
   },
   {
     "id": 1150,
@@ -12647,7 +12647,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"outside\" was a new word for me.",
-    "translation": "「outside」在這個例句中用來表達「在外面」。"
+    "translation": "我確認「outside」對我來說是不是新單字。"
   },
   {
     "id": 1151,
@@ -12658,7 +12658,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"peaceful\" memorable.",
-    "translation": "這個例句使用了「peaceful」，意思是「和平的」。"
+    "translation": "老師的故事讓「peaceful」變得令人印象深刻。"
   },
   {
     "id": 1152,
@@ -12669,7 +12669,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"please\" as a challenge word.",
-    "translation": "請看例句中的「please」：它的中文意思是「請」。"
+    "translation": "小組活動把「please」列為挑戰單字。"
   },
   {
     "id": 1153,
@@ -12680,7 +12680,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The teacher wrote \"nothing\" on the board before the reading test.",
-    "translation": "在這句話裡，「nothing」表示「沒有什麼」。"
+    "translation": "老師在閱讀測驗前把「nothing」寫在黑板上。"
   },
   {
     "id": 1154,
@@ -12691,7 +12691,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"oven\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「oven」，中文是「烤箱」。"
+    "translation": "Amy 圈起「oven」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1155,
@@ -12702,7 +12702,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"peach\" in his homework sentence.",
-    "translation": "這句英文示範了「peach」的用法，意思是「桃子」。"
+    "translation": "Kevin 在他的作業句子中使用了「peach」。"
   },
   {
     "id": 1156,
@@ -12713,7 +12713,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The class found \"plus\" in today's short story.",
-    "translation": "記住「plus」這個字：它的意思是「加」。"
+    "translation": "全班在今天的短篇故事中找到了「plus」。"
   },
   {
     "id": 1157,
@@ -12724,7 +12724,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"notice\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「notice」，中文意思為「注意到」。"
+    "translation": "我在複習段落時把「notice」畫線標記。"
   },
   {
     "id": 1158,
@@ -12735,7 +12735,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"over\".",
-    "translation": "從例句可以看出，「over」的意思是「在…之上」。"
+    "translation": "我們小組做了一張有「over」這個字的海報。"
   },
   {
     "id": 1159,
@@ -12746,7 +12746,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"pear\".",
-    "translation": "當你看到「pear」時，可以想到「梨子」這個意思。"
+    "translation": "這個例句幫助我記住「pear」。"
   },
   {
     "id": 1160,
@@ -12757,7 +12757,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"pocket\" appeared in the listening script.",
-    "translation": "「pocket」在這個例句中用來表達「口袋」。"
+    "translation": "「pocket」這個字出現在聽力稿中。"
   },
   {
     "id": 1161,
@@ -12768,7 +12768,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"novel\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「novel」，意思是「小說」。"
+    "translation": "Mina 在她的單字筆記本裡查了「novel」。"
   },
   {
     "id": 1162,
@@ -12779,7 +12779,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"overseas\".",
-    "translation": "請看例句中的「overseas」：它的中文意思是「在國外」。"
+    "translation": "這個問題提供了關於「overseas」的線索。"
   },
   {
     "id": 1163,
@@ -12790,7 +12790,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"peanut\" to make the scene clearer.",
-    "translation": "在這句話裡，「peanut」表示「花生」。"
+    "translation": "故事使用「peanut」讓場景更清楚。"
   },
   {
     "id": 1164,
@@ -12801,7 +12801,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"poem\" to my review list for Friday.",
-    "translation": "例句幫助你理解「poem」，中文是「詩」。"
+    "translation": "我把「poem」加入星期五的複習清單。"
   },
   {
     "id": 1165,
@@ -12812,7 +12812,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"November\" twice.",
-    "translation": "這句英文示範了「November」的用法，意思是「十一月」。"
+    "translation": "這篇閱讀文章重複了兩次「November」。"
   },
   {
     "id": 1166,
@@ -12823,7 +12823,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"own\".",
-    "translation": "記住「own」這個字：它的意思是「擁有」。"
+    "translation": "Jason 問「own」要怎麼發音。"
   },
   {
     "id": 1167,
@@ -12834,7 +12834,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"pen\" with its meaning.",
-    "translation": "這個單字在例句中是「pen」，中文意思為「筆」。"
+    "translation": "這張學習單要求學生把「pen」和它的意思配對。"
   },
   {
     "id": 1168,
@@ -12845,7 +12845,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"poet\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「poet」的意思是「詩人」。"
+    "translation": "我在課文第一頁看到了「poet」。"
   },
   {
     "id": 1169,
@@ -12856,7 +12856,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"now\" helped me guess the answer.",
-    "translation": "當你看到「now」時，可以想到「現在」這個意思。"
+    "translation": "「now」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1170,
@@ -12867,7 +12867,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"owner\" into a quick quiz question.",
-    "translation": "「owner」在這個例句中用來表達「物主」。"
+    "translation": "我們的老師把「owner」變成一道快速測驗題。"
   },
   {
     "id": 1171,
@@ -12878,7 +12878,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"pencil\" with a simple picture.",
-    "translation": "這個例句使用了「pencil」，意思是「鉛筆」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「pencil」。"
   },
   {
     "id": 1172,
@@ -12889,7 +12889,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"point\" after dinner.",
-    "translation": "請看例句中的「point」：它的中文意思是「指出」。"
+    "translation": "我晚餐後練習拼寫「point」。"
   },
   {
     "id": 1173,
@@ -12900,7 +12900,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"number\" in a real-life situation.",
-    "translation": "在這句話裡，「number」表示「數字」。"
+    "translation": "這道測驗題在真實生活情境中使用「number」。"
   },
   {
     "id": 1174,
@@ -12911,7 +12911,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"ox\" beside a small drawing.",
-    "translation": "例句幫助你理解「ox」，中文是「公牛」。"
+    "translation": "Sara 在一張小圖旁寫下「ox」。"
   },
   {
     "id": 1175,
@@ -12922,7 +12922,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"people\" near the end.",
-    "translation": "這句英文示範了「people」的用法，意思是「人」。"
+    "translation": "這段對話在接近結尾的地方包含「people」。"
   },
   {
     "id": 1176,
@@ -12933,7 +12933,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"poison\" as my word of the day.",
-    "translation": "記住「poison」這個字：它的意思是「毒藥」。"
+    "translation": "我選「poison」作為今天的每日單字。"
   },
   {
     "id": 1177,
@@ -12944,7 +12944,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"nurse\" with an easy sentence.",
-    "translation": "這個單字在例句中是「nurse」，中文意思為「護士」。"
+    "translation": "課本用一個簡單句子解釋「nurse」。"
   },
   {
     "id": 1178,
@@ -12955,7 +12955,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"pepper\".",
-    "translation": "從例句可以看出，「pepper」的意思是「胡椒粉」。"
+    "translation": "我和我的搭檔用「pepper」造了一個問題。"
   },
   {
     "id": 1179,
@@ -12966,7 +12966,7 @@ const VOCABULARY = [
     "category": "社會",
     "level": "國中2000",
     "example": "The answer choice contains \"police\".",
-    "translation": "當你看到「police」時，可以想到「警察」這個意思。"
+    "translation": "這個答案選項包含「police」。"
   },
   {
     "id": 1180,
@@ -12977,7 +12977,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I remembered \"pack\" because it was in a funny story.",
-    "translation": "「pack」在這個例句中用來表達「打包」。"
+    "translation": "我記得「pack」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1181,
@@ -12988,7 +12988,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"nut\" quickly.",
-    "translation": "這個例句使用了「nut」，意思是「堅果」。"
+    "translation": "複習遊戲要求我們快速拼出「nut」。"
   },
   {
     "id": 1182,
@@ -12999,7 +12999,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"perfect\" helped the reader understand it.",
-    "translation": "請看例句中的「perfect」：它的中文意思是「完美的」。"
+    "translation": "「perfect」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1183,
@@ -13010,7 +13010,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sentence uses \"polite\" in a school setting.",
-    "translation": "在這句話裡，「polite」表示「有禮貌的」。"
+    "translation": "這個句子在學校情境中使用「polite」。"
   },
   {
     "id": 1184,
@@ -13021,7 +13021,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"package\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「package」，中文是「包裹」。"
+    "translation": "我在檢查答案卷時找到了「package」。"
   },
   {
     "id": 1185,
@@ -13032,7 +13032,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"perhaps\".",
-    "translation": "這句英文示範了「perhaps」的用法，意思是「也許」。"
+    "translation": "故事中的角色學會了「perhaps」這個字。"
   },
   {
     "id": 1186,
@@ -13043,7 +13043,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"pollute\".",
-    "translation": "記住「pollute」這個字：它的意思是「汙染」。"
+    "translation": "線上字典提供了「pollute」的例句。"
   },
   {
     "id": 1187,
@@ -13054,7 +13054,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"obey\" during pair practice.",
-    "translation": "這個單字在例句中是「obey」，中文意思為「聽從」。"
+    "translation": "全班在雙人練習時使用了「obey」。"
   },
   {
     "id": 1188,
@@ -13065,7 +13065,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"page\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「page」的意思是「頁」。"
+    "translation": "我把「page」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1189,
@@ -13076,7 +13076,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"period\" aloud.",
-    "translation": "當你看到「period」時，可以想到「一段時間」這個意思。"
+    "translation": "老師請每個人大聲讀出「period」。"
   },
   {
     "id": 1190,
@@ -13087,7 +13087,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"pollution\" was useful in the reading question.",
-    "translation": "「pollution」在這個例句中用來表達「汙染」。"
+    "translation": "「pollution」這個字在閱讀題中很有用。"
   },
   {
     "id": 1191,
@@ -13098,7 +13098,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"object\".",
-    "translation": "這個例句使用了「object」，意思是「物體」。"
+    "translation": "我用彩色筆標記「object」。"
   },
   {
     "id": 1192,
@@ -13109,7 +13109,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"pain\" easier to understand.",
-    "translation": "請看例句中的「pain」：它的中文意思是「痛苦」。"
+    "translation": "這個練習句讓「pain」更容易理解。"
   },
   {
     "id": 1193,
@@ -13120,7 +13120,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "We listened for \"personal\" in the audio clip.",
-    "translation": "在這句話裡，「personal」表示「個人的」。"
+    "translation": "我們在音檔中聽「personal」這個字。"
   },
   {
     "id": 1194,
@@ -13131,7 +13131,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"pond\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「pond」，中文是「池塘」。"
+    "translation": "「pond」這個字幫助我理解主旨。"
   },
   {
     "id": 1195,
@@ -13142,7 +13142,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"ocean\" on a sticky note.",
-    "translation": "這句英文示範了「ocean」的用法，意思是「海洋」。"
+    "translation": "我把「ocean」寫在便利貼上。"
   },
   {
     "id": 1196,
@@ -13153,7 +13153,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading club discussed \"painful\" after class.",
-    "translation": "記住「painful」這個字：它的意思是「痛苦的」。"
+    "translation": "閱讀社在課後討論了「painful」。"
   },
   {
     "id": 1197,
@@ -13164,7 +13164,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"pet\" naturally.",
-    "translation": "這個單字在例句中是「pet」，中文意思為「寵物」。"
+    "translation": "範例對話自然地使用了「pet」。"
   },
   {
     "id": 1198,
@@ -13175,7 +13175,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"pool\" was a new word for me.",
-    "translation": "從例句可以看出，「pool」的意思是「水塘」。"
+    "translation": "我確認「pool」對我來說是不是新單字。"
   },
   {
     "id": 1199,
@@ -13186,7 +13186,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher's story made \"o’clock\" memorable.",
-    "translation": "當你看到「o’clock」時，可以想到「…點鐘」這個意思。"
+    "translation": "老師的故事讓「o’clock」變得令人印象深刻。"
   },
   {
     "id": 1200,
@@ -13197,7 +13197,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"paint\" as a challenge word.",
-    "translation": "「paint」在這個例句中用來表達「畫圖」。"
+    "translation": "小組活動把「paint」列為挑戰單字。"
   },
   {
     "id": 1201,
@@ -13208,7 +13208,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"photo\" on the board before the reading test.",
-    "translation": "這個例句使用了「photo」，意思是「照片」。"
+    "translation": "老師在閱讀測驗前把「photo」寫在黑板上。"
   },
   {
     "id": 1202,
@@ -13219,7 +13219,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Amy circled \"poor\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「poor」：它的中文意思是「貧窮的」。"
+    "translation": "Amy 圈起「poor」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1203,
@@ -13230,7 +13230,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"October\" in his homework sentence.",
-    "translation": "在這句話裡，「October」表示「十月」。"
+    "translation": "Kevin 在他的作業句子中使用了「October」。"
   },
   {
     "id": 1204,
@@ -13241,7 +13241,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"painter\" in today's short story.",
-    "translation": "例句幫助你理解「painter」，中文是「畫家」。"
+    "translation": "全班在今天的短篇故事中找到了「painter」。"
   },
   {
     "id": 1205,
@@ -13252,7 +13252,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"physics\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「physics」的用法，意思是「物理」。"
+    "translation": "我在複習段落時把「physics」畫線標記。"
   },
   {
     "id": 1206,
@@ -13263,7 +13263,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"popcorn\".",
-    "translation": "記住「popcorn」這個字：它的意思是「爆米花」。"
+    "translation": "我們小組做了一張有「popcorn」這個字的海報。"
   },
   {
     "id": 1207,
@@ -13274,7 +13274,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"of\".",
-    "translation": "這個單字在例句中是「of」，中文意思為「…的」。"
+    "translation": "這個例句幫助我記住「of」。"
   },
   {
     "id": 1208,
@@ -13285,7 +13285,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"pair\" appeared in the listening script.",
-    "translation": "從例句可以看出，「pair」的意思是「一對」。"
+    "translation": "「pair」這個字出現在聽力稿中。"
   },
   {
     "id": 1209,
@@ -13296,7 +13296,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"piano\" in her vocabulary notebook.",
-    "translation": "當你看到「piano」時，可以想到「鋼琴」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「piano」。"
   },
   {
     "id": 1210,
@@ -13307,7 +13307,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The question gave a clue about \"popular\".",
-    "translation": "「popular」在這個例句中用來表達「受歡迎的」。"
+    "translation": "這個問題提供了關於「popular」的線索。"
   },
   {
     "id": 1211,
@@ -13318,7 +13318,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The story used \"off\" to make the scene clearer.",
-    "translation": "這個例句使用了「off」，意思是「從…離開」。"
+    "translation": "故事使用「off」讓場景更清楚。"
   },
   {
     "id": 1212,
@@ -13329,7 +13329,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"pajamas\" to my review list for Friday.",
-    "translation": "請看例句中的「pajamas」：它的中文意思是「睡衣」。"
+    "translation": "我把「pajamas」加入星期五的複習清單。"
   },
   {
     "id": 1213,
@@ -13340,7 +13340,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"pick\" twice.",
-    "translation": "在這句話裡，「pick」表示「挑選」。"
+    "translation": "這篇閱讀文章重複了兩次「pick」。"
   },
   {
     "id": 1214,
@@ -13351,7 +13351,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"population\".",
-    "translation": "例句幫助你理解「population」，中文是「人口」。"
+    "translation": "Jason 問「population」要怎麼發音。"
   },
   {
     "id": 1215,
@@ -13362,7 +13362,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"offer\" with its meaning.",
-    "translation": "這句英文示範了「offer」的用法，意思是「提出」。"
+    "translation": "這張學習單要求學生把「offer」和它的意思配對。"
   },
   {
     "id": 1216,
@@ -13373,7 +13373,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I saw \"pale\" on the first page of the lesson.",
-    "translation": "記住「pale」這個字：它的意思是「蒼白的」。"
+    "translation": "我在課文第一頁看到了「pale」。"
   },
   {
     "id": 1217,
@@ -13384,7 +13384,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"picnic\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「picnic」，中文意思為「野餐」。"
+    "translation": "「picnic」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1218,
@@ -13395,7 +13395,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"pork\" into a quick quiz question.",
-    "translation": "從例句可以看出，「pork」的意思是「豬肉」。"
+    "translation": "我們的老師把「pork」變成一道快速測驗題。"
   },
   {
     "id": 1219,
@@ -13406,7 +13406,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"office\" with a simple picture.",
-    "translation": "當你看到「office」時，可以想到「辦公室」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「office」。"
   },
   {
     "id": 1220,
@@ -13417,7 +13417,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"pan\" after dinner.",
-    "translation": "「pan」在這個例句中用來表達「平底鍋」。"
+    "translation": "我晚餐後練習拼寫「pan」。"
   },
   {
     "id": 1221,
@@ -13428,7 +13428,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"picture\" in a real-life situation.",
-    "translation": "這個例句使用了「picture」，意思是「照片」。"
+    "translation": "這道測驗題在真實生活情境中使用「picture」。"
   },
   {
     "id": 1222,
@@ -13439,7 +13439,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"port\" beside a small drawing.",
-    "translation": "請看例句中的「port」：它的中文意思是「港口」。"
+    "translation": "Sara 在一張小圖旁寫下「port」。"
   },
   {
     "id": 1223,
@@ -13450,7 +13450,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"officer\" near the end.",
-    "translation": "在這句話裡，「officer」表示「警官，官員」。"
+    "translation": "這段對話在接近結尾的地方包含「officer」。"
   },
   {
     "id": 1224,
@@ -13461,7 +13461,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"panda\" as my word of the day.",
-    "translation": "例句幫助你理解「panda」，中文是「貓熊」。"
+    "translation": "我選「panda」作為今天的每日單字。"
   },
   {
     "id": 1225,
@@ -13472,7 +13472,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"pie\" with an easy sentence.",
-    "translation": "這句英文示範了「pie」的用法，意思是「派」。"
+    "translation": "課本用一個簡單句子解釋「pie」。"
   },
   {
     "id": 1226,
@@ -13483,7 +13483,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"pose\".",
-    "translation": "記住「pose」這個字：它的意思是「姿勢」。"
+    "translation": "我和我的搭檔用「pose」造了一個問題。"
   },
   {
     "id": 1227,
@@ -13494,7 +13494,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"often\".",
-    "translation": "這個單字在例句中是「often」，中文意思為「經常」。"
+    "translation": "這個答案選項包含「often」。"
   },
   {
     "id": 1228,
@@ -13505,7 +13505,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"pants\" because it was in a funny story.",
-    "translation": "從例句可以看出，「pants」的意思是「褲子」。"
+    "translation": "我記得「pants」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1229,
@@ -13516,7 +13516,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"piece\" quickly.",
-    "translation": "當你看到「piece」時，可以想到「一張」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「piece」。"
   },
   {
     "id": 1230,
@@ -13527,7 +13527,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"position\" helped the reader understand it.",
-    "translation": "「position」在這個例句中用來表達「位置」。"
+    "translation": "「position」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1231,
@@ -13538,7 +13538,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"oil\" in a school setting.",
-    "translation": "這個例句使用了「oil」，意思是「石油」。"
+    "translation": "這個句子在學校情境中使用「oil」。"
   },
   {
     "id": 1232,
@@ -13549,7 +13549,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"papaya\" while checking the answer sheet.",
-    "translation": "請看例句中的「papaya」：它的中文意思是「木瓜」。"
+    "translation": "我在檢查答案卷時找到了「papaya」。"
   },
   {
     "id": 1233,
@@ -13560,7 +13560,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"pig\".",
-    "translation": "在這句話裡，「pig」表示「豬」。"
+    "translation": "故事中的角色學會了「pig」這個字。"
   },
   {
     "id": 1234,
@@ -13571,7 +13571,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"positive\".",
-    "translation": "例句幫助你理解「positive」，中文是「肯定的」。"
+    "translation": "線上字典提供了「positive」的例句。"
   },
   {
     "id": 1235,
@@ -13582,7 +13582,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class used \"okay\" during pair practice.",
-    "translation": "這句英文示範了「okay」的用法，意思是「可以的」。"
+    "translation": "全班在雙人練習時使用了「okay」。"
   },
   {
     "id": 1236,
@@ -13593,7 +13593,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"paper\" into a sentence about daily life.",
-    "translation": "記住「paper」這個字：它的意思是「紙」。"
+    "translation": "我把「paper」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1237,
@@ -13604,7 +13604,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"pigeon\" aloud.",
-    "translation": "這個單字在例句中是「pigeon」，中文意思為「鴿子」。"
+    "translation": "老師請每個人大聲讀出「pigeon」。"
   },
   {
     "id": 1238,
@@ -13615,7 +13615,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"possible\" was useful in the reading question.",
-    "translation": "從例句可以看出，「possible」的意思是「有可能的」。"
+    "translation": "「possible」這個字在閱讀題中很有用。"
   },
   {
     "id": 1239,
@@ -13626,7 +13626,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I used a color pen to mark \"old\".",
-    "translation": "當你看到「old」時，可以想到「老的」這個意思。"
+    "translation": "我用彩色筆標記「old」。"
   },
   {
     "id": 1240,
@@ -13637,7 +13637,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"pardon\" easier to understand.",
-    "translation": "「pardon」在這個例句中用來表達「原諒」。"
+    "translation": "這個練習句讓「pardon」更容易理解。"
   },
   {
     "id": 1241,
@@ -13648,7 +13648,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"pile\" in the audio clip.",
-    "translation": "這個例句使用了「pile」，意思是「堆」。"
+    "translation": "我們在音檔中聽「pile」這個字。"
   },
   {
     "id": 1242,
@@ -13659,7 +13659,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"post\" helped me understand the main idea.",
-    "translation": "請看例句中的「post」：它的中文意思是「郵件」。"
+    "translation": "「post」這個字幫助我理解主旨。"
   },
   {
     "id": 1243,
@@ -13670,7 +13670,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I wrote \"omit\" on a sticky note.",
-    "translation": "在這句話裡，「omit」表示「省略」。"
+    "translation": "我把「omit」寫在便利貼上。"
   },
   {
     "id": 1244,
@@ -13681,7 +13681,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"parent\" after class.",
-    "translation": "例句幫助你理解「parent」，中文是「父親(或母親)」。"
+    "translation": "閱讀社在課後討論了「parent」。"
   },
   {
     "id": 1245,
@@ -13692,7 +13692,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"pillow\" naturally.",
-    "translation": "這句英文示範了「pillow」的用法，意思是「枕頭」。"
+    "translation": "範例對話自然地使用了「pillow」。"
   },
   {
     "id": 1246,
@@ -13703,7 +13703,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"pot\" was a new word for me.",
-    "translation": "記住「pot」這個字：它的意思是「鍋」。"
+    "translation": "我確認「pot」對我來說是不是新單字。"
   },
   {
     "id": 1247,
@@ -13714,7 +13714,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The teacher's story made \"on\" memorable.",
-    "translation": "這個單字在例句中是「on」，中文意思為「在…上面」。"
+    "translation": "老師的故事讓「on」變得令人印象深刻。"
   },
   {
     "id": 1248,
@@ -13725,7 +13725,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"park\" as a challenge word.",
-    "translation": "從例句可以看出，「park」的意思是「公園」。"
+    "translation": "小組活動把「park」列為挑戰單字。"
   },
   {
     "id": 1249,
@@ -13736,7 +13736,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"pin\" on the board before the reading test.",
-    "translation": "當你看到「pin」時，可以想到「別針」這個意思。"
+    "translation": "老師在閱讀測驗前把「pin」寫在黑板上。"
   },
   {
     "id": 1250,
@@ -13747,7 +13747,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"potato\" because it was the key word in the sentence.",
-    "translation": "「potato」在這個例句中用來表達「馬鈴薯」。"
+    "translation": "Amy 圈起「potato」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1251,
@@ -13758,7 +13758,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"once\" in his homework sentence.",
-    "translation": "這個例句使用了「once」，意思是「一次」。"
+    "translation": "Kevin 在他的作業句子中使用了「once」。"
   },
   {
     "id": 1252,
@@ -13769,7 +13769,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"parrot\" in today's short story.",
-    "translation": "請看例句中的「parrot」：它的中文意思是「鸚鵡」。"
+    "translation": "全班在今天的短篇故事中找到了「parrot」。"
   },
   {
     "id": 1253,
@@ -13780,7 +13780,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"pineapple\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「pineapple」表示「鳳梨」。"
+    "translation": "我在複習段落時把「pineapple」畫線標記。"
   },
   {
     "id": 1254,
@@ -13791,7 +13791,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"pound\".",
-    "translation": "例句幫助你理解「pound」，中文是「磅」。"
+    "translation": "我們小組做了一張有「pound」這個字的海報。"
   },
   {
     "id": 1255,
@@ -13802,7 +13802,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"one\".",
-    "translation": "這句英文示範了「one」的用法，意思是「一個的」。"
+    "translation": "這個例句幫助我記住「one」。"
   },
   {
     "id": 1256,
@@ -13813,7 +13813,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"part\" appeared in the listening script.",
-    "translation": "記住「part」這個字：它的意思是「部分」。"
+    "translation": "「part」這個字出現在聽力稿中。"
   },
   {
     "id": 1257,
@@ -13824,7 +13824,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"pink\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「pink」，中文意思為「粉紅色的」。"
+    "translation": "Mina 在她的單字筆記本裡查了「pink」。"
   },
   {
     "id": 1258,
@@ -13835,7 +13835,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"powder\".",
-    "translation": "從例句可以看出，「powder」的意思是「粉末」。"
+    "translation": "這個問題提供了關於「powder」的線索。"
   },
   {
     "id": 1259,
@@ -13846,7 +13846,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"onion\" to make the scene clearer.",
-    "translation": "當你看到「onion」時，可以想到「洋蔥」這個意思。"
+    "translation": "故事使用「onion」讓場景更清楚。"
   },
   {
     "id": 1260,
@@ -13857,7 +13857,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I added \"particular\" to my review list for Friday.",
-    "translation": "「particular」在這個例句中用來表達「特別的」。"
+    "translation": "我把「particular」加入星期五的複習清單。"
   },
   {
     "id": 1261,
@@ -13868,7 +13868,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"pipe\" twice.",
-    "translation": "這個例句使用了「pipe」，意思是「煙斗」。"
+    "translation": "這篇閱讀文章重複了兩次「pipe」。"
   },
   {
     "id": 1262,
@@ -13879,7 +13879,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"power\".",
-    "translation": "請看例句中的「power」：它的中文意思是「力量」。"
+    "translation": "Jason 問「power」要怎麼發音。"
   },
   {
     "id": 1263,
@@ -13890,7 +13890,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"only\" with its meaning.",
-    "translation": "在這句話裡，「only」表示「唯一的」。"
+    "translation": "這張學習單要求學生把「only」和它的意思配對。"
   },
   {
     "id": 1264,
@@ -13901,7 +13901,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"partner\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「partner」，中文是「夥伴」。"
+    "translation": "我在課文第一頁看到了「partner」。"
   },
   {
     "id": 1265,
@@ -13912,7 +13912,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"pizza\" helped me guess the answer.",
-    "translation": "這句英文示範了「pizza」的用法，意思是「披薩」。"
+    "translation": "「pizza」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1266,
@@ -13923,7 +13923,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"practice\" into a quick quiz question.",
-    "translation": "記住「practice」這個字：它的意思是「練習」。"
+    "translation": "我們的老師把「practice」變成一道快速測驗題。"
   },
   {
     "id": 1267,
@@ -13934,7 +13934,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"open\" with a simple picture.",
-    "translation": "這個單字在例句中是「open」，中文意思為「打開」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「open」。"
   },
   {
     "id": 1268,
@@ -13945,7 +13945,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"party\" after dinner.",
-    "translation": "從例句可以看出，「party」的意思是「派對」。"
+    "translation": "我晚餐後練習拼寫「party」。"
   },
   {
     "id": 1269,
@@ -13956,7 +13956,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"place\" in a real-life situation.",
-    "translation": "當你看到「place」時，可以想到「地方」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「place」。"
   },
   {
     "id": 1270,
@@ -13967,7 +13967,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"praise\" beside a small drawing.",
-    "translation": "「praise」在這個例句中用來表達「讚美」。"
+    "translation": "Sara 在一張小圖旁寫下「praise」。"
   },
   {
     "id": 1271,
@@ -13978,7 +13978,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"operate\" near the end.",
-    "translation": "這個例句使用了「operate」，意思是「操作」。"
+    "translation": "這段對話在接近結尾的地方包含「operate」。"
   },
   {
     "id": 1272,
@@ -13989,7 +13989,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"pass\" as my word of the day.",
-    "translation": "請看例句中的「pass」：它的中文意思是「通過」。"
+    "translation": "我選「pass」作為今天的每日單字。"
   },
   {
     "id": 1273,
@@ -14000,7 +14000,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"plain\" with an easy sentence.",
-    "translation": "在這句話裡，「plain」表示「平原」。"
+    "translation": "課本用一個簡單句子解釋「plain」。"
   },
   {
     "id": 1274,
@@ -14011,7 +14011,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"pray\".",
-    "translation": "例句幫助你理解「pray」，中文是「禱告」。"
+    "translation": "我和我的搭檔用「pray」造了一個問題。"
   },
   {
     "id": 1275,
@@ -14022,7 +14022,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"opinion\".",
-    "translation": "這句英文示範了「opinion」的用法，意思是「意見」。"
+    "translation": "這個答案選項包含「opinion」。"
   },
   {
     "id": 1276,
@@ -14033,7 +14033,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"passenger\" because it was in a funny story.",
-    "translation": "記住「passenger」這個字：它的意思是「乘客」。"
+    "translation": "我記得「passenger」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1277,
@@ -14044,7 +14044,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"plan\" quickly.",
-    "translation": "這個單字在例句中是「plan」，中文意思為「計畫」。"
+    "translation": "複習遊戲要求我們快速拼出「plan」。"
   },
   {
     "id": 1278,
@@ -14055,7 +14055,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"precious\" helped the reader understand it.",
-    "translation": "從例句可以看出，「precious」的意思是「珍貴的」。"
+    "translation": "「precious」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1279,
@@ -14066,7 +14066,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The sentence uses \"or\" in a school setting.",
-    "translation": "當你看到「or」時，可以想到「或者」這個意思。"
+    "translation": "這個句子在學校情境中使用「or」。"
   },
   {
     "id": 1280,
@@ -14077,7 +14077,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"past\" while checking the answer sheet.",
-    "translation": "「past」在這個例句中用來表達「過去的」。"
+    "translation": "我在檢查答案卷時找到了「past」。"
   },
   {
     "id": 1281,
@@ -14088,7 +14088,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"planet\".",
-    "translation": "這個例句使用了「planet」，意思是「行星」。"
+    "translation": "故事中的角色學會了「planet」這個字。"
   },
   {
     "id": 1282,
@@ -14099,7 +14099,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"prefer\".",
-    "translation": "請看例句中的「prefer」：它的中文意思是「較喜歡」。"
+    "translation": "線上字典提供了「prefer」的例句。"
   },
   {
     "id": 1283,
@@ -14110,7 +14110,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"orange\" during pair practice.",
-    "translation": "在這句話裡，「orange」表示「柑橘」。"
+    "translation": "全班在雙人練習時使用了「orange」。"
   },
   {
     "id": 1284,
@@ -14121,7 +14121,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"paste\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「paste」，中文是「麵糰」。"
+    "translation": "我把「paste」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1285,
@@ -14132,7 +14132,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"plant\" aloud.",
-    "translation": "這句英文示範了「plant」的用法，意思是「植物」。"
+    "translation": "老師請每個人大聲讀出「plant」。"
   },
   {
     "id": 1286,
@@ -14143,7 +14143,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"prepare\" was useful in the reading question.",
-    "translation": "記住「prepare」這個字：它的意思是「準備」。"
+    "translation": "「prepare」這個字在閱讀題中很有用。"
   },
   {
     "id": 1287,
@@ -14154,7 +14154,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"order\".",
-    "translation": "這個單字在例句中是「order」，中文意思為「命令」。"
+    "translation": "我用彩色筆標記「order」。"
   },
   {
     "id": 1288,
@@ -14165,7 +14165,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"path\" easier to understand.",
-    "translation": "從例句可以看出，「path」的意思是「小徑」。"
+    "translation": "這個練習句讓「path」更容易理解。"
   },
   {
     "id": 1289,
@@ -14176,7 +14176,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"plate\" in the audio clip.",
-    "translation": "當你看到「plate」時，可以想到「盤子」這個意思。"
+    "translation": "我們在音檔中聽「plate」這個字。"
   },
   {
     "id": 1290,
@@ -14187,7 +14187,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"presence\" helped me understand the main idea.",
-    "translation": "「presence」在這個例句中用來表達「存在」。"
+    "translation": "「presence」這個字幫助我理解主旨。"
   },
   {
     "id": 1291,
@@ -14198,7 +14198,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"present\" on a sticky note.",
-    "translation": "這個例句使用了「present」，意思是「現在的」。"
+    "translation": "我把「present」寫在便利貼上。"
   },
   {
     "id": 1292,
@@ -14209,7 +14209,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"reject\" after class.",
-    "translation": "請看例句中的「reject」：它的中文意思是「拒絕」。"
+    "translation": "閱讀社在課後討論了「reject」。"
   },
   {
     "id": 1293,
@@ -14220,7 +14220,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"row\" naturally.",
-    "translation": "在這句話裡，「row」表示「一排」。"
+    "translation": "範例對話自然地使用了「row」。"
   },
   {
     "id": 1294,
@@ -14231,7 +14231,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"quality\" was a new word for me.",
-    "translation": "例句幫助你理解「quality」，中文是「品質」。"
+    "translation": "我確認「quality」對我來說是不是新單字。"
   },
   {
     "id": 1295,
@@ -14242,7 +14242,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"president\" memorable.",
-    "translation": "這句英文示範了「president」的用法，意思是「總統；校長」。"
+    "translation": "老師的故事讓「president」變得令人印象深刻。"
   },
   {
     "id": 1296,
@@ -14253,7 +14253,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"relation\" as a challenge word.",
-    "translation": "記住「relation」這個字：它的意思是「關係」。"
+    "translation": "小組活動把「relation」列為挑戰單字。"
   },
   {
     "id": 1297,
@@ -14264,7 +14264,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher wrote \"royal\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「royal」，中文意思為「皇室的」。"
+    "translation": "老師在閱讀測驗前把「royal」寫在黑板上。"
   },
   {
     "id": 1298,
@@ -14275,7 +14275,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"quantity\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「quantity」的意思是「量」。"
+    "translation": "Amy 圈起「quantity」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1299,
@@ -14286,7 +14286,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"pressure\" in his homework sentence.",
-    "translation": "當你看到「pressure」時，可以想到「壓力」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「pressure」。"
   },
   {
     "id": 1300,
@@ -14297,7 +14297,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"relative\" in today's short story.",
-    "translation": "「relative」在這個例句中用來表達「親戚」。"
+    "translation": "全班在今天的短篇故事中找到了「relative」。"
   },
   {
     "id": 1301,
@@ -14308,7 +14308,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"rub\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「rub」，意思是「摩擦」。"
+    "translation": "我在複習段落時把「rub」畫線標記。"
   },
   {
     "id": 1302,
@@ -14319,7 +14319,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"quarter\".",
-    "translation": "請看例句中的「quarter」：它的中文意思是「四分之一」。"
+    "translation": "我們小組做了一張有「quarter」這個字的海報。"
   },
   {
     "id": 1303,
@@ -14330,7 +14330,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"pretty\".",
-    "translation": "在這句話裡，「pretty」表示「漂亮的」。"
+    "translation": "這個例句幫助我記住「pretty」。"
   },
   {
     "id": 1304,
@@ -14341,7 +14341,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"remember\" appeared in the listening script.",
-    "translation": "例句幫助你理解「remember」，中文是「記得」。"
+    "translation": "「remember」這個字出現在聽力稿中。"
   },
   {
     "id": 1305,
@@ -14352,7 +14352,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"rubber\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「rubber」的用法，意思是「橡膠」。"
+    "translation": "Mina 在她的單字筆記本裡查了「rubber」。"
   },
   {
     "id": 1306,
@@ -14363,7 +14363,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"queen\".",
-    "translation": "記住「queen」這個字：它的意思是「女王」。"
+    "translation": "這個問題提供了關於「queen」的線索。"
   },
   {
     "id": 1307,
@@ -14374,7 +14374,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"price\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「price」，中文意思為「價格」。"
+    "translation": "故事使用「price」讓場景更清楚。"
   },
   {
     "id": 1308,
@@ -14385,7 +14385,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"remind\" to my review list for Friday.",
-    "translation": "從例句可以看出，「remind」的意思是「提醒」。"
+    "translation": "我把「remind」加入星期五的複習清單。"
   },
   {
     "id": 1309,
@@ -14396,7 +14396,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"rude\" twice.",
-    "translation": "當你看到「rude」時，可以想到「粗魯的」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「rude」。"
   },
   {
     "id": 1310,
@@ -14407,7 +14407,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"question\".",
-    "translation": "「question」在這個例句中用來表達「問題」。"
+    "translation": "Jason 問「question」要怎麼發音。"
   },
   {
     "id": 1311,
@@ -14418,7 +14418,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"pride\" with its meaning.",
-    "translation": "這個例句使用了「pride」，意思是「驕傲」。"
+    "translation": "這張學習單要求學生把「pride」和它的意思配對。"
   },
   {
     "id": 1312,
@@ -14429,7 +14429,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"rent\" on the first page of the lesson.",
-    "translation": "請看例句中的「rent」：它的中文意思是「租借」。"
+    "translation": "我在課文第一頁看到了「rent」。"
   },
   {
     "id": 1313,
@@ -14440,7 +14440,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"ruin\" helped me guess the answer.",
-    "translation": "在這句話裡，「ruin」表示「毀壞」。"
+    "translation": "「ruin」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1314,
@@ -14451,7 +14451,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"quick\" into a quick quiz question.",
-    "translation": "例句幫助你理解「quick」，中文是「迅速的」。"
+    "translation": "我們的老師把「quick」變成一道快速測驗題。"
   },
   {
     "id": 1315,
@@ -14462,7 +14462,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"priest\" with a simple picture.",
-    "translation": "這句英文示範了「priest」的用法，意思是「神父」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「priest」。"
   },
   {
     "id": 1316,
@@ -14473,7 +14473,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"repair\" after dinner.",
-    "translation": "記住「repair」這個字：它的意思是「修理」。"
+    "translation": "我晚餐後練習拼寫「repair」。"
   },
   {
     "id": 1317,
@@ -14484,7 +14484,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The test item uses \"rule\" in a real-life situation.",
-    "translation": "這個單字在例句中是「rule」，中文意思為「統治」。"
+    "translation": "這道測驗題在真實生活情境中使用「rule」。"
   },
   {
     "id": 1318,
@@ -14495,7 +14495,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Sara wrote \"quiet\" beside a small drawing.",
-    "translation": "從例句可以看出，「quiet」的意思是「安靜的」。"
+    "translation": "Sara 在一張小圖旁寫下「quiet」。"
   },
   {
     "id": 1319,
@@ -14506,7 +14506,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"primary\" near the end.",
-    "translation": "當你看到「primary」時，可以想到「主要的」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「primary」。"
   },
   {
     "id": 1320,
@@ -14517,7 +14517,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"repeat\" as my word of the day.",
-    "translation": "「repeat」在這個例句中用來表達「重複」。"
+    "translation": "我選「repeat」作為今天的每日單字。"
   },
   {
     "id": 1321,
@@ -14528,7 +14528,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"ruler\" with an easy sentence.",
-    "translation": "這個例句使用了「ruler」，意思是「統治者；尺」。"
+    "translation": "課本用一個簡單句子解釋「ruler」。"
   },
   {
     "id": 1322,
@@ -14539,7 +14539,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"quit\".",
-    "translation": "請看例句中的「quit」：它的中文意思是「停止」。"
+    "translation": "我和我的搭檔用「quit」造了一個問題。"
   },
   {
     "id": 1323,
@@ -14550,7 +14550,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"prince\".",
-    "translation": "在這句話裡，「prince」表示「王子」。"
+    "translation": "這個答案選項包含「prince」。"
   },
   {
     "id": 1324,
@@ -14561,7 +14561,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I remembered \"reply\" because it was in a funny story.",
-    "translation": "例句幫助你理解「reply」，中文是「回應」。"
+    "translation": "我記得「reply」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1325,
@@ -14572,7 +14572,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"run\" quickly.",
-    "translation": "這句英文示範了「run」的用法，意思是「跑步」。"
+    "translation": "複習遊戲要求我們快速拼出「run」。"
   },
   {
     "id": 1326,
@@ -14583,7 +14583,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"quite\" helped the reader understand it.",
-    "translation": "記住「quite」這個字：它的意思是「相當地」。"
+    "translation": "「quite」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1327,
@@ -14594,7 +14594,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"princess\" in a school setting.",
-    "translation": "這個單字在例句中是「princess」，中文意思為「公主」。"
+    "translation": "這個句子在學校情境中使用「princess」。"
   },
   {
     "id": 1328,
@@ -14605,7 +14605,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"report\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「report」的意思是「報告」。"
+    "translation": "我在檢查答案卷時找到了「report」。"
   },
   {
     "id": 1329,
@@ -14616,7 +14616,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"rush\".",
-    "translation": "當你看到「rush」時，可以想到「衝進」這個意思。"
+    "translation": "故事中的角色學會了「rush」這個字。"
   },
   {
     "id": 1330,
@@ -14627,7 +14627,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"quiz\".",
-    "translation": "「quiz」在這個例句中用來表達「小考 S」。"
+    "translation": "線上字典提供了「quiz」的例句。"
   },
   {
     "id": 1331,
@@ -14638,7 +14638,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"principal\" during pair practice.",
-    "translation": "這個例句使用了「principal」，意思是「原則」。"
+    "translation": "全班在雙人練習時使用了「principal」。"
   },
   {
     "id": 1332,
@@ -14649,7 +14649,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"reporter\" into a sentence about daily life.",
-    "translation": "請看例句中的「reporter」：它的中文意思是「記者」。"
+    "translation": "我把「reporter」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1333,
@@ -14660,7 +14660,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"sad\" aloud.",
-    "translation": "在這句話裡，「sad」表示「悲傷的」。"
+    "translation": "老師請每個人大聲讀出「sad」。"
   },
   {
     "id": 1334,
@@ -14671,7 +14671,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"print\" was useful in the reading question.",
-    "translation": "例句幫助你理解「print」，中文是「印刷」。"
+    "translation": "「print」這個字在閱讀題中很有用。"
   },
   {
     "id": 1335,
@@ -14682,7 +14682,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"require\".",
-    "translation": "這句英文示範了「require」的用法，意思是「需要」。"
+    "translation": "我用彩色筆標記「require」。"
   },
   {
     "id": 1336,
@@ -14693,7 +14693,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"rabbit\" easier to understand.",
-    "translation": "記住「rabbit」這個字：它的意思是「兔子」。"
+    "translation": "這個練習句讓「rabbit」更容易理解。"
   },
   {
     "id": 1337,
@@ -14704,7 +14704,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "We listened for \"safe\" in the audio clip.",
-    "translation": "這個單字在例句中是「safe」，中文意思為「安全的」。"
+    "translation": "我們在音檔中聽「safe」這個字。"
   },
   {
     "id": 1338,
@@ -14715,7 +14715,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"prison\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「prison」的意思是「監獄」。"
+    "translation": "「prison」這個字幫助我理解主旨。"
   },
   {
     "id": 1339,
@@ -14726,7 +14726,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"respect\" on a sticky note.",
-    "translation": "當你看到「respect」時，可以想到「尊重」這個意思。"
+    "translation": "我把「respect」寫在便利貼上。"
   },
   {
     "id": 1340,
@@ -14737,7 +14737,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"race\" after class.",
-    "translation": "「race」在這個例句中用來表達「賽跑」。"
+    "translation": "閱讀社在課後討論了「race」。"
   },
   {
     "id": 1341,
@@ -14748,7 +14748,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"safety\" naturally.",
-    "translation": "這個例句使用了「safety」，意思是「安全」。"
+    "translation": "範例對話自然地使用了「safety」。"
   },
   {
     "id": 1342,
@@ -14759,7 +14759,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"private\" was a new word for me.",
-    "translation": "請看例句中的「private」：它的中文意思是「私人的」。"
+    "translation": "我確認「private」對我來說是不是新單字。"
   },
   {
     "id": 1343,
@@ -14770,7 +14770,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"responsible\" memorable.",
-    "translation": "在這句話裡，「responsible」表示「有責任」。"
+    "translation": "老師的故事讓「responsible」變得令人印象深刻。"
   },
   {
     "id": 1344,
@@ -14781,7 +14781,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"radio\" as a challenge word.",
-    "translation": "例句幫助你理解「radio」，中文是「收音機」。"
+    "translation": "小組活動把「radio」列為挑戰單字。"
   },
   {
     "id": 1345,
@@ -14792,7 +14792,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"sail\" on the board before the reading test.",
-    "translation": "這句英文示範了「sail」的用法，意思是「航行」。"
+    "translation": "老師在閱讀測驗前把「sail」寫在黑板上。"
   },
   {
     "id": 1346,
@@ -14803,7 +14803,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"prize\" because it was the key word in the sentence.",
-    "translation": "記住「prize」這個字：它的意思是「獎 的」。"
+    "translation": "Amy 圈起「prize」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1347,
@@ -14814,7 +14814,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"railroad\" in his homework sentence.",
-    "translation": "這個單字在例句中是「railroad」，中文意思為「鐵路」。"
+    "translation": "Kevin 在他的作業句子中使用了「railroad」。"
   },
   {
     "id": 1348,
@@ -14825,7 +14825,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"sailor\" in today's short story.",
-    "translation": "從例句可以看出，「sailor」的意思是「水手」。"
+    "translation": "全班在今天的短篇故事中找到了「sailor」。"
   },
   {
     "id": 1349,
@@ -14836,7 +14836,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"probably\" while reviewing the paragraph.",
-    "translation": "當你看到「probably」時，可以想到「或許」這個意思。"
+    "translation": "我在複習段落時把「probably」畫線標記。"
   },
   {
     "id": 1350,
@@ -14847,7 +14847,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"rest\".",
-    "translation": "「rest」在這個例句中用來表達「休息」。"
+    "translation": "我們小組做了一張有「rest」這個字的海報。"
   },
   {
     "id": 1351,
@@ -14858,7 +14858,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"rain\".",
-    "translation": "這個例句使用了「rain」，意思是「雨」。"
+    "translation": "這個例句幫助我記住「rain」。"
   },
   {
     "id": 1352,
@@ -14869,7 +14869,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"salad\" appeared in the listening script.",
-    "translation": "請看例句中的「salad」：它的中文意思是「沙拉」。"
+    "translation": "「salad」這個字出現在聽力稿中。"
   },
   {
     "id": 1353,
@@ -14880,7 +14880,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"problem\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「problem」表示「問題」。"
+    "translation": "Mina 在她的單字筆記本裡查了「problem」。"
   },
   {
     "id": 1354,
@@ -14891,7 +14891,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"restaurant\".",
-    "translation": "例句幫助你理解「restaurant」，中文是「餐廳」。"
+    "translation": "這個問題提供了關於「restaurant」的線索。"
   },
   {
     "id": 1355,
@@ -14902,7 +14902,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"rainbow\" to make the scene clearer.",
-    "translation": "這句英文示範了「rainbow」的用法，意思是「彩虹」。"
+    "translation": "故事使用「rainbow」讓場景更清楚。"
   },
   {
     "id": 1356,
@@ -14913,7 +14913,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"sale\" to my review list for Friday.",
-    "translation": "記住「sale」這個字：它的意思是「出售」。"
+    "translation": "我把「sale」加入星期五的複習清單。"
   },
   {
     "id": 1357,
@@ -14924,7 +14924,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"produce\" twice.",
-    "translation": "這個單字在例句中是「produce」，中文意思為「製造」。"
+    "translation": "這篇閱讀文章重複了兩次「produce」。"
   },
   {
     "id": 1358,
@@ -14935,7 +14935,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"restroom\".",
-    "translation": "從例句可以看出，「restroom」的意思是「洗手間」。"
+    "translation": "Jason 問「restroom」要怎麼發音。"
   },
   {
     "id": 1359,
@@ -14946,7 +14946,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"rainy\" with its meaning.",
-    "translation": "當你看到「rainy」時，可以想到「多雨的」這個意思。"
+    "translation": "這張學習單要求學生把「rainy」和它的意思配對。"
   },
   {
     "id": 1360,
@@ -14957,7 +14957,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"salt\" on the first page of the lesson.",
-    "translation": "「salt」在這個例句中用來表達「鹽」。"
+    "translation": "我在課文第一頁看到了「salt」。"
   },
   {
     "id": 1361,
@@ -14968,7 +14968,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"production\" helped me guess the answer.",
-    "translation": "這個例句使用了「production」，意思是「製造」。"
+    "translation": "「production」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1362,
@@ -14979,7 +14979,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"result\" into a quick quiz question.",
-    "translation": "請看例句中的「result」：它的中文意思是「結果」。"
+    "translation": "我們的老師把「result」變成一道快速測驗題。"
   },
   {
     "id": 1363,
@@ -14990,7 +14990,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"raise\" with a simple picture.",
-    "translation": "在這句話裡，「raise」表示「增加」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「raise」。"
   },
   {
     "id": 1364,
@@ -15001,7 +15001,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I practiced spelling \"same\" after dinner.",
-    "translation": "例句幫助你理解「same」，中文是「相同的」。"
+    "translation": "我晚餐後練習拼寫「same」。"
   },
   {
     "id": 1365,
@@ -15012,7 +15012,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"professor\" in a real-life situation.",
-    "translation": "這句英文示範了「professor」的用法，意思是「教授」。"
+    "translation": "這道測驗題在真實生活情境中使用「professor」。"
   },
   {
     "id": 1366,
@@ -15023,7 +15023,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Sara wrote \"return\" beside a small drawing.",
-    "translation": "記住「return」這個字：它的意思是「歸來」。"
+    "translation": "Sara 在一張小圖旁寫下「return」。"
   },
   {
     "id": 1367,
@@ -15034,7 +15034,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"range\" near the end.",
-    "translation": "這個單字在例句中是「range」，中文意思為「範圍」。"
+    "translation": "這段對話在接近結尾的地方包含「range」。"
   },
   {
     "id": 1368,
@@ -15045,7 +15045,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"sample\" as my word of the day.",
-    "translation": "從例句可以看出，「sample」的意思是「樣品」。"
+    "translation": "我選「sample」作為今天的每日單字。"
   },
   {
     "id": 1369,
@@ -15056,7 +15056,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"program\" with an easy sentence.",
-    "translation": "當你看到「program」時，可以想到「節目」這個意思。"
+    "translation": "課本用一個簡單句子解釋「program」。"
   },
   {
     "id": 1370,
@@ -15067,7 +15067,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"review\".",
-    "translation": "「review」在這個例句中用來表達「複習」。"
+    "translation": "我和我的搭檔用「review」造了一個問題。"
   },
   {
     "id": 1371,
@@ -15078,7 +15078,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The answer choice contains \"rare\".",
-    "translation": "這個例句使用了「rare」，意思是「稀少的」。"
+    "translation": "這個答案選項包含「rare」。"
   },
   {
     "id": 1372,
@@ -15089,7 +15089,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"sand\" because it was in a funny story.",
-    "translation": "請看例句中的「sand」：它的中文意思是「沙」。"
+    "translation": "我記得「sand」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1373,
@@ -15100,7 +15100,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"progress\" quickly.",
-    "translation": "在這句話裡，「progress」表示「進步」。"
+    "translation": "複習遊戲要求我們快速拼出「progress」。"
   },
   {
     "id": 1374,
@@ -15111,7 +15111,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"revise\" helped the reader understand it.",
-    "translation": "例句幫助你理解「revise」，中文是「改變」。"
+    "translation": "「revise」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1375,
@@ -15122,7 +15122,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"rat\" in a school setting.",
-    "translation": "這句英文示範了「rat」的用法，意思是「老鼠」。"
+    "translation": "這個句子在學校情境中使用「rat」。"
   },
   {
     "id": 1376,
@@ -15133,7 +15133,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"sandwich\" while checking the answer sheet.",
-    "translation": "記住「sandwich」這個字：它的意思是「三明治」。"
+    "translation": "我在檢查答案卷時找到了「sandwich」。"
   },
   {
     "id": 1377,
@@ -15144,7 +15144,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"project\".",
-    "translation": "這個單字在例句中是「project」，中文意思為「方案」。"
+    "translation": "故事中的角色學會了「project」這個字。"
   },
   {
     "id": 1378,
@@ -15155,7 +15155,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"rice\".",
-    "translation": "從例句可以看出，「rice」的意思是「米」。"
+    "translation": "線上字典提供了「rice」的例句。"
   },
   {
     "id": 1379,
@@ -15166,7 +15166,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"rather\" during pair practice.",
-    "translation": "當你看到「rather」時，可以想到「稍微」這個意思。"
+    "translation": "全班在雙人練習時使用了「rather」。"
   },
   {
     "id": 1380,
@@ -15177,7 +15177,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"satisfy\" into a sentence about daily life.",
-    "translation": "「satisfy」在這個例句中用來表達「滿意」。"
+    "translation": "我把「satisfy」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1381,
@@ -15188,7 +15188,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"promise\" aloud.",
-    "translation": "這個例句使用了「promise」，意思是「承諾」。"
+    "translation": "老師請每個人大聲讀出「promise」。"
   },
   {
     "id": 1382,
@@ -15199,7 +15199,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"rich\" was useful in the reading question.",
-    "translation": "請看例句中的「rich」：它的中文意思是「有錢的」。"
+    "translation": "「rich」這個字在閱讀題中很有用。"
   },
   {
     "id": 1383,
@@ -15210,7 +15210,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"reach\".",
-    "translation": "在這句話裡，「reach」表示「到達」。"
+    "translation": "我用彩色筆標記「reach」。"
   },
   {
     "id": 1384,
@@ -15221,7 +15221,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"Saturday\" easier to understand.",
-    "translation": "例句幫助你理解「Saturday」，中文是「星期六」。"
+    "translation": "這個練習句讓「Saturday」更容易理解。"
   },
   {
     "id": 1385,
@@ -15232,7 +15232,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "We listened for \"pronounce\" in the audio clip.",
-    "translation": "這句英文示範了「pronounce」的用法，意思是「發音」。"
+    "translation": "我們在音檔中聽「pronounce」這個字。"
   },
   {
     "id": 1386,
@@ -15243,7 +15243,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"ride\" helped me understand the main idea.",
-    "translation": "記住「ride」這個字：它的意思是「騎」。"
+    "translation": "「ride」這個字幫助我理解主旨。"
   },
   {
     "id": 1387,
@@ -15254,7 +15254,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I wrote \"read\" on a sticky note.",
-    "translation": "這個單字在例句中是「read」，中文意思為「閱讀」。"
+    "translation": "我把「read」寫在便利貼上。"
   },
   {
     "id": 1388,
@@ -15265,7 +15265,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"sauce\" after class.",
-    "translation": "從例句可以看出，「sauce」的意思是「醬料」。"
+    "translation": "閱讀社在課後討論了「sauce」。"
   },
   {
     "id": 1389,
@@ -15276,7 +15276,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sample dialogue uses \"protect\" naturally.",
-    "translation": "當你看到「protect」時，可以想到「保護」這個意思。"
+    "translation": "範例對話自然地使用了「protect」。"
   },
   {
     "id": 1390,
@@ -15287,7 +15287,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"right\" was a new word for me.",
-    "translation": "「right」在這個例句中用來表達「正確的」。"
+    "translation": "我確認「right」對我來說是不是新單字。"
   },
   {
     "id": 1391,
@@ -15298,7 +15298,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"ready\" memorable.",
-    "translation": "這個例句使用了「ready」，意思是「準備好的」。"
+    "translation": "老師的故事讓「ready」變得令人印象深刻。"
   },
   {
     "id": 1392,
@@ -15309,7 +15309,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"save\" as a challenge word.",
-    "translation": "請看例句中的「save」：它的中文意思是「拯救」。"
+    "translation": "小組活動把「save」列為挑戰單字。"
   },
   {
     "id": 1393,
@@ -15320,7 +15320,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher wrote \"proud\" on the board before the reading test.",
-    "translation": "在這句話裡，「proud」表示「驕傲的」。"
+    "translation": "老師在閱讀測驗前把「proud」寫在黑板上。"
   },
   {
     "id": 1394,
@@ -15331,7 +15331,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"ring\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「ring」，中文是「戒指」。"
+    "translation": "Amy 圈起「ring」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1395,
@@ -15342,7 +15342,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Kevin used \"real\" in his homework sentence.",
-    "translation": "這句英文示範了「real」的用法，意思是「真的」。"
+    "translation": "Kevin 在他的作業句子中使用了「real」。"
   },
   {
     "id": 1396,
@@ -15353,7 +15353,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"say\" in today's short story.",
-    "translation": "記住「say」這個字：它的意思是「說」。"
+    "translation": "全班在今天的短篇故事中找到了「say」。"
   },
   {
     "id": 1397,
@@ -15364,7 +15364,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"prove\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「prove」，中文意思為「證明」。"
+    "translation": "我在複習段落時把「prove」畫線標記。"
   },
   {
     "id": 1398,
@@ -15375,7 +15375,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"rise\".",
-    "translation": "從例句可以看出，「rise」的意思是「上升」。"
+    "translation": "我們小組做了一張有「rise」這個字的海報。"
   },
   {
     "id": 1399,
@@ -15386,7 +15386,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"realize\".",
-    "translation": "當你看到「realize」時，可以想到「瞭解」這個意思。"
+    "translation": "這個例句幫助我記住「realize」。"
   },
   {
     "id": 1400,
@@ -15397,7 +15397,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"scare\" appeared in the listening script.",
-    "translation": "「scare」在這個例句中用來表達「(使)害怕」。"
+    "translation": "「scare」這個字出現在聽力稿中。"
   },
   {
     "id": 1401,
@@ -15408,7 +15408,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"provide\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「provide」，意思是「提供」。"
+    "translation": "Mina 在她的單字筆記本裡查了「provide」。"
   },
   {
     "id": 1402,
@@ -15419,7 +15419,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"river\".",
-    "translation": "請看例句中的「river」：它的中文意思是「河流」。"
+    "translation": "這個問題提供了關於「river」的線索。"
   },
   {
     "id": 1403,
@@ -15430,7 +15430,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story used \"really\" to make the scene clearer.",
-    "translation": "在這句話裡，「really」表示「真實地」。"
+    "translation": "故事使用「really」讓場景更清楚。"
   },
   {
     "id": 1404,
@@ -15441,7 +15441,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"scarf\" to my review list for Friday.",
-    "translation": "例句幫助你理解「scarf」，中文是「圍巾」。"
+    "translation": "我把「scarf」加入星期五的複習清單。"
   },
   {
     "id": 1405,
@@ -15452,7 +15452,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"public\" twice.",
-    "translation": "這句英文示範了「public」的用法，意思是「公共的」。"
+    "translation": "這篇閱讀文章重複了兩次「public」。"
   },
   {
     "id": 1406,
@@ -15463,7 +15463,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"road\".",
-    "translation": "記住「road」這個字：它的意思是「道路」。"
+    "translation": "Jason 問「road」要怎麼發音。"
   },
   {
     "id": 1407,
@@ -15474,7 +15474,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"reason\" with its meaning.",
-    "translation": "這個單字在例句中是「reason」，中文意思為「理由」。"
+    "translation": "這張學習單要求學生把「reason」和它的意思配對。"
   },
   {
     "id": 1408,
@@ -15485,7 +15485,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"scene\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「scene」的意思是「風景」。"
+    "translation": "我在課文第一頁看到了「scene」。"
   },
   {
     "id": 1409,
@@ -15496,7 +15496,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"pull\" helped me guess the answer.",
-    "translation": "當你看到「pull」時，可以想到「拉」這個意思。"
+    "translation": "「pull」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1410,
@@ -15507,7 +15507,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our teacher turned \"rob\" into a quick quiz question.",
-    "translation": "「rob」在這個例句中用來表達「搶劫」。"
+    "translation": "我們的老師把「rob」變成一道快速測驗題。"
   },
   {
     "id": 1411,
@@ -15518,7 +15518,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"receive\" with a simple picture.",
-    "translation": "這個例句使用了「receive」，意思是「收到」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「receive」。"
   },
   {
     "id": 1412,
@@ -15529,7 +15529,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"scenery\" after dinner.",
-    "translation": "請看例句中的「scenery」：它的中文意思是「景色」。"
+    "translation": "我晚餐後練習拼寫「scenery」。"
   },
   {
     "id": 1413,
@@ -15540,7 +15540,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"pump\" in a real-life situation.",
-    "translation": "在這句話裡，「pump」表示「抽水機」。"
+    "translation": "這道測驗題在真實生活情境中使用「pump」。"
   },
   {
     "id": 1414,
@@ -15551,7 +15551,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "Sara wrote \"robot\" beside a small drawing.",
-    "translation": "例句幫助你理解「robot」，中文是「機器人」。"
+    "translation": "Sara 在一張小圖旁寫下「robot」。"
   },
   {
     "id": 1415,
@@ -15562,7 +15562,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"record\" near the end.",
-    "translation": "這句英文示範了「record」的用法，意思是「記錄」。"
+    "translation": "這段對話在接近結尾的地方包含「record」。"
   },
   {
     "id": 1416,
@@ -15573,7 +15573,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "I chose \"school\" as my word of the day.",
-    "translation": "記住「school」這個字：它的意思是「學校」。"
+    "translation": "我選「school」作為今天的每日單字。"
   },
   {
     "id": 1417,
@@ -15584,7 +15584,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"pumpkin\" with an easy sentence.",
-    "translation": "這個單字在例句中是「pumpkin」，中文意思為「南瓜」。"
+    "translation": "課本用一個簡單句子解釋「pumpkin」。"
   },
   {
     "id": 1418,
@@ -15595,7 +15595,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"rock\".",
-    "translation": "從例句可以看出，「rock」的意思是「石塊」。"
+    "translation": "我和我的搭檔用「rock」造了一個問題。"
   },
   {
     "id": 1419,
@@ -15606,7 +15606,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"recover\".",
-    "translation": "當你看到「recover」時，可以想到「康復」這個意思。"
+    "translation": "這個答案選項包含「recover」。"
   },
   {
     "id": 1420,
@@ -15617,7 +15617,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "I remembered \"science\" because it was in a funny story.",
-    "translation": "「science」在這個例句中用來表達「科學」。"
+    "translation": "我記得「science」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1421,
@@ -15628,7 +15628,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"punish\" quickly.",
-    "translation": "這個例句使用了「punish」，意思是「處罰」。"
+    "translation": "複習遊戲要求我們快速拼出「punish」。"
   },
   {
     "id": 1422,
@@ -15639,7 +15639,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"role\" helped the reader understand it.",
-    "translation": "請看例句中的「role」：它的中文意思是「角色」。"
+    "translation": "「role」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1423,
@@ -15650,7 +15650,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"rectangle\" in a school setting.",
-    "translation": "在這句話裡，「rectangle」表示「長方形」。"
+    "translation": "這個句子在學校情境中使用「rectangle」。"
   },
   {
     "id": 1424,
@@ -15661,7 +15661,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "I found \"scientist\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「scientist」，中文是「科學家」。"
+    "translation": "我在檢查答案卷時找到了「scientist」。"
   },
   {
     "id": 1425,
@@ -15672,7 +15672,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"puppy\".",
-    "translation": "這句英文示範了「puppy」的用法，意思是「小狗」。"
+    "translation": "故事中的角色學會了「puppy」這個字。"
   },
   {
     "id": 1426,
@@ -15683,7 +15683,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"roll\".",
-    "translation": "記住「roll」這個字：它的意思是「滾動」。"
+    "translation": "線上字典提供了「roll」的例句。"
   },
   {
     "id": 1427,
@@ -15694,7 +15694,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"recycle\" during pair practice.",
-    "translation": "這個單字在例句中是「recycle」，中文意思為「回收」。"
+    "translation": "全班在雙人練習時使用了「recycle」。"
   },
   {
     "id": 1428,
@@ -15705,7 +15705,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"scooter\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「scooter」的意思是「摩托車」。"
+    "translation": "我把「scooter」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1429,
@@ -15716,7 +15716,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"purple\" aloud.",
-    "translation": "當你看到「purple」時，可以想到「紫色的」這個意思。"
+    "translation": "老師請每個人大聲讀出「purple」。"
   },
   {
     "id": 1430,
@@ -15727,7 +15727,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"roof\" was useful in the reading question.",
-    "translation": "「roof」在這個例句中用來表達「屋頂」。"
+    "translation": "「roof」這個字在閱讀題中很有用。"
   },
   {
     "id": 1431,
@@ -15738,7 +15738,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I used a color pen to mark \"red\".",
-    "translation": "這個例句使用了「red」，意思是「紅色的」。"
+    "translation": "我用彩色筆標記「red」。"
   },
   {
     "id": 1432,
@@ -15749,7 +15749,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"score\" easier to understand.",
-    "translation": "請看例句中的「score」：它的中文意思是「得分」。"
+    "translation": "這個練習句讓「score」更容易理解。"
   },
   {
     "id": 1433,
@@ -15760,7 +15760,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"purpose\" in the audio clip.",
-    "translation": "在這句話裡，「purpose」表示「目的」。"
+    "translation": "我們在音檔中聽「purpose」這個字。"
   },
   {
     "id": 1434,
@@ -15771,7 +15771,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"room\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「room」，中文是「房間」。"
+    "translation": "「room」這個字幫助我理解主旨。"
   },
   {
     "id": 1435,
@@ -15782,7 +15782,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"refrigerator\" on a sticky note.",
-    "translation": "這句英文示範了「refrigerator」的用法，意思是「冰箱」。"
+    "translation": "我把「refrigerator」寫在便利貼上。"
   },
   {
     "id": 1436,
@@ -15793,7 +15793,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"screen\" after class.",
-    "translation": "記住「screen」這個字：它的意思是「螢幕」。"
+    "translation": "閱讀社在課後討論了「screen」。"
   },
   {
     "id": 1437,
@@ -15804,7 +15804,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"purse\" naturally.",
-    "translation": "這個單字在例句中是「purse」，中文意思為「錢包」。"
+    "translation": "範例對話自然地使用了「purse」。"
   },
   {
     "id": 1438,
@@ -15815,7 +15815,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"root\" was a new word for me.",
-    "translation": "從例句可以看出，「root」的意思是「根」。"
+    "translation": "我確認「root」對我來說是不是新單字。"
   },
   {
     "id": 1439,
@@ -15826,7 +15826,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher's story made \"refuse\" memorable.",
-    "translation": "當你看到「refuse」時，可以想到「拒絕」這個意思。"
+    "translation": "老師的故事讓「refuse」變得令人印象深刻。"
   },
   {
     "id": 1440,
@@ -15837,7 +15837,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"sea\" as a challenge word.",
-    "translation": "「sea」在這個例句中用來表達「海」。"
+    "translation": "小組活動把「sea」列為挑戰單字。"
   },
   {
     "id": 1441,
@@ -15848,7 +15848,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"push\" on the board before the reading test.",
-    "translation": "這個例句使用了「push」，意思是「推」。"
+    "translation": "老師在閱讀測驗前把「push」寫在黑板上。"
   },
   {
     "id": 1442,
@@ -15859,7 +15859,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"rope\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「rope」：它的中文意思是「繩子」。"
+    "translation": "Amy 圈起「rope」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1443,
@@ -15870,7 +15870,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"regard\" in his homework sentence.",
-    "translation": "在這句話裡，「regard」表示「認為」。"
+    "translation": "Kevin 在他的作業句子中使用了「regard」。"
   },
   {
     "id": 1444,
@@ -15881,7 +15881,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"seafood\" in today's short story.",
-    "translation": "例句幫助你理解「seafood」，中文是「海鮮」。"
+    "translation": "全班在今天的短篇故事中找到了「seafood」。"
   },
   {
     "id": 1445,
@@ -15892,7 +15892,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"put\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「put」的用法，意思是「放置」。"
+    "translation": "我在複習段落時把「put」畫線標記。"
   },
   {
     "id": 1446,
@@ -15903,7 +15903,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"rose\".",
-    "translation": "記住「rose」這個字：它的意思是「玫瑰」。"
+    "translation": "我們小組做了一張有「rose」這個字的海報。"
   },
   {
     "id": 1447,
@@ -15914,7 +15914,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"regret\".",
-    "translation": "這個單字在例句中是「regret」，中文意思為「後悔」。"
+    "translation": "這個例句幫助我記住「regret」。"
   },
   {
     "id": 1448,
@@ -15925,7 +15925,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"search\" appeared in the listening script.",
-    "translation": "從例句可以看出，「search」的意思是「搜索」。"
+    "translation": "「search」這個字出現在聽力稿中。"
   },
   {
     "id": 1449,
@@ -15936,7 +15936,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"puzzle\" in her vocabulary notebook.",
-    "translation": "當你看到「puzzle」時，可以想到「謎題」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「puzzle」。"
   },
   {
     "id": 1450,
@@ -15947,7 +15947,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The question gave a clue about \"round\".",
-    "translation": "「round」在這個例句中用來表達「圓的」。"
+    "translation": "這個問題提供了關於「round」的線索。"
   },
   {
     "id": 1451,
@@ -15958,7 +15958,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story used \"regular\" to make the scene clearer.",
-    "translation": "這個例句使用了「regular」，意思是「規律的」。"
+    "translation": "故事使用「regular」讓場景更清楚。"
   },
   {
     "id": 1452,
@@ -15969,7 +15969,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"season\" to my review list for Friday.",
-    "translation": "請看例句中的「season」：它的中文意思是「季節」。"
+    "translation": "我把「season」加入星期五的複習清單。"
   },
   {
     "id": 1453,
@@ -15980,7 +15980,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"shine\" twice.",
-    "translation": "在這句話裡，「shine」表示「照耀」。"
+    "translation": "這篇閱讀文章重複了兩次「shine」。"
   },
   {
     "id": 1454,
@@ -15991,7 +15991,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"sixteen\".",
-    "translation": "例句幫助你理解「sixteen」，中文是「十六」。"
+    "translation": "Jason 問「sixteen」要怎麼發音。"
   },
   {
     "id": 1455,
@@ -16002,7 +16002,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"someone\" with its meaning.",
-    "translation": "這句英文示範了「someone」的用法，意思是「某人」。"
+    "translation": "這張學習單要求學生把「someone」和它的意思配對。"
   },
   {
     "id": 1456,
@@ -16013,7 +16013,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"seat\" on the first page of the lesson.",
-    "translation": "記住「seat」這個字：它的意思是「座位」。"
+    "translation": "我在課文第一頁看到了「seat」。"
   },
   {
     "id": 1457,
@@ -16024,7 +16024,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"ship\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「ship」，中文意思為「船」。"
+    "translation": "「ship」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1458,
@@ -16035,7 +16035,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"sixty\" into a quick quiz question.",
-    "translation": "從例句可以看出，「sixty」的意思是「六十」。"
+    "translation": "我們的老師把「sixty」變成一道快速測驗題。"
   },
   {
     "id": 1459,
@@ -16046,7 +16046,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"something\" with a simple picture.",
-    "translation": "當你看到「something」時，可以想到「某事」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「something」。"
   },
   {
     "id": 1460,
@@ -16057,7 +16057,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I practiced spelling \"second\" after dinner.",
-    "translation": "「second」在這個例句中用來表達「第二的」。"
+    "translation": "我晚餐後練習拼寫「second」。"
   },
   {
     "id": 1461,
@@ -16068,7 +16068,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"shirt\" in a real-life situation.",
-    "translation": "這個例句使用了「shirt」，意思是「襯衫」。"
+    "translation": "這道測驗題在真實生活情境中使用「shirt」。"
   },
   {
     "id": 1462,
@@ -16079,7 +16079,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"size\" beside a small drawing.",
-    "translation": "請看例句中的「size」：它的中文意思是「尺碼」。"
+    "translation": "Sara 在一張小圖旁寫下「size」。"
   },
   {
     "id": 1463,
@@ -16090,7 +16090,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The dialogue includes \"sometimes\" near the end.",
-    "translation": "在這句話裡，「sometimes」表示「有時候」。"
+    "translation": "這段對話在接近結尾的地方包含「sometimes」。"
   },
   {
     "id": 1464,
@@ -16101,7 +16101,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"secret\" as my word of the day.",
-    "translation": "例句幫助你理解「secret」，中文是「祕密」。"
+    "translation": "我選「secret」作為今天的每日單字。"
   },
   {
     "id": 1465,
@@ -16112,7 +16112,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"shock\" with an easy sentence.",
-    "translation": "這句英文示範了「shock」的用法，意思是「震驚」。"
+    "translation": "課本用一個簡單句子解釋「shock」。"
   },
   {
     "id": 1466,
@@ -16123,7 +16123,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"skate\".",
-    "translation": "記住「skate」這個字：它的意思是「溜冰」。"
+    "translation": "我和我的搭檔用「skate」造了一個問題。"
   },
   {
     "id": 1467,
@@ -16134,7 +16134,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"somewhere\".",
-    "translation": "這個單字在例句中是「somewhere」，中文意思為「在某處」。"
+    "translation": "這個答案選項包含「somewhere」。"
   },
   {
     "id": 1468,
@@ -16145,7 +16145,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "I remembered \"secretary\" because it was in a funny story.",
-    "translation": "從例句可以看出，「secretary」的意思是「祕書」。"
+    "translation": "我記得「secretary」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1469,
@@ -16156,7 +16156,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"shoe\" quickly.",
-    "translation": "當你看到「shoe」時，可以想到「鞋子」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「shoe」。"
   },
   {
     "id": 1470,
@@ -16167,7 +16167,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"ski\" helped the reader understand it.",
-    "translation": "「ski」在這個例句中用來表達「滑雪」。"
+    "translation": "「ski」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1471,
@@ -16178,7 +16178,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"son\" in a school setting.",
-    "translation": "這個例句使用了「son」，意思是「兒子」。"
+    "translation": "這個句子在學校情境中使用「son」。"
   },
   {
     "id": 1472,
@@ -16189,7 +16189,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"section\" while checking the answer sheet.",
-    "translation": "請看例句中的「section」：它的中文意思是「部分」。"
+    "translation": "我在檢查答案卷時找到了「section」。"
   },
   {
     "id": 1473,
@@ -16200,7 +16200,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"shop\".",
-    "translation": "在這句話裡，「shop」表示「商店」。"
+    "translation": "故事中的角色學會了「shop」這個字。"
   },
   {
     "id": 1474,
@@ -16211,7 +16211,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"skill\".",
-    "translation": "例句幫助你理解「skill」，中文是「技巧」。"
+    "translation": "線上字典提供了「skill」的例句。"
   },
   {
     "id": 1475,
@@ -16222,7 +16222,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"song\" during pair practice.",
-    "translation": "這句英文示範了「song」的用法，意思是「歌」。"
+    "translation": "全班在雙人練習時使用了「song」。"
   },
   {
     "id": 1476,
@@ -16233,7 +16233,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"see\" into a sentence about daily life.",
-    "translation": "記住「see」這個字：它的意思是「看見」。"
+    "translation": "我把「see」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1477,
@@ -16244,7 +16244,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"shoot\" aloud.",
-    "translation": "這個單字在例句中是「shoot」，中文意思為「射擊」。"
+    "translation": "老師請每個人大聲讀出「shoot」。"
   },
   {
     "id": 1478,
@@ -16255,7 +16255,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"skillful\" was useful in the reading question.",
-    "translation": "從例句可以看出，「skillful」的意思是「熟練的」。"
+    "translation": "「skillful」這個字在閱讀題中很有用。"
   },
   {
     "id": 1479,
@@ -16266,7 +16266,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"soon\".",
-    "translation": "當你看到「soon」時，可以想到「不久」這個意思。"
+    "translation": "我用彩色筆標記「soon」。"
   },
   {
     "id": 1480,
@@ -16277,7 +16277,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"seed\" easier to understand.",
-    "translation": "「seed」在這個例句中用來表達「種子」。"
+    "translation": "這個練習句讓「seed」更容易理解。"
   },
   {
     "id": 1481,
@@ -16288,7 +16288,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"shore\" in the audio clip.",
-    "translation": "這個例句使用了「shore」，意思是「岸」。"
+    "translation": "我們在音檔中聽「shore」這個字。"
   },
   {
     "id": 1482,
@@ -16299,7 +16299,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"skin\" helped me understand the main idea.",
-    "translation": "請看例句中的「skin」：它的中文意思是「皮膚」。"
+    "translation": "「skin」這個字幫助我理解主旨。"
   },
   {
     "id": 1483,
@@ -16310,7 +16310,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"sore\" on a sticky note.",
-    "translation": "在這句話裡，「sore」表示「疼痛的」。"
+    "translation": "我把「sore」寫在便利貼上。"
   },
   {
     "id": 1484,
@@ -16321,7 +16321,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"seek\" after class.",
-    "translation": "例句幫助你理解「seek」，中文是「尋找」。"
+    "translation": "閱讀社在課後討論了「seek」。"
   },
   {
     "id": 1485,
@@ -16332,7 +16332,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sample dialogue uses \"short\" naturally.",
-    "translation": "這句英文示範了「short」的用法，意思是「短的」。"
+    "translation": "範例對話自然地使用了「short」。"
   },
   {
     "id": 1486,
@@ -16343,7 +16343,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"skinny\" was a new word for me.",
-    "translation": "記住「skinny」這個字：它的意思是「皮包骨的」。"
+    "translation": "我確認「skinny」對我來說是不是新單字。"
   },
   {
     "id": 1487,
@@ -16354,7 +16354,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"sorry\" memorable.",
-    "translation": "這個單字在例句中是「sorry」，中文意思為「感到抱歉的」。"
+    "translation": "老師的故事讓「sorry」變得令人印象深刻。"
   },
   {
     "id": 1488,
@@ -16365,7 +16365,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"seem\" as a challenge word.",
-    "translation": "從例句可以看出，「seem」的意思是「似乎」。"
+    "translation": "小組活動把「seem」列為挑戰單字。"
   },
   {
     "id": 1489,
@@ -16376,7 +16376,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"shorts\" on the board before the reading test.",
-    "translation": "當你看到「shorts」時，可以想到「短褲」這個意思。"
+    "translation": "老師在閱讀測驗前把「shorts」寫在黑板上。"
   },
   {
     "id": 1490,
@@ -16387,7 +16387,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"skirt\" because it was the key word in the sentence.",
-    "translation": "「skirt」在這個例句中用來表達「裙子」。"
+    "translation": "Amy 圈起「skirt」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1491,
@@ -16398,7 +16398,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"soul\" in his homework sentence.",
-    "translation": "這個例句使用了「soul」，意思是「靈魂」。"
+    "translation": "Kevin 在他的作業句子中使用了「soul」。"
   },
   {
     "id": 1492,
@@ -16409,7 +16409,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"seesaw\" in today's short story.",
-    "translation": "請看例句中的「seesaw」：它的中文意思是「蹺蹺板」。"
+    "translation": "全班在今天的短篇故事中找到了「seesaw」。"
   },
   {
     "id": 1493,
@@ -16420,7 +16420,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I underlined \"should\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「should」表示「應該」。"
+    "translation": "我在複習段落時把「should」畫線標記。"
   },
   {
     "id": 1494,
@@ -16431,7 +16431,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"sky\".",
-    "translation": "例句幫助你理解「sky」，中文是「天空」。"
+    "translation": "我們小組做了一張有「sky」這個字的海報。"
   },
   {
     "id": 1495,
@@ -16442,7 +16442,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"sound\".",
-    "translation": "這句英文示範了「sound」的用法，意思是「聽起來」。"
+    "translation": "這個例句幫助我記住「sound」。"
   },
   {
     "id": 1496,
@@ -16453,7 +16453,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"seldom\" appeared in the listening script.",
-    "translation": "記住「seldom」這個字：它的意思是「不常」。"
+    "translation": "「seldom」這個字出現在聽力稿中。"
   },
   {
     "id": 1497,
@@ -16464,7 +16464,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"shoulder\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「shoulder」，中文意思為「肩膀」。"
+    "translation": "Mina 在她的單字筆記本裡查了「shoulder」。"
   },
   {
     "id": 1498,
@@ -16475,7 +16475,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The question gave a clue about \"sleep\".",
-    "translation": "從例句可以看出，「sleep」的意思是「睡覺」。"
+    "translation": "這個問題提供了關於「sleep」的線索。"
   },
   {
     "id": 1499,
@@ -16486,7 +16486,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"soup\" to make the scene clearer.",
-    "translation": "當你看到「soup」時，可以想到「湯」這個意思。"
+    "translation": "故事使用「soup」讓場景更清楚。"
   },
   {
     "id": 1500,
@@ -16497,7 +16497,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"select\" to my review list for Friday.",
-    "translation": "「select」在這個例句中用來表達「挑選」。"
+    "translation": "我把「select」加入星期五的複習清單。"
   },
   {
     "id": 1501,
@@ -16508,7 +16508,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"shout\" twice.",
-    "translation": "這個例句使用了「shout」，意思是「大聲喊叫」。"
+    "translation": "這篇閱讀文章重複了兩次「shout」。"
   },
   {
     "id": 1502,
@@ -16519,7 +16519,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"sleepy\".",
-    "translation": "請看例句中的「sleepy」：它的中文意思是「想睡的」。"
+    "translation": "Jason 問「sleepy」要怎麼發音。"
   },
   {
     "id": 1503,
@@ -16530,7 +16530,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"sour\" with its meaning.",
-    "translation": "在這句話裡，「sour」表示「酸的」。"
+    "translation": "這張學習單要求學生把「sour」和它的意思配對。"
   },
   {
     "id": 1504,
@@ -16541,7 +16541,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"self\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「self」，中文是「自我」。"
+    "translation": "我在課文第一頁看到了「self」。"
   },
   {
     "id": 1505,
@@ -16552,7 +16552,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"show\" helped me guess the answer.",
-    "translation": "這句英文示範了「show」的用法，意思是「展現」。"
+    "translation": "「show」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1506,
@@ -16563,7 +16563,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"slender\" into a quick quiz question.",
-    "translation": "記住「slender」這個字：它的意思是「纖細的」。"
+    "translation": "我們的老師把「slender」變成一道快速測驗題。"
   },
   {
     "id": 1507,
@@ -16574,7 +16574,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"source\" with a simple picture.",
-    "translation": "這個單字在例句中是「source」，中文意思為「出處」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「source」。"
   },
   {
     "id": 1508,
@@ -16585,7 +16585,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I practiced spelling \"selfish\" after dinner.",
-    "translation": "從例句可以看出，「selfish」的意思是「自私的」。"
+    "translation": "我晚餐後練習拼寫「selfish」。"
   },
   {
     "id": 1509,
@@ -16596,7 +16596,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"shower\" in a real-life situation.",
-    "translation": "當你看到「shower」時，可以想到「淋浴」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「shower」。"
   },
   {
     "id": 1510,
@@ -16607,7 +16607,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Sara wrote \"slide\" beside a small drawing.",
-    "translation": "「slide」在這個例句中用來表達「滑動」。"
+    "translation": "Sara 在一張小圖旁寫下「slide」。"
   },
   {
     "id": 1511,
@@ -16618,7 +16618,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"south\" near the end.",
-    "translation": "這個例句使用了「south」，意思是「南方」。"
+    "translation": "這段對話在接近結尾的地方包含「south」。"
   },
   {
     "id": 1512,
@@ -16629,7 +16629,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"sell\" as my word of the day.",
-    "translation": "請看例句中的「sell」：它的中文意思是「販賣」。"
+    "translation": "我選「sell」作為今天的每日單字。"
   },
   {
     "id": 1513,
@@ -16640,7 +16640,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"shrimp\" with an easy sentence.",
-    "translation": "在這句話裡，「shrimp」表示「蝦子」。"
+    "translation": "課本用一個簡單句子解釋「shrimp」。"
   },
   {
     "id": 1514,
@@ -16651,7 +16651,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"slim\".",
-    "translation": "例句幫助你理解「slim」，中文是「苗條的」。"
+    "translation": "我和我的搭檔用「slim」造了一個問題。"
   },
   {
     "id": 1515,
@@ -16662,7 +16662,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"soy\".",
-    "translation": "這句英文示範了「soy」的用法，意思是「醬油」。"
+    "translation": "這個答案選項包含「soy」。"
   },
   {
     "id": 1516,
@@ -16673,7 +16673,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "I remembered \"semester\" because it was in a funny story.",
-    "translation": "記住「semester」這個字：它的意思是「學期」。"
+    "translation": "我記得「semester」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1517,
@@ -16684,7 +16684,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"shut\" quickly.",
-    "translation": "這個單字在例句中是「shut」，中文意思為「關閉」。"
+    "translation": "複習遊戲要求我們快速拼出「shut」。"
   },
   {
     "id": 1518,
@@ -16695,7 +16695,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"slippers\" helped the reader understand it.",
-    "translation": "從例句可以看出，「slippers」的意思是「拖鞋」。"
+    "translation": "「slippers」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1519,
@@ -16706,7 +16706,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"space\" in a school setting.",
-    "translation": "當你看到「space」時，可以想到「空間」這個意思。"
+    "translation": "這個句子在學校情境中使用「space」。"
   },
   {
     "id": 1520,
@@ -16717,7 +16717,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"send\" while checking the answer sheet.",
-    "translation": "「send」在這個例句中用來表達「送」。"
+    "translation": "我在檢查答案卷時找到了「send」。"
   },
   {
     "id": 1521,
@@ -16728,7 +16728,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"shy\".",
-    "translation": "這個例句使用了「shy」，意思是「害羞的」。"
+    "translation": "故事中的角色學會了「shy」這個字。"
   },
   {
     "id": 1522,
@@ -16739,7 +16739,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"slow\".",
-    "translation": "請看例句中的「slow」：它的中文意思是「緩慢的」。"
+    "translation": "線上字典提供了「slow」的例句。"
   },
   {
     "id": 1523,
@@ -16750,7 +16750,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"spaghetti\" during pair practice.",
-    "translation": "在這句話裡，「spaghetti」表示「義大利麵」。"
+    "translation": "全班在雙人練習時使用了「spaghetti」。"
   },
   {
     "id": 1524,
@@ -16761,7 +16761,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"sense\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「sense」，中文是「感覺官能」。"
+    "translation": "我把「sense」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1525,
@@ -16772,7 +16772,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"sick\" aloud.",
-    "translation": "這句英文示範了「sick」的用法，意思是「生病的」。"
+    "translation": "老師請每個人大聲讀出「sick」。"
   },
   {
     "id": 1526,
@@ -16783,7 +16783,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"small\" was useful in the reading question.",
-    "translation": "記住「small」這個字：它的意思是「小的」。"
+    "translation": "「small」這個字在閱讀題中很有用。"
   },
   {
     "id": 1527,
@@ -16794,7 +16794,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I used a color pen to mark \"speak\".",
-    "translation": "這個單字在例句中是「speak」，中文意思為「講話」。"
+    "translation": "我用彩色筆標記「speak」。"
   },
   {
     "id": 1528,
@@ -16805,7 +16805,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"sentence\" easier to understand.",
-    "translation": "從例句可以看出，「sentence」的意思是「句子」。"
+    "translation": "這個練習句讓「sentence」更容易理解。"
   },
   {
     "id": 1529,
@@ -16816,7 +16816,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"side\" in the audio clip.",
-    "translation": "當你看到「side」時，可以想到「面」這個意思。"
+    "translation": "我們在音檔中聽「side」這個字。"
   },
   {
     "id": 1530,
@@ -16827,7 +16827,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"smart\" helped me understand the main idea.",
-    "translation": "「smart」在這個例句中用來表達「聰明的」。"
+    "translation": "「smart」這個字幫助我理解主旨。"
   },
   {
     "id": 1531,
@@ -16838,7 +16838,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"speaker\" on a sticky note.",
-    "translation": "這個例句使用了「speaker」，意思是「演講者」。"
+    "translation": "我把「speaker」寫在便利貼上。"
   },
   {
     "id": 1532,
@@ -16849,7 +16849,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"September\" after class.",
-    "translation": "請看例句中的「September」：它的中文意思是「九月」。"
+    "translation": "閱讀社在課後討論了「September」。"
   },
   {
     "id": 1533,
@@ -16860,7 +16860,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"sidewalk\" naturally.",
-    "translation": "在這句話裡，「sidewalk」表示「人行道」。"
+    "translation": "範例對話自然地使用了「sidewalk」。"
   },
   {
     "id": 1534,
@@ -16871,7 +16871,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"smell\" was a new word for me.",
-    "translation": "例句幫助你理解「smell」，中文是「聞」。"
+    "translation": "我確認「smell」對我來說是不是新單字。"
   },
   {
     "id": 1535,
@@ -16882,7 +16882,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The teacher's story made \"special\" memorable.",
-    "translation": "這句英文示範了「special」的用法，意思是「特別的」。"
+    "translation": "老師的故事讓「special」變得令人印象深刻。"
   },
   {
     "id": 1536,
@@ -16893,7 +16893,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The group activity included \"serious\" as a challenge word.",
-    "translation": "記住「serious」這個字：它的意思是「嚴重的」。"
+    "translation": "小組活動把「serious」列為挑戰單字。"
   },
   {
     "id": 1537,
@@ -16904,7 +16904,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"sight\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「sight」，中文意思為「視力」。"
+    "translation": "老師在閱讀測驗前把「sight」寫在黑板上。"
   },
   {
     "id": 1538,
@@ -16915,7 +16915,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"smile\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「smile」的意思是「微笑」。"
+    "translation": "Amy 圈起「smile」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1539,
@@ -16926,7 +16926,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"speech\" in his homework sentence.",
-    "translation": "當你看到「speech」時，可以想到「演講」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「speech」。"
   },
   {
     "id": 1540,
@@ -16937,7 +16937,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"servant\" in today's short story.",
-    "translation": "「servant」在這個例句中用來表達「僕人」。"
+    "translation": "全班在今天的短篇故事中找到了「servant」。"
   },
   {
     "id": 1541,
@@ -16948,7 +16948,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"sign\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「sign」，意思是「示意」。"
+    "translation": "我在複習段落時把「sign」畫線標記。"
   },
   {
     "id": 1542,
@@ -16959,7 +16959,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"smoke\".",
-    "translation": "請看例句中的「smoke」：它的中文意思是「煙」。"
+    "translation": "我們小組做了一張有「smoke」這個字的海報。"
   },
   {
     "id": 1543,
@@ -16970,7 +16970,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"speed\".",
-    "translation": "在這句話裡，「speed」表示「速度」。"
+    "translation": "這個例句幫助我記住「speed」。"
   },
   {
     "id": 1544,
@@ -16981,7 +16981,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"serve\" appeared in the listening script.",
-    "translation": "例句幫助你理解「serve」，中文是「服務」。"
+    "translation": "「serve」這個字出現在聽力稿中。"
   },
   {
     "id": 1545,
@@ -16992,7 +16992,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"silence\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「silence」的用法，意思是「沉默」。"
+    "translation": "Mina 在她的單字筆記本裡查了「silence」。"
   },
   {
     "id": 1546,
@@ -17003,7 +17003,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"snack\".",
-    "translation": "記住「snack」這個字：它的意思是「點心」。"
+    "translation": "這個問題提供了關於「snack」的線索。"
   },
   {
     "id": 1547,
@@ -17014,7 +17014,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story used \"spell\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「spell」，中文意思為「拼寫」。"
+    "translation": "故事使用「spell」讓場景更清楚。"
   },
   {
     "id": 1548,
@@ -17025,7 +17025,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"service\" to my review list for Friday.",
-    "translation": "從例句可以看出，「service」的意思是「服務」。"
+    "translation": "我把「service」加入星期五的複習清單。"
   },
   {
     "id": 1549,
@@ -17036,7 +17036,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The reading passage repeated \"silent\" twice.",
-    "translation": "當你看到「silent」時，可以想到「沉默的」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「silent」。"
   },
   {
     "id": 1550,
@@ -17047,7 +17047,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"snail\".",
-    "translation": "「snail」在這個例句中用來表達「蝸牛」。"
+    "translation": "Jason 問「snail」要怎麼發音。"
   },
   {
     "id": 1551,
@@ -17058,7 +17058,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"spend\" with its meaning.",
-    "translation": "這個例句使用了「spend」，意思是「花費(時間)」。"
+    "translation": "這張學習單要求學生把「spend」和它的意思配對。"
   },
   {
     "id": 1552,
@@ -17069,7 +17069,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"set\" on the first page of the lesson.",
-    "translation": "請看例句中的「set」：它的中文意思是「一套，一組」。"
+    "translation": "我在課文第一頁看到了「set」。"
   },
   {
     "id": 1553,
@@ -17080,7 +17080,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"silk\" helped me guess the answer.",
-    "translation": "在這句話裡，「silk」表示「絲」。"
+    "translation": "「silk」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1554,
@@ -17091,7 +17091,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"snake\" into a quick quiz question.",
-    "translation": "例句幫助你理解「snake」，中文是「蛇」。"
+    "translation": "我們的老師把「snake」變成一道快速測驗題。"
   },
   {
     "id": 1555,
@@ -17102,7 +17102,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"spider\" with a simple picture.",
-    "translation": "這句英文示範了「spider」的用法，意思是「蜘蛛」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「spider」。"
   },
   {
     "id": 1556,
@@ -17113,7 +17113,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"settle\" after dinner.",
-    "translation": "記住「settle」這個字：它的意思是「解決」。"
+    "translation": "我晚餐後練習拼寫「settle」。"
   },
   {
     "id": 1557,
@@ -17124,7 +17124,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The test item uses \"silly\" in a real-life situation.",
-    "translation": "這個單字在例句中是「silly」，中文意思為「傻的」。"
+    "translation": "這道測驗題在真實生活情境中使用「silly」。"
   },
   {
     "id": 1558,
@@ -17135,7 +17135,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"sneakers\" beside a small drawing.",
-    "translation": "從例句可以看出，「sneakers」的意思是「運動鞋」。"
+    "translation": "Sara 在一張小圖旁寫下「sneakers」。"
   },
   {
     "id": 1559,
@@ -17146,7 +17146,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"spirit\" near the end.",
-    "translation": "當你看到「spirit」時，可以想到「精神」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「spirit」。"
   },
   {
     "id": 1560,
@@ -17157,7 +17157,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"seven\" as my word of the day.",
-    "translation": "「seven」在這個例句中用來表達「七」。"
+    "translation": "我選「seven」作為今天的每日單字。"
   },
   {
     "id": 1561,
@@ -17168,7 +17168,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"silver\" with an easy sentence.",
-    "translation": "這個例句使用了「silver」，意思是「銀」。"
+    "translation": "課本用一個簡單句子解釋「silver」。"
   },
   {
     "id": 1562,
@@ -17179,7 +17179,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"snow\".",
-    "translation": "請看例句中的「snow」：它的中文意思是「雪」。"
+    "translation": "我和我的搭檔用「snow」造了一個問題。"
   },
   {
     "id": 1563,
@@ -17190,7 +17190,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"spoon\".",
-    "translation": "在這句話裡，「spoon」表示「湯匙」。"
+    "translation": "這個答案選項包含「spoon」。"
   },
   {
     "id": 1564,
@@ -17201,7 +17201,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"seventeen\" because it was in a funny story.",
-    "translation": "例句幫助你理解「seventeen」，中文是「十七」。"
+    "translation": "我記得「seventeen」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1565,
@@ -17212,7 +17212,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The review game asked us to spell \"similar\" quickly.",
-    "translation": "這句英文示範了「similar」的用法，意思是「相似的」。"
+    "translation": "複習遊戲要求我們快速拼出「similar」。"
   },
   {
     "id": 1566,
@@ -17223,7 +17223,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"snowy\" helped the reader understand it.",
-    "translation": "記住「snowy」這個字：它的意思是「下雪多的」。"
+    "translation": "「snowy」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1567,
@@ -17234,7 +17234,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"sport\" in a school setting.",
-    "translation": "這個單字在例句中是「sport」，中文意思為「體育活動」。"
+    "translation": "這個句子在學校情境中使用「sport」。"
   },
   {
     "id": 1568,
@@ -17245,7 +17245,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"seventy\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「seventy」的意思是「七十」。"
+    "translation": "我在檢查答案卷時找到了「seventy」。"
   },
   {
     "id": 1569,
@@ -17256,7 +17256,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"simple\".",
-    "translation": "當你看到「simple」時，可以想到「簡單的」這個意思。"
+    "translation": "故事中的角色學會了「simple」這個字。"
   },
   {
     "id": 1570,
@@ -17267,7 +17267,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"so\".",
-    "translation": "「so」在這個例句中用來表達「如此」。"
+    "translation": "線上字典提供了「so」的例句。"
   },
   {
     "id": 1571,
@@ -17278,7 +17278,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"spring\" during pair practice.",
-    "translation": "這個例句使用了「spring」，意思是「春天」。"
+    "translation": "全班在雙人練習時使用了「spring」。"
   },
   {
     "id": 1572,
@@ -17289,7 +17289,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I put \"several\" into a sentence about daily life.",
-    "translation": "請看例句中的「several」：它的中文意思是「幾個的」。"
+    "translation": "我把「several」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1573,
@@ -17300,7 +17300,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"simply\" aloud.",
-    "translation": "在這句話裡，「simply」表示「簡單地」。"
+    "translation": "老師請每個人大聲讀出「simply」。"
   },
   {
     "id": 1574,
@@ -17311,7 +17311,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"soap\" was useful in the reading question.",
-    "translation": "例句幫助你理解「soap」，中文是「肥皂」。"
+    "translation": "「soap」這個字在閱讀題中很有用。"
   },
   {
     "id": 1575,
@@ -17322,7 +17322,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"square\".",
-    "translation": "這句英文示範了「square」的用法，意思是「廣場」。"
+    "translation": "我用彩色筆標記「square」。"
   },
   {
     "id": 1576,
@@ -17333,7 +17333,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The practice sentence makes \"shake\" easier to understand.",
-    "translation": "記住「shake」這個字：它的意思是「搖動」。"
+    "translation": "這個練習句讓「shake」更容易理解。"
   },
   {
     "id": 1577,
@@ -17344,7 +17344,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "We listened for \"since\" in the audio clip.",
-    "translation": "這個單字在例句中是「since」，中文意思為「從…時起」。"
+    "translation": "我們在音檔中聽「since」這個字。"
   },
   {
     "id": 1578,
@@ -17355,7 +17355,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"soccer\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「soccer」的意思是「足球」。"
+    "translation": "「soccer」這個字幫助我理解主旨。"
   },
   {
     "id": 1579,
@@ -17366,7 +17366,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"stage\" on a sticky note.",
-    "translation": "當你看到「stage」時，可以想到「舞臺」這個意思。"
+    "translation": "我把「stage」寫在便利貼上。"
   },
   {
     "id": 1580,
@@ -17377,7 +17377,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The reading club discussed \"shall\" after class.",
-    "translation": "「shall」在這個例句中用來表達「將要」。"
+    "translation": "閱讀社在課後討論了「shall」。"
   },
   {
     "id": 1581,
@@ -17388,7 +17388,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The sample dialogue uses \"sincere\" naturally.",
-    "translation": "這個例句使用了「sincere」，意思是「真誠的」。"
+    "translation": "範例對話自然地使用了「sincere」。"
   },
   {
     "id": 1582,
@@ -17399,7 +17399,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"social\" was a new word for me.",
-    "translation": "請看例句中的「social」：它的中文意思是「社會的」。"
+    "translation": "我確認「social」對我來說是不是新單字。"
   },
   {
     "id": 1583,
@@ -17410,7 +17410,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"stair\" memorable.",
-    "translation": "在這句話裡，「stair」表示「樓梯」。"
+    "translation": "老師的故事讓「stair」變得令人印象深刻。"
   },
   {
     "id": 1584,
@@ -17421,7 +17421,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"shape\" as a challenge word.",
-    "translation": "例句幫助你理解「shape」，中文是「形狀」。"
+    "translation": "小組活動把「shape」列為挑戰單字。"
   },
   {
     "id": 1585,
@@ -17432,7 +17432,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"sing\" on the board before the reading test.",
-    "translation": "這句英文示範了「sing」的用法，意思是「唱歌」。"
+    "translation": "老師在閱讀測驗前把「sing」寫在黑板上。"
   },
   {
     "id": 1586,
@@ -17443,7 +17443,7 @@ const VOCABULARY = [
     "category": "社會",
     "level": "國中2000",
     "example": "Amy circled \"society\" because it was the key word in the sentence.",
-    "translation": "記住「society」這個字：它的意思是「社會」。"
+    "translation": "Amy 圈起「society」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1587,
@@ -17454,7 +17454,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"stamp\" in his homework sentence.",
-    "translation": "這個單字在例句中是「stamp」，中文意思為「郵票」。"
+    "translation": "Kevin 在他的作業句子中使用了「stamp」。"
   },
   {
     "id": 1588,
@@ -17465,7 +17465,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"share\" in today's short story.",
-    "translation": "從例句可以看出，「share」的意思是「分享」。"
+    "translation": "全班在今天的短篇故事中找到了「share」。"
   },
   {
     "id": 1589,
@@ -17476,7 +17476,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"singer\" while reviewing the paragraph.",
-    "translation": "當你看到「singer」時，可以想到「歌手」這個意思。"
+    "translation": "我在複習段落時把「singer」畫線標記。"
   },
   {
     "id": 1590,
@@ -17487,7 +17487,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"sock\".",
-    "translation": "「sock」在這個例句中用來表達「襪子」。"
+    "translation": "我們小組做了一張有「sock」這個字的海報。"
   },
   {
     "id": 1591,
@@ -17498,7 +17498,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"stand\".",
-    "translation": "這個例句使用了「stand」，意思是「站起來」。"
+    "translation": "這個例句幫助我記住「stand」。"
   },
   {
     "id": 1592,
@@ -17509,7 +17509,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"shark\" appeared in the listening script.",
-    "translation": "請看例句中的「shark」：它的中文意思是「鯊魚」。"
+    "translation": "「shark」這個字出現在聽力稿中。"
   },
   {
     "id": 1593,
@@ -17520,7 +17520,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"single\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「single」表示「單一的」。"
+    "translation": "Mina 在她的單字筆記本裡查了「single」。"
   },
   {
     "id": 1594,
@@ -17531,7 +17531,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"soda\".",
-    "translation": "例句幫助你理解「soda」，中文是「汽水」。"
+    "translation": "這個問題提供了關於「soda」的線索。"
   },
   {
     "id": 1595,
@@ -17542,7 +17542,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"star\" to make the scene clearer.",
-    "translation": "這句英文示範了「star」的用法，意思是「星星」。"
+    "translation": "故事使用「star」讓場景更清楚。"
   },
   {
     "id": 1596,
@@ -17553,7 +17553,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I added \"sharp\" to my review list for Friday.",
-    "translation": "記住「sharp」這個字：它的意思是「銳利的」。"
+    "translation": "我把「sharp」加入星期五的複習清單。"
   },
   {
     "id": 1597,
@@ -17564,7 +17564,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"sink\" twice.",
-    "translation": "這個單字在例句中是「sink」，中文意思為「沉」。"
+    "translation": "這篇閱讀文章重複了兩次「sink」。"
   },
   {
     "id": 1598,
@@ -17575,7 +17575,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"sofa\".",
-    "translation": "從例句可以看出，「sofa」的意思是「沙發」。"
+    "translation": "Jason 問「sofa」要怎麼發音。"
   },
   {
     "id": 1599,
@@ -17586,7 +17586,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"start\" with its meaning.",
-    "translation": "當你看到「start」時，可以想到「開始」這個意思。"
+    "translation": "這張學習單要求學生把「start」和它的意思配對。"
   },
   {
     "id": 1600,
@@ -17597,7 +17597,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"sheep\" on the first page of the lesson.",
-    "translation": "「sheep」在這個例句中用來表達「羊」。"
+    "translation": "我在課文第一頁看到了「sheep」。"
   },
   {
     "id": 1601,
@@ -17608,7 +17608,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"sir\" helped me guess the answer.",
-    "translation": "這個例句使用了「sir」，意思是「先生」。"
+    "translation": "「sir」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1602,
@@ -17619,7 +17619,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"soft\" into a quick quiz question.",
-    "translation": "請看例句中的「soft」：它的中文意思是「軟的」。"
+    "translation": "我們的老師把「soft」變成一道快速測驗題。"
   },
   {
     "id": 1603,
@@ -17630,7 +17630,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"state\" with a simple picture.",
-    "translation": "在這句話裡，「state」表示「敘述」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「state」。"
   },
   {
     "id": 1604,
@@ -17641,7 +17641,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"sheet\" after dinner.",
-    "translation": "例句幫助你理解「sheet」，中文是「床單」。"
+    "translation": "我晚餐後練習拼寫「sheet」。"
   },
   {
     "id": 1605,
@@ -17652,7 +17652,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"sister\" in a real-life situation.",
-    "translation": "這句英文示範了「sister」的用法，意思是「姊妹」。"
+    "translation": "這道測驗題在真實生活情境中使用「sister」。"
   },
   {
     "id": 1606,
@@ -17663,7 +17663,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"soldier\" beside a small drawing.",
-    "translation": "記住「soldier」這個字：它的意思是「士兵」。"
+    "translation": "Sara 在一張小圖旁寫下「soldier」。"
   },
   {
     "id": 1607,
@@ -17674,7 +17674,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"station\" near the end.",
-    "translation": "這個單字在例句中是「station」，中文意思為「車站」。"
+    "translation": "這段對話在接近結尾的地方包含「station」。"
   },
   {
     "id": 1608,
@@ -17685,7 +17685,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"shelf\" as my word of the day.",
-    "translation": "從例句可以看出，「shelf」的意思是「架」。"
+    "translation": "我選「shelf」作為今天的每日單字。"
   },
   {
     "id": 1609,
@@ -17696,7 +17696,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The textbook explains \"sit\" with an easy sentence.",
-    "translation": "當你看到「sit」時，可以想到「坐」這個意思。"
+    "translation": "課本用一個簡單句子解釋「sit」。"
   },
   {
     "id": 1610,
@@ -17707,7 +17707,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"solve\".",
-    "translation": "「solve」在這個例句中用來表達「解決」。"
+    "translation": "我和我的搭檔用「solve」造了一個問題。"
   },
   {
     "id": 1611,
@@ -17718,7 +17718,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"stationery\".",
-    "translation": "這個例句使用了「stationery」，意思是「文具」。"
+    "translation": "這個答案選項包含「stationery」。"
   },
   {
     "id": 1612,
@@ -17729,7 +17729,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"shell\" because it was in a funny story.",
-    "translation": "請看例句中的「shell」：它的中文意思是「貝殼」。"
+    "translation": "我記得「shell」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1613,
@@ -17740,7 +17740,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"six\" quickly.",
-    "translation": "在這句話裡，「six」表示「六」。"
+    "translation": "複習遊戲要求我們快速拼出「six」。"
   },
   {
     "id": 1614,
@@ -17751,7 +17751,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The note beside \"some\" helped the reader understand it.",
-    "translation": "例句幫助你理解「some」，中文是「一些的」。"
+    "translation": "「some」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1615,
@@ -17762,7 +17762,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence uses \"stay\" in a school setting.",
-    "translation": "這句英文示範了「stay」的用法，意思是「停留」。"
+    "translation": "這個句子在學校情境中使用「stay」。"
   },
   {
     "id": 1616,
@@ -17773,7 +17773,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"steak\" while checking the answer sheet.",
-    "translation": "記住「steak」這個字：它的意思是「牛排」。"
+    "translation": "我在檢查答案卷時找到了「steak」。"
   },
   {
     "id": 1617,
@@ -17784,7 +17784,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"super\".",
-    "translation": "這個單字在例句中是「super」，中文意思為「極好的」。"
+    "translation": "故事中的角色學會了「super」這個字。"
   },
   {
     "id": 1618,
@@ -17795,7 +17795,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"tear\".",
-    "translation": "從例句可以看出，「tear」的意思是「眼淚」。"
+    "translation": "線上字典提供了「tear」的例句。"
   },
   {
     "id": 1619,
@@ -17806,7 +17806,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"throw\" during pair practice.",
-    "translation": "當你看到「throw」時，可以想到「投，扔」這個意思。"
+    "translation": "全班在雙人練習時使用了「throw」。"
   },
   {
     "id": 1620,
@@ -17817,7 +17817,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I put \"steal\" into a sentence about daily life.",
-    "translation": "「steal」在這個例句中用來表達「偷竊」。"
+    "translation": "我把「steal」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1621,
@@ -17828,7 +17828,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"supermarket\" aloud.",
-    "translation": "這個例句使用了「supermarket」，意思是「超市」。"
+    "translation": "老師請每個人大聲讀出「supermarket」。"
   },
   {
     "id": 1622,
@@ -17839,7 +17839,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"teenager\" was useful in the reading question.",
-    "translation": "請看例句中的「teenager」：它的中文意思是「青少年」。"
+    "translation": "「teenager」這個字在閱讀題中很有用。"
   },
   {
     "id": 1623,
@@ -17850,7 +17850,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"thumb\".",
-    "translation": "在這句話裡，「thumb」表示「拇指」。"
+    "translation": "我用彩色筆標記「thumb」。"
   },
   {
     "id": 1624,
@@ -17861,7 +17861,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"steam\" easier to understand.",
-    "translation": "例句幫助你理解「steam」，中文是「蒸汽」。"
+    "translation": "這個練習句讓「steam」更容易理解。"
   },
   {
     "id": 1625,
@@ -17872,7 +17872,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"supper\" in the audio clip.",
-    "translation": "這句英文示範了「supper」的用法，意思是「晚餐」。"
+    "translation": "我們在音檔中聽「supper」這個字。"
   },
   {
     "id": 1626,
@@ -17883,7 +17883,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The word \"telephone\" helped me understand the main idea.",
-    "translation": "記住「telephone」這個字：它的意思是「電話」。"
+    "translation": "「telephone」這個字幫助我理解主旨。"
   },
   {
     "id": 1627,
@@ -17894,7 +17894,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"thunder\" on a sticky note.",
-    "translation": "這個單字在例句中是「thunder」，中文意思為「雷」。"
+    "translation": "我把「thunder」寫在便利貼上。"
   },
   {
     "id": 1628,
@@ -17905,7 +17905,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"step\" after class.",
-    "translation": "從例句可以看出，「step」的意思是「行走」。"
+    "translation": "閱讀社在課後討論了「step」。"
   },
   {
     "id": 1629,
@@ -17916,7 +17916,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sample dialogue uses \"supply\" naturally.",
-    "translation": "當你看到「supply」時，可以想到「提供」這個意思。"
+    "translation": "範例對話自然地使用了「supply」。"
   },
   {
     "id": 1630,
@@ -17927,7 +17927,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "I checked whether \"television\" was a new word for me.",
-    "translation": "「television」在這個例句中用來表達「電視」。"
+    "translation": "我確認「television」對我來說是不是新單字。"
   },
   {
     "id": 1631,
@@ -17938,7 +17938,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"Thursday\" memorable.",
-    "translation": "這個例句使用了「Thursday」，意思是「星期四」。"
+    "translation": "老師的故事讓「Thursday」變得令人印象深刻。"
   },
   {
     "id": 1632,
@@ -17949,7 +17949,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"still\" as a challenge word.",
-    "translation": "請看例句中的「still」：它的中文意思是「仍然」。"
+    "translation": "小組活動把「still」列為挑戰單字。"
   },
   {
     "id": 1633,
@@ -17960,7 +17960,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"support\" on the board before the reading test.",
-    "translation": "在這句話裡，「support」表示「支持」。"
+    "translation": "老師在閱讀測驗前把「support」寫在黑板上。"
   },
   {
     "id": 1634,
@@ -17971,7 +17971,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"tell\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「tell」，中文是「說」。"
+    "translation": "Amy 圈起「tell」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1635,
@@ -17982,7 +17982,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"ticket\" in his homework sentence.",
-    "translation": "這句英文示範了「ticket」的用法，意思是「票」。"
+    "translation": "Kevin 在他的作業句子中使用了「ticket」。"
   },
   {
     "id": 1636,
@@ -17993,7 +17993,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"stingy\" in today's short story.",
-    "translation": "記住「stingy」這個字：它的意思是「小氣的」。"
+    "translation": "全班在今天的短篇故事中找到了「stingy」。"
   },
   {
     "id": 1637,
@@ -18004,7 +18004,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I underlined \"sure\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「sure」，中文意思為「確定的」。"
+    "translation": "我在複習段落時把「sure」畫線標記。"
   },
   {
     "id": 1638,
@@ -18015,7 +18015,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"temperature\".",
-    "translation": "從例句可以看出，「temperature」的意思是「溫度」。"
+    "translation": "我們小組做了一張有「temperature」這個字的海報。"
   },
   {
     "id": 1639,
@@ -18026,7 +18026,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"tidy\".",
-    "translation": "當你看到「tidy」時，可以想到「整潔的」這個意思。"
+    "translation": "這個例句幫助我記住「tidy」。"
   },
   {
     "id": 1640,
@@ -18037,7 +18037,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"stomach\" appeared in the listening script.",
-    "translation": "「stomach」在這個例句中用來表達「胃」。"
+    "translation": "「stomach」這個字出現在聽力稿中。"
   },
   {
     "id": 1641,
@@ -18048,7 +18048,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Mina checked \"surf\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「surf」，意思是「衝浪」。"
+    "translation": "Mina 在她的單字筆記本裡查了「surf」。"
   },
   {
     "id": 1642,
@@ -18059,7 +18059,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"temple\".",
-    "translation": "請看例句中的「temple」：它的中文意思是「廟宇」。"
+    "translation": "這個問題提供了關於「temple」的線索。"
   },
   {
     "id": 1643,
@@ -18070,7 +18070,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"tie\" to make the scene clearer.",
-    "translation": "在這句話裡，「tie」表示「領帶」。"
+    "translation": "故事使用「tie」讓場景更清楚。"
   },
   {
     "id": 1644,
@@ -18081,7 +18081,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"stomachache\" to my review list for Friday.",
-    "translation": "例句幫助你理解「stomachache」，中文是「胃痛」。"
+    "translation": "我把「stomachache」加入星期五的複習清單。"
   },
   {
     "id": 1645,
@@ -18092,7 +18092,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"surface\" twice.",
-    "translation": "這句英文示範了「surface」的用法，意思是「表面」。"
+    "translation": "這篇閱讀文章重複了兩次「surface」。"
   },
   {
     "id": 1646,
@@ -18103,7 +18103,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"ten\".",
-    "translation": "記住「ten」這個字：它的意思是「十」。"
+    "translation": "Jason 問「ten」要怎麼發音。"
   },
   {
     "id": 1647,
@@ -18114,7 +18114,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"tiger\" with its meaning.",
-    "translation": "這個單字在例句中是「tiger」，中文意思為「老虎」。"
+    "translation": "這張學習單要求學生把「tiger」和它的意思配對。"
   },
   {
     "id": 1648,
@@ -18125,7 +18125,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"stone\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「stone」的意思是「石頭」。"
+    "translation": "我在課文第一頁看到了「stone」。"
   },
   {
     "id": 1649,
@@ -18136,7 +18136,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"surprise\" helped me guess the answer.",
-    "translation": "當你看到「surprise」時，可以想到「驚訝」這個意思。"
+    "translation": "「surprise」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1650,
@@ -18147,7 +18147,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "Our teacher turned \"tennis\" into a quick quiz question.",
-    "translation": "「tennis」在這個例句中用來表達「網球」。"
+    "translation": "我們的老師把「tennis」變成一道快速測驗題。"
   },
   {
     "id": 1651,
@@ -18158,7 +18158,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The flashcard shows \"till\" with a simple picture.",
-    "translation": "這個例句使用了「till」，意思是「直到」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「till」。"
   },
   {
     "id": 1652,
@@ -18169,7 +18169,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"stop\" after dinner.",
-    "translation": "請看例句中的「stop」：它的中文意思是「停」。"
+    "translation": "我晚餐後練習拼寫「stop」。"
   },
   {
     "id": 1653,
@@ -18180,7 +18180,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The test item uses \"surprised\" in a real-life situation.",
-    "translation": "在這句話裡，「surprised」表示「感到驚訝」。"
+    "translation": "這道測驗題在真實生活情境中使用「surprised」。"
   },
   {
     "id": 1654,
@@ -18191,7 +18191,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"tent\" beside a small drawing.",
-    "translation": "例句幫助你理解「tent」，中文是「帳篷」。"
+    "translation": "Sara 在一張小圖旁寫下「tent」。"
   },
   {
     "id": 1655,
@@ -18202,7 +18202,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"time\" near the end.",
-    "translation": "這句英文示範了「time」的用法，意思是「時間」。"
+    "translation": "這段對話在接近結尾的地方包含「time」。"
   },
   {
     "id": 1656,
@@ -18213,7 +18213,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"store\" as my word of the day.",
-    "translation": "記住「store」這個字：它的意思是「商店 的」。"
+    "translation": "我選「store」作為今天的每日單字。"
   },
   {
     "id": 1657,
@@ -18224,7 +18224,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"term\" with an easy sentence.",
-    "translation": "這個單字在例句中是「term」，中文意思為「任期」。"
+    "translation": "課本用一個簡單句子解釋「term」。"
   },
   {
     "id": 1658,
@@ -18235,7 +18235,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "My partner and I made a question with \"tiny\".",
-    "translation": "從例句可以看出，「tiny」的意思是「極小的」。"
+    "translation": "我和我的搭檔用「tiny」造了一個問題。"
   },
   {
     "id": 1659,
@@ -18246,7 +18246,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"storm\".",
-    "translation": "當你看到「storm」時，可以想到「暴風雨」這個意思。"
+    "translation": "這個答案選項包含「storm」。"
   },
   {
     "id": 1660,
@@ -18257,7 +18257,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I remembered \"survive\" because it was in a funny story.",
-    "translation": "「survive」在這個例句中用來表達「生存」。"
+    "translation": "我記得「survive」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1661,
@@ -18268,7 +18268,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The review game asked us to spell \"terrible\" quickly.",
-    "translation": "這個例句使用了「terrible」，意思是「可怕的」。"
+    "translation": "複習遊戲要求我們快速拼出「terrible」。"
   },
   {
     "id": 1662,
@@ -18279,7 +18279,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"tip\" helped the reader understand it.",
-    "translation": "請看例句中的「tip」：它的中文意思是「祕訣」。"
+    "translation": "「tip」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1663,
@@ -18290,7 +18290,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"story\" in a school setting.",
-    "translation": "在這句話裡，「story」表示「故事」。"
+    "translation": "這個句子在學校情境中使用「story」。"
   },
   {
     "id": 1664,
@@ -18301,7 +18301,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I found \"swallow\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「swallow」，中文是「吞嚥」。"
+    "translation": "我在檢查答案卷時找到了「swallow」。"
   },
   {
     "id": 1665,
@@ -18312,7 +18312,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story character learns the word \"terrific\".",
-    "translation": "這句英文示範了「terrific」的用法，意思是「很棒的」。"
+    "translation": "故事中的角色學會了「terrific」這個字。"
   },
   {
     "id": 1666,
@@ -18323,7 +18323,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"tired\".",
-    "translation": "記住「tired」這個字：它的意思是「疲倦的」。"
+    "translation": "線上字典提供了「tired」的例句。"
   },
   {
     "id": 1667,
@@ -18334,7 +18334,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"stove\" during pair practice.",
-    "translation": "這個單字在例句中是「stove」，中文意思為「火爐」。"
+    "translation": "全班在雙人練習時使用了「stove」。"
   },
   {
     "id": 1668,
@@ -18345,7 +18345,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"swan\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「swan」的意思是「天鵝」。"
+    "translation": "我把「swan」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1669,
@@ -18356,7 +18356,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"test\" aloud.",
-    "translation": "當你看到「test」時，可以想到「測驗」這個意思。"
+    "translation": "老師請每個人大聲讀出「test」。"
   },
   {
     "id": 1670,
@@ -18367,7 +18367,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"title\" was useful in the reading question.",
-    "translation": "「title」在這個例句中用來表達「標題」。"
+    "translation": "「title」這個字在閱讀題中很有用。"
   },
   {
     "id": 1671,
@@ -18378,7 +18378,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I used a color pen to mark \"straight\".",
-    "translation": "這個例句使用了「straight」，意思是「直的」。"
+    "translation": "我用彩色筆標記「straight」。"
   },
   {
     "id": 1672,
@@ -18389,7 +18389,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"sweater\" easier to understand.",
-    "translation": "請看例句中的「sweater」：它的中文意思是「毛衣」。"
+    "translation": "這個練習句讓「sweater」更容易理解。"
   },
   {
     "id": 1673,
@@ -18400,7 +18400,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "We listened for \"textbook\" in the audio clip.",
-    "translation": "在這句話裡，「textbook」表示「教科書」。"
+    "translation": "我們在音檔中聽「textbook」這個字。"
   },
   {
     "id": 1674,
@@ -18411,7 +18411,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The word \"to\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「to」，中文是「向，朝」。"
+    "translation": "「to」這個字幫助我理解主旨。"
   },
   {
     "id": 1675,
@@ -18422,7 +18422,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"strange\" on a sticky note.",
-    "translation": "這句英文示範了「strange」的用法，意思是「奇怪的」。"
+    "translation": "我把「strange」寫在便利貼上。"
   },
   {
     "id": 1676,
@@ -18433,7 +18433,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"sweep\" after class.",
-    "translation": "記住「sweep」這個字：它的意思是「清掃」。"
+    "translation": "閱讀社在課後討論了「sweep」。"
   },
   {
     "id": 1677,
@@ -18444,7 +18444,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The sample dialogue uses \"than\" naturally.",
-    "translation": "這個單字在例句中是「than」，中文意思為「比…」。"
+    "translation": "範例對話自然地使用了「than」。"
   },
   {
     "id": 1678,
@@ -18455,7 +18455,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"toast\" was a new word for me.",
-    "translation": "從例句可以看出，「toast」的意思是「吐司」。"
+    "translation": "我確認「toast」對我來說是不是新單字。"
   },
   {
     "id": 1679,
@@ -18466,7 +18466,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"stranger\" memorable.",
-    "translation": "當你看到「stranger」時，可以想到「陌生人」這個意思。"
+    "translation": "老師的故事讓「stranger」變得令人印象深刻。"
   },
   {
     "id": 1680,
@@ -18477,7 +18477,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The group activity included \"sweet\" as a challenge word.",
-    "translation": "「sweet」在這個例句中用來表達「甜的」。"
+    "translation": "小組活動把「sweet」列為挑戰單字。"
   },
   {
     "id": 1681,
@@ -18488,7 +18488,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher wrote \"thank\" on the board before the reading test.",
-    "translation": "這個例句使用了「thank」，意思是「謝謝」。"
+    "translation": "老師在閱讀測驗前把「thank」寫在黑板上。"
   },
   {
     "id": 1682,
@@ -18499,7 +18499,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"today\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「today」：它的中文意思是「今天」。"
+    "translation": "Amy 圈起「today」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1683,
@@ -18510,7 +18510,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"straw\" in his homework sentence.",
-    "translation": "在這句話裡，「straw」表示「稻草」。"
+    "translation": "Kevin 在他的作業句子中使用了「straw」。"
   },
   {
     "id": 1684,
@@ -18521,7 +18521,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class found \"swim\" in today's short story.",
-    "translation": "例句幫助你理解「swim」，中文是「游泳」。"
+    "translation": "全班在今天的短篇故事中找到了「swim」。"
   },
   {
     "id": 1685,
@@ -18532,7 +18532,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"Thanksgiving\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「Thanksgiving」的用法，意思是「感恩節」。"
+    "translation": "我在複習段落時把「Thanksgiving」畫線標記。"
   },
   {
     "id": 1686,
@@ -18543,7 +18543,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"toe\".",
-    "translation": "記住「toe」這個字：它的意思是「腳趾頭」。"
+    "translation": "我們小組做了一張有「toe」這個字的海報。"
   },
   {
     "id": 1687,
@@ -18554,7 +18554,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"strawberry\".",
-    "translation": "這個單字在例句中是「strawberry」，中文意思為「草莓」。"
+    "translation": "這個例句幫助我記住「strawberry」。"
   },
   {
     "id": 1688,
@@ -18565,7 +18565,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"swing\" appeared in the listening script.",
-    "translation": "從例句可以看出，「swing」的意思是「搖擺」。"
+    "translation": "「swing」這個字出現在聽力稿中。"
   },
   {
     "id": 1689,
@@ -18576,7 +18576,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Mina checked \"that\" in her vocabulary notebook.",
-    "translation": "當你看到「that」時，可以想到「那」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「that」。"
   },
   {
     "id": 1690,
@@ -18587,7 +18587,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"tofu\".",
-    "translation": "「tofu」在這個例句中用來表達「豆腐」。"
+    "translation": "這個問題提供了關於「tofu」的線索。"
   },
   {
     "id": 1691,
@@ -18598,7 +18598,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"stream\" to make the scene clearer.",
-    "translation": "這個例句使用了「stream」，意思是「小河」。"
+    "translation": "故事使用「stream」讓場景更清楚。"
   },
   {
     "id": 1692,
@@ -18609,7 +18609,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"symbol\" to my review list for Friday.",
-    "translation": "請看例句中的「symbol」：它的中文意思是「象徵」。"
+    "translation": "我把「symbol」加入星期五的複習清單。"
   },
   {
     "id": 1693,
@@ -18620,7 +18620,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The reading passage repeated \"theater\" twice.",
-    "translation": "在這句話裡，「theater」表示「電影院」。"
+    "translation": "這篇閱讀文章重複了兩次「theater」。"
   },
   {
     "id": 1694,
@@ -18631,7 +18631,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"together\".",
-    "translation": "例句幫助你理解「together」，中文是「一起」。"
+    "translation": "Jason 問「together」要怎麼發音。"
   },
   {
     "id": 1695,
@@ -18642,7 +18642,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"street\" with its meaning.",
-    "translation": "這句英文示範了「street」的用法，意思是「街道」。"
+    "translation": "這張學習單要求學生把「street」和它的意思配對。"
   },
   {
     "id": 1696,
@@ -18653,7 +18653,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"system\" on the first page of the lesson.",
-    "translation": "記住「system」這個字：它的意思是「系統」。"
+    "translation": "我在課文第一頁看到了「system」。"
   },
   {
     "id": 1697,
@@ -18664,7 +18664,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"then\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「then」，中文意思為「然後」。"
+    "translation": "「then」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1698,
@@ -18675,7 +18675,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"toilet\" into a quick quiz question.",
-    "translation": "從例句可以看出，「toilet」的意思是「馬桶」。"
+    "translation": "我們的老師把「toilet」變成一道快速測驗題。"
   },
   {
     "id": 1699,
@@ -18686,7 +18686,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"strike\" with a simple picture.",
-    "translation": "當你看到「strike」時，可以想到「罷工」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「strike」。"
   },
   {
     "id": 1700,
@@ -18697,7 +18697,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"there\" after dinner.",
-    "translation": "「there」在這個例句中用來表達「那裡」。"
+    "translation": "我晚餐後練習拼寫「there」。"
   },
   {
     "id": 1701,
@@ -18708,7 +18708,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"tomato\" in a real-life situation.",
-    "translation": "這個例句使用了「tomato」，意思是「番茄」。"
+    "translation": "這道測驗題在真實生活情境中使用「tomato」。"
   },
   {
     "id": 1702,
@@ -18719,7 +18719,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"table\" beside a small drawing.",
-    "translation": "請看例句中的「table」：它的中文意思是「桌子」。"
+    "translation": "Sara 在一張小圖旁寫下「table」。"
   },
   {
     "id": 1703,
@@ -18730,7 +18730,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"strong\" near the end.",
-    "translation": "在這句話裡，「strong」表示「強壯的」。"
+    "translation": "這段對話在接近結尾的地方包含「strong」。"
   },
   {
     "id": 1704,
@@ -18741,7 +18741,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"therefore\" as my word of the day.",
-    "translation": "例句幫助你理解「therefore」，中文是「因此」。"
+    "translation": "我選「therefore」作為今天的每日單字。"
   },
   {
     "id": 1705,
@@ -18752,7 +18752,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"tomorrow\" with an easy sentence.",
-    "translation": "這句英文示範了「tomorrow」的用法，意思是「明天」。"
+    "translation": "課本用一個簡單句子解釋「tomorrow」。"
   },
   {
     "id": 1706,
@@ -18763,7 +18763,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"tail\".",
-    "translation": "記住「tail」這個字：它的意思是「尾巴」。"
+    "translation": "我和我的搭檔用「tail」造了一個問題。"
   },
   {
     "id": 1707,
@@ -18774,7 +18774,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The answer choice contains \"student\".",
-    "translation": "這個單字在例句中是「student」，中文意思為「學生」。"
+    "translation": "這個答案選項包含「student」。"
   },
   {
     "id": 1708,
@@ -18785,7 +18785,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I remembered \"these\" because it was in a funny story.",
-    "translation": "從例句可以看出，「these」的意思是「這些」。"
+    "translation": "我記得「these」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1709,
@@ -18796,7 +18796,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"tongue\" quickly.",
-    "translation": "當你看到「tongue」時，可以想到「舌頭」這個意思。"
+    "translation": "複習遊戲要求我們快速拼出「tongue」。"
   },
   {
     "id": 1710,
@@ -18807,7 +18807,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"take\" helped the reader understand it.",
-    "translation": "「take」在這個例句中用來表達「拿」。"
+    "translation": "「take」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1711,
@@ -18818,7 +18818,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence uses \"study\" in a school setting.",
-    "translation": "這個例句使用了「study」，意思是「學習」。"
+    "translation": "這個句子在學校情境中使用「study」。"
   },
   {
     "id": 1712,
@@ -18829,7 +18829,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"thick\" while checking the answer sheet.",
-    "translation": "請看例句中的「thick」：它的中文意思是「厚的」。"
+    "translation": "我在檢查答案卷時找到了「thick」。"
   },
   {
     "id": 1713,
@@ -18840,7 +18840,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"tonight\".",
-    "translation": "在這句話裡，「tonight」表示「今晚」。"
+    "translation": "故事中的角色學會了「tonight」這個字。"
   },
   {
     "id": 1714,
@@ -18851,7 +18851,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"tale\".",
-    "translation": "例句幫助你理解「tale」，中文是「故事」。"
+    "translation": "線上字典提供了「tale」的例句。"
   },
   {
     "id": 1715,
@@ -18862,7 +18862,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class used \"stupid\" during pair practice.",
-    "translation": "這句英文示範了「stupid」的用法，意思是「笨的」。"
+    "translation": "全班在雙人練習時使用了「stupid」。"
   },
   {
     "id": 1716,
@@ -18873,7 +18873,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"thief\" into a sentence about daily life.",
-    "translation": "記住「thief」這個字：它的意思是「小偷」。"
+    "translation": "我把「thief」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1717,
@@ -18884,7 +18884,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"too\" aloud.",
-    "translation": "這個單字在例句中是「too」，中文意思為「也」。"
+    "translation": "老師請每個人大聲讀出「too」。"
   },
   {
     "id": 1718,
@@ -18895,7 +18895,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"talent\" was useful in the reading question.",
-    "translation": "從例句可以看出，「talent」的意思是「才能」。"
+    "translation": "「talent」這個字在閱讀題中很有用。"
   },
   {
     "id": 1719,
@@ -18906,7 +18906,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"style\".",
-    "translation": "當你看到「style」時，可以想到「風格」這個意思。"
+    "translation": "我用彩色筆標記「style」。"
   },
   {
     "id": 1720,
@@ -18917,7 +18917,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The practice sentence makes \"thin\" easier to understand.",
-    "translation": "「thin」在這個例句中用來表達「薄的」。"
+    "translation": "這個練習句讓「thin」更容易理解。"
   },
   {
     "id": 1721,
@@ -18928,7 +18928,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"tool\" in the audio clip.",
-    "translation": "這個例句使用了「tool」，意思是「工具」。"
+    "translation": "我們在音檔中聽「tool」這個字。"
   },
   {
     "id": 1722,
@@ -18939,7 +18939,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"talk\" helped me understand the main idea.",
-    "translation": "請看例句中的「talk」：它的中文意思是「說話」。"
+    "translation": "「talk」這個字幫助我理解主旨。"
   },
   {
     "id": 1723,
@@ -18950,7 +18950,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"subject\" on a sticky note.",
-    "translation": "在這句話裡，「subject」表示「科目」。"
+    "translation": "我把「subject」寫在便利貼上。"
   },
   {
     "id": 1724,
@@ -18961,7 +18961,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"thing\" after class.",
-    "translation": "例句幫助你理解「thing」，中文是「事情」。"
+    "translation": "閱讀社在課後討論了「thing」。"
   },
   {
     "id": 1725,
@@ -18972,7 +18972,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"tooth\" naturally.",
-    "translation": "這句英文示範了「tooth」的用法，意思是「牙齒」。"
+    "translation": "範例對話自然地使用了「tooth」。"
   },
   {
     "id": 1726,
@@ -18983,7 +18983,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"talkative\" was a new word for me.",
-    "translation": "記住「talkative」這個字：它的意思是「多話的」。"
+    "translation": "我確認「talkative」對我來說是不是新單字。"
   },
   {
     "id": 1727,
@@ -18994,7 +18994,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"subway\" memorable.",
-    "translation": "這個單字在例句中是「subway」，中文意思為「地鐵」。"
+    "translation": "老師的故事讓「subway」變得令人印象深刻。"
   },
   {
     "id": 1728,
@@ -19005,7 +19005,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"think\" as a challenge word.",
-    "translation": "從例句可以看出，「think」的意思是「想」。"
+    "translation": "小組活動把「think」列為挑戰單字。"
   },
   {
     "id": 1729,
@@ -19016,7 +19016,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"toothache\" on the board before the reading test.",
-    "translation": "當你看到「toothache」時，可以想到「牙痛」這個意思。"
+    "translation": "老師在閱讀測驗前把「toothache」寫在黑板上。"
   },
   {
     "id": 1730,
@@ -19027,7 +19027,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Amy circled \"tall\" because it was the key word in the sentence.",
-    "translation": "「tall」在這個例句中用來表達「高的」。"
+    "translation": "Amy 圈起「tall」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1731,
@@ -19038,7 +19038,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"succeed\" in his homework sentence.",
-    "translation": "這個例句使用了「succeed」，意思是「成功」。"
+    "translation": "Kevin 在他的作業句子中使用了「succeed」。"
   },
   {
     "id": 1732,
@@ -19049,7 +19049,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"third\" in today's short story.",
-    "translation": "請看例句中的「third」：它的中文意思是「第三的」。"
+    "translation": "全班在今天的短篇故事中找到了「third」。"
   },
   {
     "id": 1733,
@@ -19060,7 +19060,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"toothbrush\" while reviewing the paragraph.",
-    "translation": "在這句話裡，「toothbrush」表示「牙刷」。"
+    "translation": "我在複習段落時把「toothbrush」畫線標記。"
   },
   {
     "id": 1734,
@@ -19071,7 +19071,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"tangerine\".",
-    "translation": "例句幫助你理解「tangerine」，中文是「橘子」。"
+    "translation": "我們小組做了一張有「tangerine」這個字的海報。"
   },
   {
     "id": 1735,
@@ -19082,7 +19082,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"success\".",
-    "translation": "這句英文示範了「success」的用法，意思是「成功」。"
+    "translation": "這個例句幫助我記住「success」。"
   },
   {
     "id": 1736,
@@ -19093,7 +19093,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"thirsty\" appeared in the listening script.",
-    "translation": "記住「thirsty」這個字：它的意思是「口渴的」。"
+    "translation": "「thirsty」這個字出現在聽力稿中。"
   },
   {
     "id": 1737,
@@ -19104,7 +19104,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"top\" in her vocabulary notebook.",
-    "translation": "這個單字在例句中是「top」，中文意思為「上面」。"
+    "translation": "Mina 在她的單字筆記本裡查了「top」。"
   },
   {
     "id": 1738,
@@ -19115,7 +19115,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"tank\".",
-    "translation": "從例句可以看出，「tank」的意思是「坦克」。"
+    "translation": "這個問題提供了關於「tank」的線索。"
   },
   {
     "id": 1739,
@@ -19126,7 +19126,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story used \"successful\" to make the scene clearer.",
-    "translation": "當你看到「successful」時，可以想到「成功的」這個意思。"
+    "translation": "故事使用「successful」讓場景更清楚。"
   },
   {
     "id": 1740,
@@ -19137,7 +19137,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"thirteen\" to my review list for Friday.",
-    "translation": "「thirteen」在這個例句中用來表達「十三」。"
+    "translation": "我把「thirteen」加入星期五的複習清單。"
   },
   {
     "id": 1741,
@@ -19148,7 +19148,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"topic\" twice.",
-    "translation": "這個例句使用了「topic」，意思是「主題」。"
+    "translation": "這篇閱讀文章重複了兩次「topic」。"
   },
   {
     "id": 1742,
@@ -19159,7 +19159,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"tape\".",
-    "translation": "請看例句中的「tape」：它的中文意思是「錄音帶」。"
+    "translation": "Jason 問「tape」要怎麼發音。"
   },
   {
     "id": 1743,
@@ -19170,7 +19170,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"thirty\" with its meaning.",
-    "translation": "在這句話裡，「thirty」表示「三十」。"
+    "translation": "這張學習單要求學生把「thirty」和它的意思配對。"
   },
   {
     "id": 1744,
@@ -19181,7 +19181,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I saw \"total\" on the first page of the lesson.",
-    "translation": "例句幫助你理解「total」，中文是「完全的」。"
+    "translation": "我在課文第一頁看到了「total」。"
   },
   {
     "id": 1745,
@@ -19192,7 +19192,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"task\" helped me guess the answer.",
-    "translation": "這句英文示範了「task」的用法，意思是「任務」。"
+    "translation": "「task」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1746,
@@ -19203,7 +19203,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"sudden\" into a quick quiz question.",
-    "translation": "記住「sudden」這個字：它的意思是「突然的」。"
+    "translation": "我們的老師把「sudden」變成一道快速測驗題。"
   },
   {
     "id": 1747,
@@ -19214,7 +19214,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The flashcard shows \"this\" with a simple picture.",
-    "translation": "這個單字在例句中是「this」，中文意思為「這」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「this」。"
   },
   {
     "id": 1748,
@@ -19225,7 +19225,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"touch\" after dinner.",
-    "translation": "從例句可以看出，「touch」的意思是「感動」。"
+    "translation": "我晚餐後練習拼寫「touch」。"
   },
   {
     "id": 1749,
@@ -19236,7 +19236,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"taste\" in a real-life situation.",
-    "translation": "當你看到「taste」時，可以想到「味道」這個意思。"
+    "translation": "這道測驗題在真實生活情境中使用「taste」。"
   },
   {
     "id": 1750,
@@ -19247,7 +19247,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"sugar\" beside a small drawing.",
-    "translation": "「sugar」在這個例句中用來表達「糖」。"
+    "translation": "Sara 在一張小圖旁寫下「sugar」。"
   },
   {
     "id": 1751,
@@ -19258,7 +19258,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The dialogue includes \"those\" near the end.",
-    "translation": "這個例句使用了「those」，意思是「那些」。"
+    "translation": "這段對話在接近結尾的地方包含「those」。"
   },
   {
     "id": 1752,
@@ -19269,7 +19269,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I chose \"toward\" as my word of the day.",
-    "translation": "請看例句中的「toward」：它的中文意思是「朝」。"
+    "translation": "我選「toward」作為今天的每日單字。"
   },
   {
     "id": 1753,
@@ -19280,7 +19280,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"taxi\" with an easy sentence.",
-    "translation": "在這句話裡，「taxi」表示「計程車」。"
+    "translation": "課本用一個簡單句子解釋「taxi」。"
   },
   {
     "id": 1754,
@@ -19291,7 +19291,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "My partner and I made a question with \"suggest\".",
-    "translation": "例句幫助你理解「suggest」，中文是「建議」。"
+    "translation": "我和我的搭檔用「suggest」造了一個問題。"
   },
   {
     "id": 1755,
@@ -19302,7 +19302,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The answer choice contains \"though\".",
-    "translation": "這句英文示範了「though」的用法，意思是「雖然」。"
+    "translation": "這個答案選項包含「though」。"
   },
   {
     "id": 1756,
@@ -19313,7 +19313,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"towel\" because it was in a funny story.",
-    "translation": "記住「towel」這個字：它的意思是「毛巾」。"
+    "translation": "我記得「towel」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1757,
@@ -19324,7 +19324,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The review game asked us to spell \"tea\" quickly.",
-    "translation": "這個單字在例句中是「tea」，中文意思為「茶」。"
+    "translation": "複習遊戲要求我們快速拼出「tea」。"
   },
   {
     "id": 1758,
@@ -19335,7 +19335,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The note beside \"suit\" helped the reader understand it.",
-    "translation": "從例句可以看出，「suit」的意思是「適合」。"
+    "translation": "「suit」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1759,
@@ -19346,7 +19346,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"thought\" in a school setting.",
-    "translation": "當你看到「thought」時，可以想到「想法」這個意思。"
+    "translation": "這個句子在學校情境中使用「thought」。"
   },
   {
     "id": 1760,
@@ -19357,7 +19357,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"tower\" while checking the answer sheet.",
-    "translation": "「tower」在這個例句中用來表達「塔」。"
+    "translation": "我在檢查答案卷時找到了「tower」。"
   },
   {
     "id": 1761,
@@ -19368,7 +19368,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story character learns the word \"teach\".",
-    "translation": "這個例句使用了「teach」，意思是「教導」。"
+    "translation": "故事中的角色學會了「teach」這個字。"
   },
   {
     "id": 1762,
@@ -19379,7 +19379,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"summer\".",
-    "translation": "請看例句中的「summer」：它的中文意思是「夏天」。"
+    "translation": "線上字典提供了「summer」的例句。"
   },
   {
     "id": 1763,
@@ -19390,7 +19390,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"thousand\" during pair practice.",
-    "translation": "在這句話裡，「thousand」表示「千」。"
+    "translation": "全班在雙人練習時使用了「thousand」。"
   },
   {
     "id": 1764,
@@ -19401,7 +19401,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"town\" into a sentence about daily life.",
-    "translation": "例句幫助你理解「town」，中文是「城鎮」。"
+    "translation": "我把「town」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1765,
@@ -19412,7 +19412,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"teacher\" aloud.",
-    "translation": "這句英文示範了「teacher」的用法，意思是「老師」。"
+    "translation": "老師請每個人大聲讀出「teacher」。"
   },
   {
     "id": 1766,
@@ -19423,7 +19423,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"sun\" was useful in the reading question.",
-    "translation": "記住「sun」這個字：它的意思是「太陽」。"
+    "translation": "「sun」這個字在閱讀題中很有用。"
   },
   {
     "id": 1767,
@@ -19434,7 +19434,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"three\".",
-    "translation": "這個單字在例句中是「three」，中文意思為「三」。"
+    "translation": "我用彩色筆標記「three」。"
   },
   {
     "id": 1768,
@@ -19445,7 +19445,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"toy\" easier to understand.",
-    "translation": "從例句可以看出，「toy」的意思是「玩具」。"
+    "translation": "這個練習句讓「toy」更容易理解。"
   },
   {
     "id": 1769,
@@ -19456,7 +19456,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"team\" in the audio clip.",
-    "translation": "當你看到「team」時，可以想到「隊伍」這個意思。"
+    "translation": "我們在音檔中聽「team」這個字。"
   },
   {
     "id": 1770,
@@ -19467,7 +19467,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"Sunday\" helped me understand the main idea.",
-    "translation": "「Sunday」在這個例句中用來表達「星期天」。"
+    "translation": "「Sunday」這個字幫助我理解主旨。"
   },
   {
     "id": 1771,
@@ -19478,7 +19478,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"throat\" on a sticky note.",
-    "translation": "這個例句使用了「throat」，意思是「喉嚨」。"
+    "translation": "我把「throat」寫在便利貼上。"
   },
   {
     "id": 1772,
@@ -19489,7 +19489,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"trace\" after class.",
-    "translation": "請看例句中的「trace」：它的中文意思是「蹤跡」。"
+    "translation": "閱讀社在課後討論了「trace」。"
   },
   {
     "id": 1773,
@@ -19500,7 +19500,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"teapot\" naturally.",
-    "translation": "在這句話裡，「teapot」表示「茶壺」。"
+    "translation": "範例對話自然地使用了「teapot」。"
   },
   {
     "id": 1774,
@@ -19511,7 +19511,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"sunny\" was a new word for me.",
-    "translation": "例句幫助你理解「sunny」，中文是「陽光充足的」。"
+    "translation": "我確認「sunny」對我來說是不是新單字。"
   },
   {
     "id": 1775,
@@ -19522,7 +19522,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher's story made \"through\" memorable.",
-    "translation": "這句英文示範了「through」的用法，意思是「自始至終」。"
+    "translation": "老師的故事讓「through」變得令人印象深刻。"
   },
   {
     "id": 1776,
@@ -19533,7 +19533,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The group activity included \"track\" as a challenge word.",
-    "translation": "記住「track」這個字：它的意思是「跟蹤」。"
+    "translation": "小組活動把「track」列為挑戰單字。"
   },
   {
     "id": 1777,
@@ -19544,7 +19544,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"trade\" on the board before the reading test.",
-    "translation": "這個單字在例句中是「trade」，中文意思為「貿易」。"
+    "translation": "老師在閱讀測驗前把「trade」寫在黑板上。"
   },
   {
     "id": 1778,
@@ -19555,7 +19555,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"understand\" because it was the key word in the sentence.",
-    "translation": "從例句可以看出，「understand」的意思是「了解」。"
+    "translation": "Amy 圈起「understand」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1779,
@@ -19566,7 +19566,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"walk\" in his homework sentence.",
-    "translation": "當你看到「walk」時，可以想到「走」這個意思。"
+    "translation": "Kevin 在他的作業句子中使用了「walk」。"
   },
   {
     "id": 1780,
@@ -19577,7 +19577,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class found \"wide\" in today's short story.",
-    "translation": "「wide」在這個例句中用來表達「廣大的」。"
+    "translation": "全班在今天的短篇故事中找到了「wide」。"
   },
   {
     "id": 1781,
@@ -19588,7 +19588,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"tradition\" while reviewing the paragraph.",
-    "translation": "這個例句使用了「tradition」，意思是「傳統」。"
+    "translation": "我在複習段落時把「tradition」畫線標記。"
   },
   {
     "id": 1782,
@@ -19599,7 +19599,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"underwear\".",
-    "translation": "請看例句中的「underwear」：它的中文意思是「內衣褲」。"
+    "translation": "我們小組做了一張有「underwear」這個字的海報。"
   },
   {
     "id": 1783,
@@ -19610,7 +19610,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"wall\".",
-    "translation": "在這句話裡，「wall」表示「牆壁」。"
+    "translation": "這個例句幫助我記住「wall」。"
   },
   {
     "id": 1784,
@@ -19621,7 +19621,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"wife\" appeared in the listening script.",
-    "translation": "例句幫助你理解「wife」，中文是「妻子」。"
+    "translation": "「wife」這個字出現在聽力稿中。"
   },
   {
     "id": 1785,
@@ -19632,7 +19632,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Mina checked \"traditional\" in her vocabulary notebook.",
-    "translation": "這句英文示範了「traditional」的用法，意思是「傳統的」。"
+    "translation": "Mina 在她的單字筆記本裡查了「traditional」。"
   },
   {
     "id": 1786,
@@ -19643,7 +19643,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The question gave a clue about \"unhappy\".",
-    "translation": "記住「unhappy」這個字：它的意思是「不快樂的」。"
+    "translation": "這個問題提供了關於「unhappy」的線索。"
   },
   {
     "id": 1787,
@@ -19654,7 +19654,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"wallet\" to make the scene clearer.",
-    "translation": "這個單字在例句中是「wallet」，中文意思為「皮夾」。"
+    "translation": "故事使用「wallet」讓場景更清楚。"
   },
   {
     "id": 1788,
@@ -19665,7 +19665,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I added \"wild\" to my review list for Friday.",
-    "translation": "從例句可以看出，「wild」的意思是「野生的」。"
+    "translation": "我把「wild」加入星期五的複習清單。"
   },
   {
     "id": 1789,
@@ -19676,7 +19676,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"traffic\" twice.",
-    "translation": "當你看到「traffic」時，可以想到「交通」這個意思。"
+    "translation": "這篇閱讀文章重複了兩次「traffic」。"
   },
   {
     "id": 1790,
@@ -19687,7 +19687,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"uniform\".",
-    "translation": "「uniform」在這個例句中用來表達「制服」。"
+    "translation": "Jason 問「uniform」要怎麼發音。"
   },
   {
     "id": 1791,
@@ -19698,7 +19698,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"want\" with its meaning.",
-    "translation": "這個例句使用了「want」，意思是「想要」。"
+    "translation": "這張學習單要求學生把「want」和它的意思配對。"
   },
   {
     "id": 1792,
@@ -19709,7 +19709,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I saw \"will\" on the first page of the lesson.",
-    "translation": "請看例句中的「will」：它的中文意思是「將要」。"
+    "translation": "我在課文第一頁看到了「will」。"
   },
   {
     "id": 1793,
@@ -19720,7 +19720,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"train\" helped me guess the answer.",
-    "translation": "在這句話裡，「train」表示「訓練」。"
+    "translation": "「train」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1794,
@@ -19731,7 +19731,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our teacher turned \"unique\" into a quick quiz question.",
-    "translation": "例句幫助你理解「unique」，中文是「獨一無二的」。"
+    "translation": "我們的老師把「unique」變成一道快速測驗題。"
   },
   {
     "id": 1795,
@@ -19742,7 +19742,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The flashcard shows \"war\" with a simple picture.",
-    "translation": "這句英文示範了「war」的用法，意思是「戰爭」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「war」。"
   },
   {
     "id": 1796,
@@ -19753,7 +19753,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I practiced spelling \"win\" after dinner.",
-    "translation": "記住「win」這個字：它的意思是「獲勝」。"
+    "translation": "我晚餐後練習拼寫「win」。"
   },
   {
     "id": 1797,
@@ -19764,7 +19764,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"trap\" in a real-life situation.",
-    "translation": "這個單字在例句中是「trap」，中文意思為「陷阱」。"
+    "translation": "這道測驗題在真實生活情境中使用「trap」。"
   },
   {
     "id": 1798,
@@ -19775,7 +19775,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"universe\" beside a small drawing.",
-    "translation": "從例句可以看出，「universe」的意思是「宇宙」。"
+    "translation": "Sara 在一張小圖旁寫下「universe」。"
   },
   {
     "id": 1799,
@@ -19786,7 +19786,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"warm\" near the end.",
-    "translation": "當你看到「warm」時，可以想到「暖和的」這個意思。"
+    "translation": "這段對話在接近結尾的地方包含「warm」。"
   },
   {
     "id": 1800,
@@ -19797,7 +19797,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"wind\" as my word of the day.",
-    "translation": "「wind」在這個例句中用來表達「風」。"
+    "translation": "我選「wind」作為今天的每日單字。"
   },
   {
     "id": 1801,
@@ -19808,7 +19808,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"trash\" with an easy sentence.",
-    "translation": "這個例句使用了「trash」，意思是「垃圾」。"
+    "translation": "課本用一個簡單句子解釋「trash」。"
   },
   {
     "id": 1802,
@@ -19819,7 +19819,7 @@ const VOCABULARY = [
     "category": "學校",
     "level": "國中2000",
     "example": "My partner and I made a question with \"university\".",
-    "translation": "請看例句中的「university」：它的中文意思是「大學」。"
+    "translation": "我和我的搭檔用「university」造了一個問題。"
   },
   {
     "id": 1803,
@@ -19830,7 +19830,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The answer choice contains \"wash\".",
-    "translation": "在這句話裡，「wash」表示「洗滌」。"
+    "translation": "這個答案選項包含「wash」。"
   },
   {
     "id": 1804,
@@ -19841,7 +19841,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"window\" because it was in a funny story.",
-    "translation": "例句幫助你理解「window」，中文是「窗戶」。"
+    "translation": "我記得「window」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1805,
@@ -19852,7 +19852,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"travel\" quickly.",
-    "translation": "這句英文示範了「travel」的用法，意思是「旅行」。"
+    "translation": "複習遊戲要求我們快速拼出「travel」。"
   },
   {
     "id": 1806,
@@ -19863,7 +19863,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The note beside \"until\" helped the reader understand it.",
-    "translation": "記住「until」這個字：它的意思是「直到…」。"
+    "translation": "「until」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1807,
@@ -19874,7 +19874,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence uses \"waste\" in a school setting.",
-    "translation": "這個單字在例句中是「waste」，中文意思為「浪費」。"
+    "translation": "這個句子在學校情境中使用「waste」。"
   },
   {
     "id": 1808,
@@ -19885,7 +19885,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I found \"windy\" while checking the answer sheet.",
-    "translation": "從例句可以看出，「windy」的意思是「風大的」。"
+    "translation": "我在檢查答案卷時找到了「windy」。"
   },
   {
     "id": 1809,
@@ -19896,7 +19896,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"treasure\".",
-    "translation": "當你看到「treasure」時，可以想到「寶藏」這個意思。"
+    "translation": "故事中的角色學會了「treasure」這個字。"
   },
   {
     "id": 1810,
@@ -19907,7 +19907,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"up\".",
-    "translation": "「up」在這個例句中用來表達「向上」。"
+    "translation": "線上字典提供了「up」的例句。"
   },
   {
     "id": 1811,
@@ -19918,7 +19918,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class used \"watch\" during pair practice.",
-    "translation": "這個例句使用了「watch」，意思是「手錶」。"
+    "translation": "全班在雙人練習時使用了「watch」。"
   },
   {
     "id": 1812,
@@ -19929,7 +19929,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"wine\" into a sentence about daily life.",
-    "translation": "請看例句中的「wine」：它的中文意思是「酒」。"
+    "translation": "我把「wine」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1813,
@@ -19940,7 +19940,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"treat\" aloud.",
-    "translation": "在這句話裡，「treat」表示「對待」。"
+    "translation": "老師請每個人大聲讀出「treat」。"
   },
   {
     "id": 1814,
@@ -19951,7 +19951,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"upper\" was useful in the reading question.",
-    "translation": "例句幫助你理解「upper」，中文是「上面的」。"
+    "translation": "「upper」這個字在閱讀題中很有用。"
   },
   {
     "id": 1815,
@@ -19962,7 +19962,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"water\".",
-    "translation": "這句英文示範了「water」的用法，意思是「水」。"
+    "translation": "我用彩色筆標記「water」。"
   },
   {
     "id": 1816,
@@ -19973,7 +19973,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"wing\" easier to understand.",
-    "translation": "記住「wing」這個字：它的意思是「翅膀」。"
+    "translation": "這個練習句讓「wing」更容易理解。"
   },
   {
     "id": 1817,
@@ -19984,7 +19984,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"tree\" in the audio clip.",
-    "translation": "這個單字在例句中是「tree」，中文意思為「樹」。"
+    "translation": "我們在音檔中聽「tree」這個字。"
   },
   {
     "id": 1818,
@@ -19995,7 +19995,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The word \"upstairs\" helped me understand the main idea.",
-    "translation": "從例句可以看出，「upstairs」的意思是「在樓上」。"
+    "translation": "「upstairs」這個字幫助我理解主旨。"
   },
   {
     "id": 1819,
@@ -20006,7 +20006,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"waterfall\" on a sticky note.",
-    "translation": "當你看到「waterfall」時，可以想到「瀑布」這個意思。"
+    "translation": "我把「waterfall」寫在便利貼上。"
   },
   {
     "id": 1820,
@@ -20017,7 +20017,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading club discussed \"winner\" after class.",
-    "translation": "「winner」在這個例句中用來表達「優勝者」。"
+    "translation": "閱讀社在課後討論了「winner」。"
   },
   {
     "id": 1821,
@@ -20028,7 +20028,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"triangle\" naturally.",
-    "translation": "這個例句使用了「triangle」，意思是「三角形」。"
+    "translation": "範例對話自然地使用了「triangle」。"
   },
   {
     "id": 1822,
@@ -20039,7 +20039,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I checked whether \"use\" was a new word for me.",
-    "translation": "請看例句中的「use」：它的中文意思是「使用」。"
+    "translation": "我確認「use」對我來說是不是新單字。"
   },
   {
     "id": 1823,
@@ -20050,7 +20050,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"watermelon\" memorable.",
-    "translation": "在這句話裡，「watermelon」表示「西瓜」。"
+    "translation": "老師的故事讓「watermelon」變得令人印象深刻。"
   },
   {
     "id": 1824,
@@ -20061,7 +20061,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"winter\" as a challenge word.",
-    "translation": "例句幫助你理解「winter」，中文是「冬天」。"
+    "translation": "小組活動把「winter」列為挑戰單字。"
   },
   {
     "id": 1825,
@@ -20072,7 +20072,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"trick\" on the board before the reading test.",
-    "translation": "這句英文示範了「trick」的用法，意思是「惡作劇」。"
+    "translation": "老師在閱讀測驗前把「trick」寫在黑板上。"
   },
   {
     "id": 1826,
@@ -20083,7 +20083,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"user\" because it was the key word in the sentence.",
-    "translation": "記住「user」這個字：它的意思是「使用者」。"
+    "translation": "Amy 圈起「user」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1827,
@@ -20094,7 +20094,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"wave\" in his homework sentence.",
-    "translation": "這個單字在例句中是「wave」，中文意思為「波浪」。"
+    "translation": "Kevin 在他的作業句子中使用了「wave」。"
   },
   {
     "id": 1828,
@@ -20105,7 +20105,7 @@ const VOCABULARY = [
     "category": "科技",
     "level": "國中2000",
     "example": "The class found \"wire\" in today's short story.",
-    "translation": "從例句可以看出，「wire」的意思是「電線」。"
+    "translation": "全班在今天的短篇故事中找到了「wire」。"
   },
   {
     "id": 1829,
@@ -20116,7 +20116,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"trip\" while reviewing the paragraph.",
-    "translation": "當你看到「trip」時，可以想到「旅行」這個意思。"
+    "translation": "我在複習段落時把「trip」畫線標記。"
   },
   {
     "id": 1830,
@@ -20127,7 +20127,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"useful\".",
-    "translation": "「useful」在這個例句中用來表達「有用的」。"
+    "translation": "我們小組做了一張有「useful」這個字的海報。"
   },
   {
     "id": 1831,
@@ -20138,7 +20138,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"way\".",
-    "translation": "這個例句使用了「way」，意思是「方式」。"
+    "translation": "這個例句幫助我記住「way」。"
   },
   {
     "id": 1832,
@@ -20149,7 +20149,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"wise\" appeared in the listening script.",
-    "translation": "請看例句中的「wise」：它的中文意思是「明智的」。"
+    "translation": "「wise」這個字出現在聽力稿中。"
   },
   {
     "id": 1833,
@@ -20160,7 +20160,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"trouble\" in her vocabulary notebook.",
-    "translation": "在這句話裡，「trouble」表示「麻煩」。"
+    "translation": "Mina 在她的單字筆記本裡查了「trouble」。"
   },
   {
     "id": 1834,
@@ -20171,7 +20171,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The question gave a clue about \"usual\".",
-    "translation": "例句幫助你理解「usual」，中文是「通常的」。"
+    "translation": "這個問題提供了關於「usual」的線索。"
   },
   {
     "id": 1835,
@@ -20182,7 +20182,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The story used \"weak\" to make the scene clearer.",
-    "translation": "這句英文示範了「weak」的用法，意思是「虛弱的」。"
+    "translation": "故事使用「weak」讓場景更清楚。"
   },
   {
     "id": 1836,
@@ -20193,7 +20193,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I added \"wish\" to my review list for Friday.",
-    "translation": "記住「wish」這個字：它的意思是「希望」。"
+    "translation": "我把「wish」加入星期五的複習清單。"
   },
   {
     "id": 1837,
@@ -20204,7 +20204,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"trousers\" twice.",
-    "translation": "這個單字在例句中是「trousers」，中文意思為「褲子」。"
+    "translation": "這篇閱讀文章重複了兩次「trousers」。"
   },
   {
     "id": 1838,
@@ -20215,7 +20215,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"usually\".",
-    "translation": "從例句可以看出，「usually」的意思是「通常」。"
+    "translation": "Jason 問「usually」要怎麼發音。"
   },
   {
     "id": 1839,
@@ -20226,7 +20226,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"weapon\" with its meaning.",
-    "translation": "當你看到「weapon」時，可以想到「武器」這個意思。"
+    "translation": "這張學習單要求學生把「weapon」和它的意思配對。"
   },
   {
     "id": 1840,
@@ -20237,7 +20237,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I saw \"with\" on the first page of the lesson.",
-    "translation": "「with」在這個例句中用來表達「有；用」。"
+    "translation": "我在課文第一頁看到了「with」。"
   },
   {
     "id": 1841,
@@ -20248,7 +20248,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"truck\" helped me guess the answer.",
-    "translation": "這個例句使用了「truck」，意思是「卡車」。"
+    "translation": "「truck」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1842,
@@ -20259,7 +20259,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our teacher turned \"wear\" into a quick quiz question.",
-    "translation": "請看例句中的「wear」：它的中文意思是「穿戴著」。"
+    "translation": "我們的老師把「wear」變成一道快速測驗題。"
   },
   {
     "id": 1843,
@@ -20270,7 +20270,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The flashcard shows \"without\" with a simple picture.",
-    "translation": "在這句話裡，「without」表示「沒有」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「without」。"
   },
   {
     "id": 1844,
@@ -20281,7 +20281,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"vacation\" after dinner.",
-    "translation": "例句幫助你理解「vacation」，中文是「假期」。"
+    "translation": "我晚餐後練習拼寫「vacation」。"
   },
   {
     "id": 1845,
@@ -20292,7 +20292,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The test item uses \"true\" in a real-life situation.",
-    "translation": "這句英文示範了「true」的用法，意思是「真的」。"
+    "translation": "這道測驗題在真實生活情境中使用「true」。"
   },
   {
     "id": 1846,
@@ -20303,7 +20303,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"weather\" beside a small drawing.",
-    "translation": "記住「weather」這個字：它的意思是「天氣」。"
+    "translation": "Sara 在一張小圖旁寫下「weather」。"
   },
   {
     "id": 1847,
@@ -20314,7 +20314,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"wolf\" near the end.",
-    "translation": "這個單字在例句中是「wolf」，中文意思為「狼」。"
+    "translation": "這段對話在接近結尾的地方包含「wolf」。"
   },
   {
     "id": 1848,
@@ -20325,7 +20325,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I chose \"valley\" as my word of the day.",
-    "translation": "從例句可以看出，「valley」的意思是「山谷」。"
+    "translation": "我選「valley」作為今天的每日單字。"
   },
   {
     "id": 1849,
@@ -20336,7 +20336,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"trumpet\" with an easy sentence.",
-    "translation": "當你看到「trumpet」時，可以想到「喇叭」這個意思。"
+    "translation": "課本用一個簡單句子解釋「trumpet」。"
   },
   {
     "id": 1850,
@@ -20347,7 +20347,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"wedding\".",
-    "translation": "「wedding」在這個例句中用來表達「結婚儀式」。"
+    "translation": "我和我的搭檔用「wedding」造了一個問題。"
   },
   {
     "id": 1851,
@@ -20358,7 +20358,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"woman\".",
-    "translation": "這個例句使用了「woman」，意思是「女人」。"
+    "translation": "這個答案選項包含「woman」。"
   },
   {
     "id": 1852,
@@ -20369,7 +20369,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I remembered \"valuable\" because it was in a funny story.",
-    "translation": "請看例句中的「valuable」：它的中文意思是「有價值的」。"
+    "translation": "我記得「valuable」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1853,
@@ -20380,7 +20380,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"trust\" quickly.",
-    "translation": "在這句話裡，「trust」表示「相信」。"
+    "translation": "複習遊戲要求我們快速拼出「trust」。"
   },
   {
     "id": 1854,
@@ -20391,7 +20391,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The note beside \"Wednesday\" helped the reader understand it.",
-    "translation": "例句幫助你理解「Wednesday」，中文是「星期三」。"
+    "translation": "「Wednesday」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1855,
@@ -20402,7 +20402,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence uses \"wonder\" in a school setting.",
-    "translation": "這句英文示範了「wonder」的用法，意思是「驚訝」。"
+    "translation": "這個句子在學校情境中使用「wonder」。"
   },
   {
     "id": 1856,
@@ -20413,7 +20413,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"value\" while checking the answer sheet.",
-    "translation": "記住「value」這個字：它的意思是「價值」。"
+    "translation": "我在檢查答案卷時找到了「value」。"
   },
   {
     "id": 1857,
@@ -20424,7 +20424,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"truth\".",
-    "translation": "這個單字在例句中是「truth」，中文意思為「事實」。"
+    "translation": "故事中的角色學會了「truth」這個字。"
   },
   {
     "id": 1858,
@@ -20435,7 +20435,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"week\".",
-    "translation": "從例句可以看出，「week」的意思是「週」。"
+    "translation": "線上字典提供了「week」的例句。"
   },
   {
     "id": 1859,
@@ -20446,7 +20446,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The class used \"wonderful\" during pair practice.",
-    "translation": "當你看到「wonderful」時，可以想到「極好的」這個意思。"
+    "translation": "全班在雙人練習時使用了「wonderful」。"
   },
   {
     "id": 1860,
@@ -20457,7 +20457,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"vegetable\" into a sentence about daily life.",
-    "translation": "「vegetable」在這個例句中用來表達「蔬菜」。"
+    "translation": "我把「vegetable」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1861,
@@ -20468,7 +20468,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"try\" aloud.",
-    "translation": "這個例句使用了「try」，意思是「試圖」。"
+    "translation": "老師請每個人大聲讀出「try」。"
   },
   {
     "id": 1862,
@@ -20479,7 +20479,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"weekday\" was useful in the reading question.",
-    "translation": "請看例句中的「weekday」：它的中文意思是「平日」。"
+    "translation": "「weekday」這個字在閱讀題中很有用。"
   },
   {
     "id": 1863,
@@ -20490,7 +20490,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"wood\".",
-    "translation": "在這句話裡，「wood」表示「木頭」。"
+    "translation": "我用彩色筆標記「wood」。"
   },
   {
     "id": 1864,
@@ -20501,7 +20501,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"vendor\" easier to understand.",
-    "translation": "例句幫助你理解「vendor」，中文是「攤販」。"
+    "translation": "這個練習句讓「vendor」更容易理解。"
   },
   {
     "id": 1865,
@@ -20512,7 +20512,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"T-shirt\" in the audio clip.",
-    "translation": "這句英文示範了「T-shirt」的用法，意思是「T恤」。"
+    "translation": "我們在音檔中聽「T-shirt」這個字。"
   },
   {
     "id": 1866,
@@ -20523,7 +20523,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"weekend\" helped me understand the main idea.",
-    "translation": "記住「weekend」這個字：它的意思是「週末」。"
+    "translation": "「weekend」這個字幫助我理解主旨。"
   },
   {
     "id": 1867,
@@ -20534,7 +20534,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I wrote \"wool\" on a sticky note.",
-    "translation": "這個單字在例句中是「wool」，中文意思為「羊毛」。"
+    "translation": "我把「wool」寫在便利貼上。"
   },
   {
     "id": 1868,
@@ -20545,7 +20545,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"very\" after class.",
-    "translation": "從例句可以看出，「very」的意思是「非常」。"
+    "translation": "閱讀社在課後討論了「very」。"
   },
   {
     "id": 1869,
@@ -20556,7 +20556,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sample dialogue uses \"tube\" naturally.",
-    "translation": "當你看到「tube」時，可以想到「管子」這個意思。"
+    "translation": "範例對話自然地使用了「tube」。"
   },
   {
     "id": 1870,
@@ -20567,7 +20567,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I checked whether \"weight\" was a new word for me.",
-    "translation": "「weight」在這個例句中用來表達「重量」。"
+    "translation": "我確認「weight」對我來說是不是新單字。"
   },
   {
     "id": 1871,
@@ -20578,7 +20578,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"word\" memorable.",
-    "translation": "這個例句使用了「word」，意思是「字」。"
+    "translation": "老師的故事讓「word」變得令人印象深刻。"
   },
   {
     "id": 1872,
@@ -20589,7 +20589,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The group activity included \"vest\" as a challenge word.",
-    "translation": "請看例句中的「vest」：它的中文意思是「背心」。"
+    "translation": "小組活動把「vest」列為挑戰單字。"
   },
   {
     "id": 1873,
@@ -20600,7 +20600,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"Tuesday\" on the board before the reading test.",
-    "translation": "在這句話裡，「Tuesday」表示「星期二」。"
+    "translation": "老師在閱讀測驗前把「Tuesday」寫在黑板上。"
   },
   {
     "id": 1874,
@@ -20611,7 +20611,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Amy circled \"welcome\" because it was the key word in the sentence.",
-    "translation": "例句幫助你理解「welcome」，中文是「歡迎」。"
+    "translation": "Amy 圈起「welcome」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1875,
@@ -20622,7 +20622,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Kevin used \"work\" in his homework sentence.",
-    "translation": "這句英文示範了「work」的用法，意思是「工作」。"
+    "translation": "Kevin 在他的作業句子中使用了「work」。"
   },
   {
     "id": 1876,
@@ -20633,7 +20633,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The class found \"victory\" in today's short story.",
-    "translation": "記住「victory」這個字：它的意思是「勝利」。"
+    "translation": "全班在今天的短篇故事中找到了「victory」。"
   },
   {
     "id": 1877,
@@ -20644,7 +20644,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I underlined \"Tunnel\" while reviewing the paragraph.",
-    "translation": "這個單字在例句中是「Tunnel」，中文意思為「隧道」。"
+    "translation": "我在複習段落時把「Tunnel」畫線標記。"
   },
   {
     "id": 1878,
@@ -20655,7 +20655,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"well\".",
-    "translation": "從例句可以看出，「well」的意思是「很好地」。"
+    "translation": "我們小組做了一張有「well」這個字的海報。"
   },
   {
     "id": 1879,
@@ -20666,7 +20666,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"worker\".",
-    "translation": "當你看到「worker」時，可以想到「工人」這個意思。"
+    "translation": "這個例句幫助我記住「worker」。"
   },
   {
     "id": 1880,
@@ -20677,7 +20677,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The word \"video\" appeared in the listening script.",
-    "translation": "「video」在這個例句中用來表達「錄影帶」。"
+    "translation": "「video」這個字出現在聽力稿中。"
   },
   {
     "id": 1881,
@@ -20688,7 +20688,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"turkey\" in her vocabulary notebook.",
-    "translation": "這個例句使用了「turkey」，意思是「火雞」。"
+    "translation": "Mina 在她的單字筆記本裡查了「turkey」。"
   },
   {
     "id": 1882,
@@ -20699,7 +20699,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The question gave a clue about \"west\".",
-    "translation": "請看例句中的「west」：它的中文意思是「西方」。"
+    "translation": "這個問題提供了關於「west」的線索。"
   },
   {
     "id": 1883,
@@ -20710,7 +20710,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story used \"world\" to make the scene clearer.",
-    "translation": "在這句話裡，「world」表示「世界」。"
+    "translation": "故事使用「world」讓場景更清楚。"
   },
   {
     "id": 1884,
@@ -20721,7 +20721,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I added \"village\" to my review list for Friday.",
-    "translation": "例句幫助你理解「village」，中文是「村莊」。"
+    "translation": "我把「village」加入星期五的複習清單。"
   },
   {
     "id": 1885,
@@ -20732,7 +20732,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading passage repeated \"turn\" twice.",
-    "translation": "這句英文示範了「turn」的用法，意思是「轉彎」。"
+    "translation": "這篇閱讀文章重複了兩次「turn」。"
   },
   {
     "id": 1886,
@@ -20743,7 +20743,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"wet\".",
-    "translation": "記住「wet」這個字：它的意思是「溼的」。"
+    "translation": "Jason 問「wet」要怎麼發音。"
   },
   {
     "id": 1887,
@@ -20754,7 +20754,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"worm\" with its meaning.",
-    "translation": "這個單字在例句中是「worm」，中文意思為「蟲」。"
+    "translation": "這張學習單要求學生把「worm」和它的意思配對。"
   },
   {
     "id": 1888,
@@ -20765,7 +20765,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I saw \"vinegar\" on the first page of the lesson.",
-    "translation": "從例句可以看出，「vinegar」的意思是「醋」。"
+    "translation": "我在課文第一頁看到了「vinegar」。"
   },
   {
     "id": 1889,
@@ -20776,7 +20776,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence before \"turtle\" helped me guess the answer.",
-    "translation": "當你看到「turtle」時，可以想到「烏龜」這個意思。"
+    "translation": "「turtle」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1890,
@@ -20787,7 +20787,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our teacher turned \"whale\" into a quick quiz question.",
-    "translation": "「whale」在這個例句中用來表達「鯨魚」。"
+    "translation": "我們的老師把「whale」變成一道快速測驗題。"
   },
   {
     "id": 1891,
@@ -20798,7 +20798,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The flashcard shows \"worry\" with a simple picture.",
-    "translation": "這個例句使用了「worry」，意思是「擔心」。"
+    "translation": "這張單字卡用一張簡單圖片呈現「worry」。"
   },
   {
     "id": 1892,
@@ -20809,7 +20809,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"violin\" after dinner.",
-    "translation": "請看例句中的「violin」：它的中文意思是「小提琴」。"
+    "translation": "我晚餐後練習拼寫「violin」。"
   },
   {
     "id": 1893,
@@ -20820,7 +20820,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"twelve\" in a real-life situation.",
-    "translation": "在這句話裡，「twelve」表示「十二」。"
+    "translation": "這道測驗題在真實生活情境中使用「twelve」。"
   },
   {
     "id": 1894,
@@ -20831,7 +20831,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "Sara wrote \"what\" beside a small drawing.",
-    "translation": "例句幫助你理解「what」，中文是「什麼」。"
+    "translation": "Sara 在一張小圖旁寫下「what」。"
   },
   {
     "id": 1895,
@@ -20842,7 +20842,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The dialogue includes \"worth\" near the end.",
-    "translation": "這句英文示範了「worth」的用法，意思是「價值」。"
+    "translation": "這段對話在接近結尾的地方包含「worth」。"
   },
   {
     "id": 1896,
@@ -20853,7 +20853,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I chose \"visit\" as my word of the day.",
-    "translation": "記住「visit」這個字：它的意思是「探訪」。"
+    "translation": "我選「visit」作為今天的每日單字。"
   },
   {
     "id": 1897,
@@ -20864,7 +20864,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The textbook explains \"twenty\" with an easy sentence.",
-    "translation": "這個單字在例句中是「twenty」，中文意思為「二十」。"
+    "translation": "課本用一個簡單句子解釋「twenty」。"
   },
   {
     "id": 1898,
@@ -20875,7 +20875,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "My partner and I made a question with \"wheel\".",
-    "translation": "從例句可以看出，「wheel」的意思是「車輪」。"
+    "translation": "我和我的搭檔用「wheel」造了一個問題。"
   },
   {
     "id": 1899,
@@ -20886,7 +20886,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The answer choice contains \"wound\".",
-    "translation": "當你看到「wound」時，可以想到「受傷」這個意思。"
+    "translation": "這個答案選項包含「wound」。"
   },
   {
     "id": 1900,
@@ -20897,7 +20897,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I remembered \"visitor\" because it was in a funny story.",
-    "translation": "「visitor」在這個例句中用來表達「訪客」。"
+    "translation": "我記得「visitor」，因為它出現在一個有趣的故事裡。"
   },
   {
     "id": 1901,
@@ -20908,7 +20908,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The review game asked us to spell \"twice\" quickly.",
-    "translation": "這個例句使用了「twice」，意思是「兩次」。"
+    "translation": "複習遊戲要求我們快速拼出「twice」。"
   },
   {
     "id": 1902,
@@ -20919,7 +20919,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The note beside \"when\" helped the reader understand it.",
-    "translation": "請看例句中的「when」：它的中文意思是「何時」。"
+    "translation": "「when」旁邊的註記幫助讀者理解它。"
   },
   {
     "id": 1903,
@@ -20930,7 +20930,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The sentence uses \"wrist\" in a school setting.",
-    "translation": "在這句話裡，「wrist」表示「手腕」。"
+    "translation": "這個句子在學校情境中使用「wrist」。"
   },
   {
     "id": 1904,
@@ -20941,7 +20941,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I found \"vocabulary\" while checking the answer sheet.",
-    "translation": "例句幫助你理解「vocabulary」，中文是「字彙」。"
+    "translation": "我在檢查答案卷時找到了「vocabulary」。"
   },
   {
     "id": 1905,
@@ -20952,7 +20952,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The story character learns the word \"two\".",
-    "translation": "這句英文示範了「two」的用法，意思是「二」。"
+    "translation": "故事中的角色學會了「two」這個字。"
   },
   {
     "id": 1906,
@@ -20963,7 +20963,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The online dictionary gave an example for \"where\".",
-    "translation": "記住「where」這個字：它的意思是「哪裡」。"
+    "translation": "線上字典提供了「where」的例句。"
   },
   {
     "id": 1907,
@@ -20974,7 +20974,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The class used \"write\" during pair practice.",
-    "translation": "這個單字在例句中是「write」，中文意思為「寫」。"
+    "translation": "全班在雙人練習時使用了「write」。"
   },
   {
     "id": 1908,
@@ -20985,7 +20985,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I put \"voice\" into a sentence about daily life.",
-    "translation": "從例句可以看出，「voice」的意思是「聲音」。"
+    "translation": "我把「voice」放進一個關於日常生活的句子裡。"
   },
   {
     "id": 1909,
@@ -20996,7 +20996,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The teacher asked everyone to read \"type\" aloud.",
-    "translation": "當你看到「type」時，可以想到「打字」這個意思。"
+    "translation": "老師請每個人大聲讀出「type」。"
   },
   {
     "id": 1910,
@@ -21007,7 +21007,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The word \"whether\" was useful in the reading question.",
-    "translation": "「whether」在這個例句中用來表達「是否」。"
+    "translation": "「whether」這個字在閱讀題中很有用。"
   },
   {
     "id": 1911,
@@ -21018,7 +21018,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I used a color pen to mark \"writer\".",
-    "translation": "這個例句使用了「writer」，意思是「作者」。"
+    "translation": "我用彩色筆標記「writer」。"
   },
   {
     "id": 1912,
@@ -21029,7 +21029,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The practice sentence makes \"volleyball\" easier to understand.",
-    "translation": "請看例句中的「volleyball」：它的中文意思是「排球」。"
+    "translation": "這個練習句讓「volleyball」更容易理解。"
   },
   {
     "id": 1913,
@@ -21040,7 +21040,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "We listened for \"typhoon\" in the audio clip.",
-    "translation": "在這句話裡，「typhoon」表示「颱風」。"
+    "translation": "我們在音檔中聽「typhoon」這個字。"
   },
   {
     "id": 1914,
@@ -21051,7 +21051,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The word \"which\" helped me understand the main idea.",
-    "translation": "例句幫助你理解「which」，中文是「哪個」。"
+    "translation": "「which」這個字幫助我理解主旨。"
   },
   {
     "id": 1915,
@@ -21062,7 +21062,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I wrote \"wrong\" on a sticky note.",
-    "translation": "這句英文示範了「wrong」的用法，意思是「不對的」。"
+    "translation": "我把「wrong」寫在便利貼上。"
   },
   {
     "id": 1916,
@@ -21073,7 +21073,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The reading club discussed \"vote\" after class.",
-    "translation": "記住「vote」這個字：它的意思是「投票 Y」。"
+    "translation": "閱讀社在課後討論了「vote」。"
   },
   {
     "id": 1917,
@@ -21084,7 +21084,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The sample dialogue uses \"while\" naturally.",
-    "translation": "這個單字在例句中是「while」，中文意思為「當…時候」。"
+    "translation": "範例對話自然地使用了「while」。"
   },
   {
     "id": 1918,
@@ -21095,7 +21095,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "I checked whether \"ugly\" was a new word for me.",
-    "translation": "從例句可以看出，「ugly」的意思是「醜陋的」。"
+    "translation": "我確認「ugly」對我來說是不是新單字。"
   },
   {
     "id": 1919,
@@ -21106,7 +21106,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher's story made \"yard\" memorable.",
-    "translation": "當你看到「yard」時，可以想到「院子」這個意思。"
+    "translation": "老師的故事讓「yard」變得令人印象深刻。"
   },
   {
     "id": 1920,
@@ -21117,7 +21117,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The group activity included \"white\" as a challenge word.",
-    "translation": "「white」在這個例句中用來表達「白色的」。"
+    "translation": "小組活動把「white」列為挑戰單字。"
   },
   {
     "id": 1921,
@@ -21128,7 +21128,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The teacher wrote \"waist\" on the board before the reading test.",
-    "translation": "這個例句使用了「waist」，意思是「腰」。"
+    "translation": "老師在閱讀測驗前把「waist」寫在黑板上。"
   },
   {
     "id": 1922,
@@ -21139,7 +21139,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Amy circled \"umbrella\" because it was the key word in the sentence.",
-    "translation": "請看例句中的「umbrella」：它的中文意思是「雨傘」。"
+    "translation": "Amy 圈起「umbrella」，因為它是句子裡的關鍵字。"
   },
   {
     "id": 1923,
@@ -21150,7 +21150,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Kevin used \"year\" in his homework sentence.",
-    "translation": "在這句話裡，「year」表示「年」。"
+    "translation": "Kevin 在他的作業句子中使用了「year」。"
   },
   {
     "id": 1924,
@@ -21161,7 +21161,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The class found \"who\" in today's short story.",
-    "translation": "例句幫助你理解「who」，中文是「誰」。"
+    "translation": "全班在今天的短篇故事中找到了「who」。"
   },
   {
     "id": 1925,
@@ -21172,7 +21172,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I underlined \"wait\" while reviewing the paragraph.",
-    "translation": "這句英文示範了「wait」的用法，意思是「等待」。"
+    "translation": "我在複習段落時把「wait」畫線標記。"
   },
   {
     "id": 1926,
@@ -21183,7 +21183,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Our group made a poster with the word \"uncle\".",
-    "translation": "記住「uncle」這個字：它的意思是「叔伯」。"
+    "translation": "我們小組做了一張有「uncle」這個字的海報。"
   },
   {
     "id": 1927,
@@ -21194,7 +21194,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The example sentence helped me remember \"yellow\".",
-    "translation": "這個單字在例句中是「yellow」，中文意思為「黃色的」。"
+    "translation": "這個例句幫助我記住「yellow」。"
   },
   {
     "id": 1928,
@@ -21205,7 +21205,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The word \"whole\" appeared in the listening script.",
-    "translation": "從例句可以看出，「whole」的意思是「全體的」。"
+    "translation": "「whole」這個字出現在聽力稿中。"
   },
   {
     "id": 1929,
@@ -21216,7 +21216,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Mina checked \"waiter\" in her vocabulary notebook.",
-    "translation": "當你看到「waiter」時，可以想到「服務生」這個意思。"
+    "translation": "Mina 在她的單字筆記本裡查了「waiter」。"
   },
   {
     "id": 1930,
@@ -21227,7 +21227,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "The question gave a clue about \"under\".",
-    "translation": "「under」在這個例句中用來表達「在…下面」。"
+    "translation": "這個問題提供了關於「under」的線索。"
   },
   {
     "id": 1931,
@@ -21238,7 +21238,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The story used \"yes\" to make the scene clearer.",
-    "translation": "這個例句使用了「yes」，意思是「是的」。"
+    "translation": "故事使用「yes」讓場景更清楚。"
   },
   {
     "id": 1932,
@@ -21249,7 +21249,7 @@ const VOCABULARY = [
     "category": "文法",
     "level": "國中2000",
     "example": "I added \"whose\" to my review list for Friday.",
-    "translation": "請看例句中的「whose」：它的中文意思是「誰的」。"
+    "translation": "我把「whose」加入星期五的複習清單。"
   },
   {
     "id": 1933,
@@ -21260,7 +21260,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The reading passage repeated \"waitress\" twice.",
-    "translation": "在這句話裡，「waitress」表示「女服務生」。"
+    "translation": "這篇閱讀文章重複了兩次「waitress」。"
   },
   {
     "id": 1934,
@@ -21271,7 +21271,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Jason asked how to pronounce \"underline\".",
-    "translation": "例句幫助你理解「underline」，中文是「強調」。"
+    "translation": "Jason 問「underline」要怎麼發音。"
   },
   {
     "id": 1935,
@@ -21282,7 +21282,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The worksheet asks students to match \"yesterday\" with its meaning.",
-    "translation": "這句英文示範了「yesterday」的用法，意思是「昨天」。"
+    "translation": "這張學習單要求學生把「yesterday」和它的意思配對。"
   },
   {
     "id": 1936,
@@ -21293,7 +21293,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "I saw \"why\" on the first page of the lesson.",
-    "translation": "記住「why」這個字：它的意思是「為何」。"
+    "translation": "我在課文第一頁看到了「why」。"
   },
   {
     "id": 1937,
@@ -21304,7 +21304,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "The sentence before \"wake\" helped me guess the answer.",
-    "translation": "這個單字在例句中是「wake」，中文意思為「醒」。"
+    "translation": "「wake」前面的句子幫助我猜出答案。"
   },
   {
     "id": 1938,
@@ -21315,7 +21315,7 @@ const VOCABULARY = [
     "category": "動作",
     "level": "國中2000",
     "example": "Our teacher turned \"yet\" into a quick quiz question.",
-    "translation": "從例句可以看出，「yet」的意思是「尚未」。"
+    "translation": "我們的老師把「yet」變成一道快速測驗題。"
   },
   {
     "id": 1939,
@@ -21326,7 +21326,7 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The flashcard shows \"young\" with a simple picture.",
-    "translation": "當你看到「young」時，可以想到「年輕的」這個意思。"
+    "translation": "這張單字卡用一張簡單圖片呈現「young」。"
   },
   {
     "id": 1940,
@@ -21337,7 +21337,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "I practiced spelling \"zero\" after dinner.",
-    "translation": "「zero」在這個例句中用來表達「零」。"
+    "translation": "我晚餐後練習拼寫「zero」。"
   },
   {
     "id": 1941,
@@ -21348,7 +21348,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "The test item uses \"youth\" in a real-life situation.",
-    "translation": "這個例句使用了「youth」，意思是「青春」。"
+    "translation": "這道測驗題在真實生活情境中使用「youth」。"
   },
   {
     "id": 1942,
@@ -21359,7 +21359,7 @@ const VOCABULARY = [
     "category": "生活",
     "level": "國中2000",
     "example": "Sara wrote \"zoo\" beside a small drawing.",
-    "translation": "請看例句中的「zoo」：它的中文意思是「動物園」。"
+    "translation": "Sara 在一張小圖旁寫下「zoo」。"
   },
   {
     "id": 1943,
@@ -21370,6 +21370,6 @@ const VOCABULARY = [
     "category": "描述",
     "level": "國中2000",
     "example": "The dialogue includes \"yummy\" near the end.",
-    "translation": "在這句話裡，「yummy」表示「好吃的」。"
+    "translation": "這段對話在接近結尾的地方包含「yummy」。"
   }
 ];

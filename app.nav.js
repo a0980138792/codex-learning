@@ -223,6 +223,8 @@ const grammarLessons = window.GRAMMAR_LESSONS || [
   }
 ];
 
+const pastExams = window.PAST_EXAMS || [];
+
 let state = loadState();
 let filteredWords = [...VOCABULARY];
 let currentIndex = 0;
@@ -234,6 +236,8 @@ let readingQuestionIndex = 0;
 let readingTranslationVisible = false;
 let grammarIndex = 0;
 let grammarChineseVisible = false;
+let pastExamIndex = 0;
+let pastExamQuestionIndex = 0;
 let matchingWords = [];
 let selectedEnglish = null;
 let selectedMeaning = null;
@@ -284,6 +288,7 @@ function init() {
   startListening();
   renderReading();
   renderGrammar();
+  renderPastExam();
   startMatching();
   updateDashboard();
   renderAchievements();
@@ -356,6 +361,8 @@ function bindEvents() {
   $("nextReading").addEventListener("click", nextReading);
   $("toggleGrammarChinese").addEventListener("click", toggleGrammarChinese);
   $("nextGrammar").addEventListener("click", nextGrammar);
+  $("prevPastExam").addEventListener("click", previousPastExamQuestion);
+  $("nextPastExam").addEventListener("click", nextPastExamQuestion);
   $("resetMatching").addEventListener("click", startMatching);
 }
 
@@ -847,6 +854,60 @@ function getGrammarOptionTranslation(option) {
     "two ten one": "錯誤數字說法。"
   };
   return translations[option] || "請比對句型、主詞與動詞是否一致。";
+}
+
+function renderPastExam() {
+  const exam = pastExams[pastExamIndex];
+  if (!exam) {
+    $("pastExamTitle").textContent = "尚未匯入歷屆考題";
+    $("pastExamQuestion").textContent = "請先匯入考題資料。";
+    $("pastExamOptions").innerHTML = "";
+    return;
+  }
+  const question = exam.questions[pastExamQuestionIndex] || exam.questions[0];
+  $("pastExamTitle").textContent = exam.title;
+  $("pastExamYear").textContent = exam.year;
+  $("pastExamSubject").textContent = exam.subject;
+  $("pastExamCount").textContent = `${exam.questionCount} 題`;
+  $("pastExamDuration").textContent = exam.duration;
+  $("pastExamNote").textContent = exam.note;
+  $("pastExamPdfLink").href = exam.pdf;
+  $("pastExamType").textContent = question.type;
+  $("pastExamQuestionTitle").textContent = `第 ${question.number} 題`;
+  $("pastExamQuestion").textContent = question.question;
+  $("pastExamFeedback").textContent = "";
+  $("prevPastExam").disabled = pastExamQuestionIndex === 0;
+  $("nextPastExam").disabled = pastExamQuestionIndex >= exam.questions.length - 1;
+  $("pastExamOptions").innerHTML = question.options.map((option) => (
+    `<button type="button" data-label="${option.label}"><strong>${option.label}</strong><span>${escapeHTML(option.text)}</span></button>`
+  )).join("");
+  $("pastExamOptions").querySelectorAll("button").forEach((button) => {
+    button.addEventListener("click", () => answerPastExam(button.dataset.label, button));
+  });
+}
+
+function answerPastExam(label, selectedButton) {
+  const exam = pastExams[pastExamIndex];
+  const question = exam.questions[pastExamQuestionIndex];
+  $("pastExamOptions").querySelectorAll("button").forEach((button) => {
+    button.disabled = true;
+  });
+  selectedButton.classList.add("selected");
+  $("pastExamFeedback").textContent = `你選擇了 ${label}。本試題本未附答案，請對照官方答案核對；題目來源：${exam.title} 第 ${question.number} 題。`;
+}
+
+function previousPastExamQuestion() {
+  const exam = pastExams[pastExamIndex];
+  if (!exam || pastExamQuestionIndex === 0) return;
+  pastExamQuestionIndex -= 1;
+  renderPastExam();
+}
+
+function nextPastExamQuestion() {
+  const exam = pastExams[pastExamIndex];
+  if (!exam || pastExamQuestionIndex >= exam.questions.length - 1) return;
+  pastExamQuestionIndex += 1;
+  renderPastExam();
 }
 
 function startMatching() {

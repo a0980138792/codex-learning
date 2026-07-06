@@ -52,6 +52,7 @@
       <button class="tab" data-tab="listening">聽力</button>
       <button class="tab" data-tab="reading">閱讀</button>
       <button class="tab" data-tab="grammar">文法</button>
+      <button class="tab" data-tab="past-exams">歷屆考題</button>
       <button class="tab" data-tab="matching">配對</button>
       <button class="tab" data-tab="analytics">分析</button>
       <button class="tab" data-tab="student">學生中心</button>
@@ -211,6 +212,42 @@
       </div>
     </section>
 
+    <section id="past-exams" class="panel">
+      <div class="practice-box wide">
+        <div class="section-heading">
+          <div>
+            <p class="mode-label">歷屆考題專區</p>
+            <h2 id="pastExamTitle">國中教育會考英語</h2>
+          </div>
+          <div class="heading-actions">
+            <a id="pastExamPdfLink" class="link-button" href="#" target="_blank" rel="noopener">開啟原卷 PDF</a>
+          </div>
+        </div>
+        <div class="exam-summary">
+          <article><span>年度</span><strong id="pastExamYear">--</strong></article>
+          <article><span>科目</span><strong id="pastExamSubject">--</strong></article>
+          <article><span>題數</span><strong id="pastExamCount">--</strong></article>
+          <article><span>時間</span><strong id="pastExamDuration">--</strong></article>
+        </div>
+        <p id="pastExamNote" class="exam-note"></p>
+        <div class="exam-practice">
+          <div class="section-heading compact-heading">
+            <div>
+              <p id="pastExamType" class="reading-meta">單題</p>
+              <h3 id="pastExamQuestionTitle">第 1 題</h3>
+            </div>
+            <div class="heading-actions">
+              <button id="prevPastExam">上一題</button>
+              <button id="nextPastExam">下一題</button>
+            </div>
+          </div>
+          <p id="pastExamQuestion" class="exam-question"></p>
+          <div id="pastExamOptions" class="option-grid"></div>
+          <p id="pastExamFeedback" class="feedback"></p>
+        </div>
+      </div>
+    </section>
+
     <section id="matching" class="panel">
       <div class="practice-box wide">
         <div class="section-heading">
@@ -304,6 +341,7 @@
 
   <script src="vocabulary.js"></script>
   <script src="grammar.js"></script>
+  <script src="past-exams.js"></script>
   <script src="app.nav.js"></script>
 </body>
 </html>

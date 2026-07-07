@@ -685,10 +685,10 @@ function renderGrammar() {
   $("toggleGrammarChinese").textContent = grammarChineseVisible ? "隱藏中文翻譯" : "顯示中文翻譯";
   $("toggleGrammarChinese").setAttribute("aria-expanded", String(grammarChineseVisible));
   $("grammarQuestion").textContent = item.question;
-  $("grammarQuestionTranslation").textContent = getGrammarQuestionTranslation(item.question);
+  $("grammarQuestionTranslation").textContent = item.questionTranslation || getGrammarQuestionTranslation(item.question);
   $("grammarFeedback").textContent = "";
   $("grammarOptions").innerHTML = item.options.map((option) => (
-    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small hidden>${escapeHTML(getGrammarOptionTranslation(option))}</small></button>`
+    `<button type="button" data-answer="${escapeAttribute(option)}"><span>${escapeHTML(option)}</span><small hidden>${escapeHTML(getGrammarOptionTranslation(option, item))}</small></button>`
   )).join("");
   setGrammarQuestionChineseVisibility();
   $("grammarOptions").querySelectorAll("button").forEach((button) => {
@@ -705,7 +705,9 @@ function answerGrammar(answer, selectedButton) {
   });
   selectedButton.classList.toggle("wrong", !correct);
   const resultMessage = correct ? "文法答對了！" : "答錯了。";
-  $("grammarFeedback").textContent = `${resultMessage}\n正確答案：${item.answer}\n中文解析：${getGrammarOptionTranslation(item.answer)}。${item.explanation}`;
+  const answerTranslation = getGrammarOptionTranslation(item.answer, item);
+  const explanation = item.answerExplanation || `${answerTranslation}。${item.explanation}`;
+  $("grammarFeedback").textContent = `${resultMessage}\n正確答案：${item.answer}\n中文解析：${explanation}`;
 }
 
 function toggleGrammarChinese() {
@@ -766,7 +768,16 @@ function getGrammarQuestionTranslation(question) {
   return translations[question] || "請選出最符合文法規則的答案。";
 }
 
-function getGrammarOptionTranslation(option) {
+function getGrammarOptionTranslation(option, lesson = null) {
+  if (lesson?.optionTranslations && lesson?.options) {
+    const optionIndex = lesson.options.indexOf(option);
+    if (optionIndex >= 0 && lesson.optionTranslations[optionIndex]) {
+      return lesson.optionTranslations[optionIndex];
+    }
+  }
+  if (lesson?.optionTranslationMap?.[option]) {
+    return lesson.optionTranslationMap[option];
+  }
   const translations = {
     "Are you can swim?": "錯誤句：不能同時用 are 和 can 形成這種問句。",
     "Are you ready?": "你準備好了嗎？",

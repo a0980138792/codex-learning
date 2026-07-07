@@ -236,6 +236,7 @@ let readingQuestionIndex = 0;
 let readingTranslationVisible = false;
 let grammarIndex = 0;
 let grammarChineseVisible = false;
+let grammarListVisible = false;
 let pastExamIndex = 0;
 let pastExamQuestionIndex = 0;
 let matchingWords = [];
@@ -360,7 +361,9 @@ function bindEvents() {
   $("prevReading").addEventListener("click", previousReading);
   $("nextReading").addEventListener("click", nextReading);
   $("toggleGrammarChinese").addEventListener("click", toggleGrammarChinese);
+  $("prevGrammar").addEventListener("click", previousGrammar);
   $("nextGrammar").addEventListener("click", nextGrammar);
+  $("toggleGrammarList").addEventListener("click", toggleGrammarList);
   $("prevPastExam").addEventListener("click", previousPastExamQuestion);
   $("nextPastExam").addEventListener("click", nextPastExamQuestion);
   $("resetMatching").addEventListener("click", startMatching);
@@ -694,6 +697,7 @@ function renderGrammar() {
   $("grammarOptions").querySelectorAll("button").forEach((button) => {
     button.addEventListener("click", () => answerGrammar(button.dataset.answer, button));
   });
+  renderGrammarList();
 }
 
 function answerGrammar(answer, selectedButton) {
@@ -719,10 +723,41 @@ function toggleGrammarChinese() {
   $("toggleGrammarChinese").setAttribute("aria-expanded", String(grammarChineseVisible));
 }
 
+function previousGrammar() {
+  grammarIndex = (grammarIndex - 1 + grammarLessons.length) % grammarLessons.length;
+  grammarChineseVisible = false;
+  renderGrammar();
+}
+
 function nextGrammar() {
   grammarIndex = (grammarIndex + 1) % grammarLessons.length;
   grammarChineseVisible = false;
   renderGrammar();
+}
+
+function toggleGrammarList() {
+  grammarListVisible = !grammarListVisible;
+  $("grammarList").classList.toggle("is-hidden", !grammarListVisible);
+  $("toggleGrammarList").textContent = grammarListVisible ? "隱藏全部文法" : "顯示全部文法";
+  $("toggleGrammarList").setAttribute("aria-expanded", String(grammarListVisible));
+  renderGrammarList();
+}
+
+function renderGrammarList() {
+  const list = $("grammarList");
+  if (!list || !grammarListVisible) return;
+  list.innerHTML = grammarLessons.map((lesson, index) => (
+    `<button type="button" class="${index === grammarIndex ? "active" : ""}" data-index="${index}">
+      <span>${escapeHTML(lesson.title)}</span>
+    </button>`
+  )).join("");
+  list.querySelectorAll("button").forEach((button) => {
+    button.addEventListener("click", () => {
+      grammarIndex = Number(button.dataset.index);
+      grammarChineseVisible = false;
+      renderGrammar();
+    });
+  });
 }
 
 function escapeAttribute(value) {

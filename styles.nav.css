@@ -670,6 +670,33 @@ select {
   background: var(--surface);
 }
 
+.grammar-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 8px;
+  margin: 14px 0 18px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fffef8;
+}
+
+.grammar-list button {
+  min-height: 44px;
+  justify-content: flex-start;
+  padding: 8px 10px;
+  background: var(--surface);
+  color: var(--green);
+  font-size: 0.92rem;
+  line-height: 1.35;
+  text-align: left;
+}
+
+.grammar-list button.active {
+  background: var(--green);
+  color: #fffdf4;
+}
+
 .reading-question {
   text-align: left;
 }

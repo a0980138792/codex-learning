@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#0f4f3d">
   <title>English Vocabulary Pro</title>
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="styles.nav.css">
+  <link rel="stylesheet" href="styles.controls.css">
 </head>
 <body>
   <header class="app-header">
@@ -192,8 +192,13 @@
             <p class="mode-label">文法學習</p>
             <h2 id="grammarTitle">國中英文文法</h2>
           </div>
-          <button id="nextGrammar">下一個文法</button>
+          <div class="heading-actions">
+            <button id="prevGrammar" type="button">上一個文法</button>
+            <button id="nextGrammar" type="button">下一個文法</button>
+            <button id="toggleGrammarList" type="button" aria-expanded="false">顯示全部文法</button>
+          </div>
         </div>
+        <div id="grammarList" class="grammar-list is-hidden"></div>
         <article class="grammar-card">
           <p id="grammarPattern" class="grammar-pattern"></p>
           <button id="toggleGrammarChinese" class="translation-toggle" type="button" aria-expanded="false">顯示中文翻譯</button>
@@ -343,6 +348,6 @@
   <script src="vocabulary.clean.js"></script>
   <script src="grammar.units.js"></script>
   <script src="past-exams.js"></script>
-  <script src="app.grammar.js"></script>
+  <script src="app.grammar.controls.js"></script>
 </body>
 </html>
